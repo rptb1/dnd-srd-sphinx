@@ -1,19 +1,24 @@
-[TOC]
+=====
+Races
+=====
+
 
 Racial Traits
--------------
+=============
 
 The description of each race includes racial traits that are common to
 members of that race. The following entries appear among the traits of
 most races.
 
+
 Ability Score Increase
-~~~~~~~~~~~~~~~~~~~~~~
+----------------------
 
 Every race increases one or more of a character's ability scores.
 
+
 Age
-~~~
+---
 
 The age entry notes the age when a member of the race is considered an
 adult, as well as the race's expected lifespan. This information can
@@ -24,16 +29,18 @@ young or very old character, your age could explain a particularly low
 Strength or Constitution score, while advanced age could account for a
 high Intelligence or Wisdom.
 
+
 Alignment
-~~~~~~~~~
+---------
 
 Most races have tendencies toward certain alignments, described in this
 entry. These are not binding for player characters, but considering why
 your dwarf is chaotic, for example, in defiance of lawful dwarf society
 can help you better define your character.
 
+
 Size
-~~~~
+----
 
 Characters of most races are Medium, a size category including creatures
 that are roughly 4 to 8 feet tall. Members of a few races are Small
@@ -42,28 +49,33 @@ affect them differently. The most important of these rules is that Small
 characters have trouble wielding heavy weapons, as explained in
 "Equipment."
 
+
 Speed
-~~~~~
+-----
 
 Your speed determines how far you can move when traveling
 ("Adventuring") and fighting ("Combat").
 
+
 Languages
-~~~~~~~~~
+---------
 
 By virtue of your race, your character can speak, read, and write
 certain languages.
 
+
 Subraces
-~~~~~~~~
+--------
 
 Some races have subraces. Members of a subrace have the traits of the
 parent race in addition to the traits specified for their subrace.
 Relationships among subraces vary significantly from race to race and
 world to world.
 
+
 Dwarf
 =====
+
 
 Dwarf Traits
 ------------
@@ -112,8 +124,9 @@ Dwarvish is full of hard consonants and guttural sounds, and those
 characteristics spill over into whatever other language a dwarf might
 speak.
 
+
 Hill Dwarf
-~~~~~~~~~~
+----------
 
 As a hill dwarf, you have keen senses, deep intuition, and remarkable
 resilience.
@@ -123,8 +136,10 @@ resilience.
 ***Dwarven Toughness***. Your hit point maximum increases by 1, and it
 increases by 1 every time you gain a level.
 
+
 Elf
 ===
+
 
 Elf Traits
 ----------
@@ -177,8 +192,9 @@ literature is rich and varied, and their songs and poems are famous
 among other races. Many bards learn their language so they can add
 Elvish ballads to their repertoires.
 
+
 High Elf
-~~~~~~~~
+--------
 
 As a high elf, you have a keen mind and a mastery of at least the basics
 of magic. In many fantasy gaming worlds, there are two kinds of high
@@ -198,8 +214,10 @@ list. Intelligence is your spellcasting ability for it.
 ***Extra Language***. You can speak, read, and write one extra language
 of your choice.
 
+
 Halfling
 ========
+
 
 Halfling Traits
 ---------------
@@ -240,8 +258,9 @@ literature. Their oral tradition, however, is very strong. Almost all
 halflings speak Common to converse with the people in whose lands they
 dwell or through which they are traveling.
 
+
 Lightfoot
-~~~~~~~~~
+---------
 
 As a lightfoot halfling, you can easily hide from notice, even using
 other people as cover. You're inclined to be affable and get along well
@@ -255,8 +274,10 @@ dwell alongside other races or take up a nomadic life.
 ***Naturally Stealthy***. You can attempt to hide even when you are
 obscured only by a creature that is at least one size larger than you.
 
+
 Human
 =====
+
 
 Human Traits
 ------------
@@ -285,8 +306,10 @@ sprinkling their speech with words borrowed from other tongues: Orc
 curses, Elvish musical expressions, Dwarvish military phrases, and so
 on.
 
+
 Dragonborn
 ==========
+
 
 Dragonborn Traits
 -----------------
@@ -364,8 +387,10 @@ Draconic is thought to be one of the oldest languages and is often used
 in the study of magic. The language sounds harsh to most other creatures
 and includes numerous hard consonants and sibilants.
 
+
 Gnome
 =====
+
 
 Gnome Traits
 ------------
@@ -403,8 +428,9 @@ Gnomish language, which uses the Dwarvish script, is renowned for its
 technical treatises and its catalogs of knowledge about the natural
 world.
 
+
 Rock Gnome
-~~~~~~~~~~
+----------
 
 As a rock gnome, you have a natural inventiveness and hardiness beyond
 that of other gnomes.
@@ -440,8 +466,10 @@ your action.
 moderate volume. The box stops playing when it reaches the song's end or
 when it is closed.
 
+
 Half-Elf
 ========
+
 
 Half-Elf Traits
 ---------------
@@ -481,8 +509,10 @@ choice.
 ***Languages***. You can speak, read, and write Common, Elvish, and one
 extra language of your choice.
 
+
 Half-Orc
 ========
+
 
 Half-Orc Traits
 ---------------
@@ -526,8 +556,10 @@ and add it to the extra damage of the critical hit.
 harsh, grating language with hard consonants. It has no script of its
 own but is written in the Dwarvish script.
 
+
 Tiefling
 ========
+
 
 Tiefling Traits
 ---------------
