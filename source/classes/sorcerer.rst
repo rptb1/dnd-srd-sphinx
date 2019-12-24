@@ -3,6 +3,21 @@ Sorcerer
 ========
 
 
+.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
+
+.. raw:: html
+
+   <style type="text/css">
+     span.bolditalic {
+       font-weight: bold;
+       font-style: italic;
+     }
+   </style>
+
+.. role:: bi
+   :class: bolditalic
+
+
 Class Features
 --------------
 
@@ -237,7 +252,7 @@ sacrifice spell slots to gain additional sorcery points. You learn other
 ways to use your sorcery points as you reach higher levels. Any spell
 slot you create with this feature vanishes when you finish a long rest.
 
-***Creating Spell Slots***. You can transform unexpended sorcery points
+:bi:`Creating Spell Slots`. You can transform unexpended sorcery points
 into one spell slot as a bonus action on your turn. The Creating Spell
 Slots table shows the cost of creating a spell slot of a given level.
 You can create spell slots no higher in level than 5th.
@@ -261,7 +276,7 @@ long rest.
 | 5th                    | 7                        |
 +------------------------+--------------------------+
 
-***Converting a Spell Slot to Sorcery Points***. As a bonus action on
+:bi:`Converting a Spell Slot to Sorcery Points`. As a bonus action on
 your turn, you can expend one spell slot and gain a number of sorcery
 points equal to the slot's level.
 

@@ -2,6 +2,20 @@
 Combat
 ======
 
+.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
+
+.. raw:: html
+
+   <style type="text/css">
+     span.bolditalic {
+       font-weight: bold;
+       font-style: italic;
+     }
+   </style>
+
+.. role:: bi
+   :class: bolditalic
+
 
 The Order of Combat
 ===================
@@ -558,7 +572,7 @@ the roll are an ability modifier and the character's proficiency bonus.
 When a monster makes an attack roll, it uses whatever modifier is
 provided in its stat block.
 
-***Ability Modifier.*** The ability modifier used for a melee weapon
+:bi:`Ability Modifier.` The ability modifier used for a melee weapon
 attack is Strength, and the ability modifier used for a ranged weapon
 attack is Dexterity. Weapons that have the finesse or thrown property
 break this rule.
@@ -566,7 +580,7 @@ break this rule.
 Some spells also require an attack roll. The ability modifier used for a
 spell attack depends on the spellcasting ability of the spellcaster.
 
-***Proficiency Bonus.*** You add your proficiency bonus to your attack
+:bi:`Proficiency Bonus.` You add your proficiency bonus to your attack
 roll when you attack using a weapon with which you have proficiency, as
 well as when you attack with a spell.
 
@@ -718,11 +732,11 @@ condition (see appendix A). The condition specifies the things that end
 it, and you can release the target whenever you like (no action
 required).
 
-***Escaping a Grapple***. A grappled creature can use its action to
+:bi:`Escaping a Grapple`. A grappled creature can use its action to
 escape. To do so, it must succeed on a Strength (Athletics) or Dexterity
 (Acrobatics) check contested by your Strength (Athletics) check.
 
-***Moving a Grappled Creature***. When you move, you can drag or carry
+:bi:`Moving a Grappled Creature`. When you move, you can drag or carry
 the grappled creature with you, but your speed is halved, unless the
 creature is two or more sizes smaller than you.
 
@@ -843,44 +857,44 @@ other rules, such as damage resistance, rely on the types.
 The damage types follow, with examples to help a GM assign a damage type
 to a new effect.
 
-***Acid***. The corrosive spray of a black dragon's breath and the
+:bi:`Acid`. The corrosive spray of a black dragon's breath and the
 dissolving enzymes secreted by a black pudding deal acid damage.
 
-***Bludgeoning***. Blunt force attacks-hammers, falling, constriction,
+:bi:`Bludgeoning`. Blunt force attacks-hammers, falling, constriction,
 and the like-deal bludgeoning damage.
 
-***Cold***. The infernal chill radiating from an ice devil's spear and
+:bi:`Cold`. The infernal chill radiating from an ice devil's spear and
 the frigid blast of a white dragon's breath deal cold damage.
 
-***Fire***. Red dragons breathe fire, and many spells conjure flames to
+:bi:`Fire`. Red dragons breathe fire, and many spells conjure flames to
 deal fire damage.
 
-***Force***. Force is pure magical energy focused into a damaging form.
+:bi:`Force`. Force is pure magical energy focused into a damaging form.
 Most effects that deal force damage are spells, including *magic
 missile* and *spiritual weapon*.
 
-***Lightning***. A *lightning bolt* spell and a blue dragon's breath
+:bi:`Lightning`. A *lightning bolt* spell and a blue dragon's breath
 deal lightning damage.
 
-***Necrotic***. Necrotic damage, dealt by certain undead and a spell
+:bi:`Necrotic`. Necrotic damage, dealt by certain undead and a spell
 such as *chill touch*, withers matter and even the soul.
 
-***Piercing***. Puncturing and impaling attacks, including spears and
+:bi:`Piercing`. Puncturing and impaling attacks, including spears and
 monsters' bites, deal piercing damage.
 
-***Poison***. Venomous stings and the toxic gas of a green dragon's
+:bi:`Poison`. Venomous stings and the toxic gas of a green dragon's
 breath deal poison damage.
 
-***Psychic***. Mental abilities such as a mind flayer's psionic blast
+:bi:`Psychic`. Mental abilities such as a mind flayer's psionic blast
 deal psychic damage.
 
-***Radiant***. Radiant damage, dealt by a cleric's *flame strike* spell
+:bi:`Radiant`. Radiant damage, dealt by a cleric's *flame strike* spell
 or an angel's smiting weapon, sears the flesh like fire and overloads
 the spirit with power.
 
-***Slashing***. Swords, axes, and monsters' claws deal slashing damage.
+:bi:`Slashing`. Swords, axes, and monsters' claws deal slashing damage.
 
-***Thunder***. A concussive burst of sound, such as the effect of the
+:bi:`Thunder`. A concussive burst of sound, such as the effect of the
 *thunderwave* spell, deals thunder damage.
 
 
@@ -973,11 +987,11 @@ The successes and failures don't need to be consecutive; keep track of
 both until you collect three of a kind. The number of both is reset to
 zero when you regain any hit points or become stable.
 
-***Rolling 1 or 20***. When you make a death saving throw and roll a 1
+:bi:`Rolling 1 or 20`. When you make a death saving throw and roll a 1
 on the d20, it counts as two failures. If you roll a 20 on the d20, you
 regain 1 hit point.
 
-***Damage at 0 Hit Points***. If you take any damage while you have 0
+:bi:`Damage at 0 Hit Points`. If you take any damage while you have 0
 hit points, you suffer a death saving throw failure. If the damage is
 from a critical hit, you suffer two failures instead. If the damage
 equals or exceeds your hit point maximum, you suffer instant death.

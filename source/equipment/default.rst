@@ -3,6 +3,21 @@ Equipment
 =========
 
 
+.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
+
+.. raw:: html
+
+   <style type="text/css">
+     span.bolditalic {
+       font-weight: bold;
+       font-style: italic;
+     }
+   </style>
+
+.. role:: bi
+   :class: bolditalic
+
+
 Coins
 =====
 
@@ -64,25 +79,25 @@ more in the dungeons you explore. Normally, you can sell your treasures
 and trinkets when you return to a town or other settlement, provided
 that you can find buyers and merchants interested in your loot.
 
-***Arms, Armor, and Other Equipment***. As a general rule, undamaged
+:bi:`Arms, Armor, and Other Equipment`. As a general rule, undamaged
 weapons, armor, and other equipment fetch half their cost when sold in a
 market. Weapons and armor used by monsters are rarely in good enough
 condition to sell.
 
-***Magic Items***. Selling magic items is problematic. Finding someone
+:bi:`Magic Items`. Selling magic items is problematic. Finding someone
 to buy a potion or a scroll isn't too hard, but other items are out of
 the realm of most but the wealthiest nobles. Likewise, aside from a few
 common magic items, you won't normally come across magic items or spells
 to purchase. The value of magic is far beyond simple gold and should
 always be treated as such.
 
-***Gems, Jewelry, and Art Objects***. These items retain their full
+:bi:`Gems, Jewelry, and Art Objects`. These items retain their full
 value in the marketplace, and you can either trade them in for coin or
 use them as currency for other transactions. For exceptionally valuable
 treasures, the GM might require you to find a buyer in a large town or
 larger community first.
 
-***Trade Goods***. On the borderlands, many people conduct transactions
+:bi:`Trade Goods`. On the borderlands, many people conduct transactions
 through barter. Like gems and art objects, trade goods-bars of iron,
 bags of salt, livestock, and so on-retain their full value in the market
 and can be used as currency.
@@ -103,7 +118,7 @@ supplement their armor with a shield.
 The Armor table shows the cost, weight, and other properties of the
 common types of armor worn in fantasy gaming worlds.
 
-***Armor Proficiency***. Anyone can put on a suit of armor or strap a
+:bi:`Armor Proficiency`. Anyone can put on a suit of armor or strap a
 shield to an arm. Only those proficient in the armor's use know how to
 wear it effectively, however. Your class gives you proficiency with
 certain types of armor. If you wear armor that you lack proficiency
@@ -111,19 +126,19 @@ with, you have disadvantage on any ability check, saving throw, or
 attack roll that involves Strength or Dexterity, and you can't cast
 spells.
 
-***Armor Class (AC)***. Armor protects its wearer from attacks. The
+:bi:`Armor Class (AC)`. Armor protects its wearer from attacks. The
 armor (and shield) you wear determines your base Armor Class.
 
-***Heavy Armor***. Heavier armor interferes with the wearer's ability to
+:bi:`Heavy Armor`. Heavier armor interferes with the wearer's ability to
 move quickly, stealthily, and freely. If the Armor table shows "Str 13"
 or "Str 15" in the Strength column for an armor type, the armor reduces
 the wearer's speed by 10 feet unless the wearer has a Strength score
 equal to or higher than the listed score.
 
-***Stealth***. If the Armor table shows "Disadvantage" in the Stealth
+:bi:`Stealth`. If the Armor table shows "Disadvantage" in the Stealth
 column, the wearer has disadvantage on Dexterity (Stealth) checks.
 
-***Shields***. A shield is made from wood or metal and is carried in one
+:bi:`Shields`. A shield is made from wood or metal and is carried in one
 hand. Wielding a shield increases your Armor Class by 2. You can benefit
 from only one shield at a time.
 
@@ -135,14 +150,14 @@ adventurers since it offers some protection without sacrificing
 mobility. If you wear light armor, you add your Dexterity modifier to
 the base number from your armor type to determine your Armor Class.
 
-***Padded***. Padded armor consists of quilted layers of cloth and
+:bi:`Padded`. Padded armor consists of quilted layers of cloth and
 batting.
 
-***Leather***. The breastplate and shoulder protectors of this armor are
+:bi:`Leather`. The breastplate and shoulder protectors of this armor are
 made of leather that has been stiffened by being boiled in oil. The rest
 of the armor is made of softer and more flexible materials.
 
-***Studded Leather***. Made from tough but flexible leather, studded
+:bi:`Studded Leather`. Made from tough but flexible leather, studded
 leather is reinforced with close-set rivets or spikes.
 
 
@@ -154,25 +169,25 @@ impairs movement more. If you wear medium armor, you add your Dexterity
 modifier, to a maximum of +2, to the base number from your armor type to
 determine your Armor Class.
 
-***Hide***. This crude armor consists of thick furs and pelts. It is
+:bi:`Hide`. This crude armor consists of thick furs and pelts. It is
 commonly worn by barbarian tribes, evil humanoids, and other folk who
 lack access to the tools and materials needed to create better armor.
 
-***Chain Shirt***. Made of interlocking metal rings, a chain shirt is
+:bi:`Chain Shirt`. Made of interlocking metal rings, a chain shirt is
 worn between layers of clothing or leather. This armor offers modest
 protection to the wearer's upper body and allows the sound of the rings
 rubbing against one another to be muffled by outer layers.
 
-***Scale Mail***. This armor consists of a coat and leggings (and
+:bi:`Scale Mail`. This armor consists of a coat and leggings (and
 perhaps a separate skirt) of leather covered with overlapping pieces of
 metal, much like the scales of a fish. The suit includes gauntlets.
 
-***Breastplate***. This armor consists of a fitted metal chest piece
+:bi:`Breastplate`. This armor consists of a fitted metal chest piece
 worn with supple leather. Although it leaves the legs and arms
 relatively unprotected, this armor provides good protection for the
 wearer's vital organs while leaving the wearer relatively unencumbered.
 
-***Half Plate***. Half plate consists of shaped metal plates that cover
+:bi:`Half Plate`. Half plate consists of shaped metal plates that cover
 most of the wearer's body. It does not include leg protection beyond
 simple greaves that are attached with leather straps.
 
@@ -189,20 +204,20 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor
 Class, but it also doesn't penalize you if your Dexterity modifier is
 negative.
 
-***Ring Mail***. This armor is leather armor with heavy rings sewn into
+:bi:`Ring Mail`. This armor is leather armor with heavy rings sewn into
 it. The rings help reinforce the armor against blows from swords and
 axes. Ring mail is inferior to chain mail, and it's usually worn only by
 those who can't afford better armor.
 
-***Chain Mail***. Made of interlocking metal rings, chain mail includes
+:bi:`Chain Mail`. Made of interlocking metal rings, chain mail includes
 a layer of quilted fabric worn underneath the mail to prevent chafing
 and to cushion the impact of blows. The suit includes gauntlets.
 
-***Splint***. This armor is made of narrow vertical strips of metal
+:bi:`Splint`. This armor is made of narrow vertical strips of metal
 riveted to a backing of leather that is worn over cloth padding.
 Flexible chain mail protects the joints.
 
-***Plate***. Plate consists of shaped, interlocking metal plates to
+:bi:`Plate`. Plate consists of shaped, interlocking metal plates to
 cover the entire body. A suit of plate includes gauntlets, heavy leather
 boots, a visored helmet, and thick layers of padding underneath the
 armor. Buckles and straps distribute the weight over the body.
@@ -212,7 +227,7 @@ armor. Buckles and straps distribute the weight over the body.
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
 | **Armor**            | **Cost**   | **Armor Class (AC)**        | **Strength**   | **Stealth**    | **Weight**   |
 +======================+============+=============================+================+================+==============+
-| ***Light Armor***    |            |                             |                |                |              |
+| :bi:`Light Armor`    |            |                             |                |                |              |
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
 | Padded               | 5 gp       | 11 + Dex modifier           | -              | Disadvantage   | 8 lb.        |
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
@@ -220,7 +235,7 @@ armor. Buckles and straps distribute the weight over the body.
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
 | Studded leather      | 45 gp      | 12 + Dex modifier           | -              | -              | 13 lb.       |
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
-| ***Medium Armor***   |            |                             |                |                |              |
+| :bi:`Medium Armor`   |            |                             |                |                |              |
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
 | Hide                 | 10 gp      | 12 + Dex modifier (max 2)   | -              | -              | 12 lb.       |
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
@@ -232,7 +247,7 @@ armor. Buckles and straps distribute the weight over the body.
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
 | Half plate           | 750 gp     | 15 + Dex modifier (max 2)   | -              | Disadvantage   | 40 lb.       |
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
-| ***Heavy Armor***    |            |                             |                |                |              |
+| :bi:`Heavy Armor`    |            |                             |                |                |              |
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
 | Ring mail            | 30 gp      | 14                          | -              | Disadvantage   | 40 lb.       |
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
@@ -242,7 +257,7 @@ armor. Buckles and straps distribute the weight over the body.
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
 | Plate                | 1,500 gp   | 18                          | Str 15         | Disadvantage   | 65 lb.       |
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
-| ***Shield***         |            |                             |                |                |              |
+| :bi:`Shield`         |            |                             |                |                |              |
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
 | Shield               | 10 gp      | +2                          | -              | -              | 6 lb.        |
 +----------------------+------------+-----------------------------+----------------+----------------+--------------+
@@ -252,10 +267,10 @@ Getting Into and Out of Armor
 
 The time it takes to don or doff armor depends on the armor's category.
 
-***Don***. This is the time it takes to put on armor. You benefit from
+:bi:`Don`. This is the time it takes to put on armor. You benefit from
 the armor's AC only if you take the full time to don the suit of armor.
 
-***Doff***. This is the time it takes to take off armor. If you have
+:bi:`Doff`. This is the time it takes to take off armor. If you have
 help, reduce this time by half.
 
 **Table** **37 - Equipment: Armor Donning and Doffing**
@@ -314,7 +329,7 @@ Weapon Properties
 Many weapons have special properties related to their use, as shown in
 the Weapons table.
 
-***Ammunition***. You can use a weapon that has the ammunition property
+:bi:`Ammunition`. You can use a weapon that has the ammunition property
 to make a ranged attack only if you have ammunition to fire from the
 weapon. Each time you attack with the weapon, you expend one piece of
 ammunition. Drawing the ammunition from a quiver, case, or other
@@ -327,38 +342,38 @@ attack, you treat the weapon as an improvised weapon (see "Improvised
 Weapons" later in the section). A sling must be loaded to deal any
 damage when used in this way.
 
-***Finesse***. When making an attack with a finesse weapon, you use your
+:bi:`Finesse`. When making an attack with a finesse weapon, you use your
 choice of your Strength or Dexterity modifier for the attack and damage
 rolls. You must use the same modifier for both rolls.
 
-***Heavy***. Small creatures have disadvantage on attack rolls with
+:bi:`Heavy`. Small creatures have disadvantage on attack rolls with
 heavy weapons. A heavy weapon's size and bulk make it too large for a
 Small creature to use effectively.
 
-***Light***. A light weapon is small and easy to handle, making it ideal
+:bi:`Light`. A light weapon is small and easy to handle, making it ideal
 for use when fighting with two weapons.
 
-***Loading***. Because of the time required to load this weapon, you can
+:bi:`Loading`. Because of the time required to load this weapon, you can
 fire only one piece of ammunition from it when you use an action, bonus
 action, or reaction to fire it, regardless of the number of attacks you
 can normally make.
 
-***Range***. A weapon that can be used to make a ranged attack has a
+:bi:`Range`. A weapon that can be used to make a ranged attack has a
 range in parentheses after the ammunition or thrown property. The range
 lists two numbers. The first is the weapon's normal range in feet, and
 the second indicates the weapon's long range. When attacking a target
 beyond normal range, you have disadvantage on the attack roll. You can't
 attack a target beyond the weapon's long range.
 
-***Reach***. This weapon adds 5 feet to your reach when you attack with
+:bi:`Reach`. This weapon adds 5 feet to your reach when you attack with
 it, as well as when determining your reach for opportunity attacks with
 it (see chapter 9).
 
-***Special***. A weapon with the special property has unusual rules
+:bi:`Special`. A weapon with the special property has unusual rules
 governing its use, explained in the weapon's description (see "Special
 Weapons" later in this section).
 
-***Thrown***. If a weapon has the thrown property, you can throw the
+:bi:`Thrown`. If a weapon has the thrown property, you can throw the
 weapon to make a ranged attack. If the weapon is a melee weapon, you use
 the same ability modifier for that attack roll and damage roll that you
 would use for a melee attack with the weapon. For example, if you throw
@@ -366,10 +381,10 @@ a handaxe, you use your Strength, but if you throw a dagger, you can use
 either your Strength or your Dexterity, since the dagger has the finesse
 property.
 
-***Two-Handed***. This weapon requires two hands when you attack with
+:bi:`Two-Handed`. This weapon requires two hands when you attack with
 it.
 
-***Versatile***. This weapon can be used with one or two hands. A damage
+:bi:`Versatile`. This weapon can be used with one or two hands. A damage
 value in parentheses appears with the property-the damage when the
 weapon is used with two hands to make a melee attack.
 
@@ -410,11 +425,11 @@ Special Weapons
 
 Weapons with special rules are described here.
 
-***Lance***. You have disadvantage when you use a lance to attack a
+:bi:`Lance`. You have disadvantage when you use a lance to attack a
 target within 5 feet of you. Also, a lance requires two hands to wield
 when you aren't mounted.
 
-***Net***. A Large or smaller creature hit by a net is restrained until
+:bi:`Net`. A Large or smaller creature hit by a net is restrained until
 it is freed. A net has no effect on creatures that are formless, or
 creatures that are Huge or larger. A creature can use its action to make
 a DC 10 Strength check, freeing itself or another creature within its
@@ -570,13 +585,13 @@ Adventuring Gear
 This section describes items that have special rules or require further
 explanation.
 
-***Acid***. As an action, you can splash the contents of this vial onto
+:bi:`Acid`. As an action, you can splash the contents of this vial onto
 a creature within 5 feet of you or throw the vial up to 20 feet,
 shattering it on impact. In either case, make a ranged attack against a
 creature or object, treating the acid as an improvised weapon. On a hit,
 the target takes 2d6 acid damage.
 
-***Alchemist's Fire***. This sticky, adhesive fluid ignites when exposed
+:bi:`Alchemist's Fire`. This sticky, adhesive fluid ignites when exposed
 to air. As an action, you can throw this flask up to 20 feet, shattering
 it on impact. Make a ranged attack against a creature or object,
 treating the alchemist's fire as an improvised weapon. On a hit, the
@@ -584,33 +599,33 @@ target takes 1d4 fire damage at the start of each of its turns. A
 creature can end this damage by using its action to make a DC 10
 Dexterity check to extinguish the flames.
 
-***Antitoxin***. A creature that drinks this vial of liquid gains
+:bi:`Antitoxin`. A creature that drinks this vial of liquid gains
 advantage on saving throws against poison for 1 hour. It confers no
 benefit to undead or constructs.
 
-***Arcane Focus***. An arcane focus is a special item-an orb, a crystal,
+:bi:`Arcane Focus`. An arcane focus is a special item-an orb, a crystal,
 a rod, a specially constructed staff, a wand-like length of wood, or
 some similar item- designed to channel the power of arcane spells. A
 sorcerer, warlock, or wizard can use such an item as a spellcasting
 focus.
 
-***Ball Bearings***. As an action, you can spill these tiny metal balls
+:bi:`Ball Bearings`. As an action, you can spill these tiny metal balls
 from their pouch to cover a level, square area that is 10 feet on a
 side. A creature moving across the covered area must succeed on a DC 10
 Dexterity saving throw or fall prone. A creature moving through the area
 at half speed doesn't need to make the save.
 
-***Block and Tackle***. A set of pulleys with a cable threaded through
+:bi:`Block and Tackle`. A set of pulleys with a cable threaded through
 them and a hook to attach to objects, a block and tackle allows you to
 hoist up to four times the weight you can normally lift.
 
-***Book***. A book might contain poetry, historical accounts,
+:bi:`Book`. A book might contain poetry, historical accounts,
 information pertaining to a particular field of lore, diagrams and notes
 on gnomish contraptions, or just about anything else that can be
 represented using text or pictures. A book of spells is a spellbook
 (described later in this section).
 
-***Caltrops***. As an action, you can spread a bag of caltrops to cover
+:bi:`Caltrops`. As an action, you can spread a bag of caltrops to cover
 a square area that is 5 feet on a side. Any creature that enters the
 area must succeed on a DC 15 Dexterity saving throw or stop moving this
 turn and take 1 piercing damage. Taking this damage reduces the
@@ -618,47 +633,47 @@ creature's walking speed by 10 feet until the creature regains at least
 1 hit point. A creature moving through the area at half speed doesn't
 need to make the save.
 
-***Candle***. For 1 hour, a candle sheds bright light in a 5-foot radius
+:bi:`Candle`. For 1 hour, a candle sheds bright light in a 5-foot radius
 and dim light for an additional 5 feet.
 
-***Case, Crossbow Bolt***. This wooden case can hold up to twenty
+:bi:`Case, Crossbow Bolt`. This wooden case can hold up to twenty
 crossbow bolts.
 
-***Case, Map or Scroll***. This cylindrical leather case can hold up to
+:bi:`Case, Map or Scroll`. This cylindrical leather case can hold up to
 ten rolled-up sheets of paper or five rolled-up sheets of parchment.
 
-***Chain***. A chain has 10 hit points. It can be burst with a
+:bi:`Chain`. A chain has 10 hit points. It can be burst with a
 successful DC 20 Strength check.
 
-***Climber's Kit***. A climber's kit includes special pitons, boot tips,
+:bi:`Climber's Kit`. A climber's kit includes special pitons, boot tips,
 gloves, and a harness. You can use the climber's kit as an action to
 anchor yourself; when you do, you can't fall more than 25 feet from the
 point where you anchored yourself, and you can't climb more than 25 feet
 away from that point without undoing the anchor.
 
-***Component Pouch***. A component pouch is a small, watertight leather
+:bi:`Component Pouch`. A component pouch is a small, watertight leather
 belt pouch that has compartments to hold all the material components and
 other special items you need to cast your spells, except for those
 components that have a specific cost (as indicated in a spell's
 description).
 
-***Crowbar***. Using a crowbar grants advantage to Strength checks where
+:bi:`Crowbar`. Using a crowbar grants advantage to Strength checks where
 the crowbar's leverage can be applied.
 
-***Druidic Focus***. A druidic focus might be a sprig of mistletoe or
+:bi:`Druidic Focus`. A druidic focus might be a sprig of mistletoe or
 holly, a wand or scepter made of yew or another special wood, a staff
 drawn whole out of a living tree, or a totem object incorporating
 feathers, fur, bones, and teeth from sacred animals. A druid can use
 such an object as a spellcasting focus.
 
-***Fishing Tackle***. This kit includes a wooden rod, silken line,
+:bi:`Fishing Tackle`. This kit includes a wooden rod, silken line,
 corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow
 netting. Healer's Kit. This kit is a leather pouch containing bandages,
 salves, and splints. The kit has ten uses. As an action, you can expend
 one use of the kit to stabilize a creature that has 0 hit points,
 without needing to make a Wisdom (Medicine) check.
 
-***Holy Symbol***. A holy symbol is a representation of a god or
+:bi:`Holy Symbol`. A holy symbol is a representation of a god or
 pantheon. It might be an amulet depicting a symbol representing a deity,
 the same symbol carefully engraved or inlaid as an emblem on a shield,
 or a tiny box holding a fragment of a sacred relic. Appendix PH-B
@@ -667,7 +682,7 @@ with many gods in the multiverse. A cleric or paladin can use a holy
 symbol as a spellcasting focus. To use the symbol in this way, the
 caster must hold it in hand, wear it visibly, or bear it on a shield.
 
-***Holy Water***. As an action, you can splash the contents of this
+:bi:`Holy Water`. As an action, you can splash the contents of this
 flask onto a creature within 5 feet of you or throw it up to 20 feet,
 shattering it on impact. In either case, make a ranged attack against a
 target creature, treating the holy water as an improvised weapon. If the
@@ -676,7 +691,7 @@ paladin may create holy water by performing a special ritual. The ritual
 takes 1 hour to perform, uses 25 gp worth of powdered silver, and
 requires the caster to expend a 1st-level spell slot.
 
-***Hunting Trap***. When you use your action to set it, this trap forms
+:bi:`Hunting Trap`. When you use your action to set it, this trap forms
 a saw-toothed steel ring that snaps shut when a creature steps on a
 pressure plate in the center. The trap is affixed by a heavy chain to an
 immobile object, such as a tree or a spike driven into the ground. A
@@ -688,7 +703,7 @@ action to make a DC 13 Strength check, freeing itself or another
 creature within its reach on a success. Each failed check deals 1
 piercing damage to the trapped creature.
 
-***Lamp***. A lamp casts bright light in a 15-foot radius and dim light
+:bi:`Lamp`. A lamp casts bright light in a 15-foot radius and dim light
 for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1
 pint) of oil. Lantern, Bullseye. A bullseye lantern casts bright light
 in a 60-foot cone and dim light for an additional 60 feet. Once lit, it
@@ -698,30 +713,30 @@ additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint)
 of oil. As an action, you can lower the hood, reducing the light to dim
 light in a 5-foot radius.
 
-***Lock***. A key is provided with the lock. Without the key, a creature
+:bi:`Lock`. A key is provided with the lock. Without the key, a creature
 proficient with thieves' tools can pick this lock with a successful DC
 15 Dexterity check. Your GM may decide that better locks are available
 for higher prices.
 
-***Magnifying Glass***. This lens allows a closer look at small objects.
+:bi:`Magnifying Glass`. This lens allows a closer look at small objects.
 It is also useful as a substitute for flint and steel when starting
 fires. Lighting a fire with a magnifying glass requires light as bright
 as sunlight to focus, tinder to ignite, and about 5 minutes for the fire
 to ignite. A magnifying glass grants advantage on any ability check made
 to appraise or inspect an item that is small or highly detailed.
 
-***Manacles***. These metal restraints can bind a Small or Medium
+:bi:`Manacles`. These metal restraints can bind a Small or Medium
 creature. Escaping the manacles requires a successful DC 20 Dexterity
 check. Breaking them requires a successful DC 20 Strength check. Each
 set of manacles comes with one key. Without the key, a creature
 proficient with thieves' tools can pick the manacles' lock with a
 successful DC 15 Dexterity check. Manacles have 15 hit points.
 
-***Mess Kit***. This tin box contains a cup and simple cutlery. The box
+:bi:`Mess Kit`. This tin box contains a cup and simple cutlery. The box
 clamps together, and one side can be used as a cooking pan and the other
 as a plate or shallow bowl.
 
-***Oil***. Oil usually comes in a clay flask that holds 1 pint. As an
+:bi:`Oil`. Oil usually comes in a clay flask that holds 1 pint. As an
 action, you can splash the oil in this flask onto a creature within 5
 feet of you or throw it up to 20 feet, shattering it on impact. Make a
 ranged attack against a target creature or object, treating the oil as
@@ -733,18 +748,18 @@ provided that the surface is level. If lit, the oil burns for 2 rounds
 and deals 5 fire damage to any creature that enters the area or ends its
 turn in the area. A creature can take this damage only once per turn.
 
-***Poison, Basic***. You can use the poison in this vial to coat one
+:bi:`Poison, Basic`. You can use the poison in this vial to coat one
 slashing or piercing weapon or up to three pieces of ammunition.
 Applying the poison takes an action. A creature hit by the poisoned
 weapon or ammunition must make a DC 10 Constitution saving throw or take
 1d4 poison damage. Once applied, the poison retains potency for 1 minute
 before drying.
 
-***Potion of Healing***. A character who drinks the magical red fluid in
+:bi:`Potion of Healing`. A character who drinks the magical red fluid in
 this vial regains 2d4 + 2 hit points. Drinking or administering a potion
 takes an action.
 
-***Pouch***. A cloth or leather pouch can hold up to 20 sling bullets or
+:bi:`Pouch`. A cloth or leather pouch can hold up to 20 sling bullets or
 50 blowgun needles, among other things. A compartmentalized pouch for
 holding spell components is called a component pouch (described earlier
 in this section). Quiver. A quiver can hold up to 20 arrows. Ram,
@@ -752,31 +767,31 @@ Portable. You can use a portable ram to break down doors. When doing so,
 you gain a +4 bonus on the Strength check. One other character can help
 you use the ram, giving you advantage on this check.
 
-***Rations***. Rations consist of dry foods suitable for extended
+:bi:`Rations`. Rations consist of dry foods suitable for extended
 travel, including jerky, dried fruit, hardtack, and nuts.
 
-***Rope***. Rope, whether made of hemp or silk, has 2 hit points and can
+:bi:`Rope`. Rope, whether made of hemp or silk, has 2 hit points and can
 be burst with a DC 17 Strength check.
 
-***Scale, Merchant's***. A scale includes a small balance, pans, and a
+:bi:`Scale, Merchant's`. A scale includes a small balance, pans, and a
 suitable assortment of weights up to 2 pounds. With it, you can measure
 the exact weight of small objects, such as raw precious metals or trade
 goods, to help determine their worth.
 
-***Spellbook***. Essential for wizards, a spellbook is a leather-bound
+:bi:`Spellbook`. Essential for wizards, a spellbook is a leather-bound
 tome with 100 blank vellum pages suitable for recording spells.
 
-***Spyglass***. Objects viewed through a spyglass are magnified to twice
+:bi:`Spyglass`. Objects viewed through a spyglass are magnified to twice
 their size.
 
-***Tent***. A simple and portable canvas shelter, a tent sleeps two.
+:bi:`Tent`. A simple and portable canvas shelter, a tent sleeps two.
 
-***Tinderbox***. This small container holds flint, fire steel, and
+:bi:`Tinderbox`. This small container holds flint, fire steel, and
 tinder (usually dry cloth soaked in light oil) used to kindle a fire.
 Using it to light a torch-or anything else with abundant, exposed
 fuel-takes an action. Lighting any other fire takes 1 minute.
 
-***Torch***. A torch burns for 1 hour, providing bright light in a
+:bi:`Torch`. A torch burns for 1 hour, providing bright light in a
 20-foot radius and dim light for an additional 20 feet. If you make a
 melee attack with a burning torch and hit, it deals 1 fire damage.
 
@@ -831,7 +846,7 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
 +--------------------------------+------------+----------------+
 | Alchemist's fire (flask)       | 50 gp      | 1 lb.          |
 +--------------------------------+------------+----------------+
-| ***Ammunition***               |            |                |
+| :bi:`Ammunition`               |            |                |
 +--------------------------------+------------+----------------+
 | *- Arrows (20)*                | 1 gp       | 1 lb.          |
 +--------------------------------+------------+----------------+
@@ -843,7 +858,7 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
 +--------------------------------+------------+----------------+
 | Antitoxin (vial)               | 50 gp      | -              |
 +--------------------------------+------------+----------------+
-| ***Arcane focus***             |            |                |
+| :bi:`Arcane focus`             |            |                |
 +--------------------------------+------------+----------------+
 | *- Crystal*                    | 10 gp      | 1 lb.          |
 +--------------------------------+------------+----------------+
@@ -905,7 +920,7 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
 +--------------------------------+------------+----------------+
 | Crowbar                        | 2 gp       | 5 lb.          |
 +--------------------------------+------------+----------------+
-| ***Druidic focus***            |            |                |
+| :bi:`Druidic focus`            |            |                |
 +--------------------------------+------------+----------------+
 | *- Sprig of mistletoe*         | 1 gp       | -              |
 +--------------------------------+------------+----------------+
@@ -927,7 +942,7 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
 +--------------------------------+------------+----------------+
 | Healer's kit                   | 5 gp       | 3 lb.          |
 +--------------------------------+------------+----------------+
-| ***Holy symbol***              |            |                |
+| :bi:`Holy symbol`              |            |                |
 +--------------------------------+------------+----------------+
 | *- Amulet*                     | 5 gp       | 1 lb.          |
 +--------------------------------+------------+----------------+
@@ -1086,7 +1101,7 @@ make something out of particularly hard wood.
 +-------------------------------+------------+--------------+
 | **Item**                      | **Cost**   | **Weight**   |
 +===============================+============+==============+
-| ***Artisan's tools***         |            |              |
+| :bi:`Artisan's tools`         |            |              |
 +-------------------------------+------------+--------------+
 | *- Alchemist's supplies*      | 50 gp      | 8 lb.        |
 +-------------------------------+------------+--------------+
@@ -1126,7 +1141,7 @@ make something out of particularly hard wood.
 +-------------------------------+------------+--------------+
 | Forgery kit                   | 15 gp      | 5 lb.        |
 +-------------------------------+------------+--------------+
-| ***Gaming set***              |            |              |
+| :bi:`Gaming set`              |            |              |
 +-------------------------------+------------+--------------+
 | *- Dice set*                  | 1 sp       | -            |
 +-------------------------------+------------+--------------+
@@ -1134,7 +1149,7 @@ make something out of particularly hard wood.
 +-------------------------------+------------+--------------+
 | Herbalism kit                 | 5 gp       | 3 lb.        |
 +-------------------------------+------------+--------------+
-| ***Musical instrument***      |            |              |
+| :bi:`Musical instrument`      |            |              |
 +-------------------------------+------------+--------------+
 | *- Bagpipes*                  | 30 gp      | 6 lb.        |
 +-------------------------------+------------+--------------+
@@ -1167,58 +1182,58 @@ make something out of particularly hard wood.
 
 \*\*\*\*\* See the "Mounts and Vehicles" section.
 
-***Artisan's Tools***. These special tools include the items needed to
+:bi:`Artisan's Tools`. These special tools include the items needed to
 pursue a craft or trade. The table shows examples of the most common
 types of tools, each providing items related to a single craft.
 Proficiency with a set of artisan's tools lets you add your proficiency
 bonus to any ability checks you make using the tools in your craft. Each
 type of artisan's tools requires a separate proficiency.
 
-***Disguise Kit***. This pouch of cosmetics, hair dye, and small props
+:bi:`Disguise Kit`. This pouch of cosmetics, hair dye, and small props
 lets you create disguises that change your physical appearance.
 Proficiency with this kit lets you add your proficiency bonus to any
 ability checks you make to create a visual disguise.
 
-***Forgery Kit***. This small box contains a variety of papers and
+:bi:`Forgery Kit`. This small box contains a variety of papers and
 parchments, pens and inks, seals and sealing wax, gold and silver leaf,
 and other supplies necessary to create convincing forgeries of physical
 documents. Proficiency with this kit lets you add your proficiency bonus
 to any ability checks you make to create a physical forgery of a
 document.
 
-***Gaming Set***. This item encompasses a wide range of game pieces,
+:bi:`Gaming Set`. This item encompasses a wide range of game pieces,
 including dice and decks of cards (for games such as Three-Dragon Ante).
 A few common examples appear on the Tools table, but other kinds of
 gaming sets exist. If you are proficient with a gaming set, you can add
 your proficiency bonus to ability checks you make to play a game with
 that set. Each type of gaming set requires a separate proficiency.
 
-***Herbalism Kit***. This kit contains a variety of instruments such as
+:bi:`Herbalism Kit`. This kit contains a variety of instruments such as
 clippers, mortar and pestle, and pouches and vials used by herbalists to
 create remedies and potions. Proficiency with this kit lets you add your
 proficiency bonus to any ability checks you make to identify or apply
 herbs. Also, proficiency with this kit is required to create antitoxin
 and potions of healing.
 
-***Musical Instrument***. Several of the most common types of musical
+:bi:`Musical Instrument`. Several of the most common types of musical
 instruments are shown on the table as examples. If you have proficiency
 with a given musical instrument, you can add your proficiency bonus to
 any ability checks you make to play music with the instrument. A bard
 can use a musical instrument as a spellcasting focus. Each type of
 musical instrument requires a separate proficiency.
 
-***Navigator's Tools***. This set of instruments is used for navigation
+:bi:`Navigator's Tools`. This set of instruments is used for navigation
 at sea. Proficiency with navigator's tools lets you chart a ship's
 course and follow navigation charts. In addition, these tools allow you
 to add your proficiency bonus to any ability check you make to avoid
 getting lost at sea.
 
-***Poisoner's Kit***. A poisoner's kit includes the vials, chemicals,
+:bi:`Poisoner's Kit`. A poisoner's kit includes the vials, chemicals,
 and other equipment necessary for the creation of poisons. Proficiency
 with this kit lets you add your proficiency bonus to any ability checks
 you make to craft or use poisons.
 
-***Thieves' Tools***. This set of tools includes a small file, a set of
+:bi:`Thieves' Tools`. This set of tools includes a small file, a set of
 lock picks, a small mirror mounted on a metal handle, a set of
 narrow-bladed scissors, and a pair of pliers. Proficiency with these
 tools lets you add your proficiency bonus to any ability checks you make
@@ -1246,22 +1261,22 @@ Acquiring such a mount often means securing an egg and raising the
 creature yourself, making a bargain with a powerful entity, or
 negotiating with the mount itself.
 
-***Barding***. Barding is armor designed to protect an animal's head,
+:bi:`Barding`. Barding is armor designed to protect an animal's head,
 neck, chest, and body. Any type of armor shown on the Armor table can be
 purchased as barding. The cost is four times the equivalent armor made
 for humanoids, and it weighs twice as much.
 
-***Saddles***. A military saddle braces the rider, helping you keep your
+:bi:`Saddles`. A military saddle braces the rider, helping you keep your
 seat on an active mount in battle. It gives you advantage on any check
 you make to remain mounted. An exotic saddle is required for riding any
 aquatic or flying mount.
 
-***Vehicle Proficiency***. If you have proficiency with a certain kind
+:bi:`Vehicle Proficiency`. If you have proficiency with a certain kind
 of vehicle (land or water), you can add your proficiency bonus to any
 check you make to control that kind of vehicle in difficult
 circumstances.
 
-***Rowed Vessels***. Keelboats and rowboats are used on lakes and
+:bi:`Rowed Vessels`. Keelboats and rowboats are used on lakes and
 rivers. If going downstream, add the speed of the current (typically 3
 miles per hour) to the speed of the vehicle. These vehicles can't be
 rowed against any significant current, but they can be pulled upstream
@@ -1307,7 +1322,7 @@ adventurers carry it over land.
 +----------------------+------------+--------------+
 | Feed (per day)       | 5 cp       | 10 lb.       |
 +----------------------+------------+--------------+
-| ***Saddle***         |            |              |
+| :bi:`Saddle`         |            |              |
 +----------------------+------------+--------------+
 | *- Exotic*           | 60 gp      | 40 lb.       |
 +----------------------+------------+--------------+
@@ -1447,7 +1462,7 @@ connections.
 | Aristocratic    | 10 gp minimum   |
 +-----------------+-----------------+
 
-***Wretched***. You live in inhumane conditions. With no place to call
+:bi:`Wretched`. You live in inhumane conditions. With no place to call
 home, you shelter wherever you can, sneaking into barns, huddling in old
 crates, and relying on the good graces of people better off than you. A
 wretched lifestyle presents abundant dangers. Violence, disease, and
@@ -1455,7 +1470,7 @@ hunger follow you wherever you go. Other wretched people covet your
 armor, weapons, and adventuring gear, which represent a fortune by their
 standards. You are beneath the notice of most people.
 
-***Squalid***. You live in a leaky stable, a mud-floored hut just
+:bi:`Squalid`. You live in a leaky stable, a mud-floored hut just
 outside town, or a vermin-infested boarding house in the worst part of
 town. You have shelter from the elements, but you live in a desperate
 and often violent environment, in places rife with disease, hunger, and
@@ -1464,7 +1479,7 @@ legal protections. Most people at this lifestyle level have suffered
 some terrible setback. They might be disturbed, marked as exiles, or
 suffer from disease.
 
-***Poor***. A poor lifestyle means going without the comforts available
+:bi:`Poor`. A poor lifestyle means going without the comforts available
 in a stable community. Simple food and lodgings, threadbare clothing,
 and unpredictable conditions result in a sufficient, though probably
 unpleasant, experience. Your accommodations might be a room in a
@@ -1474,20 +1489,20 @@ and disease. People at this lifestyle level tend to be unskilled
 laborers, costermongers, peddlers, thieves, mercenaries, and other
 disreputable types.
 
-***Modest***. A modest lifestyle keeps you out of the slums and ensures
+:bi:`Modest`. A modest lifestyle keeps you out of the slums and ensures
 that you can maintain your equipment. You live in an older part of town,
 renting a room in a boarding house, inn, or temple. You don't go hungry
 or thirsty, and your living conditions are clean, if simple. Ordinary
 people living modest lifestyles include soldiers with families,
 laborers, students, priests, hedge wizards, and the like.
 
-***Comfortable***. Choosing a comfortable lifestyle means that you can
+:bi:`Comfortable`. Choosing a comfortable lifestyle means that you can
 afford nicer clothing and can easily maintain your equipment. You live
 in a small cottage in a middle-class neighborhood or in a private room
 at a fine inn. You associate with merchants, skilled tradespeople, and
 military officers.
 
-***Wealthy***. Choosing a wealthy lifestyle means living a life of
+:bi:`Wealthy`. Choosing a wealthy lifestyle means living a life of
 luxury, though you might not have achieved the social status associated
 with the old money of nobility or royalty. You live a lifestyle
 comparable to that of a highly successful merchant, a favored servant of
@@ -1496,7 +1511,7 @@ respectable lodgings, usually a spacious home in a good part of town or
 a comfortable suite at a fine inn. You likely have a small staff of
 servants.
 
-***Aristocratic***. You live a life of plenty and comfort. You move in
+:bi:`Aristocratic`. You live a life of plenty and comfort. You move in
 circles populated by the most powerful people in the community. You have
 excellent lodgings, perhaps a townhouse in the nicest part of town or
 rooms in the finest inn. You dine at the best restaurants, retain the
@@ -1537,7 +1552,7 @@ total lifestyle expenses.
 +----------------------------+------------+
 | **Item**                   | **Cost**   |
 +============================+============+
-| ***Ale***                  |            |
+| :bi:`Ale`                  |            |
 +----------------------------+------------+
 | *- Gallon*                 | 2 sp       |
 +----------------------------+------------+
@@ -1549,7 +1564,7 @@ total lifestyle expenses.
 +----------------------------+------------+
 | Cheese, hunk               | 1 sp       |
 +----------------------------+------------+
-| ***Inn stay (per day)***   |            |
+| :bi:`Inn stay (per day)`   |            |
 +----------------------------+------------+
 | *- Squalid*                | 7 cp       |
 +----------------------------+------------+
@@ -1563,7 +1578,7 @@ total lifestyle expenses.
 +----------------------------+------------+
 | *- Aristocratic*           | 4 gp       |
 +----------------------------+------------+
-| ***Meals (per day)***      |            |
+| :bi:`Meals (per day)`      |            |
 +----------------------------+------------+
 | *- Squalid*                | 3 cp       |
 +----------------------------+------------+
@@ -1579,7 +1594,7 @@ total lifestyle expenses.
 +----------------------------+------------+
 | Meat, chunk                | 3 sp       |
 +----------------------------+------------+
-| ***Wine***                 |            |
+| :bi:`Wine`                 |            |
 +----------------------------+------------+
 | *- Common (pitcher)*       | 2 sp       |
 +----------------------------+------------+
@@ -1625,13 +1640,13 @@ porters, maids, and similar workers.
 +---------------------+-----------------+
 | **Service Pay**     | **Pay**         |
 +=====================+=================+
-| ***Coach cab***     |                 |
+| :bi:`Coach cab`     |                 |
 +---------------------+-----------------+
 | *- Between towns*   | 3 cp per mile   |
 +---------------------+-----------------+
 | *- Within a city*   | 1 cp            |
 +---------------------+-----------------+
-| ***Hireling***      |                 |
+| :bi:`Hireling`      |                 |
 +---------------------+-----------------+
 | *- Skilled*         | 2 gp per day    |
 +---------------------+-----------------+

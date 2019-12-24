@@ -1,4 +1,22 @@
-[TOC]
+====
+NPCs
+====
+
+
+.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
+
+.. raw:: html
+
+   <style type="text/css">
+     span.bolditalic {
+       font-weight: bold;
+       font-style: italic;
+     }
+   </style>
+
+.. role:: bi
+   :class: bolditalic
+
 
 This section contains statistics for various humanoid non-player
 characters (NPCs) that adventurers might encounter during a campaign,
@@ -11,22 +29,22 @@ Customizing NPCs
 There are many easy ways to customize the NPCs in this appendix for your
 home campaign.
 
-***Racial Traits***. You can add racial traits to an NPC. For example, a
+:bi:`Racial Traits`. You can add racial traits to an NPC. For example, a
 halfling druid might have a speed of 25 feet and the Lucky trait. Adding
 racial traits to an NPC doesn't alter its challenge rating. For more on
 racial traits, see the *Player's Handbook*.
 
-***Spell Swaps***. One way to customize an NPC spellcaster is to replace
+:bi:`Spell Swaps`. One way to customize an NPC spellcaster is to replace
 one or more of its spells. You can substitute any spell on the NPC's
 spell list with a different spell of the same level from the same spell
 list. Swapping spells in this manner doesn't alter an NPC's challenge
 rating.
 
-***Armor and Weapon Swaps***. You can upgrade or downgrade an NPC's
+:bi:`Armor and Weapon Swaps`. You can upgrade or downgrade an NPC's
 armor, or add or switch weapons. Adjustments to Armor Class and damage
 can change an NPC's challenge rating.
 
-***Magic Items***. The more powerful an NPC, the more likely it has one
+:bi:`Magic Items`. The more powerful an NPC, the more likely it has one
 or more magic items in its possession. An archmage, for example, might
 have a magic staff or wand, as well as one or more potions and scrolls.
 Giving an NPC a potent damage-dealing magic item could alter its
@@ -57,7 +75,7 @@ Acolyte
 
 **Challenge** 1/4 (50 XP)
 
-***Spellcasting***. The acolyte is a 1st-level spellcaster. Its
+:bi:`Spellcasting`. The acolyte is a 1st-level spellcaster. Its
 spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell
 attacks). The acolyte has following cleric spells prepared:
 
@@ -68,7 +86,7 @@ Cantrips (at will): *light, sacred flame, thaumaturgy*
 Actions
        
 
-***Club***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target.
+:bi:`Club`. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target.
 *Hit:* 2 (1d4) bludgeoning damage.
 
 **Acolytes** are junior members of a clergy, usually answerable to a
@@ -105,10 +123,10 @@ piercing, and slashing (from *stoneskin*)
 
 **Challenge** 12 (8,400 XP)
 
-***Magic Resistance***. The archmage has advantage on saving throws
+:bi:`Magic Resistance`. The archmage has advantage on saving throws
 against spells and other magical effects.
 
-***Spellcasting***. The archmage is an 18th-level spellcaster. Its
+:bi:`Spellcasting`. The archmage is an 18th-level spellcaster. Its
 spellcasting ability is Intelligence (spell save DC 17, +9 to hit with
 spell attacks). The archmage can cast *disguise self* and *invisibility*
 at will and has the following wizard spells prepared:
@@ -140,7 +158,7 @@ missile\*
 Actions
        
 
-***Dagger***. *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or
+:bi:`Dagger`. *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or
 range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 
 **Archmages** are powerful (and usually quite old) spellcasters
@@ -182,16 +200,16 @@ Assassin
 
 **Challenge** 8 (3,900 XP)
 
-***Assassinate***. During its first turn, the assassin has advantage on
+:bi:`Assassinate`. During its first turn, the assassin has advantage on
 attack rolls against any creature that hasn't taken a turn. Any hit the
 assassin scores against a surprised creature is a critical hit.
 
-***Evasion***. If the assassin is subjected to an effect that allows it
+:bi:`Evasion`. If the assassin is subjected to an effect that allows it
 to make a Dexterity saving throw to take only half damage, the assassin
 instead takes no damage if it succeeds on the saving throw, and only
 half damage if it fails.
 
-***Sneak Attack***. Once per turn, the assassin deals an extra 14 (4d6)
+:bi:`Sneak Attack`. Once per turn, the assassin deals an extra 14 (4d6)
 damage when it hits a target with a weapon attack and has advantage on
 the attack roll, or when the target is within 5 feet of an ally of the
 assassin that isn't incapacitated and the assassin doesn't have
@@ -200,14 +218,14 @@ disadvantage on the attack roll.
 Actions
        
 
-***Multiattack***. The assassin makes two shortsword attacks.
+:bi:`Multiattack`. The assassin makes two shortsword attacks.
 
-***Shortsword***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one
+:bi:`Shortsword`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one
 target. *Hit:* 6 (1d6 + 3) piercing damage, and the target must make a
 DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a
 failed save, or half as much damage on a successful one.
 
-***Light Crossbow***. *Ranged Weapon Attack:* +6 to hit, range 80/320
+:bi:`Light Crossbow`. *Ranged Weapon Attack:* +6 to hit, range 80/320
 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage, and the target must
 make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on
 a failed save, or half as much damage on a successful one.
@@ -242,10 +260,10 @@ Bandit
 Actions
        
 
-***Scimitar***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one
+:bi:`Scimitar`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one
 target. *Hit:* 4 (1d6 + 1) slashing damage.
 
-***Light Crossbow***. *Ranged Weapon Attack:* +3 to hit, range 80
+:bi:`Light Crossbow`. *Ranged Weapon Attack:* +3 to hit, range 80
 ft./320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
 
 **Bandits** rove in gangs and are sometimes led by thugs, veterans, or
@@ -286,20 +304,20 @@ Bandit Captain
 Actions
        
 
-***Multiattack***. The captain makes three melee attacks: two with its
+:bi:`Multiattack`. The captain makes three melee attacks: two with its
 scimitar and one with its dagger. Or the captain makes two ranged
 attacks with its daggers.
 
-***Scimitar***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
+:bi:`Scimitar`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
 target. *Hit:* 6 (1d6 + 3) slashing damage.
 
-***Dagger***. *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or
+:bi:`Dagger`. *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or
 range 20/60 ft., one target. *Hit:* 5 (1d4 + 2) piercing damage.
 
 Reactions
          
 
-***Parry***. The captain adds 2 to its AC against one melee attack that
+:bi:`Parry`. The captain adds 2 to its AC against one melee attack that
 would hit it. To do so, the captain must see the attacker and be
 wielding a melee weapon.
 
@@ -340,14 +358,14 @@ Berserker
 
 **Challenge** 2 (450 XP)
 
-***Reckless***. At the start of its turn, the berserker can gain
+:bi:`Reckless`. At the start of its turn, the berserker can gain
 advantage on all melee weapon attack rolls during that turn, but attack
 rolls against it have advantage until the start of its next turn.
 
 Actions
        
 
-***Greataxe***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
+:bi:`Greataxe`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
 target. *Hit:* 9 (1d12 + 3) slashing damage.
 
 Hailing from uncivilized lands, unpredictable **berserkers** come
@@ -379,7 +397,7 @@ Commoner
 Actions
        
 
-***Club***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target.
+:bi:`Club`. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target.
 *Hit:* 2 (1d4) bludgeoning damage.
 
 **Commoners** include peasants, serfs, slaves, servants, pilgrims,
@@ -410,13 +428,13 @@ Cultist
 
 **Challenge** 1/8 (25 XP)
 
-***Dark Devotion***. The cultist has advantage on saving throws against
+:bi:`Dark Devotion`. The cultist has advantage on saving throws against
 being charmed or frightened.
 
 Actions
        
 
-***Scimitar***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one
+:bi:`Scimitar`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one
 creature. *Hit:* 4 (1d6 + 1) slashing damage.
 
 **Cultists** swear allegiance to dark powers such as elemental princes,
@@ -450,10 +468,10 @@ Cult Fanatic
 
 **Challenge** 2 (450 XP)
 
-***Dark Devotion***. The fanatic has advantage on saving throws against
+:bi:`Dark Devotion`. The fanatic has advantage on saving throws against
 being charmed or frightened.
 
-***Spellcasting***. The fanatic is a 4th-level spellcaster. Its
+:bi:`Spellcasting`. The fanatic is a 4th-level spellcaster. Its
 spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell
 attacks). The fanatic has the following cleric spells prepared:
 
@@ -466,9 +484,9 @@ Cantrips (at will): *light, sacred flame, thaumaturgy*
 Actions
        
 
-***Multiattack***. The fanatic makes two melee attacks.
+:bi:`Multiattack`. The fanatic makes two melee attacks.
 
-***Dagger***. *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or
+:bi:`Dagger`. *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or
 range 20/60 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage.
 
 **Fanatics** are often part of a cult's leadership, using their charisma
@@ -500,7 +518,7 @@ Druid
 
 **Challenge** 2 (450 XP)
 
-***Spellcasting***. The druid is a 4th-level spellcaster. Its
+:bi:`Spellcasting`. The druid is a 4th-level spellcaster. Its
 spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell
 attacks). It has the following druid spells prepared:
 
@@ -514,7 +532,7 @@ thunderwave*
 Actions
        
 
-***Quarterstaff***. *Melee Weapon Attack:* +2 to hit (+4 to hit with
+:bi:`Quarterstaff`. *Melee Weapon Attack:* +2 to hit (+4 to hit with
 *shillelagh*), reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning
 damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8
 + 2) bludgeoning damage with *shillelagh*.
@@ -551,23 +569,23 @@ Gladiator
 
 **Challenge** 5 (1,800 XP)
 
-***Brave***. The gladiator has advantage on saving throws against being
+:bi:`Brave`. The gladiator has advantage on saving throws against being
 frightened.
 
-***Brute***. A melee weapon deals one extra die of its damage when the
+:bi:`Brute`. A melee weapon deals one extra die of its damage when the
 gladiator hits with it (included in the attack).
 
 Actions
        
 
-***Multiattack***. The gladiator makes three melee attacks or two ranged
+:bi:`Multiattack`. The gladiator makes three melee attacks or two ranged
 attacks.
 
-***Spear***. *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. and
+:bi:`Spear`. *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. and
 range 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13
 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
 
-***Shield Bash***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one
+:bi:`Shield Bash`. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one
 creature. *Hit:* 9 (2d4 + 4) bludgeoning damage. If the target is a
 Medium or smaller creature, it must succeed on a DC 15 Strength saving
 throw or be knocked prone.
@@ -575,7 +593,7 @@ throw or be knocked prone.
 Reactions
          
 
-***Parry***. The gladiator adds 3 to its AC against one melee attack
+:bi:`Parry`. The gladiator adds 3 to its AC against one melee attack
 that would hit it. To do so, the gladiator must see the attacker and be
 wielding a melee weapon.
 
@@ -612,7 +630,7 @@ Guard
 Actions
        
 
-***Spear***. *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or
+:bi:`Spear`. *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or
 range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5
 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
@@ -644,21 +662,21 @@ Knight
 
 **Challenge** 3 (700 XP)
 
-***Brave***. The knight has advantage on saving throws against being
+:bi:`Brave`. The knight has advantage on saving throws against being
 frightened.
 
 Actions
        
 
-***Multiattack***. The knight makes two melee attacks.
+:bi:`Multiattack`. The knight makes two melee attacks.
 
-***Greatsword***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
+:bi:`Greatsword`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
 target. *Hit:* 10 (2d6 + 3) slashing damage.
 
-***Heavy Crossbow***. *Ranged Weapon Attack:* +2 to hit, range 100/400
+:bi:`Heavy Crossbow`. *Ranged Weapon Attack:* +2 to hit, range 100/400
 ft., one target. *Hit:* 5 (1d10) piercing damage.
 
-***Leadership (Recharges after a Short or Long Rest)***. For 1 minute,
+:bi:`Leadership (Recharges after a Short or Long Rest)`. For 1 minute,
 the knight can utter a special command or warning whenever a nonhostile
 creature that it can see within 30 feet of it makes an attack roll or a
 saving throw. The creature can add a d4 to its roll provided it can hear
@@ -669,7 +687,7 @@ incapacitated.
 Reactions
          
 
-***Parry***. The knight adds 2 to its AC against one melee attack that
+:bi:`Parry`. The knight adds 2 to its AC against one melee attack that
 would hit it. To do so, the knight must see the attacker and be wielding
 a melee weapon.
 
@@ -706,7 +724,7 @@ Mage
 
 **Challenge** 6 (2,300 XP)
 
-***Spellcasting***. The mage is a 9th-level spellcaster. Its
+:bi:`Spellcasting`. The mage is a 9th-level spellcaster. Its
 spellcasting ability is Intelligence (spell save DC 14, +6 to hit with
 spell attacks). The mage has the following wizard spells prepared:
 
@@ -725,7 +743,7 @@ Cantrips (at will): *fire bolt, light, mage hand, prestidigitation*
 Actions
        
 
-***Dagger***. *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or
+:bi:`Dagger`. *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or
 range 20/60 ft., one target. *Hit:* 4 (1d4 + 1) piercing damage.
 
 **Mages** spend their lives in the study and practice of magic.
@@ -761,13 +779,13 @@ Noble
 Actions
        
 
-***Rapier***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
+:bi:`Rapier`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 5 (1d8 + 1) piercing damage.
 
 Reactions
          
 
-***Parry***. The noble adds 2 to its AC against one melee attack that
+:bi:`Parry`. The noble adds 2 to its AC against one melee attack that
 would hit it. To do so, the noble must see the attacker and be wielding
 a melee weapon.
 
@@ -804,13 +822,13 @@ Priest
 
 **Challenge** 2 (450 XP)
 
-***Divine Eminence***. As a bonus action, the priest can expend a spell
+:bi:`Divine Eminence`. As a bonus action, the priest can expend a spell
 slot to cause its melee weapon attacks to magically deal an extra 10
 (3d6) radiant damage to a target on a hit. This benefit lasts until the
 end of the turn. If the priest expends a spell slot of 2nd level or
 higher, the extra damage increases by 1d6 for each level above 1st.
 
-***Spellcasting***. The priest is a 5th-level spellcaster. Its
+:bi:`Spellcasting`. The priest is a 5th-level spellcaster. Its
 spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell
 attacks). The priest has the following cleric spells prepared:
 
@@ -825,7 +843,7 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 Actions
        
 
-***Mace***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target.
+:bi:`Mace`. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target.
 *Hit:* 3 (1d6) bludgeoning damage.
 
 **Priests** bring the teachings of their gods to the common folk. They
@@ -862,19 +880,19 @@ Scout
 
 **Challenge** 1/2 (100 XP)
 
-***Keen Hearing and Sight***. The scout has advantage on Wisdom
+:bi:`Keen Hearing and Sight`. The scout has advantage on Wisdom
 (Perception) checks that rely on hearing or sight.
 
 Actions
        
 
-***Multiattack***. The scout makes two melee attacks or two ranged
+:bi:`Multiattack`. The scout makes two melee attacks or two ranged
 attacks.
 
-***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
+:bi:`Shortsword`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
 target. *Hit:* 5 (1d6 + 2) piercing damage.
 
-***Longbow***. *Ranged Weapon Attack:* +4 to hit, ranged 150/600 ft.,
+:bi:`Longbow`. *Ranged Weapon Attack:* +4 to hit, ranged 150/600 ft.,
 one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
 **Scouts** are skilled hunters and trackers who offer their services for
@@ -907,10 +925,10 @@ Persuasion +5, Sleight of Hand +4, Stealth +4
 
 **Challenge** 1 (200 XP)
 
-***Cunning Action***. On each of its turns, the spy can use a bonus
+:bi:`Cunning Action`. On each of its turns, the spy can use a bonus
 action to take the Dash, Disengage, or Hide action.
 
-***Sneak Attack (1/Turn)***. The spy deals an extra 7 (2d6) damage when
+:bi:`Sneak Attack (1/Turn)`. The spy deals an extra 7 (2d6) damage when
 it hits a target with a weapon attack and has advantage on the attack
 roll, or when the target is within 5 feet of an ally of the spy that
 isn't incapacitated and the spy doesn't have disadvantage on the attack
@@ -919,12 +937,12 @@ roll.
 Actions
        
 
-***Multiattack***. The spy makes two melee attacks.
+:bi:`Multiattack`. The spy makes two melee attacks.
 
-***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
+:bi:`Shortsword`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
 target. *Hit:* 5 (1d6 + 2) piercing damage.
 
-***Hand Crossbow***. *Ranged Weapon Attack:* +4 to hit, range 30/120
+:bi:`Hand Crossbow`. *Ranged Weapon Attack:* +4 to hit, range 30/120
 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
 Rulers, nobles, merchants, guildmasters, and other wealthy individuals
@@ -958,19 +976,19 @@ Thug
 
 **Challenge** 1/2 (100 XP)
 
-***Pack Tactics***. The thug has advantage on an attack roll against a
+:bi:`Pack Tactics`. The thug has advantage on an attack roll against a
 creature if at least one of the thug's allies is within 5 feet of the
 creature and the ally isn't incapacitated.
 
 Actions
        
 
-***Multiattack***. The thug makes two melee attacks.
+:bi:`Multiattack`. The thug makes two melee attacks.
 
-***Mace***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
+:bi:`Mace`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 5 (1d6 + 2) bludgeoning damage.
 
-***Heavy Crossbow***. *Ranged Weapon Attack:* +2 to hit, range 100/400
+:bi:`Heavy Crossbow`. *Ranged Weapon Attack:* +2 to hit, range 100/400
 ft., one target. *Hit:* 5 (1d10) piercing damage.
 
 **Thugs** are ruthless enforcers skilled at intimidation and violence.
@@ -999,14 +1017,14 @@ Tribal Warrior
 
 **Challenge** 1/8 (25 XP)
 
-***Pack Tactics***. The warrior has advantage on an attack roll against
+:bi:`Pack Tactics`. The warrior has advantage on an attack roll against
 a creature if at least one of the warrior's allies is within 5 feet of
 the creature and the ally isn't incapacitated.
 
 Actions
        
 
-***Spear***. *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or
+:bi:`Spear`. *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or
 range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5
 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
@@ -1043,17 +1061,17 @@ Veteran
 Actions
        
 
-***Multiattack***. The veteran makes two longsword attacks. If it has a
+:bi:`Multiattack`. The veteran makes two longsword attacks. If it has a
 shortsword drawn, it can also make a shortsword attack.
 
-***Longsword***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
+:bi:`Longsword`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
 target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing
 damage if used with two hands.
 
-***Shortsword***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
+:bi:`Shortsword`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
 target. *Hit:* 6 (1d6 + 3) piercing damage.
 
-***Heavy Crossbow***. *Ranged Weapon Attack:* +3 to hit, range 100/400
+:bi:`Heavy Crossbow`. *Ranged Weapon Attack:* +3 to hit, range 100/400
 ft., one target. *Hit:* 6 (1d10 + 1) piercing damage.
 
 **Veterans** are professional fighters that take up arms for pay or to

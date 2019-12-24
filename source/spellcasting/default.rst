@@ -2,6 +2,21 @@
 Spellcasting
 ============
 
+.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
+
+.. raw:: html
+
+   <style type="text/css">
+     span.bolditalic {
+       font-weight: bold;
+       font-style: italic;
+     }
+   </style>
+
+.. role:: bi
+   :class: bolditalic
+
+
 Magic permeates fantasy gaming worlds and often appears in the form of a
 spell.
 
@@ -2273,7 +2288,7 @@ the end of its next turn. On a miss, the arrow splashes the target with
 acid for half as much of the initial damage and no damage at the end of
 its next turn.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, the damage (both initial and later) increases by
 1d4 for each slot level above 2nd.
 
@@ -2315,7 +2330,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to
 three creatures within range. Each target's hit point maximum and
 current hit points increase by 5 for the duration.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, a target's hit points increase by an additional 5
 for each slot level above 2nd.
 
@@ -2363,12 +2378,12 @@ following options, the effects of which last for the duration of the
 spell. While the spell lasts, you can end one option as an action to
 gain the benefits of a different one.
 
-***Aquatic Adaptation***. You adapt your body to an aquatic environment,
+:bi:`Aquatic Adaptation`. You adapt your body to an aquatic environment,
 sprouting gills and growing webbing between your fingers. You can
 breathe underwater and gain a swimming speed equal to your walking
 speed.
 
-***Change Appearance***. You transform your appearance. You decide what
+:bi:`Change Appearance`. You transform your appearance. You decide what
 you look like, including your height, weight, facial features, sound of
 your voice, hair length, coloration, and distinguishing characteristics,
 if any. You can make yourself appear as a member of another race, though
@@ -2378,7 +2393,7 @@ bipedal, you can't use this spell to become quadrupedal, for instance.
 At any time for the duration of the spell, you can use your action to
 change your appearance in this way again.
 
-***Natural Weapons***. You grow claws, fangs, spines, horns, or a
+:bi:`Natural Weapons`. You grow claws, fangs, spines, horns, or a
 different natural weapon of your choice. Your unarmed strikes deal 1d6
 bludgeoning, piercing, or slashing damage, as appropriate to the natural
 weapon you chose, and you are proficient with your unarmed strikes.
@@ -2415,7 +2430,7 @@ messenger doesn't reach its destination before the spell ends, the
 message is lost, and the beast makes its way back to where you cast this
 spell.
 
-***At Higher Levels***. If you cast this spell using a spell slot of 3nd
+:bi:`At Higher Levels`. If you cast this spell using a spell slot of 3nd
 level or higher, the duration of the spell increases by 48 hours for
 each slot level above 2nd.
 
@@ -2491,7 +2506,7 @@ before the current 24-hour period ends. This use of the spell reasserts
 your control over up to four creatures you have animated with this
 spell, rather than animating a new one.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, you animate or reassert control over two additional
 undead creatures for each slot level above 3rd. Each of the creatures
 must come from a different corpse or pile of bones.
@@ -2561,7 +2576,7 @@ attack bonus and bludgeoning damage determined by its size. The GM might
 rule that a specific object inflicts slashing or piercing damage based
 on its form.
 
-***At Higher Levels***. If you cast this spell using a spell slot of 6th
+:bi:`At Higher Levels`. If you cast this spell using a spell slot of 6th
 level or higher, you can animate two additional objects for each slot
 level above 5th.
 
@@ -2614,22 +2629,22 @@ expended to cast a suppressed spell is consumed. While an effect is
 suppressed, it doesn't function, but the time it spends suppressed
 counts against its duration.
 
-***Targeted Effects***. Spells and other magical effects, such as *magic
+:bi:`Targeted Effects`. Spells and other magical effects, such as *magic
 missile* and *charm person*, that target a creature or an object in the
 sphere have no effect on that target.
 
-***Areas of Magic***. The area of another spell or magical effect, such
+:bi:`Areas of Magic`. The area of another spell or magical effect, such
 as *fireball*, can't extend into the sphere. If the sphere overlaps an
 area of magic, the part of the area that is covered by the sphere is
 suppressed. For example, the flames created by a *wall of fire* are
 suppressed within the sphere, creating a gap in the wall if the overlap
 is large enough.
 
-***Spells***. Any active spell or other magical effect on a creature or
+:bi:`Spells`. Any active spell or other magical effect on a creature or
 an object in the sphere is suppressed while the creature or object is in
 it.
 
-***Magic Items***. The properties and powers of magic items are
+:bi:`Magic Items`. The properties and powers of magic items are
 suppressed in the sphere. For example, a *+1 longsword* in the sphere
 functions as a nonmagical longsword.
 
@@ -2640,19 +2655,19 @@ If a magic weapon or a piece of magic ammunition fully leaves the sphere
 target outside the sphere), the magic of the item ceases to be
 suppressed as soon as it exits.
 
-***Magical Travel***. Teleportation and planar travel fail to work in
+:bi:`Magical Travel`. Teleportation and planar travel fail to work in
 the sphere, whether the sphere is the destination or the departure point
 for such magical travel. A portal to another location, world, or plane
 of existence, as well as an opening to an extradimensional space such as
 that created by the *rope trick* spell, temporarily closes while in the
 sphere.
 
-***Creatures and Objects***. A creature or object summoned or created by
+:bi:`Creatures and Objects`. A creature or object summoned or created by
 magic temporarily winks out of existence in the sphere. Such a creature
 instantly reappears once the space the creature occupied is no longer
 within the sphere.
 
-***Dispel Magic***. Spells and magical effects such as *dispel magic*
+:bi:`Dispel Magic`. Spells and magical effects such as *dispel magic*
 have no effect on the sphere. Likewise, the spheres created by different
 *antimagic field* spells don't nullify each other.
 
@@ -2678,7 +2693,7 @@ invest the target with an aura that either attracts or repels the
 specified creatures for the duration. Choose antipathy or sympathy as
 the aura's effect.
 
-***Antipathy***. The enchantment causes creatures of the kind you
+:bi:`Antipathy`. The enchantment causes creatures of the kind you
 designated to feel an intense urge to leave the area and avoid the
 target. When such a creature can see the target or comes within 60 feet
 of it, the creature must succeed on a Wisdom saving throw or become
@@ -2690,7 +2705,7 @@ target and can't see it, the creature is no longer frightened, but the
 creature becomes frightened again if it regains sight of the target or
 moves within 60 feet of it.
 
-***Sympathy***. The enchantment causes the specified creatures to feel
+:bi:`Sympathy`. The enchantment causes the specified creatures to feel
 an intense urge to approach the target while within 60 feet of it or
 able to see it. When such a creature can see the target or comes within
 60 feet of it, the creature must succeed on a Wisdom saving throw or use
@@ -2702,7 +2717,7 @@ If the target damages or otherwise harms an affected creature, the
 affected creature can make a Wisdom saving throw to end the effect, as
 described below.
 
-***Ending the Effect***. If an affected creature ends its turn while not
+:bi:`Ending the Effect`. If an affected creature ends its turn while not
 within 60 feet of the target or able to see it, the creature makes a
 Wisdom saving throw. On a successful save, the creature is no longer
 affected by the target and recognizes the feeling of repugnance or
@@ -2766,11 +2781,11 @@ When you cast the spell and as a bonus action on your subsequent turns,
 you can move the hand up to 60 feet and then cause one of the following
 effects with it.
 
-***Clenched Fist***. The hand strikes one creature or object within 5
+:bi:`Clenched Fist`. The hand strikes one creature or object within 5
 feet of it. Make a melee spell attack for the hand using your game
 statistics. On a hit, the target takes 4d8 force damage.
 
-***Forceful Hand***. The hand attempts to push a creature within 5 feet
+:bi:`Forceful Hand`. The hand attempts to push a creature within 5 feet
 of it in a direction you choose.
 
 Make a check with the hand's Strength contested by the Strength
@@ -2780,7 +2795,7 @@ up to 5 feet plus a number of feet equal to five times your spellcasting
 ability modifier. The hand moves with the target to remain within 5 feet
 of it.
 
-***Grasping Hand***. The hand attempts to grapple a Huge or smaller
+:bi:`Grasping Hand`. The hand attempts to grapple a Huge or smaller
 creature within 5 feet of it. You use the hand's Strength score to
 resolve the grapple. If the target is Medium or smaller, you have
 advantage on the check. While the hand is grappling the target, you can
@@ -2788,7 +2803,7 @@ use a bonus action to have the hand crush it. When you do so, the target
 takes bludgeoning damage equal to 2d6 + your spellcasting ability
 modifier.
 
-***Interposing Hand***. The hand interposes itself between you and a
+:bi:`Interposing Hand`. The hand interposes itself between you and a
 creature you choose until you give the hand a different command. The
 hand moves to stay between you and the target, providing you with half
 cover against the target. The target can't move through the hand's space
@@ -2797,7 +2812,7 @@ score. If its Strength score is higher than the hand's Strength score,
 the target can move toward you through the hand's space, but that space
 is difficult terrain for the target.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the damage from the clenched fist option increases
 by 2d8 and the damage from the grasping hand increases by 2d6 for each
 slot level above 5th.
@@ -2873,7 +2888,7 @@ The effect lasts for the duration. If you cast this spell on the same
 creature or object every day for 30 days, placing the same effect on it
 each time, the illusion lasts until it is dispelled.
 
-***False Aura***. You change the way the target appears to spells and
+:bi:`False Aura`. You change the way the target appears to spells and
 magical effects, such as *detect magic*, that detect magical auras. You
 can make a nonmagical object appear magical, a magical object appear
 nonmagical, or change the object's magical aura so that it appears to
@@ -2881,7 +2896,7 @@ belong to a specific school of magic that you choose. When you use this
 effect on an object, you can make the false magic apparent to any
 creature that handles the item.
 
-***Mask***. You change the way the target appears to spells and magical
+:bi:`Mask`. You change the way the target appears to spells and magical
 effects that detect creature types, such as a paladin's Divine Sense or
 the trigger of a *symbol* spell. You choose a creature type and other
 spells and magical effects treat the target as if it were a creature of
@@ -3030,7 +3045,7 @@ throw makes an attack roll or a saving throw before the spell ends, the
 target must roll a d4 and subtract the number rolled from the attack
 roll or saving throw.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you can target one additional creature for each
 slot level above 1st.
 
@@ -3063,7 +3078,7 @@ to its home plane. If the spell ends before 1 minute has passed, the
 target reappears in the space it left or in the nearest unoccupied space
 if that space is occupied. Otherwise, the target doesn't return.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 5th level or higher, you can target one additional creature for each
 slot level above 4th.
 
@@ -3137,7 +3152,7 @@ choose an alternative curse effect, but it should be no more powerful
 than those described above. The GM has final say on such a curse's
 effect.
 
-***At Higher Levels***. If you cast this spell using a spell slot of 4th
+:bi:`At Higher Levels`. If you cast this spell using a spell slot of 4th
 level or higher, the duration is concentration, up to 10 minutes. If you
 use a spell slot of 5th level or higher, the duration is 8 hours. If you
 use a spell slot of 7th level or higher, the duration is 24 hours. If
@@ -3216,7 +3231,7 @@ target makes an attack roll or a saving throw before the spell ends, the
 target can roll a d4 and add the number rolled to the attack roll or
 saving throw.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you can target one additional creature for each
 slot level above 1st.
 
@@ -3245,7 +3260,7 @@ throw with disadvantage, and the spell deals maximum damage to it.
 If you target a nonmagical plant that isn't a creature, such as a tree
 or shrub, it doesn't make a saving throw; it simply withers and dies.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 5th level or higher, the damage increases by 1d8 for each slot level
 above 4th.
 
@@ -3268,7 +3283,7 @@ target is either blinded or deafened (your choice) for the duration. At
 the end of each of its turns, the target can make a Constitution saving
 throw. On a success, the spell ends.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, you can target one additional creature for each
 slot level above 2nd.
 
@@ -3343,7 +3358,7 @@ on a successful one.
 The fire ignites any flammable objects in the area that aren't being
 worn or carried.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the damage increases by 1d6 for each slot level
 above 1st.
 
@@ -3381,7 +3396,7 @@ If you are outdoors in stormy conditions when you cast this spell, the
 spell gives you control over the existing storm instead of creating a
 new one. Under such conditions, the spell's damage increases by 1d10.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th or higher level, the damage increases by 1d10 for each slot level
 above 3rd.
 
@@ -3438,7 +3453,7 @@ A target must make a Dexterity saving throw. The target takes 10d8
 lightning damage on a failed save, or half as much damage on a
 successful one.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, one additional bolt leaps from the first target to
 another target for each slot level above 6th.
 
@@ -3463,7 +3478,7 @@ harmful to it. The charmed creature regards you as a friendly
 acquaintance. When the spell ends, the creature knows it was charmed by
 you.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you can target one additional creature for each
 slot level above 1st. The creatures must be within 30 feet of each other
 when you target them.
@@ -3512,7 +3527,7 @@ a point within range. Each creature in that area must make a
 Constitution saving throw. A target takes 8d6 necrotic damage on a
 failed save, or half as much damage on a successful one.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, the damage increases by 2d6 for each slot level
 above 6th.
 
@@ -3606,7 +3621,7 @@ The fog moves 10 feet away from you at the start of each of your turns,
 rolling along the surface of the ground. The vapors, being heavier than
 air, sink to the lowest level of the land, even pouring down openings.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the damage increases by 1d8 for each slot level
 above 5th.
 
@@ -3637,7 +3652,7 @@ on to the creature with the next lowest hit points. A creature's hit
 points must be equal to or less than the remaining total for that
 creature to be affected.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, roll an additional 2d10 for each slot level above
 1st.
 
@@ -3665,24 +3680,24 @@ command other than one described here. If you do so, the GM determines
 how the target behaves. If the target can't follow your command, the
 spell ends.
 
-***Approach***. The target moves toward you by the shortest and most
+:bi:`Approach`. The target moves toward you by the shortest and most
 direct route, ending its turn if it moves within 5 feet of you.
 
-***Drop***. The target drops whatever it is holding and then ends its
+:bi:`Drop`. The target drops whatever it is holding and then ends its
 turn.
 
-***Flee***. The target spends its turn moving away from you by the
+:bi:`Flee`. The target spends its turn moving away from you by the
 fastest available means.
 
-***Grovel***. The target falls prone and then ends its turn.
+:bi:`Grovel`. The target falls prone and then ends its turn.
 
-***Halt***. The target doesn't move and takes no actions.
+:bi:`Halt`. The target doesn't move and takes no actions.
 
 A flying creature stays aloft, provided that it is able to do so. If it
 must move to stay aloft, it flies the minimum distance needed to remain
 in the air.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you can affect one additional creature for each
 slot level above 1st. The creatures must be within 30 feet of each other
 when you target them.
@@ -3790,7 +3805,7 @@ damage on a failed save, or half as much damage on a successful one.
 
 A creature killed by this spell becomes a frozen statue until it thaws.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the damage increases by 1d8 for each slot level
 above 5th.
 
@@ -3839,7 +3854,7 @@ of each of its turns to determine its behavior for that turn.
 At the end of each of its turns, an affected target can make a Wisdom
 saving throw. If it succeeds, this effect ends for that target.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 5th level or higher, the radius of the sphere increases by 5 feet for
 each slot level above 4th.
 
@@ -3879,7 +3894,7 @@ themselves from hostile creatures, but otherwise take no actions.
 
 The GM has the creatures' statistics.
 
-***At Higher Levels***. When you cast this spell using certain
+:bi:`At Higher Levels`. When you cast this spell using certain
 higher-level spell slots, you choose one of the summoning options above,
 and more creatures appear: twice as many with a 5th-level slot, three
 times as many with a 7th-level slot, and four times as many with a
@@ -3911,7 +3926,7 @@ otherwise takes no actions.
 
 The GM has the celestial's statistics.
 
-***At Higher Levels***. When you cast this spell using a 9th-level spell
+:bi:`At Higher Levels`. When you cast this spell using a 9th-level spell
 slot, you summon a celestial of challenge rating 5 or lower.
 
 Conjure Elemental
@@ -3950,7 +3965,7 @@ it.
 
 The GM has the elemental's statistics.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the challenge rating increases by 1 for each slot
 level above 5th.
 
@@ -3988,7 +4003,7 @@ summoned it.
 
 The GM has the fey creature's statistics.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, the challenge rating increases by 1 for each slot
 level above 6th.
 
@@ -4027,7 +4042,7 @@ themselves from hostile creatures, but otherwise take no actions.
 
 The GM has the creatures' statistics.
 
-***At Higher Levels***. When you cast this spell using certain
+:bi:`At Higher Levels`. When you cast this spell using certain
 higher-level spell slots, you choose one of the summoning options above,
 and more creatures appear: twice as many with a 6th-level slot and three
 times as many with an 8th-level slot.
@@ -4067,7 +4082,7 @@ themselves from hostile creatures, but otherwise take no actions.
 
 The GM has the creatures' statistics.
 
-***At Higher Levels***. When you cast this spell using certain
+:bi:`At Higher Levels`. When you cast this spell using certain
 higher-level spell slots, you choose one of the summoning options above,
 and more creatures appear: twice as many with a 6th-level slot and three
 times as many with an 8th-level slot.
@@ -4128,27 +4143,27 @@ Since this spell induces a natural disease in its target, any effect
 that removes a disease or otherwise ameliorates a disease's effects
 apply to it.
 
-***Blinding Sickness***. Pain grips the creature's mind, and its eyes
+:bi:`Blinding Sickness`. Pain grips the creature's mind, and its eyes
 turn milky white. The creature has disadvantage on Wisdom checks and
 Wisdom saving throws and is blinded.
 
-***Filth Fever***. A raging fever sweeps through the creature's body.
+:bi:`Filth Fever`. A raging fever sweeps through the creature's body.
 The creature has disadvantage on Strength checks, Strength saving
 throws, and attack rolls that use Strength.
 
-***Flesh Rot***. The creature's flesh decays. The creature has
+:bi:`Flesh Rot`. The creature's flesh decays. The creature has
 disadvantage on Charisma checks and vulnerability to all damage.
 
-***Mindfire***. The creature's mind becomes feverish. The creature has
+:bi:`Mindfire`. The creature's mind becomes feverish. The creature has
 disadvantage on Intelligence checks and Intelligence saving throws, and
 the creature behaves as if under the effects of the *confusion* spell
 during combat.
 
-***Seizure***. The creature is overcome with shaking. The creature has
+:bi:`Seizure`. The creature is overcome with shaking. The creature has
 disadvantage on Dexterity checks, Dexterity saving throws, and attack
 rolls that use Dexterity.
 
-***Slimy Doom***. The creature begins to bleed uncontrollably. The
+:bi:`Slimy Doom`. The creature begins to bleed uncontrollably. The
 creature has disadvantage on Constitution checks and Constitution saving
 throws. In addition, whenever the creature takes damage, it is stunned
 until the end of its next turn.
@@ -4224,7 +4239,7 @@ you choose that is a cube up to 100 feet on a side. You can choose from
 any of the following effects when you cast this spell. As an action on
 your turn, you can repeat the same effect or choose a different one.
 
-***Flood***. You cause the water level of all standing water in the area
+:bi:`Flood`. You cause the water level of all standing water in the area
 to rise by as much as 20 feet. If the area includes a shore, the
 flooding water spills over onto dry land.
 
@@ -4238,14 +4253,14 @@ The water level remains elevated until the spell ends or you choose a
 different effect. If this effect produced a wave, the wave repeats on
 the start of your next turn while the flood effect lasts.
 
-***Part Water***. You cause water in the area to move apart and create a
+:bi:`Part Water`. You cause water in the area to move apart and create a
 trench. The trench extends across the spell's area, and the separated
 water forms a wall to either side. The trench remains until the spell
 ends or you choose a different effect. The water then slowly fills in
 the trench over the course of the next round until the normal water
 level is restored.
 
-***Redirect Flow***. You cause flowing water in the area to move in a
+:bi:`Redirect Flow`. You cause flowing water in the area to move in a
 direction you choose, even if the water has to flow over obstacles, up
 walls, or in other unlikely directions. The water in the area moves as
 you direct it, but once it moves beyond the spell's area, it resumes its
@@ -4253,7 +4268,7 @@ flow based on the terrain conditions. The water continues to move in the
 direction you chose until the spell ends or you choose a different
 effect.
 
-***Whirlpool***. This effect requires a body of water at least 50 feet
+:bi:`Whirlpool`. This effect requires a body of water at least 50 feet
 square and 25 feet deep. You cause a whirlpool to form in the center of
 the area. The whirlpool forms a vortex that is 5 feet wide at the base,
 up to 50 feet wide at the top, and 25 feet tall. Any creature or object
@@ -4386,15 +4401,15 @@ grains of sand if destroying it)
 
 You either create or destroy water.
 
-***Create Water***. You create up to 10 gallons of clean water within
+:bi:`Create Water`. You create up to 10 gallons of clean water within
 range in an open container. Alternatively, the water falls as rain in a
 30-foot cube within range, extinguishing exposed flames in the area.
 
-***Destroy Water***. You destroy up to 10 gallons of water in an open
+:bi:`Destroy Water`. You destroy up to 10 gallons of water in an open
 container within range. Alternatively, you destroy fog in a 30-foot cube
 within range.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you create or destroy 10 additional gallons of
 water, or the size of the cube increases by 5 feet, for each slot level
 above 1st.
@@ -4435,7 +4450,7 @@ before the current 24-hour period ends. This use of the spell reasserts
 your control over up to three creatures you have animated with this
 spell, rather than animating new ones.
 
-***At Higher Levels***. When you cast this spell using a 7th-level spell
+:bi:`At Higher Levels`. When you cast this spell using a 7th-level spell
 slot, you can animate or reassert control over four ghouls. When you
 cast this spell using an 8th-level spell slot, you can animate or
 reassert control over five ghouls or two ghasts or wights. When you cast
@@ -4483,7 +4498,7 @@ of multiple materials, use the shortest duration.
 Using any material created by this spell as another spell's material
 component causes that spell to fail.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the cube increases by 5 feet for each slot level
 above 5th.
 
@@ -4504,7 +4519,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your
 spellcasting ability modifier. This spell has no effect on undead or
 constructs.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the healing increases by 1d8 for each slot level
 above 1st.
 
@@ -4664,7 +4679,7 @@ explodes.
 The fire damages objects in the area and ignites flammable objects that
 aren't being worn or carried.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 8th level or higher, the base damage increases by 1d6 for each slot
 level above 7th.
 
@@ -4900,7 +4915,7 @@ object or a creation of magical force. If the target is a Huge or larger
 object or creation of force, this spell disintegrates a 10-foot cube
 portion of it. A magic item is unaffected by this spell.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, the damage increases by 3d6 for each slot level
 above 6th.
 
@@ -4925,12 +4940,12 @@ attack rolls against you.
 You can end the spell early by using either of the following special
 functions.
 
-***Break Enchantment***. As your action, you touch a creature you can
+:bi:`Break Enchantment`. As your action, you touch a creature you can
 reach that is charmed, frightened, or possessed by a celestial, an
 elemental, a fey, a fiend, or an undead. The creature you touch is no
 longer charmed, frightened, or possessed by such creatures.
 
-***Dismissal***. As your action, make a melee spell attack against a
+:bi:`Dismissal`. As your action, make a melee spell attack against a
 celestial, an elemental, a fey, a fiend, or an undead you can reach. On
 a hit, you attempt to drive the creature back to its home plane. The
 creature must succeed on a Charisma saving throw or be sent back to its
@@ -4957,7 +4972,7 @@ higher on the target, make an ability check using your spellcasting
 ability. The DC equals 10 + the spell's level. On a successful check,
 the spell ends.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, you automatically end the effects of a spell on the
 target if the spell's level is equal to or less than the level of the
 spell slot you used.
@@ -5073,7 +5088,7 @@ requires you to use your own reaction as well.
 Each time the target takes damage, it makes a new Wisdom saving throw
 against the spell. If the saving throw succeeds, the spell ends.
 
-***At Higher Levels***. When you cast this spell with a 5th-level spell
+:bi:`At Higher Levels`. When you cast this spell with a 5th-level spell
 slot, the duration is concentration, up to 10 minutes. When you use a
 6th-level spell slot, the duration is concentration, up to 1 hour. When
 you use a spell slot of 7th level or higher, the duration is
@@ -5115,7 +5130,7 @@ requires you to use your own reaction as well.
 Each time the target takes damage, it makes a new Wisdom saving throw
 against the spell. If the saving throw succeeds, the spell ends.
 
-***At Higher Levels***. When you cast this spell with a 9th-level spell
+:bi:`At Higher Levels`. When you cast this spell with a 9th-level spell
 slot, the duration is concentration, up to 8 hours.
 
 Dominate Person
@@ -5154,7 +5169,7 @@ requires you to use your own reaction as well.
 Each time the target takes damage, it makes a new Wisdom saving throw
 against the spell. If the saving throw succeeds, the spell ends.
 
-***At Higher Levels***. When you cast this spell using a 6th-level spell
+:bi:`At Higher Levels`. When you cast this spell using a 6th-level spell
 slot, the duration is concentration, up to 10 minutes. When you use a
 7th-level spell slot, the duration is concentration, up to 1 hour. When
 you use a spell slot of 8th level or higher, the duration is
@@ -5238,7 +5253,7 @@ Dexterity saving throw. On a failed save, the creature is knocked prone.
 This spell can have additional effects depending on the terrain in the
 area, as determined by the GM.
 
-***Fissures***. Fissures open throughout the spell's area at the start
+:bi:`Fissures`. Fissures open throughout the spell's area at the start
 of your next turn after you cast the spell. A total of 1d6 such fissures
 open in locations chosen by the GM. Each is 1d10 × 10 feet deep, 10 feet
 wide, and extends from one edge of the spell's area to the opposite
@@ -5249,7 +5264,7 @@ saves moves with the fissure's edge as it opens.
 A fissure that opens beneath a structure causes it to automatically
 collapse (see below).
 
-***Structures***. The tremor deals 50 bludgeoning damage to any
+:bi:`Structures`. The tremor deals 50 bludgeoning damage to any
 structure in contact with the ground in the area when you cast the spell
 and at the start of each of your turns until the spell ends. If a
 structure drops to 0 hit points, it collapses and potentially damages
@@ -5278,24 +5293,24 @@ You touch a creature and bestow upon it a magical enhancement. Choose
 one of the following effects; the target gains that effect until the
 spell ends.
 
-***Bear's Endurance***. The target has advantage on Constitution checks.
+:bi:`Bear's Endurance`. The target has advantage on Constitution checks.
 It also gains 2d6 temporary hit points, which are lost when the spell
 ends.
 
-***Bull's Strength***. The target has advantage on Strength checks, and
+:bi:`Bull's Strength`. The target has advantage on Strength checks, and
 his or her carrying capacity doubles.
 
-***Cat's Grace***. The target has advantage on Dexterity checks. It also
+:bi:`Cat's Grace`. The target has advantage on Dexterity checks. It also
 doesn't take damage from falling 20 feet or less if it isn't
 incapacitated.
 
-***Eagle's Splendor***. The target has advantage on Charisma checks.
+:bi:`Eagle's Splendor`. The target has advantage on Charisma checks.
 
-***Fox's Cunning***. The target has advantage on Intelligence checks.
+:bi:`Fox's Cunning`. The target has advantage on Intelligence checks.
 
-***Owl's Wisdom***. The target has advantage on Wisdom checks.
+:bi:`Owl's Wisdom`. The target has advantage on Wisdom checks.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, you can target one additional creature for each
 slot level above 2nd.
 
@@ -5322,7 +5337,7 @@ If the target is a creature, everything it is wearing and carrying
 changes size with it. Any item dropped by an affected creature returns
 to normal size at once.
 
-***Enlarge***. The target's size doubles in all dimensions, and its
+:bi:`Enlarge`. The target's size doubles in all dimensions, and its
 weight is multiplied by eight. This growth increases its size by one
 category- from Medium to Large, for example. If there isn't enough room
 for the target to double its size, the creature or object attains the
@@ -5332,7 +5347,7 @@ The target's weapons also grow to match its new size. While these
 weapons are enlarged, the target's attacks with them deal 1d4 extra
 damage.
 
-***Reduce***. The target's size is halved in all dimensions, and its
+:bi:`Reduce`. The target's size is halved in all dimensions, and its
 weight is reduced to one-eighth of normal. This reduction decreases its
 size by one category-from Medium to Small, for example. Until the spell
 ends, the target also has disadvantage on Strength checks and Strength
@@ -5428,7 +5443,7 @@ This spell has no effect if you cast it while you are on the Ethereal
 Plane or a plane that doesn't border it, such as one of the Outer
 Planes.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 8th level or higher, you can target up to three willing creatures
 (including you) for each slot level above 7th. The creatures must be
 within 10 feet of you when you cast the spell.
@@ -5471,17 +5486,17 @@ turns until the spell ends, you can use your action to target another
 creature but can't target a creature again if it has succeeded on a
 saving throw against this casting of *eyebite*.
 
-***Asleep***. The target falls unconscious. It wakes up if it takes any
+:bi:`Asleep`. The target falls unconscious. It wakes up if it takes any
 damage or if another creature uses its action to shake the sleeper
 awake.
 
-***Panicked***. The target is frightened of you. On each of its turns,
+:bi:`Panicked`. The target is frightened of you. On each of its turns,
 the frightened creature must take the Dash action and move away from you
 by the safest and shortest available route, unless there is nowhere to
 move. If the target moves to a place at least 60 feet away from you
 where it can no longer see you, this effect ends.
 
-***Sickened***. The target has disadvantage on attack rolls and ability
+:bi:`Sickened`. The target has disadvantage on attack rolls and ability
 checks. At the end of each of its turns, it can make another Wisdom
 saving throw. If it succeeds, the effect ends.
 
@@ -5587,7 +5602,7 @@ False Life
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 +
 4 temporary hit points for the duration.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you gain 5 additional temporary hit points for each
 slot level above 1st.
 
@@ -5803,7 +5818,7 @@ failed save, or half as much damage on a successful one.
 The fire spreads around corners. It ignites flammable objects in the
 area that aren't being worn or carried.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the damage increases by 1d6 for each slot level
 above 3rd.
 
@@ -5880,7 +5895,7 @@ blade. On a hit, the target takes 3d6 fire damage.
 The flaming blade sheds bright light in a 10-foot radius and dim light
 for an additional 10 feet.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the damage increases by 1d6 for every two slot
 levels above 2nd.
 
@@ -5903,7 +5918,7 @@ cylinder centered on a point within range must make a Dexterity saving
 throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a
 failed save, or half as much damage on a successful one.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the fire damage or the radiant damage (your choice)
 increases by 1d6 for each slot level above 5th.
 
@@ -5936,7 +5951,7 @@ tall and jump it across pits up to 10 feet wide. The sphere ignites
 flammable objects not being worn or carried, and it sheds bright light
 in a 20-foot radius and dim light for an additional 20 feet.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, the damage increases by 1d6 for each slot level
 above 2nd.
 
@@ -6020,7 +6035,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet
 for the duration. When the spell ends, the target falls if it is still
 aloft, unless it can stop the fall.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, you can target one additional creature for each
 slot level above 3rd.
 
@@ -6042,7 +6057,7 @@ range. The sphere spreads around corners, and its area is heavily
 obscured. It lasts for the duration or until a wind of moderate or
 greater speed (at least 10 miles per hour) disperses it.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the radius of the fog increases by 20 feet for each
 slot level above 1st.
 
@@ -6203,7 +6218,7 @@ effect as the normal casting of the spell. You can also set the globe
 down without shattering it. After 1 minute, if the globe hasn't already
 shattered, it explodes.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, the damage increases by 1d6 for each slot level
 above 6th.
 
@@ -6306,7 +6321,7 @@ ends.
 You can end the spell early by using an action to dismiss it. A *remove
 curse*, *greater restoration*, or *wish* spell also ends it.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th or 8th level, the duration is 1 year. When you cast this spell using
 a spell slot of 9th level, the spell lasts until it is ended by one of
 the spells mentioned above.
@@ -6404,7 +6419,7 @@ within the barrier, but the spell has no effect on them. Similarly, the
 area within the barrier is excluded from the areas affected by such
 spells.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, the barrier blocks spells of one level higher for
 each slot level above 6th.
 
@@ -6452,14 +6467,14 @@ certain password.
 When you inscribe the glyph, choose *explosive runes* or a *spell
 glyph*.
 
-***Explosive Runes***. When triggered, the glyph erupts with magical
+:bi:`Explosive Runes`. When triggered, the glyph erupts with magical
 energy in a 20-foot radius sphere centered on the glyph. The sphere
 spreads around corners. Each creature in the area must make a Dexterity
 saving throw. A creature takes 5d8 acid, cold, fire, lightning, or
 thunder damage on a failed saving throw (your choice when you create the
 glyph), or half as much damage on a successful one.
 
-***Spell Glyph***. You can store a prepared spell of 3rd level or lower
+:bi:`Spell Glyph`. You can store a prepared spell of 3rd level or lower
 in the glyph by casting it as part of creating the glyph. The spell must
 target a single creature or an area. The spell being stored has no
 immediate effect when cast in this way. When the glyph is triggered, the
@@ -6470,7 +6485,7 @@ creates harmful objects or traps, they appear as close as possible to
 the intruder and attack it. If the spell requires concentration, it
 lasts until the end of its full duration.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the damage of an *explosive runes* glyph increases
 by 1d8 for each slot level above 3rd. If you create a *spell glyph*, you
 can store any spell of up to the same level as the slot you use for the
@@ -6569,23 +6584,23 @@ these effects.
 
 *Guards and wards* creates the following effects within the warded area.
 
-***Corridors***. Fog fills all the warded corridors, making them heavily
+:bi:`Corridors`. Fog fills all the warded corridors, making them heavily
 obscured. In addition, at each intersection or branching passage
 offering a choice of direction, there is a 50 percent chance that a
 creature other than you will believe it is going in the opposite
 direction from the one it chooses.
 
-***Doors***. All doors in the warded area are magically locked, as if
+:bi:`Doors`. All doors in the warded area are magically locked, as if
 sealed by an *arcane lock* spell. In addition, you can cover up to ten
 doors with an illusion (equivalent to the illusory object function of
 the *minor illusion* spell) to make them appear as plain sections of
 wall.
 
-***Stairs***. Webs fill all stairs in the warded area from top to
+:bi:`Stairs`. Webs fill all stairs in the warded area from top to
 bottom, as the *web* spell. These strands regrow in 10 minutes if they
 are burned or torn away while *guards and wards* lasts.
 
-***Other Spell Effect***. You can place your choice of one of the
+:bi:`Other Spell Effect`. You can place your choice of one of the
 following magical effects within the warded area of the stronghold.
 
 -  Place dancing lights in four corridors. You can designate a simple
@@ -6646,7 +6661,7 @@ takes 4d6 radiant damage, and the next attack roll made against this
 target before the end of your next turn has advantage, thanks to the
 mystical dim light glittering on the target until then.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the damage increases by 1d6 for each slot level
 above 1st.
 
@@ -6718,36 +6733,36 @@ time on a turn or starts its turn there, it can make a Charisma saving
 throw. On a success, the creature ignores the extra effect until it
 leaves the area.
 
-***Courage***. Affected creatures can't be frightened while in the area.
+:bi:`Courage`. Affected creatures can't be frightened while in the area.
 
-***Darkness***. Darkness fills the area. Normal light, as well as
+:bi:`Darkness`. Darkness fills the area. Normal light, as well as
 magical light created by spells of a lower level than the slot you used
 to cast this spell, can't illuminate the area.
 
-***Daylight***. Bright light fills the area. Magical darkness created by
+:bi:`Daylight`. Bright light fills the area. Magical darkness created by
 spells of a lower level than the slot you used to cast this spell can't
 extinguish the light.
 
-***Energy Protection***. Affected creatures in the area have resistance
+:bi:`Energy Protection`. Affected creatures in the area have resistance
 to one damage type of your choice, except for bludgeoning, piercing, or
 slashing.
 
-***Energy Vulnerability***. Affected creatures in the area have
+:bi:`Energy Vulnerability`. Affected creatures in the area have
 vulnerability to one damage type of your choice, except for bludgeoning,
 piercing, or slashing.
 
-***Everlasting Rest***. Dead bodies interred in the area can't be turned
+:bi:`Everlasting Rest`. Dead bodies interred in the area can't be turned
 into undead.
 
-***Extradimensional Interference***. Affected creatures can't move or
+:bi:`Extradimensional Interference`. Affected creatures can't move or
 travel using teleportation or by extradimensional or interplanar means.
 
-***Fear***. Affected creatures are frightened while in the area.
+:bi:`Fear`. Affected creatures are frightened while in the area.
 
-***Silence***. No sound can emanate from within the area, and no sound
+:bi:`Silence`. No sound can emanate from within the area, and no sound
 can reach into it.
 
-***Tongues***. Affected creatures can communicate with any other
+:bi:`Tongues`. Affected creatures can communicate with any other
 creature in the area, even if they don't share a common language.
 
 Hallucinatory Terrain
@@ -6841,7 +6856,7 @@ energy washes through the creature, causing it to regain 70 hit points.
 This spell also ends blindness, deafness, and any diseases affecting the
 target. This spell has no effect on constructs or undead.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, the amount of healing increases by 10 for each slot
 level above 6th.
 
@@ -6862,7 +6877,7 @@ A creature of your choice that you can see within range regains hit
 points equal to 1d4 + your spellcasting ability modifier. This spell has
 no effect on undead or constructs.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the healing increases by 1d4 for each slot level
 above 1st.
 
@@ -6891,7 +6906,7 @@ it, the creature must succeed on a Constitution saving throw or drop the
 object if it can. If it doesn't drop the object, it has disadvantage on
 attack rolls and ability checks until the start of your next turn.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, the damage increases by 1d8 for each slot level
 above 2nd.
 
@@ -6939,7 +6954,7 @@ points equal to your spellcasting ability modifier at the start of each
 of its turns. When the spell ends, the target loses any remaining
 temporary hit points from this spell.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you can target one additional creature for each
 slot level above 1st.
 
@@ -6988,7 +7003,7 @@ has no effect on undead. At the end of each of its turns, the target can
 make another Wisdom saving throw. On a success, the spell ends on the
 target.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, you can target one additional creature for each
 slot level above 5th. The creatures must be within 30 feet of each other
 when you target them.
@@ -7011,7 +7026,7 @@ on a Wisdom saving throw or be paralyzed for the duration. At the end of
 each of its turns, the target can make another Wisdom saving throw. On a
 success, the spell ends on the target.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, you can target one additional humanoid for each
 slot level above 2nd. The humanoids must be within 30 feet of each other
 when you target them.
@@ -7089,7 +7104,7 @@ damage on a successful one.
 Hailstones turn the storm's area of effect into difficult terrain until
 the end of your next turn.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 5th level or higher, the bludgeoning damage increases by 1d8 for each
 slot level above 4th.
 
@@ -7173,7 +7188,7 @@ locate or perceive the target.
 When you cast the spell, you choose one of the following forms of
 imprisonment.
 
-***Burial***. The target is entombed far beneath the earth in a sphere
+:bi:`Burial`. The target is entombed far beneath the earth in a sphere
 of magical force that is just large enough to contain the target.
 Nothing can pass through the sphere, nor can any creature teleport or
 use planar travel to get into or out of it.
@@ -7181,14 +7196,14 @@ use planar travel to get into or out of it.
 The special component for this version of the spell is a small mithral
 orb.
 
-***Chaining***. Heavy chains, firmly rooted in the ground, hold the
+:bi:`Chaining`. Heavy chains, firmly rooted in the ground, hold the
 target in place. The target is restrained until the spell ends, and it
 can't move or be moved by any means until then.
 
 The special component for this version of the spell is a fine chain of
 precious metal.
 
-***Hedged Prison***. The spell transports the target into a tiny
+:bi:`Hedged Prison`. The spell transports the target into a tiny
 demiplane that is warded against teleportation and planar travel. The
 demiplane can be a labyrinth, a cage, a tower, or any similar confined
 structure or area of your choice.
@@ -7196,7 +7211,7 @@ structure or area of your choice.
 The special component for this version of the spell is a miniature
 representation of the prison made from jade.
 
-***Minimus Containment***. The target shrinks to a height of 1 inch and
+:bi:`Minimus Containment`. The target shrinks to a height of 1 inch and
 is imprisoned inside a gemstone or similar object. Light can pass
 through the gemstone normally (allowing the target to see out and other
 creatures to see in), but nothing else can pass through, even by means
@@ -7206,11 +7221,11 @@ while the spell remains in effect.
 The special component for this version of the spell is a large,
 transparent gemstone, such as a corundum, diamond, or ruby.
 
-***Slumber***. The target falls asleep and can't be awoken. The special
+:bi:`Slumber`. The target falls asleep and can't be awoken. The special
 component for this version of the spell consists of rare soporific
 herbs.
 
-***Ending the Spell***. During the casting of the spell, in any of its
+:bi:`Ending the Spell`. During the casting of the spell, in any of its
 versions, you can specify a condition that will cause the spell to end
 and release the target. The condition can be as specific or as elaborate
 as you choose, but the GM must agree that the condition is reasonable
@@ -7271,7 +7286,7 @@ Inflict Wounds
 Make a melee spell attack against a creature you can reach. On a hit,
 the target takes 3d10 necrotic damage.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the damage increases by 1d10 for each slot level
 above 1st.
 
@@ -7300,7 +7315,7 @@ half as much damage on a successful one. A creature must also make this
 saving throw when it enters the spell's area for the first time on a
 turn or ends its turn there.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the damage increases by 1d10 for each slot level
 above 5th.
 
@@ -7353,7 +7368,7 @@ the target is wearing or carrying is invisible as long as it is on the
 target's person. The spell ends for a target that attacks or casts a
 spell.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, you can target one additional creature for each
 slot level above 2nd.
 
@@ -7555,7 +7570,7 @@ damage on a failed save, or half as much damage on a successful one.
 The lightning ignites flammable objects in the area that aren't being
 worn or carried.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the damage increases by 1d6 for each slot level
 above 3rd.
 
@@ -7647,7 +7662,7 @@ Longstrider
 You touch a creature. The target's speed increases by 10 feet until the
 spell ends.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you can target one additional creature for each
 slot level above 1st.
 
@@ -7735,7 +7750,7 @@ When you cast this spell, you can elect to cause its magic to operate in
 the reverse direction, preventing a creature of the specified type from
 leaving the cylinder and protecting targets outside it.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the duration increases by 1 hour for each slot
 level above 3rd.
 
@@ -7812,7 +7827,7 @@ creature of your choice that you can see within range. A dart deals 1d4
 + 1 force damage to its target. The darts all strike simultaneously, and
 you can direct them to hit one creature or several.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the spell creates one more dart for each slot level
 above 1st.
 
@@ -7867,7 +7882,7 @@ Magic Weapon
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes
 a magic weapon with a +1 bonus to attack rolls and damage rolls.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the bonus increases to +2. When you use a spell
 slot of 6th level or higher, the bonus increases to +3.
 
@@ -7950,7 +7965,7 @@ creature discerns the illusion for what it is, the creature can see
 through the image, and its other sensory qualities become faint to the
 creature.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the spell lasts until dispelled, without requiring
 your concentration.
 
@@ -7973,7 +7988,7 @@ that point. Each target regains hit points equal to 3d8 + your
 spellcasting ability modifier. This spell has no effect on undead or
 constructs.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the healing increases by 1d8 for each slot level
 above 5th.
 
@@ -8014,7 +8029,7 @@ that you can see within range regain hit points equal to 1d4 + your
 spellcasting ability modifier. This spell has no effect on undead or
 constructs.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the healing increases by 1d4 for each slot level
 above 3rd.
 
@@ -8055,7 +8070,7 @@ condition isn't met before the spell ends, the activity isn't performed.
 If you or any of your companions damage a creature affected by this
 spell, the spell ends for that creature.
 
-***At Higher Levels***. When you cast this spell using a 7th-level spell
+:bi:`At Higher Levels`. When you cast this spell using a 7th-level spell
 slot, the duration is 10 days. When you use an 8th-level spell slot, the
 duration is 30 days. When you use a 9th-level spell slot, the duration
 is a year and a day.
@@ -8397,7 +8412,7 @@ manner.
 A *remove curse* or *greater restoration* spell cast on the target
 restores the creature's true memory.
 
-***At Higher Levels***. If you cast this spell using a spell slot of 6th
+:bi:`At Higher Levels`. If you cast this spell using a spell slot of 6th
 level or higher, you can alter the target's memories of an event that
 took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year
 ago (8th level), or any time in the creature's past (9th level).
@@ -8433,7 +8448,7 @@ form until it leaves the spell's light.
 On each of your turns after you cast this spell, you can use an action
 to move the beam up to 60 feet in any direction.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, the damage increases by 1d10 for each slot level
 above 2nd.
 
@@ -8567,7 +8582,7 @@ of the target's turns before the spell ends, the target must succeed on
 a Wisdom saving throw or take 4d10 psychic damage. On a successful save,
 the spell ends.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 5th level or higher, the damage increases by 1d10 for each slot level
 above 4th.
 
@@ -8684,7 +8699,7 @@ ends, it travels to you to report this fact if you are on the same plane
 of existence. If you are on a different plane of existence, it returns
 to the place where you bound it and remains there until the spell ends.
 
-***At Higher Levels***. When you cast this spell using a spell slot of a
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of a
 higher level, the duration increases to 10 days with a 6th-level slot,
 to 30 days with a 7th-level slot, to 180 days with an 8th-level slot,
 and to a year and a day with a 9th-level spell slot.
@@ -8847,7 +8862,7 @@ Up to six creatures of your choice that you can see within range each
 regain hit points equal to 2d8 + your spellcasting ability modifier.
 This spell has no effect on undead or constructs.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, the healing increases by 1d8 for each slot level
 above 2nd.
 
@@ -8909,22 +8924,22 @@ different color and has a different power and purpose. Each creature in
 a 60-foot cone must make a Dexterity saving throw. For each target, roll
 a d8 to determine which color ray affects it.
 
-1. ***Red***. The target takes 10d6 fire damage on a failed save, or
+1. :bi:`Red`. The target takes 10d6 fire damage on a failed save, or
    half as much damage on a successful one.
 
-2. ***Orange***. The target takes 10d6 acid damage on a failed save, or
+2. :bi:`Orange`. The target takes 10d6 acid damage on a failed save, or
    half as much damage on a successful one.
 
-3. ***Yellow***. The target takes 10d6 lightning damage on a failed
+3. :bi:`Yellow`. The target takes 10d6 lightning damage on a failed
    save, or half as much damage on a successful one.
 
-4. ***Green***. The target takes 10d6 poison damage on a failed save, or
+4. :bi:`Green`. The target takes 10d6 poison damage on a failed save, or
    half as much damage on a successful one.
 
-5. ***Blue***. The target takes 10d6 cold damage on a failed save, or
+5. :bi:`Blue`. The target takes 10d6 cold damage on a failed save, or
    half as much damage on a successful one.
 
-6. ***Indigo***. On a failed save, the target is restrained. It must
+6. :bi:`Indigo`. On a failed save, the target is restrained. It must
    then make a Constitution saving throw at the end of each of its
    turns. If it successfully saves three times, the spell ends. If it
    fails its save three times, it permanently turns to stone and is
@@ -8932,7 +8947,7 @@ a d8 to determine which color ray affects it.
    don't need to be consecutive; keep track of both until the target
    collects three of a kind.
 
-7. ***Violet***. On a failed save, the target is blinded. It must then
+7. :bi:`Violet`. On a failed save, the target is blinded. It must then
    make a Wisdom saving throw at the start of your next turn. A
    successful save ends the blindness. If it fails that save, the
    creature is transported to another plane of existence of the GM's
@@ -8940,7 +8955,7 @@ a d8 to determine which color ray affects it.
    a plane that isn't its home plane is banished home, while other
    creatures are usually cast into the Astral or Ethereal planes.)
 
-8. ***Special***. The target is struck by two rays. Roll twice more,
+8. :bi:`Special`. The target is struck by two rays. Roll twice more,
    rerolling any 8.
 
 Prismatic Wall
@@ -8986,30 +9001,30 @@ to violet, by means specific to each layer. Once a layer is destroyed,
 it remains so for the duration of the spell. An *antimagic field* has no
 effect on it.
 
-1. ***Red***. The creature takes 10d6 fire damage on a failed save, or
+1. :bi:`Red`. The creature takes 10d6 fire damage on a failed save, or
    half as much damage on a successful one. While this layer is in
    place, nonmagical ranged attacks can't pass through the wall. The
    layer can be destroyed by dealing at least 25 cold damage to it.
 
-2. ***Orange***. The creature takes 10d6 acid damage on a failed save,
+2. :bi:`Orange`. The creature takes 10d6 acid damage on a failed save,
    or half as much damage on a successful one. While this layer is in
    place, magical ranged attacks can't pass through the wall. The layer
    is destroyed by a strong wind.
 
-3. ***Yellow***. The creature takes 10d6 lightning damage on a failed
+3. :bi:`Yellow`. The creature takes 10d6 lightning damage on a failed
    save, or half as much damage on a successful one. This layer can be
    destroyed by dealing at least 60 force damage to it.
 
-4. ***Green***. The creature takes 10d6 poison damage on a failed save,
+4. :bi:`Green`. The creature takes 10d6 poison damage on a failed save,
    or half as much damage on a successful one. A *passwall* spell, or
    another spell of equal or greater level that can open a portal on a
    solid surface, destroys this layer.
 
-5. ***Blue***. The creature takes 10d6 cold damage on a failed save, or
+5. :bi:`Blue`. The creature takes 10d6 cold damage on a failed save, or
    half as much damage on a successful one. This layer can be destroyed
    by dealing at least 25 fire damage to it.
 
-6. ***Indigo***. On a failed save, the creature is restrained. It must
+6. :bi:`Indigo`. On a failed save, the creature is restrained. It must
    then make a Constitution saving throw at the end of each of its
    turns. If it successfully saves three times, the spell ends. If it
    fails its save three times, it permanently turns to stone and is
@@ -9019,7 +9034,7 @@ effect on it.
    be cast through the wall. The layer is destroyed by bright light shed
    by a *daylight* spell or a similar spell of equal or higher level.
 
-7. ***Violet***. On a failed save, the creature is blinded. It must then
+7. :bi:`Violet`. On a failed save, the creature is blinded. It must then
    make a Wisdom saving throw at the start of your next turn. A
    successful save ends the blindness. If it fails that save, the
    creature is transported to another plane of the GM's choosing and is
@@ -9065,7 +9080,7 @@ provides, choosing any or all of the following properties:
 -  Planar travel is blocked within the warded area. Casting this spell
    on the same spot every day for a year makes this effect permanent.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 5th level or higher, you can increase the size of the cube by 100 feet
 for each slot level beyond 4th. Thus you could protect a cube that can
 be up to 200 feet on one side by using a spell slot of 5th level.
@@ -9670,7 +9685,7 @@ can hurl them at one target or several.
 Make a ranged spell attack for each ray. On a hit, the target takes 2d6
 fire damage.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, you create one additional ray for each slot level
 above 2nd.
 
@@ -9945,7 +9960,7 @@ crystal, or metal has disadvantage on this saving throw.
 A nonmagical object that isn't being worn or carried also takes the
 damage if it's in the spell's area.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, the damage increases by 1d8 for each slot level
 above 2nd.
 
@@ -10149,7 +10164,7 @@ creature to be affected.
 Undead and creatures immune to being charmed aren't affected by this
 spell.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, roll an additional 2d8 for each slot level above
 1st.
 
@@ -10364,7 +10379,7 @@ a failed save, the creature takes 3d8 radiant damage (if you are good or
 neutral) or 3d8 necrotic damage (if you are evil). On a successful save,
 the creature takes half as much damage.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the damage increases by 1d8 for each slot level
 above 3rd.
 
@@ -10395,7 +10410,7 @@ associated with a particular weapon (as St. Cuthbert is known for his
 mace and Thor for his hammer) make this spell's effect resemble that
 weapon.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, the damage increases by 1d8 for every two slot
 levels above 2nd.
 
@@ -10489,20 +10504,20 @@ thunder damage and becomes deafened for 5 minutes.
 Each round you maintain concentration on this spell, the storm produces
 different effects on your turn.
 
-***Round 2***. Acidic rain falls from the cloud. Each creature and
+:bi:`Round 2`. Acidic rain falls from the cloud. Each creature and
 object under the cloud takes 1d6 acid damage.
 
-***Round 3***. You call six bolts of lightning from the cloud to strike
+:bi:`Round 3`. You call six bolts of lightning from the cloud to strike
 six creatures or objects of your choice beneath the cloud. A given
 creature or object can't be struck by more than one bolt. A struck
 creature must make a Dexterity saving throw. The creature takes 10d6
 lightning damage on a failed save, or half as much damage on a
 successful one.
 
-***Round 4***. Hailstones rain down from the cloud. Each creature under
+:bi:`Round 4`. Hailstones rain down from the cloud. Each creature under
 the cloud takes 2d6 bludgeoning damage.
 
-***Round 5-10***. Gusts and freezing rain assail the area under the
+:bi:`Round 5-10`. Gusts and freezing rain assail the area under the
 cloud. The area becomes difficult terrain and is heavily obscured. Each
 creature there takes 1d6 cold damage. Ranged weapon attacks in the area
 are impossible. The wind and rain count as a severe distraction for the
@@ -10647,40 +10662,40 @@ creature in the sphere when the glyph activates is targeted by its
 effect, as is a creature that enters the sphere for the first time on a
 turn or ends its turn there.
 
-***Death***. Each target must make a Constitution saving throw, taking
+:bi:`Death`. Each target must make a Constitution saving throw, taking
 10d10 necrotic damage on a failed save, or half as much damage on a
 successful save.
 
-***Discord***. Each target must make a Constitution saving throw. On a
+:bi:`Discord`. Each target must make a Constitution saving throw. On a
 failed save, a target bickers and argues with other creatures for 1
 minute. During this time, it is incapable of meaningful communication
 and has disadvantage on attack rolls and ability checks.
 
-***Fear***. Each target must make a Wisdom saving throw and becomes
+:bi:`Fear`. Each target must make a Wisdom saving throw and becomes
 frightened for 1 minute on a failed save. While frightened, the target
 drops whatever it is holding and must move at least 30 feet away from
 the glyph on each of its turns, if able.
 
-***Hopelessness***. Each target must make a Charisma saving throw. On a
+:bi:`Hopelessness`. Each target must make a Charisma saving throw. On a
 failed save, the target is overwhelmed with despair for 1 minute. During
 this time, it can't attack or target any creature with harmful
 abilities, spells, or other magical effects.
 
-***Insanity***. Each target must make an Intelligence saving throw. On a
+:bi:`Insanity`. Each target must make an Intelligence saving throw. On a
 failed save, the target is driven insane for 1 minute. An insane
 creature can't take actions, can't understand what other creatures say,
 can't read, and speaks only in gibberish. The GM controls its movement,
 which is erratic.
 
-***Pain***. Each target must make a Constitution saving throw and
+:bi:`Pain`. Each target must make a Constitution saving throw and
 becomes incapacitated with excruciating pain for 1 minute on a failed
 save.
 
-***Sleep***. Each target must make a Wisdom saving throw and falls
+:bi:`Sleep`. Each target must make a Wisdom saving throw and falls
 unconscious for 10 minutes on a failed save. A creature awakens if it
 takes damage or if someone uses an action to shake or slap it awake.
 
-***Stunning***. Each target must make a Wisdom saving throw and becomes
+:bi:`Stunning`. Each target must make a Wisdom saving throw and becomes
 stunned for 1 minute on a failed save.
 
 Spells (T)
@@ -10706,7 +10721,7 @@ see within range, causing the appropriate effect below. You can affect
 the same target round after round, or choose a new one at any time. If
 you switch targets, the prior target is no longer affected by the spell.
 
-***Creature***. You can try to move a Huge or smaller creature. Make an
+:bi:`Creature`. You can try to move a Huge or smaller creature. Make an
 ability check with your spellcasting ability contested by the creature's
 Strength check. If you win the contest, you move the creature up to 30
 feet in any direction, including upward but not beyond the range of this
@@ -10716,7 +10731,7 @@ your telekinetic grip. A creature lifted upward is suspended in mid-air.
 On subsequent rounds, you can use your action to attempt to maintain
 your telekinetic grip on the creature by repeating the contest.
 
-***Object***. You can try to move an object that weighs up to 1,000
+:bi:`Object`. You can try to move an object that weighs up to 1,000
 pounds. If the object isn't being worn or carried, you automatically
 move it up to 30 feet in any direction, but not beyond the range of this
 spell.
@@ -10798,7 +10813,7 @@ consults the table.
 | False destination   | 01-50        | 51-100             | -                | -               |
 +---------------------+--------------+--------------------+------------------+-----------------+
 
-***Familiarity***. "Permanent circle" means a permanent teleportation
+:bi:`Familiarity`. "Permanent circle" means a permanent teleportation
 circle whose sigil sequence you know. "Associated object" means that you
 possess an object taken from the desired destination within the last six
 months, such as a book from a wizard's library, bed linen from a royal
@@ -10816,10 +10831,10 @@ map.
 scry an enemy's sanctum but instead viewed an illusion, or you are
 attempting to teleport to a familiar location that no longer exists.
 
-***On Target***. You and your group (or the target object) appear where
+:bi:`On Target`. You and your group (or the target object) appear where
 you want to.
 
-***Off Target***. You and your group (or the target object) appear a
+:bi:`Off Target`. You and your group (or the target object) appear a
 random distance away from the destination in a random direction.
 Distance off target is 1d10 × 1d10 percent of the distance that was to
 be traveled. For example, if you tried to travel 120 miles, landed off
@@ -10830,7 +10845,7 @@ northeast, 3 as east, and so on around the points of the compass. If you
 were teleporting to a coastal city and wound up 18 miles out at sea, you
 could be in trouble.
 
-***Similar Area***. You and your group (or the target object) wind up in
+:bi:`Similar Area`. You and your group (or the target object) wind up in
 a different area that's visually or thematically similar to the target
 area. If you are heading for your home laboratory, for example, you
 might wind up in another wizard's laboratory or in an alchemical supply
@@ -10838,7 +10853,7 @@ shop that has many of the same tools and implements as your laboratory.
 Generally, you appear in the closest similar place, but since the spell
 has no range limit, you could conceivably wind up anywhere on the plane.
 
-***Mishap***. The spell's unpredictable magic results in a difficult
+:bi:`Mishap`. The spell's unpredictable magic results in a difficult
 journey. Each teleporting creature (or the target object) takes 3d10
 force damage, and the GM rerolls on the table to see where you wind up
 (multiple mishaps can occur, dealing damage each time).
@@ -10937,7 +10952,7 @@ In addition, unsecured objects that are completely within the area of
 effect are automatically pushed 10 feet away from you by the spell's
 effect, and the spell emits a thunderous boom audible out to 300 feet.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the damage increases by 1d8 for each slot level
 above 1st.
 
@@ -11083,7 +11098,7 @@ This spell has no effect on a shapechanger or a creature with 0 hit
 points. An unwilling creature can make a Wisdom saving throw, and if it
 succeeds, it isn't affected by this spell.
 
-***Creature into Creature***. If you turn a creature into another kind
+:bi:`Creature into Creature`. If you turn a creature into another kind
 of creature, the new form can be any kind you choose whose challenge
 rating is equal to or less than the target's (or its level, if the
 target doesn't have a challenge rating). The target's game statistics,
@@ -11105,7 +11120,7 @@ actions.
 The target's gear melds into the new form. The creature can't activate,
 use, wield, or otherwise benefit from any of its equipment.
 
-***Object into Creature***. You can turn an object into any kind of
+:bi:`Object into Creature`. You can turn an object into any kind of
 creature, as long as the creature's size is no larger than the object's
 size and the creature's challenge rating is 9 or lower. The creature is
 friendly to you and your companions. It acts on each of your turns. You
@@ -11115,7 +11130,7 @@ statistics and resolves all of its actions and movement.
 If the spell becomes permanent, you no longer control the creature. It
 might remain friendly to you, depending on how you have treated it.
 
-***Creature into Object***. If you turn a creature into an object, it
+:bi:`Creature into Object`. If you turn a creature into an object, it
 transforms along with whatever it is wearing and carrying into that
 form, as long as the object's size is no larger than the creature's
 size. The creature's statistics become those of the object, and the
@@ -11243,7 +11258,7 @@ regain hit points equal to half the amount of necrotic damage dealt.
 Until the spell ends, you can make the attack again on each of your
 turns as an action.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the damage increases by 1d6 for each slot level
 above 3rd.
 
@@ -11278,7 +11293,7 @@ that side or inside the wall. A creature takes the same damage when it
 enters the wall for the first time on a turn or ends its turn there. The
 other side of the wall deals no damage.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 5th level or higher, the damage increases by 1d8 for each slot level
 above 4th.
 
@@ -11345,7 +11360,7 @@ a turn must make a Constitution saving throw. That creature takes 5d6
 cold damage on a failed save, or half as much damage on a successful
 one.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, the damage the wall deals when it appears increases
 by 2d6, and the damage from passing through the sheet of frigid air
 increases by 1d6, for each slot level above 6th.
@@ -11426,7 +11441,7 @@ turn or ends its turn there, the creature must make a Dexterity saving
 throw. It takes 7d8 slashing damage on a failed save, or half as much
 damage on a successful one.
 
-***At Higher Levels***. When you cast this spell using a spell slot of
+:bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, both types of damage increase by 1d8 for each slot
 level above 6th.
 

@@ -1,4 +1,22 @@
-[TOC]
+========
+Treasure
+========
+
+
+.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
+
+.. raw:: html
+
+   <style type="text/css">
+     span.bolditalic {
+       font-weight: bold;
+       font-style: italic;
+     }
+   </style>
+
+.. role:: bi
+   :class: bolditalic
+
 
 Magic
 =====
@@ -215,7 +233,7 @@ While wearing this armor, you have resistance to one of the following
 damage types: bludgeoning, piercing, or slashing. The GM chooses the
 type or determines it randomly.
 
-***Curse***. This armor is cursed, a fact that is revealed only when an
+:bi:`Curse`. This armor is cursed, a fact that is revealed only when an
 *identify* spell is cast on the armor or you attune to it. Attuning to
 the armor curses you until you are targeted by the *remove curse* spell
 or similar magic; removing the armor fails to end the curse. While
@@ -558,7 +576,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic
 weapon. In addition, while you are attuned to this weapon, your hit
 point maximum increases by 1 for each level you have attained.
 
-***Curse***. This axe is cursed, and becoming attuned to it extends the
+:bi:`Curse`. This axe is cursed, and becoming attuned to it extends the
 curse to you. As long as you remain cursed, you are unwilling to part
 with the axe, keeping it within reach at all times. You also have
 disadvantage on attack rolls with weapons other than this one, unless no
@@ -918,13 +936,13 @@ diameter. While touching it, you can cast the *scrying* spell (save DC
 The following *crystal ball* variants are legendary items and have
 additional properties.
 
-***Crystal Ball of Mind Reading***. You can use an action to cast the
+:bi:`Crystal Ball of Mind Reading`. You can use an action to cast the
 *detect thoughts* spell (save DC 17) while you are scrying with the
 *crystal ball*, targeting creatures you can see within 30 feet of the
 spell's sensor. You don't need to concentrate on this *detect thoughts*
 to maintain it during its duration, but it ends if *scrying* ends.
 
-***Crystal Ball of Telepathy***. While scrying with the crystal ball,
+:bi:`Crystal Ball of Telepathy`. While scrying with the crystal ball,
 you can communicate telepathically with creatures you can see within 30
 feet of the spell's sensor. You can also use an action to cast the
 *suggestion* spell (save DC 17) through the sensor on one of those
@@ -933,7 +951,7 @@ maintain it during its duration, but it ends if *scrying* ends. Once
 used, the *suggestion* power of the *crystal ball* can't be used again
 until the next dawn.
 
-***Crystal Ball of True Seeing***. While scrying with the crystal ball,
+:bi:`Crystal Ball of True Seeing`. While scrying with the crystal ball,
 you have truesight with a radius of 120 feet centered on the spell's
 sensor.
 
@@ -1255,73 +1273,73 @@ to draw the same card twice.
 
 \*Found only in a deck with twenty-two cards
 
-***Balance***. Your mind suffers a wrenching alteration, causing your
+:bi:`Balance`. Your mind suffers a wrenching alteration, causing your
 alignment to change. Lawful becomes chaotic, good becomes evil, and vice
 versa. If you are true neutral or unaligned, this card has no effect on
 you.
 
-***Comet***. If you single-handedly defeat the next hostile monster or
+:bi:`Comet`. If you single-handedly defeat the next hostile monster or
 group of monsters you encounter, you gain experience points enough to
 gain one level. Otherwise, this card has no effect.
 
-***Donjon***. You disappear and become entombed in a state of suspended
+:bi:`Donjon`. You disappear and become entombed in a state of suspended
 animation in an extradimensional sphere. Everything you were wearing and
 carrying stays behind in the space you occupied when you disappeared.
 You remain imprisoned until you are found and removed from the sphere.
 You can't be located by any divination magic, but a *wish* spell can
 reveal the location of your prison. You draw no more cards.
 
-***Euryale***. The card's medusa-like visage curses you. You take a -2
+:bi:`Euryale`. The card's medusa-like visage curses you. You take a -2
 penalty on saving throws while cursed in this way. Only a god or the
 magic of The Fates card can end this curse.
 
-***The Fates***. Reality's fabric unravels and spins anew, allowing you
+:bi:`The Fates`. Reality's fabric unravels and spins anew, allowing you
 to avoid or erase one event as if it never happened. You can use the
 card's magic as soon as you draw the card or at any other time before
 you die.
 
-***Flames***. A powerful devil becomes your enemy. The devil seeks your
+:bi:`Flames`. A powerful devil becomes your enemy. The devil seeks your
 ruin and plagues your life, savoring your suffering before attempting to
 slay you. This enmity lasts until either you or the devil dies.
 
-***Fool***. You lose 10,000 XP, discard this card, and draw from the
+:bi:`Fool`. You lose 10,000 XP, discard this card, and draw from the
 deck again, counting both draws as one of your declared draws. If losing
 that much XP would cause you to lose a level, you instead lose an amount
 that leaves you with just enough XP to keep your level.
 
-***Gem***. Twenty-five pieces of jewelry worth 2,000 gp each or fifty
+:bi:`Gem`. Twenty-five pieces of jewelry worth 2,000 gp each or fifty
 gems worth 1,000 gp each appear at your feet.
 
-***Idiot***. Permanently reduce your Intelligence by 1d4 + 1 (to a
+:bi:`Idiot`. Permanently reduce your Intelligence by 1d4 + 1 (to a
 minimum score of 1). You can draw one additional card beyond your
 declared draws.
 
-***Jester***. You gain 10,000 XP, or you can draw two additional cards
+:bi:`Jester`. You gain 10,000 XP, or you can draw two additional cards
 beyond your declared draws.
 
-***Key***. A rare or rarer magic weapon with which you are proficient
+:bi:`Key`. A rare or rarer magic weapon with which you are proficient
 appears in your hands. The GM chooses the weapon.
 
-***Knight***. You gain the service of a 4th-level fighter who appears in
+:bi:`Knight`. You gain the service of a 4th-level fighter who appears in
 a space you choose within 30 feet of you. The fighter is of the same
 race as you and serves you loyally until death, believing the fates have
 drawn him or her to you. You control this character.
 
-***Moon***. You are granted the ability to cast the *wish* spell 1d3
+:bi:`Moon`. You are granted the ability to cast the *wish* spell 1d3
 times.
 
-***Rogue***. A nonplayer character of the GM's choice becomes hostile
+:bi:`Rogue`. A nonplayer character of the GM's choice becomes hostile
 toward you. The identity of your new enemy isn't known until the NPC or
 someone else reveals it. Nothing less than a *wish* spell or divine
 intervention can end the NPC's hostility toward you.
 
-***Ruin***. All forms of wealth that you carry or own, other than magic
+:bi:`Ruin`. All forms of wealth that you carry or own, other than magic
 items, are lost to you. Portable property vanishes. Businesses,
 buildings, and land you own are lost in a way that alters reality the
 least. Any documentation that proves you should own something lost to
 this card also disappears.
 
-***Skull***. You summon an avatar of death-a ghostly humanoid skeleton
+:bi:`Skull`. You summon an avatar of death-a ghostly humanoid skeleton
 clad in a tattered black robe and carrying a spectral scythe. It appears
 in a space of the GM's choice within 10 feet of you and attacks you,
 warning all others that you must win the battle alone. The avatar fights
@@ -1357,42 +1375,42 @@ poisoned, unconscious
 
 **Challenge** - (0 XP)
 
-***Incorporeal Movement***. The avatar can move through other creatures
+:bi:`Incorporeal Movement`. The avatar can move through other creatures
 and objects as if they were difficult terrain. It takes 5 (1d10) force
 damage if it ends its turn inside an object.
 
-***Turning Immunity***. The avatar is immune to features that turn
+:bi:`Turning Immunity`. The avatar is immune to features that turn
 undead.
 
 Actions
        
 
-***Reaping Scythe***. The avatar sweeps its spectral scythe through a
+:bi:`Reaping Scythe`. The avatar sweeps its spectral scythe through a
 creature within 5 feet of it, dealing 7 (1d8 + 3) slashing damage plus 4
 (1d8) necrotic damage.
 
-***Star***. Increase one of your ability scores by 2. The score can
+:bi:`Star`. Increase one of your ability scores by 2. The score can
 exceed 20 but can't exceed 24.
 
-***Sun***. You gain 50,000 XP, and a wondrous item (which the GM
+:bi:`Sun`. You gain 50,000 XP, and a wondrous item (which the GM
 determines randomly) appears in your hands.
 
-***Talons***. Every magic item you wear or carry disintegrates.
+:bi:`Talons`. Every magic item you wear or carry disintegrates.
 Artifacts in your possession aren't destroyed but do vanish.
 
-***Throne***. You gain proficiency in the Persuasion skill, and you
+:bi:`Throne`. You gain proficiency in the Persuasion skill, and you
 double your proficiency bonus on checks made with that skill. In
 addition, you gain rightful ownership of a small keep somewhere in the
 world. However, the keep is currently in the hands of monsters, which
 you must clear out before you can claim the keep as yours.
 
-***Vizier***. At any time you choose within one year of drawing this
+:bi:`Vizier`. At any time you choose within one year of drawing this
 card, you can ask a question in meditation and mentally receive a
 truthful answer to that question. Besides information, the answer helps
 you solve a puzzling problem or other dilemma. In other words, the
 knowledge comes with wisdom on how to apply it.
 
-***The Void***. This black card spells disaster. Your soul is drawn from
+:bi:`The Void`. This black card spells disaster. Your soul is drawn from
 your body and contained in an object in a place of the GM's choice. One
 or more powerful beings guard the place. While your soul is trapped in
 this way, your body is incapacitated. A *wish* spell can't restore your
@@ -1426,7 +1444,7 @@ turn unarmed strikes with your hands into magic weapons that deal
 slashing damage, with a +1 bonus to attack rolls and damage rolls and a
 damage die of 1d8.
 
-***Curse***. Once you don this cursed armor, you can't doff it unless
+:bi:`Curse`. Once you don this cursed armor, you can't doff it unless
 you are targeted by the *remove curse* spell or similar magic. While
 wearing the armor, you have disadvantage on attack rolls against demons
 and on saving throws against their spells and special abilities.
@@ -1735,12 +1753,12 @@ of token or determines it randomly.
 | 91-100     | Whip                |
 +------------+---------------------+
 
-***Anchor***. You can use an action to touch the token to a boat or
+:bi:`Anchor`. You can use an action to touch the token to a boat or
 ship. For the next 24 hours, the vessel can't be moved by any means.
 Touching the token to the vessel again ends the effect. When the effect
 ends, the token disappears.
 
-***Bird***. You can use an action to toss the token 5 feet into the air.
+:bi:`Bird`. You can use an action to toss the token 5 feet into the air.
 The token disappears and an enormous, multicolored bird takes its place.
 The bird has the statistics of a roc, but it obeys your simple commands
 and can't attack. It can carry up to 500 pounds while flying at its
@@ -1750,13 +1768,13 @@ that speed. The bird disappears after flying its maximum distance for a
 day or if it drops to 0 hit points. You can dismiss the bird as an
 action.
 
-***Fan***. If you are on a boat or ship, you can use an action to toss
+:bi:`Fan`. If you are on a boat or ship, you can use an action to toss
 the token up to 10 feet in the air. The token disappears, and a giant
 flapping fan takes its place. The fan floats and creates a wind strong
 enough to fill the sails of one ship, increasing its speed by 5 miles
 per hour for 8 hours. You can dismiss the fan as an action.
 
-***Swan Boat***. You can use an action to touch the token to a body of
+:bi:`Swan Boat`. You can use an action to touch the token to a body of
 water at least 60 feet in diameter. The token disappears, and a 50-foot
 long, 20-foot wide boat shaped like a swan takes its place. The boat is
 self-propelled and moves across water at a speed of 6 miles per hour.
@@ -1766,13 +1784,13 @@ creatures. A Large creature counts as four Medium creatures, while a
 Huge creature counts as nine. The boat remains for 24 hours and then
 disappears. You can dismiss the boat as an action.
 
-***Tree***. You must be outdoors to use this token. You can use an
+:bi:`Tree`. You must be outdoors to use this token. You can use an
 action to touch it to an unoccupied space on the ground. The token
 disappears, and in its place a nonmagical oak tree springs into
 existence. The tree is 60 feet tall and has a 5-foot diameter trunk, and
 its branches at the top spread out in a 20-foot radius.
 
-***Whip***. You can use an action to throw the token to a point within
+:bi:`Whip`. You can use an action to throw the token to a point within
 10 feet of you. The token disappears, and a floating whip takes its
 place. You can then use a bonus action to make a melee spell attack
 against a creature within 10 feet of the whip, with an attack bonus of
@@ -1808,11 +1826,11 @@ becomes a figurine again, its property can't be used again until a
 certain amount of time has passed, as specified in the figurine's
 description.
 
-***Bronze Griffon (Rare)***. This bronze statuette is of a griffon
+:bi:`Bronze Griffon (Rare)`. This bronze statuette is of a griffon
 rampant. It can become a griffon for up to 6 hours. Once it has been
 used, it can't be used again until 5 days have passed.
 
-***Ebony Fly (Rare)***. This ebony statuette is carved in the likeness
+:bi:`Ebony Fly (Rare)`. This ebony statuette is carved in the likeness
 of a horsefly. It can become a giant fly for up to 12 hours and can be
 ridden as a mount. Once it has been used, it can't be used again until 2
 days have passed.
@@ -1838,12 +1856,12 @@ Giant Fly
 
 **Languages** -
 
-***Golden Lions (Rare)***. These gold statuettes of lions are always
+:bi:`Golden Lions (Rare)`. These gold statuettes of lions are always
 created in pairs. You can use one figurine or both simultaneously. Each
 can become a lion for up to 1 hour. Once a lion has been used, it can't
 be used again until 7 days have passed.
 
-***Ivory Goats (Rare)***. These ivory statuettes of goats are always
+:bi:`Ivory Goats (Rare)`. These ivory statuettes of goats are always
 created in sets of three. Each goat looks unique and functions
 differently from the others. Their properties are as follows:
 
@@ -1872,11 +1890,11 @@ differently from the others. Their properties are as follows:
    immune to the goat's aura for the next 24 hours. Once the figurine
    has been used, it can't be used again until 15 days have passed.
 
-***Marble Elephant (Rare)***. This marble statuette is about 4 inches
+:bi:`Marble Elephant (Rare)`. This marble statuette is about 4 inches
 high and long. It can become an elephant for up to 24 hours. Once it has
 been used, it can't be used again until 7 days have passed.
 
-***Obsidian Steed (Very Rare)***. This polished obsidian horse can
+:bi:`Obsidian Steed (Very Rare)`. This polished obsidian horse can
 become a nightmare for up to 24 hours. The nightmare fights only to
 defend itself. Once it has been used, it can't be used again until 5
 days have passed.
@@ -1888,19 +1906,19 @@ orders, you and the nightmare are instantly transported to a random
 location on the plane of Hades, where the nightmare reverts to figurine
 form.
 
-***Onyx Dog (Rare)***. This onyx statuette of a dog can become a mastiff
+:bi:`Onyx Dog (Rare)`. This onyx statuette of a dog can become a mastiff
 for up to 6 hours. The mastiff has an Intelligence of 8 and can speak
 Common. It also has darkvision out to a range of 60 feet and can see
 invisible creatures and objects within that range. Once it has been
 used, it can't be used again until 7 days have passed.
 
-***Serpentine Owl (Rare)***. This serpentine statuette of an owl can
+:bi:`Serpentine Owl (Rare)`. This serpentine statuette of an owl can
 become a giant owl for up to 8 hours. Once it has been used, it can't be
 used again until 2 days have passed. The owl can telepathically
 communicate with you at any range if you and it are on the same plane of
 existence.
 
-***Silver Raven (Uncommon)***. This silver statuette of a raven can
+:bi:`Silver Raven (Uncommon)`. This silver statuette of a raven can
 become a raven for up to 12 hours. Once it has been used, it can't be
 used again until 2 days have passed. While in raven form, the figurine
 allows you to cast the *animal messenger* spell on it at will.
@@ -2081,7 +2099,7 @@ Hammer of Thunderbolts
 You gain a +1 bonus to attack and damage rolls made with this magic
 weapon.
 
-***Giant's Bane (Requires Attunement)***. You must be wearing a *belt of
+:bi:`Giant's Bane (Requires Attunement)`. You must be wearing a *belt of
 giant strength* (any variety) and *gauntlets of ogre power* to attune to
 this weapon. The attunement ends if you take off either of those items.
 While you are attuned to this weapon and holding it, your Strength score
@@ -2379,7 +2397,7 @@ You can use an action to seize and stow the stone, ending its effect.
 A stone has AC 24, 10 hit points, and resistance to all damage. It is
 considered to be an object that is being worn while it orbits your head.
 
-***Absorption (Very Rare)***. While this pale lavender ellipsoid orbits
+:bi:`Absorption (Very Rare)`. While this pale lavender ellipsoid orbits
 your head, you can use your reaction to cancel a spell of 4th level or
 lower cast by a creature you can see and targeting only you.
 
@@ -2388,16 +2406,16 @@ dull gray, losing its magic. If you are targeted by a spell whose level
 is higher than the number of spell levels the stone has left, the stone
 can't cancel it.
 
-***Agility (Very Rare)***. Your Dexterity score increases by 2, to a
+:bi:`Agility (Very Rare)`. Your Dexterity score increases by 2, to a
 maximum of 20, while this deep red sphere orbits your head.
 
-***Awareness (Rare)***. You can't be surprised while this dark blue
+:bi:`Awareness (Rare)`. You can't be surprised while this dark blue
 rhomboid orbits your head.
 
-***Fortitude (Very Rare)***. Your Constitution score increases by 2, to
+:bi:`Fortitude (Very Rare)`. Your Constitution score increases by 2, to
 a maximum of 20, while this pink rhomboid orbits your head.
 
-***Greater Absorption (Legendary)***. While this marbled lavender and
+:bi:`Greater Absorption (Legendary)`. While this marbled lavender and
 green ellipsoid orbits your head, you can use your reaction to cancel a
 spell of 8th level or lower cast by a creature you can see and targeting
 only you.
@@ -2407,28 +2425,28 @@ dull gray, losing its magic. If you are targeted by a spell whose level
 is higher than the number of spell levels the stone has left, the stone
 can't cancel it.
 
-***Insight (Very Rare)***. Your Wisdom score increases by 2, to a
+:bi:`Insight (Very Rare)`. Your Wisdom score increases by 2, to a
 maximum of 20, while this incandescent blue sphere orbits your head.
 
-***Intellect (Very Rare)***. Your Intelligence score increases by 2, to
+:bi:`Intellect (Very Rare)`. Your Intelligence score increases by 2, to
 a maximum of 20, while this marbled scarlet and blue sphere orbits your
 head.
 
-***Leadership (Very Rare)***. Your Charisma score increases by 2, to a
+:bi:`Leadership (Very Rare)`. Your Charisma score increases by 2, to a
 maximum of 20, while this marbled pink and green sphere orbits your
 head.
 
-***Mastery (Legendary)***. Your proficiency bonus increases by 1 while
+:bi:`Mastery (Legendary)`. Your proficiency bonus increases by 1 while
 this pale green prism orbits your head.
 
-***Protection (Rare)***. You gain a +1 bonus to AC while this dusty rose
+:bi:`Protection (Rare)`. You gain a +1 bonus to AC while this dusty rose
 prism orbits your head.
 
-***Regeneration (Legendary)***. You regain 15 hit points at the end of
+:bi:`Regeneration (Legendary)`. You regain 15 hit points at the end of
 each hour this pearly white spindle orbits your head, provided that you
 have at least 1 hit point.
 
-***Reserve (Rare)***. This vibrant purple prism stores spells cast into
+:bi:`Reserve (Rare)`. This vibrant purple prism stores spells cast into
 it, holding them until you use them. The stone can store up to 3 levels
 worth of spells at a time. When found, it contains 1d4 - 1 levels of
 stored spells chosen by the GM.
@@ -2445,10 +2463,10 @@ spellcasting ability of the original caster, but is otherwise treated as
 if you cast the spell. The spell cast from the stone is no longer stored
 in it, freeing up space.
 
-***Strength (Very Rare)***. Your Strength score increases by 2, to a
+:bi:`Strength (Very Rare)`. Your Strength score increases by 2, to a
 maximum of 20, while this pale blue rhomboid orbits your head.
 
-***Sustenance (Rare)***. You don't need to eat or drink while this clear
+:bi:`Sustenance (Rare)`. You don't need to eat or drink while this clear
 spindle orbits your head.
 
 Iron Bands of Binding
@@ -2594,12 +2612,12 @@ You gain a +1 bonus to attack and damage rolls made with this magic
 weapon. While the sword is on your person, you also gain a +1 bonus to
 saving throws.
 
-***Luck***. If the sword is on your person, you can call on its luck (no
+:bi:`Luck`. If the sword is on your person, you can call on its luck (no
 action required) to reroll one attack roll, ability check, or saving
 throw you dislike. You must use the second roll. This property can't be
 used again until the next dawn.
 
-***Wish***. The sword has 1d4 - 1 charges. While holding it, you can use
+:bi:`Wish`. The sword has 1d4 - 1 charges. While holding it, you can use
 an action to expend 1 charge and cast the *wish* spell from it. This
 property can't be used again until the next dawn. The sword loses this
 property if it has no charges.
@@ -3407,7 +3425,7 @@ the linked plane.
 The ring has 5 charges. It regains 1d4 + 1 expended charges daily at
 dawn. Spells cast from the ring have a save DC of 17.
 
-***Ring of Air Elemental Command***. You can expend 2 of the ring's
+:bi:`Ring of Air Elemental Command`. You can expend 2 of the ring's
 charges to cast *dominate monster* on an air elemental. In addition,
 when you fall, you descend 60 feet per round and take no damage from
 falling. You can also speak and understand Auran.
@@ -3423,7 +3441,7 @@ access to the following additional properties:
    necessary number of charges: *chain lightning* (3 charges), *gust of
    wind* (2 charges), or *wind wall* (1 charge).
 
-***Ring of Earth Elemental Command***. You can expend 2 of the ring's
+:bi:`Ring of Earth Elemental Command`. You can expend 2 of the ring's
 charges to cast *dominate monster* on an earth elemental. In addition,
 you can move in difficult terrain that is composed of rubble, rocks, or
 dirt as if it were normal terrain. You can also speak and understand
@@ -3442,7 +3460,7 @@ access to the following additional properties:
    necessary number of charges: *stone shape* (2 charges), *stoneskin*
    (3 charges), or *wall of stone* (3 charges).
 
-***Ring of Fire Elemental Command***. You can expend 2 of the ring's
+:bi:`Ring of Fire Elemental Command`. You can expend 2 of the ring's
 charges to cast *dominate monster* on a fire elemental. In addition, you
 have resistance to fire damage. You can also speak and understand Ignan.
 
@@ -3455,7 +3473,7 @@ access to the following additional properties:
    necessary number of charges: *burning hands* (1 charge), *fireball*
    (2 charges), and *wall of fire* (3 charges).
 
-***Ring of Water Elemental Command***. You can expend 2 of the ring's
+:bi:`Ring of Water Elemental Command`. You can expend 2 of the ring's
 charges to cast *dominate monster* on a water elemental. In addition,
 you can stand on and walk across liquid surfaces as if they were solid
 ground. You can also speak and understand Aquan.
@@ -3599,10 +3617,10 @@ ring requires an action.
 The ring has 6 charges for the following other properties. The ring
 regains 1d6 expended charges daily at dawn.
 
-***Faerie Fire***. You can expend 1 charge as an action to cast *faerie
+:bi:`Faerie Fire`. You can expend 1 charge as an action to cast *faerie
 fire* from the ring.
 
-***Ball Lightning***. You can expend 2 charges as an action to create
+:bi:`Ball Lightning`. You can expend 2 charges as an action to create
 one to four 3-foot diameter spheres of lightning. The more spheres you
 create, the less powerful each sphere is individually.
 
@@ -3630,7 +3648,7 @@ based on the number of spheres you created.
 | 1             | 4d12                   |
 +---------------+------------------------+
 
-***Shooting Stars***. You can expend 1 to 3 charges as an action. For
+:bi:`Shooting Stars`. You can expend 1 to 3 charges as an action. For
 every charge you expend, you launch a glowing mote of light from the
 ring at a point you can see within 60 feet of you. Each creature within
 a 15-foot cube originating from that point is showered in sparks and
@@ -3922,14 +3940,14 @@ Rod of Alertness
 
 This rod has a flanged head and the following properties.
 
-***Alertness***. While holding the rod, you have advantage on Wisdom
+:bi:`Alertness`. While holding the rod, you have advantage on Wisdom
 (Perception) checks and on rolls for initiative.
 
-***Spells***. While holding the rod, you can use an action to cast one
+:bi:`Spells`. While holding the rod, you can use an action to cast one
 of the following spells from it: *detect evil and good*, *detect magic*,
 *detect poison and disease*, or *see invisibility.*
 
-***Protective Aura***. As an action, you can plant the haft end of the
+:bi:`Protective Aura`. As an action, you can plant the haft end of the
 rod in the ground, whereupon the rod's head sheds bright light in a
 60-foot radius and dim light for an additional 60 feet. While in that
 bright light, you and any creature that is friendly to you gain a +1
@@ -3950,7 +3968,7 @@ grants a +3 bonus to attack and damage rolls made with it. The rod has
 properties associated with six different buttons that are set in a row
 along the haft. It has three other properties as well, detailed below.
 
-***Six Buttons***. You can press one of the rod's six buttons as a bonus
+:bi:`Six Buttons`. You can press one of the rod's six buttons as a bonus
 action. A button's effect lasts until you push a different button or
 until you push the same button again, which causes the rod to revert to
 its normal form.
@@ -3986,19 +4004,19 @@ rod is used in a location that has no magnetic north.) The rod also
 gives you knowledge of your approximate depth beneath the ground or your
 height above it.
 
-***Drain Life***. When you hit a creature with a melee attack using the
+:bi:`Drain Life`. When you hit a creature with a melee attack using the
 rod, you can force the target to make a DC 17 Constitution saving throw.
 On a failure, the target takes an extra 4d6 necrotic damage, and you
 regain a number of hit points equal to half that necrotic damage. This
 property can't be used again until the next dawn.
 
-***Paralyze***. When you hit a creature with a melee attack using the
+:bi:`Paralyze`. When you hit a creature with a melee attack using the
 rod, you can force the target to make a DC 17 Strength saving throw. On
 a failure, the target is paralyzed for 1 minute. The target can repeat
 the saving throw at the end of each of its turns, ending the effect on a
 success. This property can't be used again until the next dawn.
 
-***Terrify***. While holding the rod, you can use an action to force
+:bi:`Terrify`. While holding the rod, you can use an action to force
 each creature you can see within 30 feet of you to make a DC 17 Wisdom
 saving throw. On a failure, a target is frightened of you for 1 minute.
 A frightened target can repeat the saving throw at the end of each of
@@ -4133,7 +4151,7 @@ Shield of Missile Attraction
 While holding this shield, you have resistance to damage from ranged
 weapon attacks.
 
-***Curse***. This shield is cursed. Attuning to it curses you until you
+:bi:`Curse`. This shield is cursed. Attuning to it curses you until you
 are targeted by the *remove curse* spell or similar magic. Removing the
 shield fails to end the curse on you. Whenever a ranged weapon attack is
 made against a target within 10 feet of you, the curse causes you to
@@ -4363,10 +4381,10 @@ roll a d20. On a 1, the staff retains its +2 bonus to attack and damage
 rolls but loses all other properties. On a 20, the staff regains 1d8 + 2
 charges.
 
-***Power Strike***. When you hit with a melee attack using the staff,
+:bi:`Power Strike`. When you hit with a melee attack using the staff,
 you can expend 1 charge to deal an extra 1d6 force damage to the target.
 
-***Spells***. While holding this staff, you can use an action to expend
+:bi:`Spells`. While holding this staff, you can use an action to expend
 1 or more of its charges to cast one of the following spells from it,
 using your spell save DC and spell attack bonus: *cone of cold* (5
 charges), *fireball* (5th-level version, 5 charges), *globe of
@@ -4375,7 +4393,7 @@ charges), *lightning bolt* (5th-level version, 5 charges), *magic
 missile* (1 charge), *ray of enfeeblement* (1 charge), or *wall of
 force* (5 charges).
 
-***Retributive Strike***. You can use an action to break the staff over
+:bi:`Retributive Strike`. You can use an action to break the staff over
 your knee or against a solid surface, performing a retributive strike.
 The staff is destroyed and releases its remaining magic in an explosion
 that expands to fill a 30-foot radius sphere centered on it.
@@ -4422,12 +4440,12 @@ This staff has 10 charges and regains 1d6 + 4 expended charges daily at
 dawn. If you expend the last charge, roll a d20. On a 1, a swarm of
 insects consumes and destroys the staff, then disperses.
 
-***Spells***. While holding the staff, you can use an action to expend
+:bi:`Spells`. While holding the staff, you can use an action to expend
 some of its charges to cast one of the following spells from it, using
 your spell save DC: *giant insect* (4 charges) or *insect plague* (5
 charges).
 
-***Insect Cloud***. While holding the staff, you can use an action and
+:bi:`Insect Cloud`. While holding the staff, you can use an action and
 expend 1 charge to cause a swarm of harmless flying insects to spread
 out in a 30-foot radius from you. The insects remain for 10 minutes,
 making the area heavily obscured for creatures other than you. The swarm
@@ -4448,7 +4466,7 @@ The staff has 50 charges for the following properties. It regains 4d6 +
 2 expended charges daily at dawn. If you expend the last charge, roll a
 d20. On a 20, the staff regains 1d12 + 1 charges.
 
-***Spell Absorption***. While holding the staff, you have advantage on
+:bi:`Spell Absorption`. While holding the staff, you have advantage on
 saving throws against spells. In addition, you can use your reaction
 when another creature casts a spell that targets only you. If you do,
 the staff absorbs the magic of the spell, canceling its effect and
@@ -4457,7 +4475,7 @@ However, if doing so brings the staff's total number of charges above
 50, the staff explodes as if you activated its retributive strike (see
 below).
 
-***Spells***. While holding the staff, you can use an action to expend
+:bi:`Spells`. While holding the staff, you can use an action to expend
 some of its charges to cast one of the following spells from it, using
 your spell save DC and spellcasting ability: *conjure elemental* (7
 charges), *dispel magic* (3 charges), *fireball* (7th-level version, 7
@@ -4472,7 +4490,7 @@ staff without using any charges: *arcane lock*, *detect magic*,
 *enlarge/reduce*, *light*, *mage hand*, or *protection from evil and
 good.*
 
-***Retributive Strike***. You can use an action to break the staff over
+:bi:`Retributive Strike`. You can use an action to break the staff over
 your knee or against a solid surface, performing a retributive strike.
 The staff is destroyed and releases its remaining magic in an explosion
 that expands to fill a 30-foot radius sphere centered on it.
@@ -4531,7 +4549,7 @@ The staff has 10 charges for the following properties. It regains 1d6 +
 d20. On a 1, the staff loses its properties and becomes a nonmagical
 quarterstaff.
 
-***Spells***. You can use an action to expend 1 or more of the staff's
+:bi:`Spells`. You can use an action to expend 1 or more of the staff's
 charges to cast one of the following spells from it, using your spell
 save DC: *animal friendship* (1 charge), *awaken* (5 charges),
 *barkskin* (2 charges), *locate animals or plants* (2 charges), *speak
@@ -4541,7 +4559,7 @@ thorns* (6 charges).
 You can also use an action to cast the *pass without trace* spell from
 the staff without using any charges.
 
-***Tree Form***. You can use an action to plant one end of the staff in
+:bi:`Tree Form`. You can use an action to plant one end of the staff in
 fertile earth and expend 1 charge to transform the staff into a healthy
 tree. The tree is 60 feet tall and has a 5-foot diameter trunk, and its
 branches at the top spread out in a 20-foot radius.
@@ -4561,28 +4579,28 @@ to attack and damage rolls made with it. It also has the following
 additional properties. When one of these properties is used, it can't be
 used again until the next dawn.
 
-***Lightning***. When you hit with a melee attack using the staff, you
+:bi:`Lightning`. When you hit with a melee attack using the staff, you
 can cause the target to take an extra 2d6 lightning damage.
 
-***Thunder***. When you hit with a melee attack using the staff, you can
+:bi:`Thunder`. When you hit with a melee attack using the staff, you can
 cause the staff to emit a crack of thunder, audible out to 300 feet. The
 target you hit must succeed on a DC 17 Constitution saving throw or
 become stunned until the end of your next turn.
 
-***Lightning Strike***. You can use an action to cause a bolt of
+:bi:`Lightning Strike`. You can use an action to cause a bolt of
 lightning to leap from the staff's tip in a line that is 5 feet wide and
 120 feet long. Each creature in that line must make a DC 17 Dexterity
 saving throw, taking 9d6 lightning damage on a failed save, or half as
 much damage on a successful one.
 
-***Thunderclap***. You can use an action to cause the staff to issue a
+:bi:`Thunderclap`. You can use an action to cause the staff to issue a
 deafening thunderclap, audible out to 600 feet. Each creature within 60
 feet of you (not including you) must make a DC 17 Constitution saving
 throw. On a failed save, a creature takes 2d6 thunder damage and becomes
 deafened for 1 minute. On a successful save, a creature takes half
 damage and isn't deafened.
 
-***Thunder and Lightning***. You can use an action to use the Lightning
+:bi:`Thunder and Lightning`. You can use an action to use the Lightning
 Strike and Thunderclap properties at the same time. Doing so doesn't
 expend the daily use of those properties, only the use of this one.
 
@@ -4850,11 +4868,11 @@ This wand has 7 charges for the following properties. It regains 1d6 + 1
 expended charges daily at dawn. If you expend the wand's last charge,
 roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-***Spells***. While holding the wand, you can use an action to expend
+:bi:`Spells`. While holding the wand, you can use an action to expend
 some of its charges to cast one of the following spells (save DC 17):
 *hold monster* (5 charges) or *hold person* (2 charges).
 
-***Assisted Escape***. While holding the wand, you can use your reaction
+:bi:`Assisted Escape`. While holding the wand, you can use your reaction
 to expend 1 charge and gain advantage on a saving throw you make to
 avoid being paralyzed or restrained, or you can expend 1 charge and gain
 advantage on any check you make to escape a grapple.
@@ -4884,11 +4902,11 @@ This wand has 7 charges for the following properties. It regains 1d6 + 1
 expended charges daily at dawn. If you expend the wand's last charge,
 roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 
-***Command***. While holding the wand, you can use an action to expend 1
+:bi:`Command`. While holding the wand, you can use an action to expend 1
 charge and command another creature to flee or grovel, as with the
 *command* spell (save DC 15).
 
-***Cone of Fear***. While holding the wand, you can use an action to
+:bi:`Cone of Fear`. While holding the wand, you can use an action to
 expend 2 charges, causing the wand's tip to emit a 60-foot cone of amber
 light. Each creature in the cone must succeed on a DC 15 Wisdom saving
 throw or become frightened of you for 1 minute. While it is frightened
@@ -5302,35 +5320,35 @@ table.
 +-----+----------------------------------------------------------------------+
 | d10 | Purpose                                                              |
 +=====+======================================================================+
-| 1   | ***Aligned:*** The item seeks to defeat or destroy those of a        |
+| 1   | :bi:`Aligned:` The item seeks to defeat or destroy those of a        |
 |     | diametrically opposed alignment. (Such an item is never neutral.)    |
 +-----+----------------------------------------------------------------------+
-| 2   | ***Bane:*** The item seeks to defeat or destroy creatures of a       |
+| 2   | :bi:`Bane:` The item seeks to defeat or destroy creatures of a       |
 |     | particular kind, such as fiends, shapechangers, trolls, or wizards.  |
 +-----+----------------------------------------------------------------------+
-| 3   | ***Protector:*** The item seeks to defend a particular race or kind  |
+| 3   | :bi:`Protector:` The item seeks to defend a particular race or kind  |
 |     | of creature, such as elves or druids.                                |
 +-----+----------------------------------------------------------------------+
-| 4   | ***Crusader:*** The item seeks to defeat, weaken, or destroy the     |
+| 4   | :bi:`Crusader:` The item seeks to defeat, weaken, or destroy the     |
 |     | servants of a particular deity.                                      |
 +-----+----------------------------------------------------------------------+
-| 5   | ***Templar:*** The item seeks to defend the servants and interests   |
+| 5   | :bi:`Templar:` The item seeks to defend the servants and interests   |
 |     | of a particular deity.                                               |
 +-----+----------------------------------------------------------------------+
-| 6   | ***Destroyer:*** The item craves destruction and goads its user to   |
+| 6   | :bi:`Destroyer:` The item craves destruction and goads its user to   |
 |     | fight arbitrarily.                                                   |
 +-----+----------------------------------------------------------------------+
-| 7   | ***Glory Seeker:*** The item seeks renown as the greatest magic item |
+| 7   | :bi:`Glory Seeker:` The item seeks renown as the greatest magic item |
 |     | in the world, by establishing its user as a famous or notorious      |
 |     | figure.                                                              |
 +-----+----------------------------------------------------------------------+
-| 8   | ***Lore Seeker:*** The item craves knowledge or is determined to     |
+| 8   | :bi:`Lore Seeker:` The item craves knowledge or is determined to     |
 |     | solve a mystery, learn a secret, or unravel a cryptic prophecy.      |
 +-----+----------------------------------------------------------------------+
-| 9   | ***Destiny Seeker:*** The item is convinced that it and its wielder  |
+| 9   | :bi:`Destiny Seeker:` The item is convinced that it and its wielder  |
 |     | have key roles to play in future events.                             |
 +-----+----------------------------------------------------------------------+
-| 10  | ***Creator Seeker:*** The item seeks its creator and wants to        |
+| 10  | :bi:`Creator Seeker:` The item seeks its creator and wants to        |
 |     | understand why it was created.                                       |
 +-----+----------------------------------------------------------------------+
 
@@ -5415,7 +5433,7 @@ particular people, freedom from the orb, to spread suffering in the
 world, to advance the worship of Tiamat, or something else the GM
 decides.
 
-***Random Properties***. An *Orb of Dragonkind* has the following random
+:bi:`Random Properties`. An *Orb of Dragonkind* has the following random
 properties:
 
 -  2 minor beneficial properties
@@ -5424,7 +5442,7 @@ properties:
 
 -  1 major detrimental property
 
-***Spells***. The orb has 7 charges and regains 1d4 + 3 expended charges
+:bi:`Spells`. The orb has 7 charges and regains 1d4 + 3 expended charges
 daily at dawn. If you control the orb, you can use an action and expend
 1 or more charges to cast one of the following spells (save DC 18) from
 it: *cure wounds* (5th-level version, 3 charges), *daylight* (1 charge),
@@ -5433,7 +5451,7 @@ it: *cure wounds* (5th-level version, 3 charges), *daylight* (1 charge),
 You can also use an action to cast the *detect magic* spell from the orb
 without using any charges.
 
-***Call Dragons***. While you control the orb, you can use an action to
+:bi:`Call Dragons`. While you control the orb, you can use an action to
 cause the artifact to issue a telepathic call that extends in all
 directions for 40 miles. Evil dragons in range feel compelled to come to
 the orb as soon as possible by the most direct route. Dragon deities
@@ -5441,7 +5459,7 @@ such as Tiamat are unaffected by this call. Dragons drawn to the orb
 might be hostile toward you for compelling them against their will. Once
 you have used this property, it can't be used again for 1 hour.
 
-***Destroying an Orb***. An *Orb of Dragonkind* appears fragile but is
+:bi:`Destroying an Orb`. An *Orb of Dragonkind* appears fragile but is
 impervious to most damage, including the attacks and breath weapons of
 dragons. A *disintegrate* spell or one good hit from a +3 magic weapon
 is sufficient to destroy an orb, however.

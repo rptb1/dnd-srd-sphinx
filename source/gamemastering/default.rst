@@ -1,4 +1,22 @@
-[TOC]
+=============
+Gamemastering
+=============
+
+
+.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
+
+.. raw:: html
+
+   <style type="text/css">
+     span.bolditalic {
+       font-weight: bold;
+       font-style: italic;
+     }
+   </style>
+
+.. role:: bi
+   :class: bolditalic
+
 
 Conditions
 ==========
@@ -563,7 +581,7 @@ its home city will be the subject of song and story for years to come.
 Travel to the planes beyond the Material Plane can be accomplished in
 two ways: by casting a spell or by using a planar portal.
 
-***Spells***. A number of spells allow direct or indirect access to
+:bi:`Spells`. A number of spells allow direct or indirect access to
 other planes of existence. *Plane shift* and *gate* can transport
 adventurers directly to any other plane of existence, with different
 degrees of precision. *Etherealness* allows adventurers to enter the
@@ -572,7 +590,7 @@ touches-such as the Elemental Planes. And the *astral projection* spell
 lets adventurers project themselves into the Astral Plane and travel to
 the Outer Planes.
 
-***Portals***. A portal is a general term for a stationary interplanar
+:bi:`Portals`. A portal is a general term for a stationary interplanar
 connection that links a specific location on one plane to a specific
 location on another. Some portals are like doorways, a clear window, or
 a fog- shrouded passage, and simply stepping through it effects the
@@ -950,7 +968,7 @@ Pits
 
 Four basic pit traps are presented here.
 
-***Simple Pit***. A simple pit trap is a hole dug in the ground. The
+:bi:`Simple Pit`. A simple pit trap is a hole dug in the ground. The
 hole is covered by a large cloth anchored on the pit's edge and
 camouflaged with dirt and debris.
 
@@ -958,7 +976,7 @@ The DC to spot the pit is 10. Anyone stepping on the cloth falls through
 and pulls the cloth down into the pit, taking damage based on the pit's
 depth (usually 10 feet, but some pits are deeper).
 
-***Hidden Pit***. This pit has a cover constructed from material
+:bi:`Hidden Pit`. This pit has a cover constructed from material
 identical to the floor around it.
 
 A successful DC 15 Wisdom (Perception) check discerns an absence of foot
@@ -977,7 +995,7 @@ as to prevent the cover from opening, thereby making it safe to cross.
 The cover can also be magically held shut using the *arcane lock* spell
 or similar magic.
 
-***Locking Pit***. This pit trap is identical to a hidden pit trap, with
+:bi:`Locking Pit`. This pit trap is identical to a hidden pit trap, with
 one key exception: the trap door that covers the pit is spring-loaded.
 After a creature falls into the pit, the cover snaps shut to trap its
 victim inside.
@@ -989,7 +1007,7 @@ Dexterity check using thieves' tools, provided that the mechanism can be
 reached and the character can see. In some cases, a mechanism (usually
 hidden behind a secret door nearby) opens the pit.
 
-***Spiked Pit***. This pit trap is a simple, hidden, or locking pit trap
+:bi:`Spiked Pit`. This pit trap is a simple, hidden, or locking pit trap
 with sharpened wooden or iron spikes at the bottom. A creature falling
 into the pit takes 11 (2d10) piercing damage from the spikes, in
 addition to any falling damage. Even nastier versions have poison
@@ -1429,7 +1447,7 @@ When time is a factor, you can assign an Armor Class and hit points to a
 destructible object. You can also give it immunities, resistances, and
 vulnerabilities to specific types of damage.
 
-***Armor Class***. An object's Armor Class is a measure of how difficult
+:bi:`Armor Class`. An object's Armor Class is a measure of how difficult
 it is to deal damage to the object when striking it (because the object
 has no chance of dodging out of the way). The Object Armor Class table
 provides suggested AC values for various substances.
@@ -1476,7 +1494,7 @@ that are Large or smaller.
 | Large (cart, 10-ft-by-10-ft window)   | 5 (1d10)      | 27 (5d10)       |
 +---------------------------------------+---------------+-----------------+
 
-***Huge and Gargantuan Objects***. Normal weapons are of little use
+:bi:`Huge and Gargantuan Objects`. Normal weapons are of little use
 against many Huge and Gargantuan objects, such as a colossal statue,
 towering column of stone, or massive boulder. That said, one torch can
 burn a Huge tapestry, and an *earthquake* spell can reduce a colossus to
@@ -1488,7 +1506,7 @@ section's hit points separately. Destroying one of those sections could
 ruin the entire object. For example, a Gargantuan statue of a human
 might topple over when one of its Large legs is reduced to 0 hit points.
 
-***Objects and Damage Types***. Objects are immune to poison and psychic
+:bi:`Objects and Damage Types`. Objects are immune to poison and psychic
 damage. You might decide that some damage types are more effective
 against a particular object or substance than others. For example,
 bludgeoning damage works well for smashing things but not for cutting
@@ -1496,7 +1514,7 @@ through rope or leather. Paper or cloth objects might be vulnerable to
 fire and lightning damage. A pick can chip away stone but can't
 effectively cut down a tree. As always, use your best judgment.
 
-***Damage Threshold***. Big objects such as castle walls often have
+:bi:`Damage Threshold`. Big objects such as castle walls often have
 extra resilience represented by a damage threshold. An object with a
 damage threshold has immunity to all damage unless it takes an amount of
 damage from a single attack or effect equal to or greater than its
@@ -1513,23 +1531,23 @@ creatures.
 
 Poisons come in the following four types.
 
-***Contact***. Contact poison can be smeared on an object and remains
+:bi:`Contact`. Contact poison can be smeared on an object and remains
 potent until it is touched or washed off. A creature that touches
 contact poison with exposed skin suffers its effects.
 
-***Ingested***. A creature must swallow an entire dose of ingested
+:bi:`Ingested`. A creature must swallow an entire dose of ingested
 poison to suffer its effects. The dose can be delivered in food or a
 liquid. You may decide that a partial dose has a reduced effect, such as
 allowing advantage on the saving throw or dealing only half damage on a
 failed save.
 
-***Inhaled***. These poisons are powders or gases that take effect when
+:bi:`Inhaled`. These poisons are powders or gases that take effect when
 inhaled. Blowing the powder or releasing the gas subjects creatures in a
 5-foot cube to its effect. The resulting cloud dissipates immediately
 afterward. Holding one's breath is ineffective against inhaled poisons,
 as they affect nasal membranes, tear ducts, and other parts of the body.
 
-***Injury***. Injury poison can be applied to weapons, ammunition, trap
+:bi:`Injury`. Injury poison can be applied to weapons, ammunition, trap
 components, and other objects that deal piercing or slashing damage and
 remains potent until delivered through a wound or washed off. A creature
 that takes piercing or slashing damage from an object coated with the
@@ -1574,25 +1592,25 @@ Sample Poisons
 
 Each type of poison has its own debilitating effects.
 
-***Assassin's Blood (Ingested)***. A creature subjected to this poison
+:bi:`Assassin's Blood (Ingested)`. A creature subjected to this poison
 must make a DC 10 Constitution saving throw. On a failed save, it takes
 6 (1d12) poison damage and is poisoned for 24 hours. On a successful
 save, the creature takes half damage and isn't poisoned.
 
-***Burnt Othur Fumes (Inhaled)***. A creature subjected to this poison
+:bi:`Burnt Othur Fumes (Inhaled)`. A creature subjected to this poison
 must succeed on a DC 13 Constitution saving throw or take 10 (3d6)
 poison damage, and must repeat the saving throw at the start of each of
 its turns. On each successive failed save, the character takes 3 (1d6)
 poison damage. After three successful saves, the poison ends.
 
-***Crawler Mucus (Contact)***. This poison must be harvested from a dead
+:bi:`Crawler Mucus (Contact)`. This poison must be harvested from a dead
 or incapacitated crawler. A creature subjected to this poison must
 succeed on a DC 13 Constitution saving throw or be poisoned for 1
 minute. The poisoned creature is paralyzed. The creature can repeat the
 saving throw at the end of each of its turns, ending the effect on
 itself on a success.
 
-***Drow Poison (Injury)***. This poison is typically made only by the
+:bi:`Drow Poison (Injury)`. This poison is typically made only by the
 drow, and only in a place far removed from sunlight. A creature
 subjected to this poison must succeed on a DC 13 Constitution saving
 throw or be poisoned for 1 hour. If the saving throw fails by 5 or more,
@@ -1600,28 +1618,28 @@ the creature is also unconscious while poisoned in this way. The
 creature wakes up if it takes damage or if another creature takes an
 action to shake it awake.
 
-***Essence of Ether (Inhaled)***. A creature subjected to this poison
+:bi:`Essence of Ether (Inhaled)`. A creature subjected to this poison
 must succeed on a DC 15 Constitution saving throw or become poisoned for
 8 hours. The poisoned creature is unconscious. The creature wakes up if
 it takes damage or if another creature takes an action to shake it
 awake.
 
-***Malice (Inhaled)***. A creature subjected to this poison must succeed
+:bi:`Malice (Inhaled)`. A creature subjected to this poison must succeed
 on a DC 15 Constitution saving throw or become poisoned for 1 hour. The
 poisoned creature is blinded.
 
-***Midnight Tears (Ingested)***. A creature that ingests this poison
+:bi:`Midnight Tears (Ingested)`. A creature that ingests this poison
 suffers no effect until the stroke of midnight. If the poison has not
 been neutralized before then, the creature must succeed on a DC 17
 Constitution saving throw, taking 31 (9d6) poison damage on a failed
 save, or half as much damage on a successful one.
 
-***Oil of Taggit (Contact)***. A creature subjected to this poison must
+:bi:`Oil of Taggit (Contact)`. A creature subjected to this poison must
 succeed on a DC 13 Constitution saving throw or become poisoned for 24
 hours. The poisoned creature is unconscious. The creature wakes up if it
 takes damage.
 
-***Pale Tincture (Ingested)***. A creature subjected to this poison must
+:bi:`Pale Tincture (Ingested)`. A creature subjected to this poison must
 succeed on a DC 16 Constitution saving throw or take 3 (1d6) poison
 damage and become poisoned. The poisoned creature must repeat the saving
 throw every 24 hours, taking 3 (1d6) poison damage on a failed save.
@@ -1629,27 +1647,27 @@ Until this poison ends, the damage the poison deals can't be healed by
 any means. After seven successful saving throws, the effect ends and the
 creature can heal normally.
 
-***Purple Worm Poison (Injury)***. This poison must be harvested from a
+:bi:`Purple Worm Poison (Injury)`. This poison must be harvested from a
 dead or incapacitated purple worm. A creature subjected to this poison
 must make a DC 19 Constitution saving throw, taking 42 (12d6) poison
 damage on a failed save, or half as much damage on a successful one.
 
-***Serpent Venom (Injury)***. This poison must be harvested from a dead
+:bi:`Serpent Venom (Injury)`. This poison must be harvested from a dead
 or incapacitated giant poisonous snake. A creature subjected to this
 poison must succeed on a DC 11 Constitution saving throw, taking 10
 (3d6) poison damage on a failed save, or half as much damage on a
 successful one.
 
-***Torpor (Ingested)***. A creature subjected to this poison must
+:bi:`Torpor (Ingested)`. A creature subjected to this poison must
 succeed on a DC 15 Constitution saving throw or become poisoned for 4d6
 hours. The poisoned creature is incapacitated.
 
-***Truth Serum (Ingested)***. A creature subjected to this poison must
+:bi:`Truth Serum (Ingested)`. A creature subjected to this poison must
 succeed on a DC 11 Constitution saving throw or become poisoned for 1
 hour. The poisoned creature can't knowingly speak a lie, as if under the
 effect of a *zone of truth* spell.
 
-***Wyvern Poison (Injury)***. This poison must be harvested from a dead
+:bi:`Wyvern Poison (Injury)`. This poison must be harvested from a dead
 or incapacitated wyvern. A creature subjected to this poison must make a
 DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a
 failed save, or half as much damage on a successful one.
