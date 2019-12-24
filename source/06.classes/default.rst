@@ -1,12 +1,17 @@
-[TOC]
+=======
+Classes
+=======
+
 
 Barbarian
 =========
+
 
 Class Features
 --------------
 
 As a barbarian, you gain the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -17,6 +22,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution
 modifier per barbarian level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -31,6 +37,7 @@ Proficiencies
 
 **Skills:** Choose two from Animal Handling, Athletics, Intimidation,
 Nature, Perception, and Survival
+
 
 Equipment
 ~~~~~~~~~
@@ -90,6 +97,7 @@ granted by your background:
 | 20th        | +6                      | Primal Champion                 | Unlimited   | +4                |
 +-------------+-------------------------+---------------------------------+-------------+-------------------+
 
+
 Rage
 ~~~~
 
@@ -119,12 +127,14 @@ Once you have raged the number of times shown for your barbarian level
 in the Rages column of the Barbarian table, you must finish a long rest
 before you can rage again.
 
+
 Unarmored Defense
 ~~~~~~~~~~~~~~~~~
 
 While you are not wearing any armor, your Armor Class equals 10 + your
 Dexterity modifier + your Constitution modifier. You can use a shield
 and still gain this benefit.
+
 
 Reckless Attack
 ~~~~~~~~~~~~~~~
@@ -134,6 +144,7 @@ attack with fierce desperation. When you make your first attack on your
 turn, you can decide to attack recklessly. Doing so gives you advantage
 on melee weapon attack rolls using Strength during this turn, but attack
 rolls against you have advantage until your next turn.
+
 
 Danger Sense
 ~~~~~~~~~~~~
@@ -145,6 +156,7 @@ You have advantage on Dexterity saving throws against effects that you
 can see, such as traps and spells. To gain this benefit, you can't be
 blinded, deafened, or incapacitated.
 
+
 Primal Path
 ~~~~~~~~~~~
 
@@ -152,6 +164,7 @@ At 3rd level, you choose a path that shapes the nature of your rage.
 Choose the Path of the Berserker or the Path of the Totem Warrior, both
 detailed at the end of the class description. Your choice grants you
 features at 3rd level and again at 6th, 10th, and 14th levels.
+
 
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,17 +174,20 @@ you can increase one ability score of your choice by 2, or you can
 increase two ability scores of your choice by 1. As normal, you can't
 increase an ability score above 20 using this feature.
 
+
 Extra Attack
 ~~~~~~~~~~~~
 
 Beginning at 5th level, you can attack twice, instead of once, whenever
 you take the Attack action on your turn.
 
+
 Fast Movement
 ~~~~~~~~~~~~~
 
 Starting at 5th level, your speed increases by 10 feet while you aren't
 wearing heavy armor.
+
 
 Feral Instinct
 ~~~~~~~~~~~~~~
@@ -183,6 +199,7 @@ Additionally, if you are surprised at the beginning of combat and aren't
 incapacitated, you can act normally on your first turn, but only if you
 enter your rage before doing anything else on that turn.
 
+
 Brutal Critical
 ~~~~~~~~~~~~~~~
 
@@ -192,6 +209,7 @@ attack.
 
 This increases to two additional dice at 13th level and three additional
 dice at 17th level.
+
 
 Relentless Rage
 ~~~~~~~~~~~~~~~
@@ -204,17 +222,20 @@ succeed, you drop to 1 hit point instead.
 Each time you use this feature after the first, the DC increases by 5.
 When you finish a short or long rest, the DC resets to 10.
 
+
 Persistent Rage
 ~~~~~~~~~~~~~~~
 
 Beginning at 15th level, your rage is so fierce that it ends early only
 if you fall unconscious or if you choose to end it.
 
+
 Indomitable Might
 ~~~~~~~~~~~~~~~~~
 
 Beginning at 18th level, if your total for a Strength check is less than
 your Strength score, you can use that score in place of the total.
+
 
 Primal Champion
 ~~~~~~~~~~~~~~~
@@ -223,8 +244,10 @@ At 20th level, you embody the power of the wilds. Your Strength and
 Constitution scores increase by 4. Your maximum for those scores is now
 24.
 
+
 Barbarian Paths
 ~~~~~~~~~~~~~~~
+
 
 Path of the Berserker
 ^^^^^^^^^^^^^^^^^^^^^
@@ -233,6 +256,7 @@ For some barbarians, rage is a means to an end- that end being violence.
 The Path of the Berserker is a path of untrammeled fury, slick with
 blood. As you enter the berserker's rage, you thrill in the chaos of
 battle, heedless of your own health or well-being.
+
 
 Frenzy
 ''''''
@@ -243,12 +267,14 @@ can make a single melee weapon attack as a bonus action on each of your
 turns after this one. When your rage ends, you suffer one level of
 exhaustion (as described in appendix A).
 
+
 Mindless Rage
 '''''''''''''
 
 Beginning at 6th level, you can't be charmed or frightened while raging.
 If you are charmed or frightened when you enter your rage, the effect is
 suspended for the duration of the rage.
+
 
 Intimidating Presence
 '''''''''''''''''''''
@@ -266,6 +292,7 @@ its turn out of line of sight or more than 60 feet away from you.
 If the creature succeeds on its saving throw, you can't use this feature
 on that creature again for 24 hours.
 
+
 Retaliation
 '''''''''''
 
@@ -273,13 +300,16 @@ Starting at 14th level, when you take damage from a creature that is
 within 5 feet of you, you can use your reaction to make a melee weapon
 attack against that creature.
 
+
 Bard
 ====
+
 
 Class Features
 --------------
 
 As a bard, you gain the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -290,6 +320,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier
 per bard level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -304,6 +335,7 @@ shortswords
 **Saving Throws:** Dexterity, Charisma
 
 **Skills:** Choose any three
+
 
 Equipment
 ~~~~~~~~~
@@ -321,74 +353,75 @@ granted by your background:
 
 **Table** **3 - Bard**
 
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| **L | **Profic | **Features**        | **Spel | **Cantr | ** | ** | ** | ** | ** | ** | ** | ** | ** |
-| eve | iency    |                     | ls     | ips     | 1s | 2n | 3r | 4t | 5t | 6t | 7t | 8t | 9t |
-| l** | Bonus**  |                     | Known* | Known** | t* | d* | d* | h* | h* | h* | h* | h* | h* |
-|     |          |                     | *      |         | *  | *  | *  | *  | *  | *  | *  | *  | *  |
-+=====+==========+=====================+========+=========+====+====+====+====+====+====+====+====+====+
-| 1st | +2       | Spellcasting,       | 2      | 4       | 2  | -  | -  | -  | -  | -  | -  | -  | -  |
-|     |          | Bardic Inspiration  |        |         |    |    |    |    |    |    |    |    |    |
-|     |          | (d6)                |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 2nd | +2       | Jack of All Trades, | 2      | 5       | 3  | -  | -  | -  | -  | -  | -  | -  | -  |
-|     |          | Song of Rest (d6)   |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 3rd | +2       | Bard College,       | 2      | 6       | 4  | 2  | -  | -  | -  | -  | -  | -  | -  |
-|     |          | Expertise           |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 4th | +2       | Ability Score       | 3      | 7       | 4  | 3  | -  | -  | -  | -  | -  | -  | -  |
-|     |          | Improvement         |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 5th | +3       | Bardic Inspiration  | 3      | 8       | 4  | 3  | 2  | -  | -  | -  | -  | -  | -  |
-|     |          | (d8), Font of       |        |         |    |    |    |    |    |    |    |    |    |
-|     |          | Inspiration         |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 6th | +3       | Countercharm, Bard  | 3      | 9       | 4  | 3  | 3  | -  | -  | -  | -  | -  | -  |
-|     |          | College Feature     |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 7th | +3       | -                   | 3      | 10      | 4  | 3  | 3  | 1  | -  | -  | -  | -  | -  |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 8th | +3       | Ability Score       | 3      | 11      | 4  | 3  | 3  | 2  | -  | -  | -  | -  | -  |
-|     |          | Improvement         |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 9th | +4       | Song of Rest (d8)   | 3      | 12      | 4  | 3  | 3  | 3  | 1  | -  | -  | -  | -  |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 10t | +4       | Bardic Inspiration  | 4      | 14      | 4  | 3  | 3  | 3  | 2  | -  | -  | -  | -  |
-| h   |          | (d10), Expertise,   |        |         |    |    |    |    |    |    |    |    |    |
-|     |          | Magical Secrets     |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 11t | +4       | -                   | 4      | 15      | 4  | 3  | 3  | 3  | 2  | 1  | -  | -  | -  |
-| h   |          |                     |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 12t | +4       | Ability Score       | 4      | 15      | 4  | 3  | 3  | 3  | 2  | 1  | -  | -  | -  |
-| h   |          | Improvement         |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 13t | +5       | Song of Rest (d10)  | 4      | 16      | 4  | 3  | 3  | 3  | 2  | 1  | 1  | -  | -  |
-| h   |          |                     |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 14t | +5       | Magical Secrets,    | 4      | 18      | 4  | 3  | 3  | 3  | 2  | 1  | 1  | -  | -  |
-| h   |          | Bard College        |        |         |    |    |    |    |    |    |    |    |    |
-|     |          | Feature             |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 15t | +5       | Bardic Inspiration  | 4      | 19      | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | -  |
-| h   |          | (d12)               |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 16t | +5       | Ability Score       | 4      | 19      | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | -  |
-| h   |          | Improvement         |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 17t | +6       | Song of Rest (d12)  | 4      | 20      | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | 1  |
-| h   |          |                     |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 18t | +6       | Magical Secrets     | 4      | 22      | 4  | 3  | 3  | 3  | 3  | 1  | 1  | 1  | 1  |
-| h   |          |                     |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 19t | +6       | Ability Score       | 4      | 22      | 4  | 3  | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
-| h   |          | Improvement         |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
-| 20t | +6       | Superior            | 4      | 22      | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
-| h   |          | Inspiration         |        |         |    |    |    |    |    |    |    |    |    |
-+-----+----------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| Level | Proficiency| Features            | Spells | Cantrips|1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
+|       | Bonus      |                     | Known  | Known   |    |    |    |    |    |    |    |    |    |
+|       |            |                     |        |         |    |    |    |    |    |    |    |    |    |
+|       |            |                     |        |         |    |    |    |    |    |    |    |    |    |
++=======+============+=====================+========+=========+====+====+====+====+====+====+====+====+====+
+| 1st   | +2         | Spellcasting,       | 2      | 4       | 2  | -  | -  | -  | -  | -  | -  | -  | -  |
+|       |            | Bardic Inspiration  |        |         |    |    |    |    |    |    |    |    |    |
+|       |            | (d6)                |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 2nd   | +2         | Jack of All Trades, | 2      | 5       | 3  | -  | -  | -  | -  | -  | -  | -  | -  |
+|       |            | Song of Rest (d6)   |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 3rd   | +2         | Bard College,       | 2      | 6       | 4  | 2  | -  | -  | -  | -  | -  | -  | -  |
+|       |            | Expertise           |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 4th   | +2         | Ability Score       | 3      | 7       | 4  | 3  | -  | -  | -  | -  | -  | -  | -  |
+|       |            | Improvement         |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 5th   | +3         | Bardic Inspiration  | 3      | 8       | 4  | 3  | 2  | -  | -  | -  | -  | -  | -  |
+|       |            | (d8), Font of       |        |         |    |    |    |    |    |    |    |    |    |
+|       |            | Inspiration         |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 6th   | +3         | Countercharm, Bard  | 3      | 9       | 4  | 3  | 3  | -  | -  | -  | -  | -  | -  |
+|       |            | College Feature     |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 7th   | +3         | -                   | 3      | 10      | 4  | 3  | 3  | 1  | -  | -  | -  | -  | -  |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 8th   | +3         | Ability Score       | 3      | 11      | 4  | 3  | 3  | 2  | -  | -  | -  | -  | -  |
+|       |            | Improvement         |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 9th   | +4         | Song of Rest (d8)   | 3      | 12      | 4  | 3  | 3  | 3  | 1  | -  | -  | -  | -  |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 10th  | +4         | Bardic Inspiration  | 4      | 14      | 4  | 3  | 3  | 3  | 2  | -  | -  | -  | -  |
+|       |            | (d10), Expertise,   |        |         |    |    |    |    |    |    |    |    |    |
+|       |            | Magical Secrets     |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 11th  | +4         | -                   | 4      | 15      | 4  | 3  | 3  | 3  | 2  | 1  | -  | -  | -  |
+|       |            |                     |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 12th  | +4         | Ability Score       | 4      | 15      | 4  | 3  | 3  | 3  | 2  | 1  | -  | -  | -  |
+|       |            | Improvement         |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 13th  | +5         | Song of Rest (d10)  | 4      | 16      | 4  | 3  | 3  | 3  | 2  | 1  | 1  | -  | -  |
+|       |            |                     |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 14th  | +5         | Magical Secrets,    | 4      | 18      | 4  | 3  | 3  | 3  | 2  | 1  | 1  | -  | -  |
+|       |            | Bard College        |        |         |    |    |    |    |    |    |    |    |    |
+|       |            | Feature             |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 15th  | +5         | Bardic Inspiration  | 4      | 19      | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | -  |
+|       |            | (d12)               |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 16th  | +5         | Ability Score       | 4      | 19      | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | -  |
+|       |            | Improvement         |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 17th  | +6         | Song of Rest (d12)  | 4      | 20      | 4  | 3  | 3  | 3  | 2  | 1  | 1  | 1  | 1  |
+|       |            |                     |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 18th  | +6         | Magical Secrets     | 4      | 22      | 4  | 3  | 3  | 3  | 3  | 1  | 1  | 1  | 1  |
+|       |            |                     |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 19th  | +6         | Ability Score       | 4      | 22      | 4  | 3  | 3  | 3  | 3  | 2  | 1  | 1  | 1  |
+|       |            | Improvement         |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+| 20th  | +6         | Superior            | 4      | 22      | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 1  | 1  |
+|       |            | Inspiration         |        |         |    |    |    |    |    |    |    |    |    |
++-------+------------+---------------------+--------+---------+----+----+----+----+----+----+----+----+----+
+
 
 Spellcasting
 ~~~~~~~~~~~~
@@ -399,12 +432,14 @@ harmony with your wishes and music.
 Your spells are part of your vast repertoire, magic that you can tune to
 different situations.
 
+
 Cantrips
 ^^^^^^^^
 
 You know two cantrips of your choice from the bard spell list. You learn
 additional bard cantrips of your choice at higher levels, as shown in
 the Cantrips Known column of the Bard table.
+
 
 Spell Slots
 ^^^^^^^^^^^
@@ -417,6 +452,7 @@ spell slots when you finish a long rest.
 For example, if you know the 1st-level spell *cure wounds* and have a
 1st-level and a 2nd-level spell slot available, you can cast *cure
 wounds* using either slot.
+
 
 Spells Known of 1st Level and Higher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -434,6 +470,7 @@ the bard spells you know and replace it with another spell from the bard
 spell list, which also must be of a level for which you have spell
 slots.
 
+
 Spellcasting Ability
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -449,17 +486,20 @@ attack roll with one.
 **Spell attack modifier** = your proficiency bonus + your Charisma
 modifier
 
+
 Ritual Casting
 ^^^^^^^^^^^^^^
 
 You can cast any bard spell you know as a ritual if that spell has the
 ritual tag.
 
+
 Spellcasting Focus
 ^^^^^^^^^^^^^^^^^^
 
 You can use a musical instrument (see chapter 5, "Equipment") as a
 spellcasting focus for your bard spells.
+
 
 Bardic Inspiration
 ~~~~~~~~~~~~~~~~~~
@@ -485,12 +525,14 @@ Your Bardic Inspiration die changes when you reach certain levels in
 this class. The die becomes a d8 at 5th level, a d10 at 10th level, and
 a d12 at 15th level.
 
+
 Jack of All Trades
 ~~~~~~~~~~~~~~~~~~
 
 Starting at 2nd level, you can add half your proficiency bonus, rounded
 down, to any ability check you make that doesn't already include your
 proficiency bonus.
+
 
 Song of Rest
 ~~~~~~~~~~~~
@@ -505,6 +547,7 @@ The extra hit points increase when you reach certain levels in this
 class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th
 level.
 
+
 Bard College
 ~~~~~~~~~~~~
 
@@ -512,6 +555,7 @@ At 3rd level, you delve into the advanced techniques of a bard college
 of your choice: the College of Lore or the College of Valor, both
 detailed at the end of the class description. Your choice grants you
 features at 3rd level and again at 6th and 14th level.
+
 
 Expertise
 ~~~~~~~~~
@@ -523,6 +567,7 @@ chosen proficiencies.
 At 10th level, you can choose another two skill proficiencies to gain
 this benefit.
 
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -531,11 +576,13 @@ you can increase one ability score of your choice by 2, or you can
 increase two ability scores of your choice by 1. As normal, you can't
 increase an ability score above 20 using this feature.
 
+
 Font of Inspiration
 ~~~~~~~~~~~~~~~~~~~
 
 Beginning when you reach 5th level, you regain all of your expended uses
 of Bardic Inspiration when you finish a short or long rest.
+
 
 Countercharm
 ~~~~~~~~~~~~
@@ -548,6 +595,7 @@ advantage on saving throws against being frightened or charmed. A
 creature must be able to hear you to gain this benefit. The performance
 ends early if you are incapacitated or silenced or if you voluntarily
 end it (no action required).
+
 
 Magical Secrets
 ~~~~~~~~~~~~~~~
@@ -563,14 +611,17 @@ number in the Spells Known column of the Bard table.
 You learn two additional spells from any classes at 14th level and again
 at 18th level.
 
+
 Superior Inspiration
 ~~~~~~~~~~~~~~~~~~~~
 
 At 20th level, when you roll initiative and have no uses of Bardic
 Inspiration left, you regain one use.
 
+
 Bard Colleges
 -------------
+
 
 College of Lore
 ~~~~~~~~~~~~~~~
@@ -595,11 +646,13 @@ with one another. They also meet at festivals or affairs of state, where
 they can expose corruption, unravel lies, and poke fun at self-important
 figures of authority.
 
+
 Bonus Proficiencies
 '''''''''''''''''''
 
 When you join the College of Lore at 3rd level, you gain proficiency
 with three skills of your choice.
+
 
 Cutting Words
 '''''''''''''
@@ -615,6 +668,7 @@ determines whether the attack roll or ability check succeeds or fails,
 or before the creature deals its damage. The creature is immune if it
 can't hear you or if it's immune to being charmed.
 
+
 Additional Magical Secrets
 ''''''''''''''''''''''''''
 
@@ -622,6 +676,7 @@ At 6th level, you learn two spells of your choice from any class. A
 spell you choose must be of a level you can cast, as shown on the Bard
 table, or a cantrip. The chosen spells count as bard spells for you but
 don't count against the number of bard spells you know.
+
 
 Peerless Skill
 ''''''''''''''
@@ -632,13 +687,16 @@ number rolled to your ability check. You can choose to do so after you
 roll the die for the ability check, but before the GM tells you whether
 you succeed or fail.
 
+
 Cleric
 ======
+
 
 Class Features
 --------------
 
 As a cleric, you gain the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -649,6 +707,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier
 per cleric level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -663,6 +722,7 @@ Proficiencies
 
 **Skills:** Choose two from History, Insight, Medicine, Persuasion, and
 Religion
+
 
 Equipment
 ~~~~~~~~~
@@ -746,10 +806,12 @@ granted by your background:
 | h   |          | improvement                |         |    |    |    |    |    |    |    |    |    |
 +-----+----------+----------------------------+---------+----+----+----+----+----+----+----+----+----+
 
+
 Spellcasting
 ~~~~~~~~~~~~
 
 As a conduit for divine power, you can cast cleric spells.
+
 
 Cantrips
 ^^^^^^^^
@@ -758,6 +820,7 @@ At 1st level, you know three cantrips of your choice from the cleric
 spell list. You learn additional cleric cantrips of your choice at
 higher levels, as shown in the Cantrips Known column of the Cleric
 table.
+
 
 Preparing and Casting Spells
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -785,6 +848,7 @@ Preparing a new list of cleric spells requires time spent in prayer and
 meditation: at least 1 minute per spell level for each spell on your
 list.
 
+
 Spellcasting Ability
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -799,17 +863,20 @@ for a cleric spell you cast and when making an attack roll with one.
 **Spell attack modifier** = your proficiency bonus + your Wisdom
 modifier
 
+
 Ritual Casting
 ^^^^^^^^^^^^^^
 
 You can cast a cleric spell as a ritual if that spell has the ritual tag
 and you have the spell prepared.
 
+
 Spellcasting Focus
 ^^^^^^^^^^^^^^^^^^
 
 You can use a holy symbol (see chapter 5, "Equipment") as a spellcasting
 focus for your cleric spells.
+
 
 Divine Domain
 ~~~~~~~~~~~~~
@@ -822,6 +889,7 @@ you choose it at 1st level. It also grants you additional ways to use
 Channel Divinity when you gain that feature at 2nd level, and additional
 benefits at 6th, 8th, and 17th levels.
 
+
 Domain Spells
 ^^^^^^^^^^^^^
 
@@ -832,6 +900,7 @@ number of spells you can prepare each day.
 
 If you have a domain spell that doesn't appear on the cleric spell list,
 the spell is nonetheless a cleric spell for you.
+
 
 Channel Divinity
 ~~~~~~~~~~~~~~~~
@@ -854,6 +923,7 @@ rests, and beginning at 18th level, you can use it three times between
 rests. When you finish a short or long rest, you regain your expended
 uses.
 
+
 Channel Divinity: Turn Undead
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -869,6 +939,7 @@ Dash action or try to escape from an effect that prevents it from
 moving. If there's nowhere to move, the creature can use the Dodge
 action.
 
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -876,6 +947,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level,
 you can increase one ability score of your choice by 2, or you can
 increase two ability scores of your choice by 1. As normal, you can't
 increase an ability score above 20 using this feature.
+
 
 Destroy Undead
 ~~~~~~~~~~~~~~
@@ -901,6 +973,7 @@ Destroy Undead table.
 | 17th               | 4 or lower                      |
 +--------------------+---------------------------------+
 
+
 Divine Intervention
 ~~~~~~~~~~~~~~~~~~~
 
@@ -919,8 +992,10 @@ Otherwise, you can use it again after you finish a long rest.
 At 20th level, your call for intervention succeeds automatically, no
 roll required.
 
+
 Cleric Domains
 --------------
+
 
 Life Domain
 ~~~~~~~~~~~
@@ -951,11 +1026,13 @@ and gods of home and community (such as Hestia, Hathor, and Boldrei).
 | 9th                | mass cure wounds, raise dead           |
 +--------------------+----------------------------------------+
 
+
 Bonus Proficiency
 '''''''''''''''''
 
 When you choose this domain at 1st level, you gain proficiency with
 heavy armor.
+
 
 Disciple of Life
 ''''''''''''''''
@@ -964,6 +1041,7 @@ Also starting at 1st level, your healing spells are more effective.
 Whenever you use a spell of 1st level or higher to restore hit points to
 a creature, the creature regains additional hit points equal to 2 + the
 spell's level.
+
 
 Channel Divinity: Preserve Life
 '''''''''''''''''''''''''''''''
@@ -978,6 +1056,7 @@ points among them. This feature can restore a creature to no more than
 half of its hit point maximum. You can't use this feature on an undead
 or a construct.
 
+
 Blessed Healer
 ''''''''''''''
 
@@ -985,6 +1064,7 @@ Beginning at 6th level, the healing spells you cast on others heal you
 as well. When you cast a spell of 1st level or higher that restores hit
 points to a creature other than you, you regain hit points equal to 2 +
 the spell's level.
+
 
 Divine Strike
 '''''''''''''
@@ -995,6 +1075,7 @@ weapon attack, you can cause the attack to deal an extra 1d8 radiant
 damage to the target. When you reach 14th level, the extra damage
 increases to 2d8.
 
+
 Supreme Healing
 '''''''''''''''
 
@@ -1003,13 +1084,16 @@ restore hit points with a spell, you instead use the highest number
 possible for each die. For example, instead of restoring 2d6 hit points
 to a creature, you restore 12.
 
+
 Druid
 =====
+
 
 Class Features
 --------------
 
 As a druid, you gain the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -1020,6 +1104,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier
 per druid level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -1036,6 +1121,7 @@ scimitars, sickles, slings, spears
 
 **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine,
 Nature, Perception, Religion, and Survival
+
 
 Equipment
 ~~~~~~~~~
@@ -1095,6 +1181,7 @@ granted by your background:
 | 20th        | +6                      | Archdruid                                           | 4                    | 4         | 3         | 3         | 3         | 3         | 2         | 2         | 1         | 1         |
 +-------------+-------------------------+-----------------------------------------------------+----------------------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+
 
+
 Druidic
 ~~~~~~~
 
@@ -1104,11 +1191,13 @@ this language automatically spot such a message. Others spot the
 message's presence with a successful DC 15 Wisdom (Perception) check but
 can't decipher it without magic.
 
+
 Spellcasting
 ~~~~~~~~~~~~
 
 Drawing on the divine essence of nature itself, you can cast spells to
 shape that essence to your will.
+
 
 Cantrips
 ^^^^^^^^
@@ -1116,6 +1205,7 @@ Cantrips
 At 1st level, you know two cantrips of your choice from the druid spell
 list. You learn additional druid cantrips of your choice at higher
 levels, as shown in the Cantrips Known column of the Druid table.
+
 
 Preparing and Casting Spells
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1143,6 +1233,7 @@ rest. Preparing a new list of druid spells requires time spent in prayer
 and meditation: at least 1 minute per spell level for each spell on your
 list.
 
+
 Spellcasting Ability
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -1157,11 +1248,13 @@ for a druid spell you cast and when making an attack roll with one.
 **Spell attack modifier** = your proficiency bonus + your Wisdom
 modifier
 
+
 Ritual Casting
 ~~~~~~~~~~~~~~
 
 You can cast a druid spell as a ritual if that spell has the ritual tag
 and you have the spell prepared.
+
 
 Spellcasting Focus
 ^^^^^^^^^^^^^^^^^^
@@ -1187,6 +1280,7 @@ spellcasting focus for your druid spells.
     Druids from regions that lack the plants described here have chosen
     other plants to take on similar uses. For instance, a druid of a
     desert region might value the yucca tree and cactus plants.
+
 
 Wild Shape
 ~~~~~~~~~~
@@ -1258,6 +1352,7 @@ While you are transformed, the following rules apply:
    to the ground or merge with it. Equipment that merges with the form
    has no effect until you leave the form.
 
+
 Druid Circle
 ~~~~~~~~~~~~
 
@@ -1265,6 +1360,7 @@ At 2nd level, you choose to identify with a circle of druids: the Circle
 of the Land or the Circle of the Moon, both detailed at the end of the
 class description. Your choice grants you features at 2nd level and
 again at 6th, 10th, and 14th level.
+
 
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1274,12 +1370,14 @@ you can increase one ability score of your choice by 2, or you can
 increase two ability scores of your choice by 1. As normal, you can't
 increase an ability score above 20 using this feature.
 
+
 Timeless Body
 ~~~~~~~~~~~~~
 
 Starting at 18th level, the primal magic that you wield causes you to
 age more slowly. For every 10 years that pass, your body ages only 1
 year.
+
 
 Beast Spells
 ~~~~~~~~~~~~
@@ -1288,6 +1386,7 @@ Beginning at 18th level, you can cast many of your druid spells in any
 shape you assume using Wild Shape. You can perform the somatic and
 verbal components of a druid spell while in a beast shape, but you
 aren't able to provide material components.
+
 
 Archdruid
 ~~~~~~~~~
@@ -1299,8 +1398,10 @@ druid spells, as well as any material components that lack a cost and
 aren't consumed by a spell. You gain this benefit in both your normal
 shape and your beast shape from Wild Shape.
 
+
 Druid Circles
 -------------
+
 
 Circle of the Land
 ~~~~~~~~~~~~~~~~~~
@@ -1314,11 +1415,13 @@ to the rulers of those folk. As a member of this circle, your magic is
 influenced by the land where you were initiated into the circle's
 mysterious rites.
 
+
 Bonus Cantrip
 '''''''''''''
 
 When you choose this circle at 2nd level, you learn one additional druid
 cantrip of your choice.
+
 
 Natural Recovery
 ''''''''''''''''
@@ -1333,6 +1436,7 @@ can't use this feature again until you finish a long rest.
 For example, when you are a 4th-level druid, you can recover up to two
 levels worth of spell slots. You can recover either a 2nd-level slot or
 two 1st-level slots.
+
 
 Circle Spells
 '''''''''''''
@@ -1446,6 +1550,7 @@ list, the spell is nonetheless a druid spell for you.
 | 9th               | insect plague, scrying                 |
 +-------------------+----------------------------------------+
 
+
 Land's Stride
 '''''''''''''
 
@@ -1458,11 +1563,13 @@ In addition, you have advantage on saving throws against plants that are
 magically created or manipulated to impede movement, such those created
 by the *entangle* spell.
 
+
 Nature's Ward
 '''''''''''''
 
 When you reach 10th level, you can't be charmed or frightened by
 elementals or fey, and you are immune to poison and disease.
+
 
 Nature's Sanctuary
 ''''''''''''''''''
@@ -1485,13 +1592,16 @@ you.
     deities). The worship of these deities is often considered a more
     ancient tradition than the faiths of clerics and urbanized peoples.
 
+
 Fighter
 =======
+
 
 Class Features
 --------------
 
 As a fighter, you gain the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -1502,6 +1612,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution
 modifier per fighter level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -1516,6 +1627,7 @@ Proficiencies
 
 **Skills:** Choose two skills from Acrobatics, Animal, Handling,
 Athletics, History, Insight, Intimidation, Perception, and Survival
+
 
 Equipment
 ~~~~~~~~~
@@ -1577,6 +1689,7 @@ granted by your background:
 | 20th        | +6                      | Extra Attack (3)                                    |
 +-------------+-------------------------+-----------------------------------------------------+
 
+
 Fighting Style
 ~~~~~~~~~~~~~~
 
@@ -1584,21 +1697,25 @@ You adopt a particular style of fighting as your specialty. Choose one
 of the following options. You can't take a Fighting Style option more
 than once, even if you later get to choose again.
 
+
 Archery
 ^^^^^^^
 
 You gain a +2 bonus to attack rolls you make with ranged weapons.
+
 
 Defense
 ^^^^^^^
 
 While you are wearing armor, you gain a +1 bonus to AC.
 
+
 Dueling
 ^^^^^^^
 
 When you are wielding a melee weapon in one hand and no other weapons,
 you gain a +2 bonus to damage rolls with that weapon.
+
 
 Great Weapon Fighting
 ^^^^^^^^^^^^^^^^^^^^^
@@ -1609,6 +1726,7 @@ die and must use the new roll, even if the new roll is a 1 or a 2. The
 weapon must have the two-handed or versatile property for you to gain
 this benefit.
 
+
 Protection
 ^^^^^^^^^^
 
@@ -1616,11 +1734,13 @@ When a creature you can see attacks a target other than you that is
 within 5 feet of you, you can use your reaction to impose disadvantage
 on the attack roll. You must be wielding a shield.
 
+
 Two-Weapon Fighting
 ^^^^^^^^^^^^^^^^^^^
 
 When you engage in two-weapon fighting, you can add your ability
 modifier to the damage of the second attack.
+
 
 Second Wind
 ~~~~~~~~~~~
@@ -1630,6 +1750,7 @@ yourself from harm. On your turn, you can use a bonus action to regain
 hit points equal to 1d10 + your fighter level. Once you use this
 feature, you must finish a short or long rest before you can use it
 again.
+
 
 Action Surge
 ~~~~~~~~~~~~
@@ -1642,6 +1763,7 @@ Once you use this feature, you must finish a short or long rest before
 you can use it again. Starting at 17th level, you can use it twice
 before a rest, but only once on the same turn.
 
+
 Martial Archetype
 ~~~~~~~~~~~~~~~~~
 
@@ -1651,6 +1773,7 @@ Eldritch Knight, all detailed at the end of the class description. The
 archetype you choose grants you features at 3rd level and again at 7th,
 10th, 15th, and 18th level.
 
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1658,6 +1781,7 @@ When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and
 19th level, you can increase one ability score of your choice by 2, or
 you can increase two ability scores of your choice by 1. As normal, you
 can't increase an ability score above 20 using this feature.
+
 
 Extra Attack
 ~~~~~~~~~~~~
@@ -1667,6 +1791,7 @@ you take the Attack action on your turn.
 
 The number of attacks increases to three when you reach 11th level in
 this class and to four when you reach 20th level in this class.
+
 
 Indomitable
 ~~~~~~~~~~~
@@ -1678,12 +1803,14 @@ again until you finish a long rest.
 You can use this feature twice between long rests starting at 13th level
 and three times between long rests starting at 17th level.
 
+
 Martial Archetypes
 ------------------
 
 Different fighters choose different approaches to perfecting their
 fighting prowess. The martial archetype you choose to emulate reflects
 your approach.
+
 
 Champion
 ~~~~~~~~
@@ -1693,11 +1820,13 @@ honed to deadly perfection. Those who model themselves on this archetype
 combine rigorous training with physical excellence to deal devastating
 blows.
 
+
 Improved Critical
 '''''''''''''''''
 
 Beginning when you choose this archetype at 3rd level, your weapon
 attacks score a critical hit on a roll of 19 or 20.
+
 
 Remarkable Athlete
 ''''''''''''''''''
@@ -1709,17 +1838,20 @@ doesn't already use your proficiency bonus.
 In addition, when you make a running long jump, the distance you can
 cover increases by a number of feet equal to your Strength modifier.
 
+
 Additional Fighting Style
 '''''''''''''''''''''''''
 
 At 10th level, you can choose a second option from the Fighting Style
 class feature.
 
+
 Superior Critical
 '''''''''''''''''
 
 Starting at 15th level, your weapon attacks score a critical hit on a
 roll of 18-20.
+
 
 Survivor
 ''''''''
@@ -1729,13 +1861,16 @@ start of each of your turns, you regain hit points equal to 5 + your
 Constitution modifier if you have no more than half of your hit points
 left. You don't gain this benefit if you have 0 hit points.
 
+
 Monk
 ====
+
 
 Class Features
 --------------
 
 As a monk, you gain the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -1746,6 +1881,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier
 per monk level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -1760,6 +1896,7 @@ Proficiencies
 
 **Skills:** Choose two from Acrobatics, Athletics, History, Insight,
 Religion, and Stealth
+
 
 Equipment
 ~~~~~~~~~
@@ -1819,12 +1956,14 @@ granted by your background:
 | 20th        | +6                      | 1d10               | 20              | +30 ft.                  | Perfect Self                                       |
 +-------------+-------------------------+--------------------+-----------------+--------------------------+----------------------------------------------------+
 
+
 Unarmored Defense
 ~~~~~~~~~~~~~~~~~
 
 Beginning at 1st level, while you are wearing no armor and not wielding
 a shield, your AC equals 10 + your Dexterity modifier + your Wisdom
 modifier.
+
 
 Martial Arts
 ~~~~~~~~~~~~
@@ -1880,11 +2019,13 @@ follows:
 
 **Ki save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
+
 Flurry of Blows
 ^^^^^^^^^^^^^^^
 
 Immediately after you take the Attack action on your turn, you can spend
 1 ki point to make two unarmed strikes as a bonus action.
+
 
 Patient Defense
 ^^^^^^^^^^^^^^^
@@ -1892,11 +2033,13 @@ Patient Defense
 You can spend 1 ki point to take the Dodge action as a bonus action on
 your turn.
 
+
 Step of the Wind
 ^^^^^^^^^^^^^^^^
 
 You can spend 1 ki point to take the Disengage or Dash action as a bonus
 action on your turn, and your jump distance is doubled for the turn.
+
 
 Unarmored Movement
 ~~~~~~~~~~~~~~~~~~
@@ -1908,6 +2051,7 @@ certain monk levels, as shown in the Monk table.
 At 9th level, you gain the ability to move along vertical surfaces and
 across liquids on your turn without falling during the move.
 
+
 Monastic Tradition
 ~~~~~~~~~~~~~~~~~~
 
@@ -1916,6 +2060,7 @@ the Way of the Open Hand, the Way of Shadow, or the Way of the Four
 Elements, all detailed at the end of the class description. Your
 tradition grants you features at 3rd level and again at 6th, 11th, and
 17th level.
+
 
 Deflect Missiles
 ~~~~~~~~~~~~~~~~
@@ -1934,6 +2079,7 @@ regardless of your weapon proficiencies, and the missile counts as a
 monk weapon for the attack, which has a normal range of 20 feet and a
 long range of 60 feet.
 
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1942,6 +2088,7 @@ you can increase one ability score of your choice by 2, or you can
 increase two ability scores of your choice by 1. As normal, you can't
 increase an ability score above 20 using this feature.
 
+
 Slow Fall
 ~~~~~~~~~
 
@@ -1949,11 +2096,13 @@ Beginning at 4th level, you can use your reaction when you fall to
 reduce any falling damage you take by an amount equal to five times your
 monk level.
 
+
 Extra Attack
 ~~~~~~~~~~~~
 
 Beginning at 5th level, you can attack twice, instead of once, whenever
 you take the Attack action on your turn.
+
 
 Stunning Strike
 ~~~~~~~~~~~~~~~
@@ -1964,12 +2113,14 @@ attack, you can spend 1 ki point to attempt a stunning strike. The
 target must succeed on a Constitution saving throw or be stunned until
 the end of your next turn.
 
+
 Ki-Empowered Strikes
 ~~~~~~~~~~~~~~~~~~~~
 
 Starting at 6th level, your unarmed strikes count as magical for the
 purpose of overcoming resistance and immunity to nonmagical attacks and
 damage.
+
 
 Evasion
 ~~~~~~~
@@ -1981,11 +2132,13 @@ make a Dexterity saving throw to take only half damage, you instead take
 no damage if you succeed on the saving throw, and only half damage if
 you fail.
 
+
 Stillness of Mind
 ~~~~~~~~~~~~~~~~~
 
 Starting at 7th level, you can use your action to end one effect on
 yourself that is causing you to be charmed or frightened.
+
 
 Purity of Body
 ~~~~~~~~~~~~~~
@@ -1993,12 +2146,14 @@ Purity of Body
 At 10th level, your mastery of the ki flowing through you makes you
 immune to disease and poison.
 
+
 Tongue of the Sun and Moon
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Starting at 13th level, you learn to touch the ki of other minds so that
 you understand all spoken languages. Moreover, any creature that can
 understand a language can understand what you say.
+
 
 Diamond Soul
 ~~~~~~~~~~~~
@@ -2009,12 +2164,14 @@ all saving throws.
 Additionally, whenever you make a saving throw and fail, you can spend 1
 ki point to reroll it and take the second result.
 
+
 Timeless Body
 ~~~~~~~~~~~~~
 
 At 15th level, your ki sustains you so that you suffer none of the
 frailty of old age, and you can't be aged magically. You can still die
 of old age, however. In addition, you no longer need food or water.
+
 
 Empty Body
 ~~~~~~~~~~
@@ -2027,11 +2184,13 @@ Additionally, you can spend 8 ki points to cast the *astral projection*
 spell, without needing material components. When you do so, you can't
 take any other creatures with you.
 
+
 Perfect Self
 ~~~~~~~~~~~~
 
 At 20th level, when you roll for initiative and have no ki points
 remaining, you regain 4 ki points.
+
 
 Monastic Traditions
 -------------------
@@ -2043,6 +2202,7 @@ according to his or her aptitude and interest. All three traditions rely
 on the same basic techniques, diverging as the student grows more adept.
 Thus, a monk need choose a tradition only upon reaching 3rd level.
 
+
 Way of the Open Hand
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -2050,6 +2210,7 @@ Monks of the Way of the Open Hand are the ultimate masters of martial
 arts combat, whether armed or unarmed. They learn techniques to push and
 trip their opponents, manipulate ki to heal damage to their bodies, and
 practice advanced meditation that can protect them from harm.
+
 
 Open Hand Technique
 '''''''''''''''''''
@@ -2066,12 +2227,14 @@ one of the following effects on that target:
 
 -  It can't take reactions until the end of your next turn.
 
+
 Wholeness of Body
 '''''''''''''''''
 
 At 6th level, you gain the ability to heal yourself. As an action, you
 can regain hit points equal to three times your monk level. You must
 finish a long rest before you can use this feature again.
+
 
 Tranquility
 '''''''''''
@@ -2081,6 +2244,7 @@ surrounds you with an aura of peace. At the end of a long rest, you gain
 the effect of a *sanctuary* spell that lasts until the start of your
 next long rest (the spell can end early as normal). The saving throw DC
 for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
+
 
 Quivering Palm
 ''''''''''''''
@@ -2098,13 +2262,16 @@ You can have only one creature under the effect of this feature at a
 time. You can choose to end the vibrations harmlessly without using an
 action.
 
+
 Paladin
 =======
+
 
 Class Features
 --------------
 
 As a paladin, you gain the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -2115,6 +2282,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution
 modifier per paladin level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -2129,6 +2297,7 @@ Proficiencies
 
 **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine,
 Persuasion, and Religion
+
 
 Equipment
 ~~~~~~~~~
@@ -2196,6 +2365,7 @@ granted by your background:
 | 20th        | +6                      | Sacred Oath feature                          | 4         | 3         | 3         | 3         | 2         |
 +-------------+-------------------------+----------------------------------------------+-----------+-----------+-----------+-----------+-----------+
 
+
 Divine Sense
 ~~~~~~~~~~~~
 
@@ -2212,6 +2382,7 @@ place or object that has been consecrated or desecrated, as with the
 
 You can use this feature a number of times equal to 1 + your Charisma
 modifier. When you finish a long rest, you regain all expended uses.
+
 
 Lay on Hands
 ~~~~~~~~~~~~
@@ -2232,6 +2403,7 @@ one.
 
 This feature has no effect on undead and constructs.
 
+
 Fighting Style
 ~~~~~~~~~~~~~~
 
@@ -2239,16 +2411,19 @@ At 2nd level, you adopt a style of fighting as your specialty. Choose
 one of the following options. You can't take a Fighting Style option
 more than once, even if you later get to choose again.
 
+
 Defense
 ^^^^^^^
 
 While you are wearing armor, you gain a +1 bonus to AC.
+
 
 Dueling
 ^^^^^^^
 
 When you are wielding a melee weapon in one hand and no other weapons,
 you gain a +2 bonus to damage rolls with that weapon.
+
 
 Great Weapon Fighting
 ^^^^^^^^^^^^^^^^^^^^^
@@ -2258,6 +2433,7 @@ melee weapon that you are wielding with two hands, you can reroll the
 die and must use the new roll. The weapon must have the two-handed or
 versatile property for you to gain this benefit.
 
+
 Protection
 ^^^^^^^^^^
 
@@ -2265,11 +2441,13 @@ When a creature you can see attacks a target other than you that is
 within 5 feet of you, you can use your reaction to impose disadvantage
 on the attack roll. You must be wielding a shield.
 
+
 Spellcasting
 ~~~~~~~~~~~~
 
 By 2nd level, you have learned to draw on divine magic through
 meditation and prayer to cast spells as a cleric does.
+
 
 Preparing and Casting Spells
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2297,6 +2475,7 @@ Preparing a new list of paladin spells requires time spent in prayer and
 meditation: at least 1 minute per spell level for each spell on your
 list.
 
+
 Spellcasting Ability
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -2311,11 +2490,13 @@ DC for a paladin spell you cast and when making an attack roll with one.
 **Spell attack modifier** = your proficiency bonus + your Charisma
 modifier
 
+
 Spellcasting Focus
 ^^^^^^^^^^^^^^^^^^
 
 You can use a holy symbol as a spellcasting focus for your paladin
 spells.
+
 
 Divine Smite
 ~~~~~~~~~~~~
@@ -2327,11 +2508,13 @@ a 1st-level spell slot, plus 1d8 for each spell level higher than 1st,
 to a maximum of 5d8. The damage increases by 1d8 if the target is an
 undead or a fiend, to a maximum of 6d8.
 
+
 Divine Health
 ~~~~~~~~~~~~~
 
 By 3rd level, the divine magic flowing through you makes you immune to
 disease.
+
 
 Sacred Oath
 ~~~~~~~~~~~
@@ -2346,6 +2529,7 @@ Your choice grants you features at 3rd level and again at 7th, 15th, and
 20th level. Those features include oath spells and the Channel Divinity
 feature.
 
+
 Oath Spells
 ^^^^^^^^^^^
 
@@ -2356,6 +2540,7 @@ count against the number of spells you can prepare each day.
 
 If you gain an oath spell that doesn't appear on the paladin spell list,
 the spell is nonetheless a paladin spell for you.
+
 
 Channel Divinity
 ^^^^^^^^^^^^^^^^
@@ -2371,6 +2556,7 @@ again.
 Some Channel Divinity effects require saving throws. When you use such
 an effect from this class, the DC equals your paladin spell save DC.
 
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2379,11 +2565,13 @@ you can increase one ability score of your choice by 2, or you can
 increase two ability scores of your choice by 1. As normal, you can't
 increase an ability score above 20 using this feature.
 
+
 Extra Attack
 ~~~~~~~~~~~~
 
 Beginning at 5th level, you can attack twice, instead of once, whenever
 you take the Attack action on your turn.
+
 
 Aura of Protection
 ~~~~~~~~~~~~~~~~~~
@@ -2395,6 +2583,7 @@ saving throw equal to your Charisma modifier (with a minimum bonus of
 
 At 18th level, the range of this aura increases to 30 feet.
 
+
 Aura of Courage
 ~~~~~~~~~~~~~~~
 
@@ -2402,6 +2591,7 @@ Starting at 10th level, you and friendly creatures within 10 feet of you
 can't be frightened while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
+
 
 Improved Divine Smite
 ~~~~~~~~~~~~~~~~~~~~~
@@ -2411,6 +2601,7 @@ melee weapon strikes carry divine power with them. Whenever you hit a
 creature with a melee weapon, the creature takes an extra 1d8 radiant
 damage. If you also use your Divine Smite with an attack, you add this
 damage to the extra damage of your Divine Smite.
+
 
 Cleansing Touch
 ~~~~~~~~~~~~~~~
@@ -2422,6 +2613,7 @@ You can use this feature a number of times equal to your Charisma
 modifier (a minimum of once). You regain expended uses when you finish a
 long rest.
 
+
 Sacred Oaths
 ------------
 
@@ -2432,6 +2624,7 @@ the paladin's training. Some characters with this class don't consider
 themselves true paladins until they have reached 3rd level and made this
 oath. For others, the actual swearing of the oath is a formality, an
 official stamp on what has always been true in the paladin's heart.
+
 
 Oath of Devotion
 ~~~~~~~~~~~~~~~~
@@ -2446,6 +2639,7 @@ this oath are devoted to gods of law and good and use their gods' tenets
 as the measure of their devotion. They hold angels-the perfect servants
 of good-as their ideals, and incorporate images of angelic wings into
 their helmets or coats of arms.
+
 
 Tenets of Devotion
 ''''''''''''''''''
@@ -2468,6 +2662,7 @@ amount of harm.
 protect those entrusted to your care, and obey those who have just
 authority over you.
 
+
 Oath Spells
 '''''''''''
 
@@ -2488,6 +2683,7 @@ You gain oath spells at the paladin levels listed.
 +-------------+--------------------------------------------+
 | 17th        | commune, flame strike                      |
 +-------------+--------------------------------------------+
+
 
 Channel Divinity
 ''''''''''''''''
@@ -2519,6 +2715,7 @@ Dash action or try to escape from an effect that prevents it from
 moving. If there's nowhere to move, the creature can use the Dodge
 action.
 
+
 Aura of Devotion
 ''''''''''''''''
 
@@ -2527,11 +2724,13 @@ can't be charmed while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
+
 Purity of Spirit
 ''''''''''''''''
 
 Beginning at 15th level, you are always under the effects of a
 *protection from evil and good* spell.
+
 
 Holy Nimbus
 '''''''''''
@@ -2569,13 +2768,16 @@ long rest.
     discretion, an impenitent paladin might be forced to abandon this
     class and adopt another.
 
+
 Ranger
 ======
+
 
 Class Features
 --------------
 
 As a ranger, you gain the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -2586,6 +2788,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution
 modifier per ranger level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -2600,6 +2803,7 @@ Proficiencies
 
 **Skills:** Choose three from Animal Handling, Athletics, Insight,
 Investigation, Nature, Perception, Stealth, and Survival
+
 
 Equipment
 ~~~~~~~~~
@@ -2667,6 +2871,7 @@ granted by your background:
 | 20th        | +6                      | Foe Slayer                                          | 11                 | 4         | 3         | 3         | 3         | 2         |
 +-------------+-------------------------+-----------------------------------------------------+--------------------+-----------+-----------+-----------+-----------+-----------+
 
+
 Favored Enemy
 ~~~~~~~~~~~~~
 
@@ -2688,6 +2893,7 @@ that is spoken by your favored enemies, if they speak one at all.
 You choose one additional favored enemy, as well as an associated
 language, at 6th and 14th level. As you gain levels, your choices should
 reflect the types of monsters you have encountered on your adventures.
+
 
 Natural Explorer
 ~~~~~~~~~~~~~~~~
@@ -2718,6 +2924,7 @@ the following benefits:
 
 You choose additional favored terrain types at 6th and 10th level.
 
+
 Fighting Style
 ~~~~~~~~~~~~~~
 
@@ -2726,15 +2933,18 @@ specialty. Choose one of the following options. You can't take a
 Fighting Style option more than once, even if you later get to choose
 again.
 
+
 Archery
 ^^^^^^^
 
 You gain a +2 bonus to attack rolls you make with ranged weapons.
 
+
 Defense
 ^^^^^^^
 
 While you are wearing armor, you gain a +1 bonus to AC.
+
 
 Dueling
 ^^^^^^^
@@ -2742,11 +2952,13 @@ Dueling
 When you are wielding a melee weapon in one hand and no other weapons,
 you gain a +2 bonus to damage rolls with that weapon.
 
+
 Two-Weapon Fighting
 ^^^^^^^^^^^^^^^^^^^
 
 When you engage in two-weapon fighting, you can add your ability
 modifier to the damage of the second attack.
+
 
 Spellcasting
 ~~~~~~~~~~~~
@@ -2755,6 +2967,7 @@ By the time you reach 2nd level, you have learned to use the magical
 essence of nature to cast spells, much as a druid does. See chapter 10
 for the general rules of spellcasting and chapter 11 for the ranger
 spell list.
+
 
 Spell Slots
 ^^^^^^^^^^^
@@ -2767,6 +2980,7 @@ spell slots when you finish a long rest.
 For example, if you know the 1st-level spell *animal friendship* and
 have a 1st-level and a 2nd-level spell slot available, you can cast
 *animal friendship* using either slot.
+
 
 Spells Known of 1st Level and Higher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2783,6 +2997,7 @@ the ranger spells you know and replace it with another spell from the
 ranger spell list, which also must be of a level for which you have
 spell slots.
 
+
 Spellcasting Ability
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -2797,6 +3012,7 @@ cast and when making an attack roll with one.
 **Spell attack modifier** = your proficiency bonus + your Wisdom
 modifier
 
+
 Ranger Archetype
 ~~~~~~~~~~~~~~~~
 
@@ -2804,6 +3020,7 @@ At 3rd level, you choose an archetype that you strive to emulate: Hunter
 or Beast Master, both detailed at the end of the class description. Your
 choice grants you features at 3rd level and again at 7th, 11th, and 15th
 level.
+
 
 Primeval Awareness
 ~~~~~~~~~~~~~~~~~~
@@ -2816,6 +3033,7 @@ up to 6 miles if you are in your favored terrain): aberrations,
 celestials, dragons, elementals, fey, fiends, and undead. This feature
 doesn't reveal the creatures' location or number.
 
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2824,11 +3042,13 @@ you can increase one ability score of your choice by 2, or you can
 increase two ability scores of your choice by 1. As normal, you can't
 increase an ability score above 20 using this feature.
 
+
 Extra Attack
 ~~~~~~~~~~~~
 
 Beginning at 5th level, you can attack twice, instead of once, whenever
 you take the Attack action on your turn.
+
 
 Land's Stride
 ~~~~~~~~~~~~~
@@ -2841,6 +3061,7 @@ have thorns, spines, or a similar hazard.
 In addition, you have advantage on saving throws against plants that are
 magically created or manipulated to impede movement, such those created
 by the *entangle* spell.
+
 
 Hide in Plain Sight
 ~~~~~~~~~~~~~~~~~~~
@@ -2857,12 +3078,14 @@ least as tall and wide as you are. You gain a +10 bonus to Dexterity
 actions. Once you move or take an action or a reaction, you must
 camouflage yourself again to gain this benefit.
 
+
 Vanish
 ~~~~~~
 
 Starting at 14th level, you can use the Hide action as a bonus action on
 your turn. Also, you can't be tracked by nonmagical means, unless you
 choose to leave a trail.
+
 
 Feral Senses
 ~~~~~~~~~~~~
@@ -2876,6 +3099,7 @@ You are also aware of the location of any invisible creature within 30
 feet of you, provided that the creature isn't hidden from you and you
 aren't blinded or deafened.
 
+
 Foe Slayer
 ~~~~~~~~~~
 
@@ -2885,11 +3109,13 @@ roll or the damage roll of an attack you make against one of your
 favored enemies. You can choose to use this feature before or after the
 roll, but before any effects of the roll are applied.
 
+
 Ranger Archetypes
 -----------------
 
 The ideal of the ranger has two classic expressions: the Hunter and the
 Beast Master.
+
 
 Hunter
 ~~~~~~
@@ -2899,6 +3125,7 @@ between civilization and the terrors of the wilderness. As you walk the
 Hunter's path, you learn specialized techniques for fighting the threats
 you face, from rampaging ogres and hordes of orcs to towering giants and
 terrifying dragons.
+
 
 Hunter's Prey
 '''''''''''''
@@ -2920,6 +3147,7 @@ attack, you can make another attack with the same weapon against a
 different creature that is within 5 feet of the original target and
 within range of your weapon.
 
+
 Defensive Tactics
 '''''''''''''''''
 
@@ -2935,6 +3163,7 @@ creature for the rest of the turn.
 ***Steel Will***. You have advantage on saving throws against being
 frightened.
 
+
 Multiattack
 '''''''''''
 
@@ -2948,6 +3177,7 @@ normal, and you make a separate attack roll for each target.
 ***Whirlwind Attack***. You can use your action to make a melee attack
 against any number of creatures within 5 feet of you, with a separate
 attack roll for each target.
+
 
 Superior Hunter's Defense
 '''''''''''''''''''''''''
@@ -2969,13 +3199,16 @@ choice.
 attack, you can use your reaction to halve the attack's damage against
 you.
 
+
 Rogue
 =====
+
 
 Class Features
 --------------
 
 As a rogue, you have the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -2986,6 +3219,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier
 per rogue level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -3002,6 +3236,7 @@ shortswords
 **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight,
 Intimidation, Investigation, Perception, Performance, Persuasion,
 Sleight of Hand, and Stealth
+
 
 Equipment
 ~~~~~~~~~
@@ -3072,6 +3307,7 @@ granted by your background:
 | 20th        | +6                      | 10d6               | Stroke of Luck                           |
 +-------------+-------------------------+--------------------+------------------------------------------+
 
+
 Expertise
 ~~~~~~~~~
 
@@ -3082,6 +3318,7 @@ either of the chosen proficiencies.
 
 At 6th level, you can choose two more of your proficiencies (in skills
 or with thieves' tools) to gain this benefit.
+
 
 Sneak Attack
 ~~~~~~~~~~~~
@@ -3098,6 +3335,7 @@ don't have disadvantage on the attack roll.
 The amount of the extra damage increases as you gain levels in this
 class, as shown in the Sneak Attack column of the Rogue table.
 
+
 Thieves' Cant
 ~~~~~~~~~~~~~
 
@@ -3113,6 +3351,7 @@ the territory of a thieves' guild, whether loot is nearby, or whether
 the people in an area are easy marks or will provide a safe house for
 thieves on the run.
 
+
 Cunning Action
 ~~~~~~~~~~~~~~
 
@@ -3120,6 +3359,7 @@ Starting at 2nd level, your quick thinking and agility allow you to move
 and act quickly. You can take a bonus action on each of your turns in
 combat. This action can be used only to take the Dash, Disengage, or
 Hide action.
+
 
 Roguish Archetype
 ~~~~~~~~~~~~~~~~~
@@ -3130,6 +3370,7 @@ detailed at the end of the class description. Your archetype choice
 grants you features at 3rd level and then again at 9th, 13th, and 17th
 level.
 
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -3138,12 +3379,14 @@ level, you can increase one ability score of your choice by 2, or you
 can increase two ability scores of your choice by 1. As normal, you
 can't increase an ability score above 20 using this feature.
 
+
 Uncanny Dodge
 ~~~~~~~~~~~~~
 
 Starting at 5th level, when an attacker that you can see hits you with
 an attack, you can use your reaction to halve the attack's damage
 against you.
+
 
 Evasion
 ~~~~~~~
@@ -3155,6 +3398,7 @@ Dexterity saving throw to take only half damage, you instead take no
 damage if you succeed on the saving throw, and only half damage if you
 fail.
 
+
 Reliable Talent
 ~~~~~~~~~~~~~~~
 
@@ -3162,11 +3406,13 @@ By 11th level, you have refined your chosen skills until they approach
 perfection. Whenever you make an ability check that lets you add your
 proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
+
 Blindsense
 ~~~~~~~~~~
 
 Starting at 14th level, if you are able to hear, you are aware of the
 location of any hidden or invisible creature within 10 feet of you.
+
 
 Slippery Mind
 ~~~~~~~~~~~~~
@@ -3174,12 +3420,14 @@ Slippery Mind
 By 15th level, you have acquired greater mental strength. You gain
 proficiency in Wisdom saving throws.
 
+
 Elusive
 ~~~~~~~
 
 Beginning at 18th level, you are so evasive that attackers rarely gain
 the upper hand against you. No attack roll has advantage against you
 while you aren't incapacitated.
+
 
 Stroke of Luck
 ~~~~~~~~~~~~~~
@@ -3192,6 +3440,7 @@ the d20 roll as a 20.
 Once you use this feature, you can't use it again until you finish a
 short or long rest.
 
+
 Roguish Archetypes
 ------------------
 
@@ -3202,6 +3451,7 @@ talents in varying directions, embodied by the rogue archetypes. Your
 choice of archetype is a reflection of your focus-not necessarily an
 indication of your chosen profession, but a description of your
 preferred techniques.
+
 
 Thief
 ~~~~~
@@ -3214,6 +3464,7 @@ your agility and stealth, you learn skills useful for delving into
 ancient ruins, reading unfamiliar languages, and using magic items you
 normally couldn't employ.
 
+
 Fast Hands
 ''''''''''
 
@@ -3221,6 +3472,7 @@ Starting at 3rd level, you can use the bonus action granted by your
 Cunning Action to make a Dexterity (Sleight of Hand) check, use your
 thieves' tools to disarm a trap or open a lock, or take the Use an
 Object action.
+
 
 Second-Story Work
 '''''''''''''''''
@@ -3231,11 +3483,13 @@ climb faster than normal; climbing no longer costs you extra movement.
 In addition, when you make a running jump, the distance you cover
 increases by a number of feet equal to your Dexterity modifier.
 
+
 Supreme Sneak
 '''''''''''''
 
 Starting at 9th level, you have advantage on a Dexterity (Stealth) check
 if you move no more than half your speed on the same turn.
+
 
 Use Magic Device
 ''''''''''''''''
@@ -3244,6 +3498,7 @@ By 13th level, you have learned enough about the workings of magic that
 you can improvise the use of items even when they are not intended for
 you. You ignore all class, race, and level requirements on the use of
 magic items.
+
 
 Thief's Reflexes
 ''''''''''''''''
@@ -3254,13 +3509,16 @@ of any combat. You take your first turn at your normal initiative and
 your second turn at your initiative minus 10. You can't use this feature
 when you are surprised.
 
+
 Sorcerer
 ========
+
 
 Class Features
 --------------
 
 As a sorcerer, you gain the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -3271,6 +3529,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier
 per sorcerer level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -3285,6 +3544,7 @@ Proficiencies
 
 **Skills:** Choose two from Arcana, Deception, Insight, Intimidation,
 Persuasion, and Religion
+
 
 Equipment
 ~~~~~~~~~
@@ -3381,12 +3641,14 @@ granted by your background:
 | h   |          |         | Restoration |         |        |     |     |     |     |     |     |     |     |     |
 +-----+----------+---------+-------------+---------+--------+-----+-----+-----+-----+-----+-----+-----+-----+-----+
 
+
 Spellcasting
 ~~~~~~~~~~~~
 
 An event in your past, or in the life of a parent or ancestor, left an
 indelible mark on you, infusing you with arcane magic. This font of
 magic, whatever its origin, fuels your spells.
+
 
 Cantrips
 ^^^^^^^^
@@ -3395,6 +3657,7 @@ At 1st level, you know four cantrips of your choice from the sorcerer
 spell list. You learn additional sorcerer cantrips of your choice at
 higher levels, as shown in the Cantrips Known column of the Sorcerer
 table.
+
 
 Spell Slots
 ^^^^^^^^^^^
@@ -3407,6 +3670,7 @@ regain all expended spell slots when you finish a long rest.
 For example, if you know the 1st-level spell *burning hands* and have a
 1st-level and a 2nd-level spell slot available, you can cast *burning
 hands* using either slot.
+
 
 Spells Known of 1st Level and Higher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -3424,6 +3688,7 @@ the sorcerer spells you know and replace it with another spell from the
 sorcerer spell list, which also must be of a level for which you have
 spell slots.
 
+
 Spellcasting Ability
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -3439,11 +3704,13 @@ making an attack roll with one.
 **Spell attack modifier** = your proficiency bonus + your Charisma
 modifier
 
+
 Spellcasting Focus
 ^^^^^^^^^^^^^^^^^^
 
 You can use an arcane focus as a spellcasting focus for your sorcerer
 spells.
+
 
 Sorcerous Origin
 ~~~~~~~~~~~~~~~~
@@ -3455,12 +3722,14 @@ end of the class description.
 Your choice grants you features when you choose it at 1st level and
 again at 6th, 14th, and 18th level.
 
+
 Font of Magic
 ~~~~~~~~~~~~~
 
 At 2nd level, you tap into a deep wellspring of magic within yourself.
 This wellspring is represented by sorcery points, which allow you to
 create a variety of magical effects.
+
 
 Sorcery Points
 ^^^^^^^^^^^^^^
@@ -3469,6 +3738,7 @@ You have 2 sorcery points, and you gain more as you reach higher levels,
 as shown in the Sorcery Points column of the Sorcerer table. You can
 never have more sorcery points than shown on the table for your level.
 You regain all spent sorcery points when you finish a long rest.
+
 
 Flexible Casting
 ^^^^^^^^^^^^^^^^
@@ -3506,6 +3776,7 @@ long rest.
 your turn, you can expend one spell slot and gain a number of sorcery
 points equal to the slot's level.
 
+
 Metamagic
 ~~~~~~~~~
 
@@ -3515,6 +3786,7 @@ You gain another one at 10th and 17th level.
 
 You can use only one Metamagic option on a spell when you cast it,
 unless otherwise noted.
+
 
 Careful Spell
 ^^^^^^^^^^^^^
@@ -3526,6 +3798,7 @@ creatures up to your Charisma modifier (minimum of one creature). A
 chosen creature automatically succeeds on its saving throw against the
 spell.
 
+
 Distant Spell
 ^^^^^^^^^^^^^
 
@@ -3534,6 +3807,7 @@ spend 1 sorcery point to double the range of the spell.
 
 When you cast a spell that has a range of touch, you can spend 1 sorcery
 point to make the range of the spell 30 feet.
+
 
 Empowered Spell
 ^^^^^^^^^^^^^^^
@@ -3545,12 +3819,14 @@ of one). You must use the new rolls.
 You can use Empowered Spell even if you have already used a different
 Metamagic option during the casting of the spell.
 
+
 Extended Spell
 ^^^^^^^^^^^^^^
 
 When you cast a spell that has a duration of 1 minute or longer, you can
 spend 1 sorcery point to double its duration, to a maximum duration of
 24 hours.
+
 
 Heightened Spell
 ^^^^^^^^^^^^^^^^
@@ -3559,6 +3835,7 @@ When you cast a spell that forces a creature to make a saving throw to
 resist its effects, you can spend 3 sorcery points to give one target of
 the spell disadvantage on its first saving throw made against the spell.
 
+
 Quickened Spell
 ^^^^^^^^^^^^^^^
 
@@ -3566,11 +3843,13 @@ When you cast a spell that has a casting time of 1 action, you can spend
 2 sorcery points to change the casting time to 1 bonus action for this
 casting.
 
+
 Subtle Spell
 ^^^^^^^^^^^^
 
 When you cast a spell, you can spend 1 sorcery point to cast it without
 any somatic or verbal components.
+
 
 Twinned Spell
 ^^^^^^^^^^^^^
@@ -3585,6 +3864,7 @@ creature at the spell's current level. For example, *magic missile* and
 *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb*
 are.
 
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -3593,11 +3873,13 @@ you can increase one ability score of your choice by 2, or you can
 increase two ability scores of your choice by 1. As normal, you can't
 increase an ability score above 20 using this feature.
 
+
 Sorcerous Restoration
 ~~~~~~~~~~~~~~~~~~~~~
 
 At 20th level, you regain 4 expended sorcery points whenever you finish
 a short rest.
+
 
 Sorcerous Origins
 -----------------
@@ -3605,6 +3887,7 @@ Sorcerous Origins
 Different sorcerers claim different origins for their innate magic.
 Although many variations exist, most of these origins fall into two
 categories: a draconic bloodline and wild magic.
+
 
 Draconic Bloodline
 ~~~~~~~~~~~~~~~~~~
@@ -3616,6 +3899,7 @@ a bargain with a dragon or who might even have claimed a dragon parent.
 Some of these bloodlines are well established in the world, but most are
 obscure. Any given sorcerer could be the first of a new bloodline, as a
 result of a pact or some other exceptional circumstance.
+
 
 Dragon Ancestor
 '''''''''''''''
@@ -3653,6 +3937,7 @@ You can speak, read, and write Draconic. Additionally, whenever you make
 a Charisma check when interacting with dragons, your proficiency bonus
 is doubled if it applies to the check.
 
+
 Draconic Resilience
 '''''''''''''''''''
 
@@ -3665,6 +3950,7 @@ Additionally, parts of your skin are covered by a thin sheen of
 dragon-like scales. When you aren't wearing armor, your AC equals 13 +
 your Dexterity modifier.
 
+
 Elemental Affinity
 ''''''''''''''''''
 
@@ -3672,6 +3958,7 @@ Starting at 6th level, when you cast a spell that deals damage of the
 type associated with your draconic ancestry, you can add your Charisma
 modifier to one damage roll of that spell. At the same time, you can
 spend 1 sorcery point to gain resistance to that damage type for 1 hour.
+
 
 Dragon Wings
 ''''''''''''
@@ -3684,6 +3971,7 @@ you dismiss them as a bonus action on your turn.
 You can't manifest your wings while wearing armor unless the armor is
 made to accommodate them, and clothing not made to accommodate your
 wings might be destroyed when you manifest them.
+
 
 Draconic Presence
 '''''''''''''''''
@@ -3699,13 +3987,16 @@ turn in this aura must succeed on a Wisdom saving throw or be charmed
 ends. A creature that succeeds on this saving throw is immune to your
 aura for 24 hours.
 
+
 Warlock
 =======
+
 
 Class Features
 --------------
 
 As a warlock, you gain the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -3716,6 +4007,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier
 per warlock level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -3730,6 +4022,7 @@ Proficiencies
 
 **Skills:** Choose two skills from Arcana, Deception, History,
 Intimidation, Investigation, Nature, and Religion
+
 
 Equipment
 ~~~~~~~~~
@@ -3814,6 +4107,7 @@ granted by your background:
 | 20th | +6         | Eldritch Master | 4        | 15       | 4       | 5th     | 8          |
 +------+------------+-----------------+----------+----------+---------+---------+------------+
 
+
 Otherworldly Patron
 ~~~~~~~~~~~~~~~~~~~
 
@@ -3822,11 +4116,13 @@ your choice: the Archfey, the Fiend, or the Great Old One, each of which
 is detailed at the end of the class description. Your choice grants you
 features at 1st level and again at 6th, 10th, and 14th level.
 
+
 Pact Magic
 ~~~~~~~~~~
 
 Your arcane research and the magic bestowed on you by your patron have
 given you facility with spells.
+
 
 Cantrips
 ^^^^^^^^
@@ -3834,6 +4130,7 @@ Cantrips
 You know two cantrips of your choice from the warlock spell list. You
 learn additional warlock cantrips of your choice at higher levels, as
 shown in the Cantrips Known column of the Warlock table.
+
 
 Spell Slots
 ^^^^^^^^^^^
@@ -3848,6 +4145,7 @@ short or long rest.
 For example, when you are 5th level, you have two 3rd-level spell slots.
 To cast the 1st-level spell *witch bolt*, you must spend one of those
 slots, and you cast it as a 3rd-level spell.
+
 
 Spells Known of 1st Level and Higher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -3866,6 +4164,7 @@ the warlock spells you know and replace it with another spell from the
 warlock spell list, which also must be of a level for which you have
 spell slots.
 
+
 Spellcasting Ability
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -3880,11 +4179,13 @@ with one.
 **Spell attack modifier** = your proficiency bonus + your Charisma
 modifier
 
+
 Spellcasting Focus
 ^^^^^^^^^^^^^^^^^^
 
 You can use an arcane focus as a spellcasting focus for your warlock
 spells.
+
 
 Eldritch Invocations
 ~~~~~~~~~~~~~~~~~~~~
@@ -3903,11 +4204,13 @@ Additionally, when you gain a level in this class, you can choose one of
 the invocations you know and replace it with another invocation that you
 could learn at that level.
 
+
 Pact Boon
 ~~~~~~~~~
 
 At 3rd level, your otherworldly patron bestows a gift upon you for your
 loyal service. You gain one of the following features of your choice.
+
 
 Pact of the Chain
 ^^^^^^^^^^^^^^^^^
@@ -3921,6 +4224,7 @@ quasit, or sprite.
 
 Additionally, when you take the Attack action, you can forgo one of your
 own attacks to allow your familiar to make one attack with its reaction.
+
 
 Pact of the Blade
 ^^^^^^^^^^^^^^^^^
@@ -3945,6 +4249,7 @@ being your pact weapon if you die, if you perform the 1-hour ritual on a
 different weapon, or if you use a 1-hour ritual to break your bond to
 it. The weapon appears at your feet if it is in the extradimensional
 space when the bond breaks.
+
 
 Pact of the Tome
 ^^^^^^^^^^^^^^^^
@@ -3988,6 +4293,7 @@ turns to ash when you die.
     mad by contact with the Great Old One, holding scraps of spells that
     only your own burgeoning insanity allows you to understand and cast.
 
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -3995,6 +4301,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level,
 you can increase one ability score of your choice by 2, or you can
 increase two ability scores of your choice by 1. As normal, you can't
 increase an ability score above 20 using this feature.
+
 
 Mystic Arcanum
 ~~~~~~~~~~~~~~
@@ -4011,6 +4318,7 @@ be cast in this way: one 7th- level spell at 13th level, one 8th-level
 spell at 15th level, and one 9th-level spell at 17th level. You regain
 all uses of your Mystic Arcanum when you finish a long rest.
 
+
 Eldritch Master
 ~~~~~~~~~~~~~~~
 
@@ -4021,12 +4329,14 @@ expended spell slots from your Pact Magic feature. Once you regain spell
 slots with this feature, you must finish a long rest before you can do
 so again.
 
+
 Eldritch Invocations
 ~~~~~~~~~~~~~~~~~~~~
 
 If an eldritch invocation has prerequisites, you must meet them to learn
 it. You can learn the invocation at the same time that you meet its
 prerequisites. A level prerequisite refers to your level in this class.
+
 
 Agonizing Blast
 ^^^^^^^^^^^^^^^
@@ -4036,11 +4346,13 @@ Agonizing Blast
 When you cast *eldritch blast*, add your Charisma modifier to the damage
 it deals on a hit.
 
+
 Armor of Shadows
 ^^^^^^^^^^^^^^^^
 
 You can cast *mage armor* on yourself at will, without expending a spell
 slot or material components.
+
 
 Ascendant Step
 ^^^^^^^^^^^^^^
@@ -4050,16 +4362,19 @@ Ascendant Step
 You can cast *levitate* on yourself at will, without expending a spell
 slot or material components.
 
+
 Beast Speech
 ^^^^^^^^^^^^
 
 You can cast *speak with animals* at will, without expending a spell
 slot.
 
+
 Beguiling Influence
 ^^^^^^^^^^^^^^^^^^^
 
 You gain proficiency in the Deception and Persuasion skills.
+
 
 Bewitching Whispers
 ^^^^^^^^^^^^^^^^^^^
@@ -4068,6 +4383,7 @@ Bewitching Whispers
 
 You can cast *compulsion* once using a warlock spell slot. You can't do
 so again until you finish a long rest.
+
 
 Book of Ancient Secrets
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -4090,6 +4406,7 @@ up) and if you can spare the time to transcribe the spell. For each
 level of the spell, the transcription process takes 2 hours and costs 50
 gp for the rare inks needed to inscribe it.
 
+
 Chains of Carceri
 ^^^^^^^^^^^^^^^^^
 
@@ -4100,11 +4417,13 @@ elemental-without expending a spell slot or material components. You
 must finish a long rest before you can use this invocation on the same
 creature again.
 
+
 Devil's Sight
 ^^^^^^^^^^^^^
 
 You can see normally in darkness, both magical and nonmagical, to a
 distance of 120 feet.
+
 
 Dreadful Word
 ^^^^^^^^^^^^^
@@ -4114,10 +4433,12 @@ Dreadful Word
 You can cast *confusion* once using a warlock spell slot. You can't do
 so again until you finish a long rest.
 
+
 Eldritch Sight
 ^^^^^^^^^^^^^^
 
 You can cast *detect magic* at will, without expending a spell slot.
+
 
 Eldritch Spear
 ^^^^^^^^^^^^^^
@@ -4126,16 +4447,19 @@ Eldritch Spear
 
 When you cast *eldritch blast*, its range is 300 feet.
 
+
 Eyes of the Rune Keeper
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 You can read all writing.
+
 
 Fiendish Vigor
 ^^^^^^^^^^^^^^
 
 You can cast *false life* on yourself at will as a 1st-level spell,
 without expending a spell slot or material components.
+
 
 Gaze of Two Minds
 ^^^^^^^^^^^^^^^^^
@@ -4148,6 +4472,7 @@ until the end of your next turn. While perceiving through the other
 creature's senses, you benefit from any special senses possessed by that
 creature, and you are blinded and deafened to your own surroundings.
 
+
 Lifedrinker
 ^^^^^^^^^^^
 
@@ -4156,10 +4481,12 @@ Lifedrinker
 When you hit a creature with your pact weapon, the creature takes extra
 necrotic damage equal to your Charisma modifier (minimum 1).
 
+
 Mask of Many Faces
 ^^^^^^^^^^^^^^^^^^
 
 You can cast *disguise self* at will, without expending a spell slot.
+
 
 Master of Myriad Forms
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -4167,6 +4494,7 @@ Master of Myriad Forms
 *Prerequisite: 15th level*
 
 You can cast *alter self* at will, without expending a spell slot.
+
 
 Minions of Chaos
 ^^^^^^^^^^^^^^^^
@@ -4176,6 +4504,7 @@ Minions of Chaos
 You can cast *conjure elemental* once using a warlock spell slot. You
 can't do so again until you finish a long rest.
 
+
 Mire the Mind
 ^^^^^^^^^^^^^
 
@@ -4184,11 +4513,13 @@ Mire the Mind
 You can cast *slow* once using a warlock spell slot. You can't do so
 again until you finish a long rest.
 
+
 Misty Visions
 ^^^^^^^^^^^^^
 
 You can cast *silent image* at will, without expending a spell slot or
 material components.
+
 
 One with Shadows
 ^^^^^^^^^^^^^^^^
@@ -4199,6 +4530,7 @@ When you are in an area of dim light or darkness, you can use your
 action to become invisible until you move or take an action or a
 reaction.
 
+
 Otherworldly Leap
 ^^^^^^^^^^^^^^^^^
 
@@ -4206,6 +4538,7 @@ Otherworldly Leap
 
 You can cast *jump* on yourself at will, without expending a spell slot
 or material components.
+
 
 Repelling Blast
 ^^^^^^^^^^^^^^^
@@ -4215,6 +4548,7 @@ Repelling Blast
 When you hit a creature with *eldritch blast*, you can push the creature
 up to 10 feet away from you in a straight line.
 
+
 Sculptor of Flesh
 ^^^^^^^^^^^^^^^^^
 
@@ -4222,6 +4556,7 @@ Sculptor of Flesh
 
 You can cast *polymorph* once using a warlock spell slot. You can't do
 so again until you finish a long rest.
+
 
 Sign of Ill Omen
 ^^^^^^^^^^^^^^^^
@@ -4231,11 +4566,13 @@ Sign of Ill Omen
 You can cast *bestow curse* once using a warlock spell slot. You can't
 do so again until you finish a long rest.
 
+
 Thief of Five Fates
 ^^^^^^^^^^^^^^^^^^^
 
 You can cast *bane* once using a warlock spell slot. You can't do so
 again until you finish a long rest.
+
 
 Thirsting Blade
 ^^^^^^^^^^^^^^^
@@ -4245,12 +4582,14 @@ Thirsting Blade
 You can attack with your pact weapon twice, instead of once, whenever
 you take the Attack action on your turn.
 
+
 Visions of Distant Realms
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *Prerequisite: 15th level*
 
 You can cast *arcane eye* at will, without expending a spell slot.
+
 
 Voice of the Chain Master
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -4263,12 +4602,14 @@ existence. Additionally, while perceiving through your familiar's
 senses, you can also speak through your familiar in your own voice, even
 if your familiar is normally incapable of speech.
 
+
 Whispers of the Grave
 ^^^^^^^^^^^^^^^^^^^^^
 
 *Prerequisite: 9th level*
 
 You can cast *speak with dead* at will, without expending a spell slot.
+
 
 Witch Sight
 ^^^^^^^^^^^
@@ -4278,6 +4619,7 @@ Witch Sight
 You can see the true form of any shapechanger or creature concealed by
 illusion or transmutation magic while the creature is within 30 feet of
 you and within line of sight.
+
 
 Otherworldly Patrons
 --------------------
@@ -4293,6 +4635,7 @@ patrons bestow their power only grudgingly, and might make a pact with
 only one warlock. Warlocks who serve the same patron might view each
 other as allies, siblings, or rivals.
 
+
 The Fiend
 ~~~~~~~~~
 
@@ -4304,6 +4647,7 @@ lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils
 such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and
 balors that are especially mighty; and ultroloths and other lords of the
 yugoloths.
+
 
 Expanded Spell List
 '''''''''''''''''''
@@ -4328,12 +4672,14 @@ list for you.
 | 5th               | flame strike, hallow                |
 +-------------------+-------------------------------------+
 
+
 Dark One's Blessing
 '''''''''''''''''''
 
 Starting at 1st level, when you reduce a hostile creature to 0 hit
 points, you gain temporary hit points equal to your Charisma modifier +
 your warlock level (minimum of 1).
+
 
 Dark One's Own Luck
 '''''''''''''''''''
@@ -4346,6 +4692,7 @@ initial roll but before any of the roll's effects occur.
 Once you use this feature, you can't use it again until you finish a
 short or long rest.
 
+
 Fiendish Resilience
 '''''''''''''''''''
 
@@ -4353,6 +4700,7 @@ Starting at 10th level, you can choose one damage type when you finish a
 short or long rest. You gain resistance to that damage type until you
 choose a different one with this feature. Damage from magical weapons or
 silver weapons ignores this resistance.
+
 
 Hurl Through Hell
 '''''''''''''''''
@@ -4370,13 +4718,16 @@ experience.
 Once you use this feature, you can't use it again until you finish a
 long rest.
 
+
 Wizard
 ======
+
 
 Class Features
 --------------
 
 As a wizard, you gain the following class features.
+
 
 Hit Points
 ~~~~~~~~~~
@@ -4387,6 +4738,7 @@ Hit Points
 
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier
 per wizard level after 1st
+
 
 Proficiencies
 ~~~~~~~~~~~~~
@@ -4401,6 +4753,7 @@ Proficiencies
 
 **Skills:** Choose two from Arcana, History, Insight, Investigation,
 Medicine, and Religion
+
 
 Equipment
 ~~~~~~~~~
@@ -4468,11 +4821,13 @@ granted by your background:
 | 20th        | +6                      | Signature Spell                 | 5                    | 4         | 3         | 3         | 3         | 3         | 2         | 2         | 1         | 1         |
 +-------------+-------------------------+---------------------------------+----------------------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+
 
+
 Spellcasting
 ~~~~~~~~~~~~
 
 As a student of arcane magic, you have a spellbook containing spells
 that show the first glimmerings of your true power.
+
 
 Cantrips
 ^^^^^^^^
@@ -4481,6 +4836,7 @@ At 1st level, you know three cantrips of your choice from the wizard
 spell list. You learn additional wizard cantrips of your choice at
 higher levels, as shown in the Cantrips Known column of the Wizard
 table.
+
 
 Spellbook
 ^^^^^^^^^
@@ -4535,6 +4891,7 @@ spells you know, except your cantrips, which are fixed in your mind.
     an ancient library, or even a loose collection of notes scrounged
     together after you lost your previous spellbook in a mishap.
 
+
 Preparing and Casting Spells
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -4562,6 +4919,7 @@ spellbook and memorizing the incantations and gestures you must make to
 cast the spell: at least 1 minute per spell level for each spell on your
 list.
 
+
 Spellcasting Ability
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -4578,6 +4936,7 @@ modifier
 **Spell attack modifier** = your proficiency bonus + your Intelligence
 modifier
 
+
 Ritual Casting
 ^^^^^^^^^^^^^^
 
@@ -4585,11 +4944,13 @@ You can cast a wizard spell as a ritual if that spell has the ritual tag
 and you have the spell in your spellbook. You don't need to have the
 spell prepared.
 
+
 Spellcasting Focus
 ^^^^^^^^^^^^^^^^^^
 
 You can use an arcane focus as a spellcasting focus for your wizard
 spells.
+
 
 Learning Spells of 1st Level and Higher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -4599,6 +4960,7 @@ choice to your spellbook for free. Each of these spells must be of a
 level for which you have spell slots, as shown on the Wizard table. On
 your adventures, you might find other spells that you can add to your
 spellbook (see the "Your Spellbook" sidebar).
+
 
 Arcane Recovery
 ~~~~~~~~~~~~~~~
@@ -4613,6 +4975,7 @@ For example, if you're a 4th-level wizard, you can recover up to two
 levels worth of spell slots. You can recover either a 2nd-level spell
 slot or two 1st-level spell slots.
 
+
 Arcane Tradition
 ~~~~~~~~~~~~~~~~
 
@@ -4624,6 +4987,7 @@ Transmutation, all detailed at the end of the class description.
 Your choice grants you features at 2nd level and again at 6th, 10th, and
 14th level.
 
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -4631,6 +4995,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level,
 you can increase one ability score of your choice by 2, or you can
 increase two ability scores of your choice by 1. As normal, you can't
 increase an ability score above 20 using this feature.
+
 
 Spell Mastery
 ~~~~~~~~~~~~~
@@ -4645,6 +5010,7 @@ you must expend a spell slot as normal.
 By spending 8 hours in study, you can exchange one or both of the spells
 you chose for different spells of the same levels.
 
+
 Signature Spells
 ~~~~~~~~~~~~~~~~
 
@@ -4658,6 +5024,7 @@ finish a short or long rest.
 
 If you want to cast either spell at a higher level, you must expend a
 spell slot as normal.
+
 
 Arcane Traditions
 -----------------
@@ -4677,6 +5044,7 @@ funding. Even wizards who train apprentices in the solitude of their own
 towers use the division of magic into schools as a learning device,
 since the spells of each school require mastery of different techniques.
 
+
 School of Evocation
 ~~~~~~~~~~~~~~~~~~~
 
@@ -4687,11 +5055,13 @@ forces, serving as artillery to blast enemy armies from afar. Others use
 their spectacular power to protect the weak, while some seek their own
 gain as bandits, adventurers, or aspiring tyrants.
 
+
 Evocation Savant
 ''''''''''''''''
 
 Beginning when you select this school at 2nd level, the gold and time
 you must spend to copy an evocation spell into your spellbook is halved.
+
 
 Sculpt Spells
 '''''''''''''
@@ -4704,6 +5074,7 @@ automatically succeed on their saving throws against the spell, and they
 take no damage if they would normally take half damage on a successful
 save.
 
+
 Potent Cantrip
 ''''''''''''''
 
@@ -4712,11 +5083,13 @@ avoid the brunt of the effect. When a creature succeeds on a saving
 throw against your cantrip, the creature takes half the cantrip's damage
 (if any) but suffers no additional effect from the cantrip.
 
+
 Empowered Evocation
 '''''''''''''''''''
 
 Beginning at 10th level, you can add your Intelligence modifier to one
 damage roll of any wizard evocation spell you cast.
+
 
 Overchannel
 '''''''''''
