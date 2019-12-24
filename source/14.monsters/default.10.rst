@@ -1,7 +1,11 @@
-[TOC]
+========
+Monsters
+========
+
 
 Stats
 =====
+
 
 Type
 ----
@@ -106,8 +110,9 @@ undeath through the practice of necromantic magic or some unholy curse.
 Undead include walking corpses, such as vampires and zombies, as well as
 bodiless spirits, such as ghosts and specters.
 
+
 Tags
-^^^^
+~~~~
 
 A monster might have one or more tags appended to its type, in
 parentheses. For example, an orc has the *humanoid (orc)* type. The
@@ -116,6 +121,7 @@ creatures. The tags have no rules of their own, but something in the
 game, such as a magic item, might refer to them. For instance, a spear
 that is especially effective at fighting demons would work against any
 monster that has the demon tag.
+
 
 Alignment
 ---------
@@ -143,6 +149,7 @@ chaos, good or evil. They don't make moral or ethical choices, but
 rather act on instinct. These creatures are **unaligned**, which means
 they don't have an alignment.
 
+
 Armor Class
 -----------
 
@@ -151,6 +158,7 @@ that takes its armor, shield, and Dexterity into account. Otherwise, a
 monster's AC is based on its Dexterity modifier and natural armor, if
 any. If a monster has natural armor, wears armor, or carries a shield,
 this is noted in parentheses after its AC value.
+
 
 Hit Points
 ----------
@@ -189,6 +197,7 @@ Dice it possesses, and the result is added to its hit points. For
 example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit
 Dice, it has 2d8 + 2 hit points (average 11).
 
+
 Speed
 -----
 
@@ -202,6 +211,7 @@ speed of 0 feet.
 Some creatures have one or more of the following additional movement
 modes.
 
+
 Burrow
 ~~~~~~
 
@@ -209,12 +219,14 @@ A monster that has a burrowing speed can use that speed to move through
 sand, earth, mud, or ice. A monster can't burrow through solid rock
 unless it has a special trait that allows it to do so.
 
+
 Climb
 ~~~~~
 
 A monster that has a climbing speed can use all or part of its movement
 to move on vertical surfaces. The monster doesn't need to spend extra
 movement to climb.
+
 
 Fly
 ~~~
@@ -224,11 +236,13 @@ fly. Some monsters have the ability to **hover**, which makes them hard
 to knock out of the air (as explained in the rules on flying in the
 *Player's Handbook*). Such a monster stops hovering when it dies.
 
+
 Swim
 ~~~~
 
 A monster that has a swimming speed doesn't need to spend extra movement
 to swim.
+
 
 Ability Scores
 --------------
@@ -237,6 +251,7 @@ Every monster has six ability scores (Strength, Dexterity, Constitution,
 Intelligence, Wisdom, and Charisma) and corresponding modifiers. For
 more information on ability scores and how they're used in play, see the
 *Player's Handbook*.
+
 
 Saving Throws
 -------------
@@ -326,6 +341,7 @@ table).
 | 30              | +9                      |
 +-----------------+-------------------------+
 
+
 Skills
 ------
 
@@ -355,6 +371,7 @@ account for its heightened expertise.
     See the Player's Handbook for rules on using armor or weapons
     without proficiency.
 
+
 Vulnerabilities, Resistances, and Immunities
 --------------------------------------------
 
@@ -364,12 +381,14 @@ damage from nonmagical attacks (a magical attack is an attack delivered
 by a spell, a magic item, or another magical source). In addition, some
 creatures are immune to certain conditions.
 
+
 Senses
 ------
 
 The Senses entry notes a monster's passive Wisdom (Perception) score, as
 well as any special senses the monster might have. Special senses are
 described below.
+
 
 Blindsight
 ~~~~~~~~~~
@@ -385,6 +404,7 @@ If a monster is naturally blind, it has a parenthetical note to this
 effect, indicating that the radius of its blindsight defines the maximum
 range of its perception.
 
+
 Darkvision
 ~~~~~~~~~~
 
@@ -393,6 +413,7 @@ The monster can see in dim light within the radius as if it were bright
 light, and in darkness as if it were dim light. The monster can't
 discern color in darkness, only shades of gray. Many creatures that live
 underground have this special sense.
+
 
 Tremorsense
 ~~~~~~~~~~~
@@ -404,6 +425,7 @@ substance. Tremorsense can't be used to detect flying or incorporeal
 creatures. Many burrowing creatures, such as ankhegs and umber hulks,
 have this special sense.
 
+
 Truesight
 ~~~~~~~~~
 
@@ -414,6 +436,7 @@ perceive the original form of a shapechanger or a creature that is
 transformed by magic. Furthermore, the monster can see into the Ethereal
 Plane within the same range.
 
+
 Languages
 ---------
 
@@ -421,6 +444,7 @@ The languages that a monster can speak are listed in alphabetical order.
 Sometimes a monster can understand a language but can't speak it, and
 this is noted in its entry. A "-" indicates that a creature neither
 speaks nor understands any language.
+
 
 Telepathy
 ~~~~~~~~~
@@ -446,6 +470,7 @@ A creature within the area of an *antimagic field* or in any other
 location where magic doesn't function can't send or receive telepathic
 messages.
 
+
 Challenge
 ---------
 
@@ -465,6 +490,7 @@ are worth no experience points, while those that have attacks are worth
 Some monsters present a greater challenge than even a typical 20th-level
 party can handle. These monsters have a challenge rating of 21 or higher
 and are specifically designed to test player skill.
+
 
 Experience Points
 ~~~~~~~~~~~~~~~~~
@@ -531,12 +557,14 @@ other magical ability is worth the XP noted in its stat block.
 | 25              | 75,000    |
 +-----------------+-----------+
 
+
 Special Traits
 --------------
 
 Special traits (which appear after a monster's challenge rating but
 before any actions or reactions) are characteristics that are likely to
 be relevant in a combat encounter and that require some explanation.
+
 
 Innate Spellcasting
 ~~~~~~~~~~~~~~~~~~~
@@ -555,6 +583,7 @@ drow mage.
 A monster's innate spells can't be swapped out with other spells. If a
 monster's innate spells don't require attack rolls, no attack bonus is
 given for them.
+
 
 Spellcasting
 ~~~~~~~~~~~~
@@ -577,6 +606,7 @@ spell slot to do so. For example, a drow mage with the 3rd-level
 its 5th-level greater or lesser threat than suggested by its challenge
 rating.
 
+
 Psionics
 ~~~~~~~~
 
@@ -586,6 +616,7 @@ trait. This tag carries no special rules of its own, but other parts of
 the game might refer to it. A monster that has this tag typically
 doesn't require any components to cast its spells.
 
+
 Actions
 -------
 
@@ -593,6 +624,7 @@ When a monster takes its action, it can choose from the options in the
 Actions section of its stat block or use one of the actions available to
 all creatures, such as the Dash or Hide action, as described in the
 *Player's Handbook*.
+
 
 Melee and Ranged Attacks
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -628,12 +660,14 @@ information is presented after the "Miss:" notation.
     stat block. If no escape DC is given, assume the DC is 10 + the
     monster's Strength (Athletics) modifier.
 
+
 Multiattack
 ~~~~~~~~~~~
 
 A creature that can make multiple attacks on its turn has the
 Multiattack action. A creature can't use Multiattack when making an
 opportunity attack, which must be a single melee attack.
+
 
 Ammunition
 ~~~~~~~~~~
@@ -643,12 +677,14 @@ assume that a monster has 2d4 pieces of ammunition for a thrown weapon
 attack, and 2d10 pieces of ammunition for a projectile weapon such as a
 bow or crossbow.
 
+
 Reactions
 ---------
 
 If a monster can do something special with its reaction, that
 information is contained here. If a creature has no special reaction,
 this section is absent.
+
 
 Limited Usage
 -------------
@@ -677,6 +713,7 @@ that ability if it rolls a 5 or 6 on a d6.
 monster can use a special ability once and then must finish a short or
 long rest to use it again.
 
+
 Equipment
 ---------
 
@@ -694,6 +731,7 @@ If a spellcasting monster needs material components to cast its spells,
 assume that it has the material components it needs to cast the spells
 in its stat block.
 
+
 Legendary Creatures
 ===================
 
@@ -704,6 +742,7 @@ influence for miles around.
 If a creature assumes the form of a legendary creature, such as through
 a spell, it doesn't gain that form's legendary actions, lair actions, or
 regional effects.
+
 
 Legendary Actions
 -----------------
@@ -716,6 +755,7 @@ It can forgo using them, and it can't use them while incapacitated or
 otherwise unable to take actions. If surprised, it can't use them until
 after its first turn in the combat.
 
+
 A Legendary Creature's Lair
 ---------------------------
 
@@ -723,6 +763,7 @@ A legendary creature might have a section describing its lair and the
 special effects it can create while there, either by act of will or
 simply by being present. Such a section applies only to a legendary
 creature that spends a great deal of time in its lair.
+
 
 Lair Actions
 ~~~~~~~~~~~~
@@ -733,12 +774,14 @@ ties), it can use one of its lair action options. It can't do so while
 incapacitated or otherwise unable to take actions. If surprised, it
 can't use one until after its first turn in the combat.
 
+
 Regional Effects
 ~~~~~~~~~~~~~~~~
 
 The mere presence of a legendary creature can have strange and wondrous
 effects on its environment, as noted in this section. Regional effects
 end abruptly or dissipate over time when the legendary creature dies.
+
 
 Monsters (A)
 ============
