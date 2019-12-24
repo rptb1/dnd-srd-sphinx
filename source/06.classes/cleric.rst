@@ -339,14 +339,14 @@ and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
 
 Bonus Proficiency
-'''''''''''''''''
+^^^^^^^^^^^^^^^^^
 
 When you choose this domain at 1st level, you gain proficiency with
 heavy armor.
 
 
 Disciple of Life
-''''''''''''''''
+^^^^^^^^^^^^^^^^
 
 Also starting at 1st level, your healing spells are more effective.
 Whenever you use a spell of 1st level or higher to restore hit points to
@@ -355,7 +355,7 @@ spell's level.
 
 
 Channel Divinity: Preserve Life
-'''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Starting at 2nd level, you can use your Channel Divinity to heal the
 badly injured.
@@ -369,7 +369,7 @@ or a construct.
 
 
 Blessed Healer
-''''''''''''''
+^^^^^^^^^^^^^^
 
 Beginning at 6th level, the healing spells you cast on others heal you
 as well. When you cast a spell of 1st level or higher that restores hit
@@ -378,7 +378,7 @@ the spell's level.
 
 
 Divine Strike
-'''''''''''''
+^^^^^^^^^^^^^
 
 At 8th level, you gain the ability to infuse your weapon strikes with
 divine energy. Once on each of your turns when you hit a creature with a
@@ -388,7 +388,7 @@ increases to 2d8.
 
 
 Supreme Healing
-'''''''''''''''
+^^^^^^^^^^^^^^^
 
 Starting at 17th level, when you would normally roll one or more dice to
 restore hit points with a spell, you instead use the highest number
