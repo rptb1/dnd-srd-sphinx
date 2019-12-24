@@ -1,4 +1,6 @@
-[TOC]
+================
+Beyond 1st Level
+================
 
 As your character goes on adventures and overcomes challenges, he or she
 gains experience, represented by experience points. A character who
