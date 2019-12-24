@@ -275,80 +275,58 @@ water it, the bean produces an effect 1 minute later from the ground
 where it was planted. The GM can choose an effect from the following
 table, determine it randomly, or create an effect.
 
-+---+------------------------------------------------------------------------+
-| * | **Effect**                                                             |
-| * |                                                                        |
-| d |                                                                        |
-| 1 |                                                                        |
-| 0 |                                                                        |
-| 0 |                                                                        |
-| * |                                                                        |
-| * |                                                                        |
-+===+========================================================================+
-| 0 | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die.   |
-| 1 | On an odd roll, the eater must succeed on a DC 15 Constitution saving  |
-|   | throw or take 5d6 poison damage and become poisoned for 1 hour. On an  |
-|   | even roll, the eater gains 5d6 temporary hit points for 1 hour.        |
-+---+------------------------------------------------------------------------+
-| 0 | A geyser erupts and spouts water, beer, berry juice, tea, vinegar,     |
-| 2 | wine, or oil (GM's choice) 30 feet into the air for 1d12 rounds.       |
-| - |                                                                        |
-| 1 |                                                                        |
-| 0 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 1 | A treant sprouts. There's a 50 percent chance that the treant is       |
-| 1 | chaotic evil and attacks.                                              |
-| - |                                                                        |
-| 2 |                                                                        |
-| 0 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 2 | An animate, immobile stone statue in your likeness rises. It makes     |
-| 1 | verbal threats against you. If you leave it and others come near, it   |
-| - | describes you as the most heinous of villains and directs the          |
-| 3 | newcomers to find and attack you. If you are on the same plane of      |
-| 0 | existence as the statue, it knows where you are. The statue becomes    |
-|   | inanimate after 24 hours.                                              |
-+---+------------------------------------------------------------------------+
-| 3 | A campfire with blue flames springs forth and burns for 24 hours (or   |
-| 1 | until it is extinguished).                                             |
-| - |                                                                        |
-| 4 |                                                                        |
-| 0 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 4 | 1d6 + 6 shriekers sprout                                               |
-| 1 |                                                                        |
-| - |                                                                        |
-| 5 |                                                                        |
-| 0 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 5 | 1d4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it  |
-| 1 | transforms into a Large or smaller monster of the GM's choice. The     |
-| - | monster remains for 1 minute, then disappears in a puff of bright pink |
-| 6 | smoke.                                                                 |
-| 0 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 6 | A hungry bulette burrows up and attacks. 71-80 A fruit tree grows. It  |
-| 1 | has 1d10 + 20 fruit, 1d8 of which act as randomly determined magic     |
-| - | potions, while one acts as an ingested poison of the GM's choice. The  |
-| 7 | tree vanishes after 1 hour. Picked fruit remains, retaining any magic  |
-| 0 | for 30 days.                                                           |
-+---+------------------------------------------------------------------------+
-| 8 | A nest of 1d4 + 3 eggs springs up. Any creature that eats an egg must  |
-| 1 | make a DC 20 Constitution saving throw. On a successful save, a        |
-| - | creature permanently increases its lowest ability score by 1, randomly |
-| 9 | choosing among equally low scores. On a failed save, the creature      |
-| 0 | takes 10d6 force damage from an internal magical explosion.            |
-+---+------------------------------------------------------------------------+
-| 9 | A pyramid with a 60-foot square base bursts upward. Inside is a        |
-| 1 | sarcophagus containing a mummy lord. The pyramid is treated as the     |
-| - | mummy lord's lair, and its sarcophagus contains treasure of the GM's   |
-| 9 | choice.                                                                |
-| 9 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 1 | A giant beanstalk sprouts, growing to a height of the GM's choice. The |
-| 0 | top leads where the GM chooses, such as to a great view, a cloud       |
-| 0 | giant's castle, or a different plane of existence.                     |
-+---+------------------------------------------------------------------------+
++--------+------------------------------------------------------------------------+
+|  d100  | Effect                                                                 |
++========+========================================================================+
+|   01   | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die.   |
+|        | On an odd roll, the eater must succeed on a DC 15 Constitution saving  |
+|        | throw or take 5d6 poison damage and become poisoned for 1 hour. On an  |
+|        | even roll, the eater gains 5d6 temporary hit points for 1 hour.        |
++--------+------------------------------------------------------------------------+
+| 02-10  | A geyser erupts and spouts water, beer, berry juice, tea, vinegar,     |
+|        | wine, or oil (GM's choice) 30 feet into the air for 1d12 rounds.       |
++--------+------------------------------------------------------------------------+
+| 11-20  | A treant sprouts. There's a 50 percent chance that the treant is       |
+|        | chaotic evil and attacks.                                              |
++--------+------------------------------------------------------------------------+
+| 21-30  | An animate, immobile stone statue in your likeness rises. It makes     |
+|        | verbal threats against you. If you leave it and others come near, it   |
+|        | describes you as the most heinous of villains and directs the          |
+|        | newcomers to find and attack you. If you are on the same plane of      |
+|        | existence as the statue, it knows where you are. The statue becomes    |
+|        | inanimate after 24 hours.                                              |
++--------+------------------------------------------------------------------------+
+| 31-40  | A campfire with blue flames springs forth and burns for 24 hours (or   |
+|        | until it is extinguished).                                             |
++--------+------------------------------------------------------------------------+
+| 41-50  | 1d6 + 6 shriekers sprout                                               |
++--------+------------------------------------------------------------------------+
+| 51-60  | 1d4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it  |
+|        | transforms into a Large or smaller monster of the GM's choice. The     |
+|        | monster remains for 1 minute, then disappears in a puff of bright pink |
+|        | smoke.                                                                 |
++--------+------------------------------------------------------------------------+
+| 61-70  | A hungry bulette burrows up and attacks. 71-80 A fruit tree grows. It  |
+|        | has 1d10 + 20 fruit, 1d8 of which act as randomly determined magic     |
+|        | potions, while one acts as an ingested poison of the GM's choice. The  |
+|        | tree vanishes after 1 hour. Picked fruit remains, retaining any magic  |
+|        | for 30 days.                                                           |
++--------+------------------------------------------------------------------------+
+| 81-90  | A nest of 1d4 + 3 eggs springs up. Any creature that eats an egg must  |
+|        | make a DC 20 Constitution saving throw. On a successful save, a        |
+|        | creature permanently increases its lowest ability score by 1, randomly |
+|        | choosing among equally low scores. On a failed save, the creature      |
+|        | takes 10d6 force damage from an internal magical explosion.            |
++--------+------------------------------------------------------------------------+
+| 91-99  | A pyramid with a 60-foot square base bursts upward. Inside is a        |
+|        | sarcophagus containing a mummy lord. The pyramid is treated as the     |
+|        | mummy lord's lair, and its sarcophagus contains treasure of the GM's   |
+|        | choice.                                                                |
++--------+------------------------------------------------------------------------+
+|  100   | A giant beanstalk sprouts, growing to a height of the GM's choice. The |
+|        | top leads where the GM chooses, such as to a great view, a cloud       |
+|        | giant's castle, or a different plane of existence.                     |
++--------+------------------------------------------------------------------------+
 
 Bag of Devouring
 ~~~~~~~~~~~~~~~~
@@ -1631,36 +1609,23 @@ you.
 The first time the bottle is opened, the GM rolls to determine what
 happens.
 
-+---+------------------------------------------------------------------------+
-| * | **Effect**                                                             |
-| * |                                                                        |
-| d |                                                                        |
-| 1 |                                                                        |
-| 0 |                                                                        |
-| 0 |                                                                        |
-| * |                                                                        |
-| * |                                                                        |
-+===+========================================================================+
-| 0 | The efreeti attacks you. After fighting for 5 rounds, the efreeti      |
-| 1 | disappears, and the bottle loses its magic.                            |
-| - |                                                                        |
-| 1 |                                                                        |
-| 0 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 1 | The efreeti serves you for 1 hour, doing as you command. Then the      |
-| 1 | efreeti returns to the bottle, and a new stopper contains it. The      |
-| - | stopper can't be removed for 24 hours. The next two times the bottle   |
-| 9 | is opened, the same effect occurs. If the bottle is opened a fourth    |
-| 0 | time, the efreeti escapes and disappears, and the bottle loses its     |
-|   | magic.                                                                 |
-+---+------------------------------------------------------------------------+
-| 9 | The efreeti can cast the wish spell three times for you. It disappears |
-| 1 | when it grants the final wish or after 1 hour, and the bottle loses    |
-| - | its magic.                                                             |
-| 1 |                                                                        |
-| 0 |                                                                        |
-| 0 |                                                                        |
-+---+------------------------------------------------------------------------+
++--------+------------------------------------------------------------------------+
+|  d100  | Effect                                                                 |
++========+========================================================================+
+| 01-10  | The efreeti attacks you. After fighting for 5 rounds, the efreeti      |
+|        | disappears, and the bottle loses its magic.                            |
++--------+------------------------------------------------------------------------+
+| 11-90  | The efreeti serves you for 1 hour, doing as you command. Then the      |
+|        | efreeti returns to the bottle, and a new stopper contains it. The      |
+|        | stopper can't be removed for 24 hours. The next two times the bottle   |
+|        | is opened, the same effect occurs. If the bottle is opened a fourth    |
+|        | time, the efreeti escapes and disappears, and the bottle loses its     |
+|        | magic.                                                                 |
++--------+------------------------------------------------------------------------+
+| 91-100 | The efreeti can cast the wish spell three times for you. It disappears |
+|        | when it grants the final wish or after 1 hour, and the bottle loses    |
+|        | its magic.                                                             |
++--------+------------------------------------------------------------------------+
 
 Elemental Gem
 ~~~~~~~~~~~~~
@@ -3889,48 +3854,37 @@ The robe has two of each of the following patches:
 In addition, the robe has 4d4 other patches. The GM chooses the patches
 or determines them randomly.
 
-+-----+----------------------------------------------------------------------+
-| **d | **Patch**                                                            |
-| 100 |                                                                      |
-| **  |                                                                      |
-+=====+======================================================================+
-| 01- | Bag of 100 gp                                                        |
-| 08  |                                                                      |
-+-----+----------------------------------------------------------------------+
-| 09- | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 gp     |
-| 15  |                                                                      |
-+-----+----------------------------------------------------------------------+
-| 16- | Iron door (up to 10 feet wide and 10 feet high, barred on one side   |
-| 22  | of your choice), which you can place in an opening you can reach; it |
-|     | conforms to fit the opening, attaching and hinging itself            |
-+-----+----------------------------------------------------------------------+
-| 23- | 10 gems worth 100 gp each                                            |
-| 30  |                                                                      |
-+-----+----------------------------------------------------------------------+
-| 31- | Wooden ladder (24 feet long) 45-51 A riding horse with saddle bags   |
-| 44  |                                                                      |
-+-----+----------------------------------------------------------------------+
-| 52- | Pit (a cube 10 feet on a side), which you can place on the ground    |
-| 59  | within 10 feet of you                                                |
-+-----+----------------------------------------------------------------------+
-| 60- | 4 potions of healing                                                 |
-| 68  |                                                                      |
-+-----+----------------------------------------------------------------------+
-| 69- | Rowboat (12 feet long)                                               |
-| 75  |                                                                      |
-+-----+----------------------------------------------------------------------+
-| 76- | Spell scroll containing one spell of 1st to 3rd level                |
-| 83  |                                                                      |
-+-----+----------------------------------------------------------------------+
-| 84- | 2 mastiffs                                                           |
-| 90  |                                                                      |
-+-----+----------------------------------------------------------------------+
-| 91- | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on |
-| 96  | a vertical surface you can reach                                     |
-+-----+----------------------------------------------------------------------+
-| 97- | Portable ram                                                         |
-| 100 |                                                                      |
-+-----+----------------------------------------------------------------------+
++-------+----------------------------------------------------------------------+
+| d100  | Patch                                                                |
++=======+======================================================================+
+| 01-08 | Bag of 100 gp                                                        |
++-------+----------------------------------------------------------------------+
+| 09-15 | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 gp     |
++-------+----------------------------------------------------------------------+
+| 16-22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side   |
+|       | of your choice), which you can place in an opening you can reach; it |
+|       | conforms to fit the opening, attaching and hinging itself            |
++-------+----------------------------------------------------------------------+
+| 23-30 | 10 gems worth 100 gp each                                            |
++-------+----------------------------------------------------------------------+
+| 31-44 | Wooden ladder (24 feet long) 45-51 A riding horse with saddle bags   |
++-------+----------------------------------------------------------------------+
+| 52-59 | Pit (a cube 10 feet on a side), which you can place on the ground    |
+|       | within 10 feet of you                                                |
++-------+----------------------------------------------------------------------+
+| 60-68 | 4 potions of healing                                                 |
++-------+----------------------------------------------------------------------+
+| 69-75 | Rowboat (12 feet long)                                               |
++-------+----------------------------------------------------------------------+
+| 76-83 | Spell scroll containing one spell of 1st to 3rd level                |
++-------+----------------------------------------------------------------------+
+| 84-90 | 2 mastiffs                                                           |
++-------+----------------------------------------------------------------------+
+| 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on |
+|       | a vertical surface you can reach                                     |
++-------+----------------------------------------------------------------------+
+|97-100 | Portable ram                                                         |
++-------+----------------------------------------------------------------------+
 
 Rod of Absorption
 ~~~~~~~~~~~~~~~~~
@@ -5083,140 +5037,84 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend
 the wand's last charge, roll a d20. On a 1, the wand crumbles into dust
 and is destroyed.
 
-+---+------------------------------------------------------------------------+
-| * | **Effect**                                                             |
-| * |                                                                        |
-| d |                                                                        |
-| 1 |                                                                        |
-| 0 |                                                                        |
-| 0 |                                                                        |
-| * |                                                                        |
-| * |                                                                        |
-+===+========================================================================+
-| 0 | You cast slow. 06-10 You cast faerie fire.                             |
-| 1 |                                                                        |
-| - |                                                                        |
-| 0 |                                                                        |
-| 5 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 1 | You are stunned until the start of your next turn, believing something |
-| 1 | awesome just happened. 16-20 You cast gust of wind.                    |
-| - |                                                                        |
-| 1 |                                                                        |
-| 5 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 2 | You cast detect thoughts on the target you chose. If you didn't target |
-| 1 | a creature, you instead take 1d6 psychic damage.                       |
-| - |                                                                        |
-| 2 |                                                                        |
-| 5 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 2 | You cast stinking cloud.                                               |
-| 6 |                                                                        |
-| - |                                                                        |
-| 3 |                                                                        |
-| 0 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 3 | Heavy rain falls in a 60-foot radius centered on the target. The area  |
-| 1 | becomes lightly obscured. The rain falls until the start of your next  |
-| - | turn.                                                                  |
-| 3 |                                                                        |
-| 3 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 3 | An animal appears in the unoccupied space nearest the target. The      |
-| 4 | animal isn't under your control and acts as it normally would. Roll a  |
-| - | d100 to determine which animal appears. On a 01-25, a rhinoceros       |
-| 3 | appears; on a 26-50, an elephant appears; and on a 51-100, a rat       |
-| 6 | appears.                                                               |
-+---+------------------------------------------------------------------------+
-| 3 | You cast lightning bolt.                                               |
-| 7 |                                                                        |
-| - |                                                                        |
-| 4 |                                                                        |
-| 6 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 4 | A cloud of 600 oversized butterflies fills a 30-foot radius centered   |
-| 7 | on the target. The area becomes heavily obscured. The butterflies      |
-| - | remain for 10 minutes.                                                 |
-| 4 |                                                                        |
-| 9 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 5 | You enlarge the target as if you had cast enlarge/reduce. If the       |
-| 0 | target can't be affected by that spell, or if you didn't target a      |
-| - | creature, you become the target.                                       |
-| 5 |                                                                        |
-| 3 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 5 | You cast darkness.                                                     |
-| 4 |                                                                        |
-| - |                                                                        |
-| 5 |                                                                        |
-| 8 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 5 | Grass grows on the ground in a 60-foot radius centered on the target.  |
-| 9 | If grass is already there, it grows to ten times its normal size and   |
-| - | remains overgrown for 1 minute.                                        |
-| 6 |                                                                        |
-| 2 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 6 | An object of the GM's choice disappears into the Ethereal Plane. The   |
-| 3 | object must be neither worn nor carried, within 120 feet of the        |
-| - | target, and no larger than 10 feet in any dimension.                   |
-| 6 |                                                                        |
-| 5 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 6 | You shrink yourself as if you had cast enlarge/reduce on yourself.     |
-| 6 |                                                                        |
-| - |                                                                        |
-| 6 |                                                                        |
-| 9 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 7 | You cast fireball.                                                     |
-| 0 |                                                                        |
-| - |                                                                        |
-| 7 |                                                                        |
-| 9 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 8 | You cast invisibility on yourself.                                     |
-| 0 |                                                                        |
-| - |                                                                        |
-| 8 |                                                                        |
-| 4 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 8 | Leaves grow from the target. If you chose a point in space as the      |
-| 5 | target, leaves sprout from the creature nearest to that point. Unless  |
-| - | they are picked off, the leaves turn brown and fall off after 24       |
-| 8 | hours.                                                                 |
-| 7 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 8 | A stream of 1d4 × 10 gems, each worth 1 gp, shoots from the wand's tip |
-| 8 | in a line 30 feet long and 5 feet wide. Each gem deals 1 bludgeoning   |
-| - | damage, and the total damage of the gems is divided equally among all  |
-| 9 | creatures in the line.                                                 |
-| 0 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 9 | A burst of colorful shimmering light extends from you in a 30-foot     |
-| 1 | radius. You and each creature in the area that can see must succeed on |
-| - | a DC 15 Constitution saving throw or become blinded for 1 minute. A    |
-| 9 | creature can repeat the saving throw at the end of each of its turns,  |
-| 5 | ending the effect on itself on a success.                              |
-+---+------------------------------------------------------------------------+
-| 9 | The target's skin turns bright blue for 1d10 days. If you chose a      |
-| 6 | point in space, the creature nearest to that point is affected.        |
-| - |                                                                        |
-| 9 |                                                                        |
-| 7 |                                                                        |
-+---+------------------------------------------------------------------------+
-| 9 | If you targeted a creature, it must make a DC 15 Constitution saving   |
-| 8 | throw. If you didn't target a creature, you become the target and must |
-| - | make the saving throw. If the saving throw fails by 5 or more, the     |
-| 1 | target is instantly petrified. On any other failed save, the target is |
-| 0 | restrained and begins to turn to stone. While restrained in this way,  |
-| 0 | the target must repeat the saving throw at the end of its next turn,   |
-|   | becoming petrified on a failure or ending the effect on a success. The |
-|   | petrification lasts until the target is freed by the greater           |
-|   | restoration spell or similar magic.                                    |
-+---+------------------------------------------------------------------------+
++--------+------------------------------------------------------------------------+
+|  d100  | Effect                                                                 |
++========+========================================================================+
+| 01-05  | You cast slow. 06-10 You cast faerie fire.                             |
++--------+------------------------------------------------------------------------+
+| 11-15  | You are stunned until the start of your next turn, believing something |
+|        | awesome just happened. 16-20 You cast gust of wind.                    |
++--------+------------------------------------------------------------------------+
+| 21-25  | You cast detect thoughts on the target you chose. If you didn't target |
+|        | a creature, you instead take 1d6 psychic damage.                       |
++--------+------------------------------------------------------------------------+
+| 26-30  | You cast stinking cloud.                                               |
++--------+------------------------------------------------------------------------+
+| 31-33  | Heavy rain falls in a 60-foot radius centered on the target. The area  |
+|        | becomes lightly obscured. The rain falls until the start of your next  |
+|        | turn.                                                                  |
++--------+------------------------------------------------------------------------+
+| 34-36  | An animal appears in the unoccupied space nearest the target. The      |
+|        | animal isn't under your control and acts as it normally would. Roll a  |
+|        | d100 to determine which animal appears. On a 01-25, a rhinoceros       |
+|        | appears; on a 26-50, an elephant appears; and on a 51-100, a rat       |
+|        | appears.                                                               |
++--------+------------------------------------------------------------------------+
+| 37-46  | You cast lightning bolt.                                               |
++--------+------------------------------------------------------------------------+
+| 47-49  | A cloud of 600 oversized butterflies fills a 30-foot radius centered   |
+|        | on the target. The area becomes heavily obscured. The butterflies      |
+|        | remain for 10 minutes.                                                 |
++--------+------------------------------------------------------------------------+
+| 50-53  | You enlarge the target as if you had cast enlarge/reduce. If the       |
+|        | target can't be affected by that spell, or if you didn't target a      |
+|        | creature, you become the target.                                       |
++--------+------------------------------------------------------------------------+
+| 54-58  | You cast darkness.                                                     |
++--------+------------------------------------------------------------------------+
+| 59-62  | Grass grows on the ground in a 60-foot radius centered on the target.  |
+|        | If grass is already there, it grows to ten times its normal size and   |
+|        | remains overgrown for 1 minute.                                        |
++--------+------------------------------------------------------------------------+
+| 63-65  | An object of the GM's choice disappears into the Ethereal Plane. The   |
+|        | object must be neither worn nor carried, within 120 feet of the        |
+|        | target, and no larger than 10 feet in any dimension.                   |
++--------+------------------------------------------------------------------------+
+| 66-69  | You shrink yourself as if you had cast enlarge/reduce on yourself.     |
++--------+------------------------------------------------------------------------+
+| 70-79  | You cast fireball.                                                     |
++--------+------------------------------------------------------------------------+
+| 80-84  | You cast invisibility on yourself.                                     |
++--------+------------------------------------------------------------------------+
+| 85-87  | Leaves grow from the target. If you chose a point in space as the      |
+|        | target, leaves sprout from the creature nearest to that point. Unless  |
+|        | they are picked off, the leaves turn brown and fall off after 24       |
+|        | hours.                                                                 |
++--------+------------------------------------------------------------------------+
+| 88-90  | A stream of 1d4 × 10 gems, each worth 1 gp, shoots from the wand's tip |
+|        | in a line 30 feet long and 5 feet wide. Each gem deals 1 bludgeoning   |
+|        | damage, and the total damage of the gems is divided equally among all  |
+|        | creatures in the line.                                                 |
++--------+------------------------------------------------------------------------+
+| 91-95  | A burst of colorful shimmering light extends from you in a 30-foot     |
+|        | radius. You and each creature in the area that can see must succeed on |
+|        | a DC 15 Constitution saving throw or become blinded for 1 minute. A    |
+|        | creature can repeat the saving throw at the end of each of its turns,  |
+|        | ending the effect on itself on a success.                              |
++--------+------------------------------------------------------------------------+
+| 96-97  | The target's skin turns bright blue for 1d10 days. If you chose a      |
+|        | point in space, the creature nearest to that point is affected.        |
++--------+------------------------------------------------------------------------+
+| 98-100 | If you targeted a creature, it must make a DC 15 Constitution saving   |
+|        | throw. If you didn't target a creature, you become the target and must |
+|        | make the saving throw. If the saving throw fails by 5 or more, the     |
+|        | target is instantly petrified. On any other failed save, the target is |
+|        | restrained and begins to turn to stone. While restrained in this way,  |
+|        | the target must repeat the saving throw at the end of its next turn,   |
+|        | becoming petrified on a failure or ending the effect on a success. The |
+|        | petrification lasts until the target is freed by the greater           |
+|        | restoration spell or similar magic.                                    |
++--------+------------------------------------------------------------------------+
 
 Weapon, +1, +2, or +3
 ~~~~~~~~~~~~~~~~~~~~~
@@ -5329,21 +5227,18 @@ A sentient item has some ability to communicate, either by sharing its
 emotions, broadcasting its thoughts telepathically, or speaking aloud.
 You can choose how it communicates or roll on the following table.
 
-+-----+----------------------------------------------------------------------+
-| **d | **Communication**                                                    |
-| 100 |                                                                      |
-| **  |                                                                      |
-+=====+======================================================================+
-| 01- | The item communicates by transmitting emotion to the creature        |
-| 60  | carrying or wielding it.                                             |
-+-----+----------------------------------------------------------------------+
-| 61- | The item can speak, read, and understand one or more languages.      |
-| 90  |                                                                      |
-+-----+----------------------------------------------------------------------+
-| 91- | The item can speak, read, and understand one or more languages. In   |
-| 100 | addition, the item can communicate telepathically with any character |
-|     | that carries or wields it.                                           |
-+-----+----------------------------------------------------------------------+
++--------+----------------------------------------------------------------------+
+|  d100  | **Communication**                                                    |
++========+======================================================================+
+| 01-60  | The item communicates by transmitting emotion to the creature        |
+|        | carrying or wielding it.                                             |
++--------+----------------------------------------------------------------------+
+| 61-90  | The item can speak, read, and understand one or more languages.      |
++--------+----------------------------------------------------------------------+
+| 91-100 | The item can speak, read, and understand one or more languages. In   |
+|        | addition, the item can communicate telepathically with any character |
+|        | that carries or wields it.                                           |
++--------+----------------------------------------------------------------------+
 
 Senses
 ~~~~~~
@@ -5405,9 +5300,7 @@ properties. You can pick a special purpose or roll on the following
 table.
 
 +-----+----------------------------------------------------------------------+
-| **d | **Purpose**                                                          |
-| 10* |                                                                      |
-| *   |                                                                      |
+| d10 | Purpose                                                              |
 +=====+======================================================================+
 | 1   | ***Aligned:*** The item seeks to defeat or destroy those of a        |
 |     | diametrically opposed alignment. (Such an item is never neutral.)    |
