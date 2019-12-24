@@ -346,14 +346,14 @@ figures of authority.
 
 
 Bonus Proficiencies
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
 When you join the College of Lore at 3rd level, you gain proficiency
 with three skills of your choice.
 
 
 Cutting Words
-'''''''''''''
+^^^^^^^^^^^^^
 
 Also at 3rd level, you learn how to use your wit to distract, confuse,
 and otherwise sap the confidence and competence of others. When a
@@ -368,7 +368,7 @@ can't hear you or if it's immune to being charmed.
 
 
 Additional Magical Secrets
-''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 At 6th level, you learn two spells of your choice from any class. A
 spell you choose must be of a level you can cast, as shown on the Bard
@@ -377,7 +377,7 @@ don't count against the number of bard spells you know.
 
 
 Peerless Skill
-''''''''''''''
+^^^^^^^^^^^^^^
 
 Starting at 14th level, when you make an ability check, you can expend
 one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the
