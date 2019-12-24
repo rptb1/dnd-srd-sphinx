@@ -20,10 +20,12 @@ for converting them in to a large number of useful formats.
 
 This document was created from the `Dungeons & Dragons 5th Edition
 System Reference Document (SRD) v5.1 Remastered in Markdown Format
-<https://ogl-srd5.com/>`__ by `B.A. Umberger
+<https://ogl-srd5.com/>`__ [#commit]_ by `B.A. Umberger
 <http://www.umbyology.com>`__.  The initial versions were converted
 using `Pandoc <https://pandoc.org/>`__, then hand-edited.
 
 The next step is to create a custom domain extension for Sphinx so
 that things like classes, spells, creatures, etc. are easy to create
 and cross-reference (rather like classes and functions in software).
+
+.. [#commit] At commit 532bf6534a8c04d90f042a945f29198ece5d77cc.
