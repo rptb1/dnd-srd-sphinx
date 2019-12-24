@@ -19,7 +19,7 @@ Dungeons & Dragons 5th Edition System Reference Document
    07.personalization/default
    08.equipment/default
    09.customization/default
-   10.gameplay/default.10
+   10.gameplay/index
    11.spellcasting/default
    12.gamemastering/default
    13.treasure/default
