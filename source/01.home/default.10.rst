@@ -1,5 +1,10 @@
-[center]**Latest Update: `Remastered SRD v0.2.1 November 4th,
-2019 <https://ogl-srd5.com/changelog#november4th2019>`__**\ [/center]
+============
+Introduction
+============
+
+
+** Latest Update: Remastered SRD v0.2.1 November 4th, 2019
+<https://ogl-srd5.com/changelog#november4th2019> **
 
 .. figure:: RE&.logo.1000.286.144.png
    :alt: REmastered Logo
@@ -11,8 +16,8 @@
 
    Fan Site Kit Image
 
-Welcome to the online Dungeons & Dragons 5th Edition System Reference Document (SRD) v5.1 Remastered in Markdown Format!
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+** Welcome to the online Dungeons & Dragons 5th Edition System
+ Reference Document (SRD) v5.1 Remastered in Markdown Format! **
 
 --------------
 
