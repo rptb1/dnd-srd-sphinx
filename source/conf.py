@@ -18,9 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Dungeons & Dragons 5th Edition System Reference Document'
-copyright = '2019, Wizards of the Coast'
-author = 'Wizards of the Coast'
-
+copyright = 'Copyright 2016, Wizards of the Coast, Inc.'
+author = 'Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.'
 
 # -- General configuration ---------------------------------------------------
 
