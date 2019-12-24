@@ -10,22 +10,22 @@ Dungeons & Dragons 5th Edition System Reference Document
    :maxdepth: 2
    :caption: Contents:
 
-   home/default.10
-   changelog/default
-   legal/default
-   beyond/default
+   home/index
+   changelog
+   legal
+   beyond
    races/index
    classes/index
-   personalization/default
-   equipment/default
-   customization/default
+   personalization
+   equipment
+   customization
    gameplay/index
-   spellcasting/default
-   gamemastering/default
-   treasure/default
-   monsters/default.10
-   creatures/default
-   npcs/default
+   spellcasting
+   gamemastering
+   treasure
+   monsters
+   creatures
+   npcs
 
 
 Indices and tables
