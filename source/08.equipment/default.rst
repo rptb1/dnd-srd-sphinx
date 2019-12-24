@@ -1,7 +1,10 @@
-[TOC]
+=========
+Equipment
+=========
+
 
 Coins
------
+=====
 
 Common coins come in several different denominations based on the
 relative worth of the metal from which they are made. The three most
@@ -52,8 +55,9 @@ pound.
 | Platinum (pp)   | 1,000    | 100      | 20       | 10       | 1         |
 +-----------------+----------+----------+----------+----------+-----------+
 
+
 Selling Treasure
-----------------
+================
 
 Opportunities abound to find treasure, equipment, weapons, armor, and
 more in the dungeons you explore. Normally, you can sell your treasures
@@ -82,6 +86,7 @@ larger community first.
 through barter. Like gems and art objects, trade goods-bars of iron,
 bags of salt, livestock, and so on-retain their full value in the market
 and can be used as currency.
+
 
 Armor
 =====
@@ -140,6 +145,7 @@ of the armor is made of softer and more flexible materials.
 ***Studded Leather***. Made from tough but flexible leather, studded
 leather is reinforced with close-set rivets or spikes.
 
+
 Medium Armor
 ------------
 
@@ -169,6 +175,7 @@ wearer's vital organs while leaving the wearer relatively unencumbered.
 ***Half Plate***. Half plate consists of shaped metal plates that cover
 most of the wearer's body. It does not include leg protection beyond
 simple greaves that are attached with leather straps.
+
 
 Heavy Armor
 -----------
@@ -265,6 +272,7 @@ help, reduce this time by half.
 | Shield         | 1 action     | 1 action    |
 +----------------+--------------+-------------+
 
+
 Weapons
 =======
 
@@ -280,6 +288,7 @@ hit, and any special properties they possess. Every weapon is classified
 as either melee or ranged. A **melee weapon** is used to attack a target
 within 5 feet of you, whereas a **ranged weapon** is used to attack a
 target at a distance.
+
 
 Weapon Proficiency
 ------------------
@@ -297,6 +306,7 @@ Proficiency with a weapon allows you to add your proficiency bonus to
 the attack roll for any attack you make with that weapon. If you make an
 attack roll using a weapon with which you lack proficiency, you do not
 add your proficiency bonus to the attack roll.
+
 
 Weapon Properties
 -----------------
@@ -363,6 +373,7 @@ it.
 value in parentheses appears with the property-the damage when the
 weapon is used with two hands to make a melee attack.
 
+
 Improvised Weapons
 ~~~~~~~~~~~~~~~~~~
 
@@ -382,8 +393,9 @@ ranged weapon to make a melee attack, or throws a melee weapon that does
 not have the thrown property, it also deals 1d4 damage. An improvised
 thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
+
 Silvered Weapons
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Some monsters that have immunity or resistance to nonmagical weapons are
 susceptible to silver weapons, so cautious adventurers invest extra coin
@@ -392,8 +404,9 @@ ten pieces of ammunition for 100 gp. This cost represents not only the
 price of the silver, but the time and expertise needed to add silver to
 the weapon without making it less effective.
 
+
 Special Weapons
-^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~
 
 Weapons with special rules are described here.
 
@@ -415,141 +428,141 @@ normally make.
 
 **Table** **38 - Equipment: Weapons**
 
-+-------------------+-------+-----------+--------+-----------------------------------+
-| **Name**          | **Cos | **Damage* | **Weig | **Properties**                    |
-|                   | t**   | *         | ht**   |                                   |
-+===================+=======+===========+========+===================================+
-| ***Simple Melee   |       |           |        |                                   |
-| Weapons***        |       |           |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Club              | 1 sp  | 1d4       | 2 lb.  | Light                             |
-|                   |       | bludgeoni |        |                                   |
-|                   |       | ng        |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Dagger            | 2 gp  | 1d4       | 1 lb.  | Finesse, light, thrown (range     |
-|                   |       | piercing  |        | 20/60)                            |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Greatclub         | 2 sp  | 1d8       | 10 lb. | Two-handed                        |
-|                   |       | bludgeoni |        |                                   |
-|                   |       | ng        |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Handaxe           | 5 gp  | 1d6       | 2 lb.  | Light, thrown (range 20/60)       |
-|                   |       | slashing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Javelin           | 5 sp  | 1d6       | 2 lb.  | Thrown (range 30/120)             |
-|                   |       | piercing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Light hammer      | 2 gp  | 1d4       | 2 lb.  | Light, thrown (range 20/60)       |
-|                   |       | bludgeoni |        |                                   |
-|                   |       | ng        |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Mace              | 5 gp  | 1d6       | 4 lb.  | -                                 |
-|                   |       | bludgeoni |        |                                   |
-|                   |       | ng        |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Quarterstaff      | 2 sp  | 1d6       | 4 lb.  | Versatile (1d8)                   |
-|                   |       | bludgeoni |        |                                   |
-|                   |       | ng        |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Sickle            | 1 gp  | 1d4       | 2 lb.  | Light                             |
-|                   |       | slashing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Spear             | 1 gp  | 1d6       | 3 lb.  | Thrown (range 20/60), versatile   |
-|                   |       | piercing  |        | (1d8)                             |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| ***Simple Ranged  |       |           |        |                                   |
-| Weapons***        |       |           |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Crossbow, light   | 25 gp | 1d8       | 5 lb.  | Ammunition (range 80/320),        |
-|                   |       | piercing  |        | loading, two-handed               |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Dart              | 5 cp  | 1d4       | 1/4    | Finesse, thrown (range 20/60)     |
-|                   |       | piercing  | lb.    |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Shortbow          | 25 gp | 1d6       | 2 lb.  | Ammunition (range 80/320),        |
-|                   |       | piercing  |        | two-handed                        |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Sling             | 1 sp  | 1d4       | -      | Ammunition (range 30/120)         |
-|                   |       | bludgeoni |        |                                   |
-|                   |       | ng        |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| ***Martial Melee  |       |           |        |                                   |
-| Weapons***        |       |           |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Battleaxe         | 10 gp | 1d8       | 4 lb.  | Versatile (1d10)                  |
-|                   |       | slashing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Flail             | 10 gp | 1d8       | 2 lb.  | -                                 |
-|                   |       | bludgeoni |        |                                   |
-|                   |       | ng        |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Glaive            | 20 gp | 1d10      | 6 lb.  | Heavy, reach, two-handed          |
-|                   |       | slashing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Greataxe          | 30 gp | 1d12      | 7 lb.  | Heavy, two-handed                 |
-|                   |       | slashing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Greatsword        | 50 gp | 2d6       | 6 lb.  | Heavy, two-handed                 |
-|                   |       | slashing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Halberd           | 20 gp | 1d10      | 6 lb.  | Heavy, reach, two-handed          |
-|                   |       | slashing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Lance             | 10 gp | 1d12      | 6 lb.  | Reach, special                    |
-|                   |       | piercing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Longsword         | 15 gp | 1d8       | 3 lb.  | Versatile (1d10)                  |
-|                   |       | slashing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Maul              | 10 gp | 2d6       | 10 lb. | Heavy, two-handed                 |
-|                   |       | bludgeoni |        |                                   |
-|                   |       | ng        |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Morningstar       | 15 gp | 1d8       | 4 lb.  | -                                 |
-|                   |       | piercing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Pike              | 5 gp  | 1d10      | 18 lb. | Heavy, reach, two-handed          |
-|                   |       | piercing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Rapier            | 25 gp | 1d8       | 2 lb.  | Finesse                           |
-|                   |       | piercing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Scimitar          | 25 gp | 1d6       | 3 lb.  | Finesse, light                    |
-|                   |       | slashing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Shortsword        | 10 gp | 1d6       | 2 lb.  | Finesse, light                    |
-|                   |       | piercing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Trident           | 5 gp  | 1d6       | 4 lb.  | Thrown (range 20/60), versatile   |
-|                   |       | piercing  |        | (1d8)                             |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| War pick          | 5 gp  | 1d8       | 2 lb.  | -                                 |
-|                   |       | piercing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Warhammer         | 15 gp | 1d8       | 2 lb.  | Versatile (1d10)                  |
-|                   |       | bludgeoni |        |                                   |
-|                   |       | ng        |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Whip              | 2 gp  | 1d4       | 3 lb.  | Finesse, reach                    |
-|                   |       | slashing  |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| ***Martial Ranged |       |           |        |                                   |
-| Weapons***        |       |           |        |                                   |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Blowgun           | 10 gp | 1         | 1 lb.  | Ammunition (range 25/100),        |
-|                   |       | piercing  |        | loading                           |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Crossbow, hand    | 75 gp | 1d6       | 3 lb.  | Ammunition (range 30/120), light, |
-|                   |       | piercing  |        | loading                           |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Crossbow, heavy   | 50 gp | 1d10      | 18 lb. | Ammunition (range 100/400),       |
-|                   |       | piercing  |        | heavy, loading, two-handed        |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Longbow           | 50 gp | 1d8       | 2 lb.  | Ammunition (range 150/600),       |
-|                   |       | piercing  |        | heavy, two-handed                 |
-+-------------------+-------+-----------+--------+-----------------------------------+
-| Net               | 1 gp  | -         | 3 lb.  | Special, thrown (range 5/15)      |
-+-------------------+-------+-----------+--------+-----------------------------------+
++-------------------+-------+-----------+---------+-----------------------------------+
+| Name              | Cost  | Damage    | Weight  | Properties                        |
++===================+=======+===========+=========+===================================+
+| ***Simple Melee   |       |           |         |                                   |
+| Weapons***        |       |           |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Club              | 1 sp  | 1d4       | 2 lb.   | Light                             |
+|                   |       | bludgeoni |         |                                   |
+|                   |       | ng        |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Dagger            | 2 gp  | 1d4       | 1 lb.   | Finesse, light, thrown (range     |
+|                   |       | piercing  |         | 20/60)                            |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Greatclub         | 2 sp  | 1d8       | 10 lb.  | Two-handed                        |
+|                   |       | bludgeoni |         |                                   |
+|                   |       | ng        |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Handaxe           | 5 gp  | 1d6       | 2 lb.   | Light, thrown (range 20/60)       |
+|                   |       | slashing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Javelin           | 5 sp  | 1d6       | 2 lb.   | Thrown (range 30/120)             |
+|                   |       | piercing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Light hammer      | 2 gp  | 1d4       | 2 lb.   | Light, thrown (range 20/60)       |
+|                   |       | bludgeoni |         |                                   |
+|                   |       | ng        |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Mace              | 5 gp  | 1d6       | 4 lb.   | -                                 |
+|                   |       | bludgeoni |         |                                   |
+|                   |       | ng        |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Quarterstaff      | 2 sp  | 1d6       | 4 lb.   | Versatile (1d8)                   |
+|                   |       | bludgeoni |         |                                   |
+|                   |       | ng        |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Sickle            | 1 gp  | 1d4       | 2 lb.   | Light                             |
+|                   |       | slashing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Spear             | 1 gp  | 1d6       | 3 lb.   | Thrown (range 20/60), versatile   |
+|                   |       | piercing  |         | (1d8)                             |
++-------------------+-------+-----------+---------+-----------------------------------+
+| ***Simple Ranged  |       |           |         |                                   |
+| Weapons***        |       |           |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Crossbow, light   | 25 gp | 1d8       | 5 lb.   | Ammunition (range 80/320),        |
+|                   |       | piercing  |         | loading, two-handed               |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Dart              | 5 cp  | 1d4       | 1/4     | Finesse, thrown (range 20/60)     |
+|                   |       | piercing  | lb.     |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Shortbow          | 25 gp | 1d6       | 2 lb.   | Ammunition (range 80/320),        |
+|                   |       | piercing  |         | two-handed                        |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Sling             | 1 sp  | 1d4       | -       | Ammunition (range 30/120)         |
+|                   |       | bludgeoni |         |                                   |
+|                   |       | ng        |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| ***Martial Melee  |       |           |         |                                   |
+| Weapons***        |       |           |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Battleaxe         | 10 gp | 1d8       | 4 lb.   | Versatile (1d10)                  |
+|                   |       | slashing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Flail             | 10 gp | 1d8       | 2 lb.   | -                                 |
+|                   |       | bludgeoni |         |                                   |
+|                   |       | ng        |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Glaive            | 20 gp | 1d10      | 6 lb.   | Heavy, reach, two-handed          |
+|                   |       | slashing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Greataxe          | 30 gp | 1d12      | 7 lb.   | Heavy, two-handed                 |
+|                   |       | slashing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Greatsword        | 50 gp | 2d6       | 6 lb.   | Heavy, two-handed                 |
+|                   |       | slashing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Halberd           | 20 gp | 1d10      | 6 lb.   | Heavy, reach, two-handed          |
+|                   |       | slashing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Lance             | 10 gp | 1d12      | 6 lb.   | Reach, special                    |
+|                   |       | piercing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Longsword         | 15 gp | 1d8       | 3 lb.   | Versatile (1d10)                  |
+|                   |       | slashing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Maul              | 10 gp | 2d6       | 10 lb.  | Heavy, two-handed                 |
+|                   |       | bludgeoni |         |                                   |
+|                   |       | ng        |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Morningstar       | 15 gp | 1d8       | 4 lb.   | -                                 |
+|                   |       | piercing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Pike              | 5 gp  | 1d10      | 18 lb.  | Heavy, reach, two-handed          |
+|                   |       | piercing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Rapier            | 25 gp | 1d8       | 2 lb.   | Finesse                           |
+|                   |       | piercing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Scimitar          | 25 gp | 1d6       | 3 lb.   | Finesse, light                    |
+|                   |       | slashing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Shortsword        | 10 gp | 1d6       | 2 lb.   | Finesse, light                    |
+|                   |       | piercing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Trident           | 5 gp  | 1d6       | 4 lb.   | Thrown (range 20/60), versatile   |
+|                   |       | piercing  |         | (1d8)                             |
++-------------------+-------+-----------+---------+-----------------------------------+
+| War pick          | 5 gp  | 1d8       | 2 lb.   | -                                 |
+|                   |       | piercing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Warhammer         | 15 gp | 1d8       | 2 lb.   | Versatile (1d10)                  |
+|                   |       | bludgeoni |         |                                   |
+|                   |       | ng        |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Whip              | 2 gp  | 1d4       | 3 lb.   | Finesse, reach                    |
+|                   |       | slashing  |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| ***Martial Ranged |       |           |         |                                   |
+| Weapons***        |       |           |         |                                   |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Blowgun           | 10 gp | 1         | 1 lb.   | Ammunition (range 25/100),        |
+|                   |       | piercing  |         | loading                           |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Crossbow, hand    | 75 gp | 1d6       | 3 lb.   | Ammunition (range 30/120), light, |
+|                   |       | piercing  |         | loading                           |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Crossbow, heavy   | 50 gp | 1d10      | 18 lb.  | Ammunition (range 100/400),       |
+|                   |       | piercing  |         | heavy, loading, two-handed        |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Longbow           | 50 gp | 1d8       | 2 lb.   | Ammunition (range 150/600),       |
+|                   |       | piercing  |         | heavy, two-handed                 |
++-------------------+-------+-----------+---------+-----------------------------------+
+| Net               | 1 gp  | -         | 3 lb.   | Special, thrown (range 5/15)      |
++-------------------+-------+-----------+---------+-----------------------------------+
+
 
 Adventuring Gear
 ================
@@ -1054,6 +1067,7 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
 \*\*\*\*\* You can also strap items, such as a bedroll or a coil of
 rope, to the outside of a backpack.
 
+
 Tools
 =====
 
@@ -1210,6 +1224,7 @@ narrow-bladed scissors, and a pair of pliers. Proficiency with these
 tools lets you add your proficiency bonus to any ability checks you make
 to disarm traps or open locks.
 
+
 Mounts and Vehicles
 ===================
 
@@ -1329,6 +1344,7 @@ adventurers carry it over land.
 | Warship        | 25,000 gp   | 2½ mph      |
 +----------------+-------------+-------------+
 
+
 Trade Goods
 ===========
 
@@ -1376,6 +1392,7 @@ the value of commonly exchanged goods.
 | 500 gp     | 1 lb. of platinum                              |
 +------------+------------------------------------------------+
 
+
 Expenses
 ========
 
@@ -1385,6 +1402,7 @@ adventurers face more mundane realities. Even in a fantastical world,
 people require basic necessities such as shelter, sustenance, and
 clothing. These things cost money, although some lifestyles cost more
 than others.
+
 
 Lifestyle Expenses
 ------------------
@@ -1506,6 +1524,7 @@ or participant.
     of a poor lifestyle. Proficiency in the Survival skill lets you live
     at the equivalent of a comfortable lifestyle.
 
+
 Food, Drink, and Lodging
 ------------------------
 
@@ -1567,6 +1586,7 @@ total lifestyle expenses.
 | *- Fine (bottle)*          | 10 gp      |
 +----------------------------+------------+
 
+
 Services
 --------
 
@@ -1623,6 +1643,7 @@ porters, maids, and similar workers.
 +---------------------+-----------------+
 | Ship's passage      | 1 sp per mile   |
 +---------------------+-----------------+
+
 
 Spellcasting Services
 ---------------------
