@@ -21,6 +21,8 @@ Dungeons & Dragons 5th Edition System Reference Document
    customization
    gameplay/index
    spellcasting
+   spell-lists/index
+   spell-descriptions
    gamemastering
    treasure
    monsters
