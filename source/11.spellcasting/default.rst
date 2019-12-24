@@ -1,4 +1,6 @@
-[TOC]
+============
+Spellcasting
+============
 
 Magic permeates fantasy gaming worlds and often appears in the form of a
 spell.
@@ -8,8 +10,9 @@ classes have distinctive ways of learning and preparing their spells,
 and monsters use spells in unique ways. Regardless of its source, a
 spell follows the rules here.
 
+
 What Is a Spell?
-----------------
+================
 
 A spell is a discrete magical effect, a single shaping of the magical
 energies that suffuse the multiverse into a specific, limited
@@ -29,8 +32,9 @@ yet lie recorded in crumbling spellbooks hidden in ancient ruins or
 trapped in the minds of dead gods. Or they might someday be reinvented
 by a character who has amassed enough power and wisdom to do so.
 
+
 Spell Level
-~~~~~~~~~~~
+-----------
 
 Every spell has a level from 0 to 9. A spell's level is a general
 indicator of how powerful it is, with the lowly (but still impressive)
@@ -43,8 +47,9 @@ Spell level and character level don't correspond directly. Typically, a
 character has to be at least 17th level, not 9th level, to cast a
 9th-level spell.
 
+
 Known and Prepared Spells
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 Before a spellcaster can use a spell, he or she must have the spell
 firmly fixed in mind, or must have access to the spell in a magic item.
@@ -57,8 +62,9 @@ varies for different classes, as detailed in their descriptions.
 In every case, the number of spells a caster can have fixed in mind at
 any given time depends on the character's level.
 
+
 Spell Slots
-~~~~~~~~~~~
+-----------
 
 Regardless of how many spells a caster knows or prepares, he or she can
 cast only a limited number of spells before resting. Manipulating the
@@ -86,8 +92,9 @@ Way of the Four Elements, a warlock who chooses certain eldritch
 invocations, and a pit fiend from the Nine Hells can all cast spells in
 such a way.
 
+
 Casting a Spell at a Higher Level
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When a spellcaster casts a spell using a slot that is of a higher level
 than the spell, the spell assumes the higher level for that casting. For
@@ -99,6 +106,7 @@ Some spells, such as *magic missile* and *cure wounds*, have more
 powerful effects when cast at a higher level, as detailed in a spell's
 description.
 
+
 Casting in Armor
 ~~~~~~~~~~~~~~~~
 
@@ -107,8 +115,9 @@ spellcasting, you must be proficient with the armor you are wearing to
 cast a spell. You are otherwise too distracted and physically hampered
 by your armor for spellcasting.
 
+
 Cantrips
-~~~~~~~~
+--------
 
 A cantrip is a spell that can be cast at will, without using a spell
 slot and without being prepared in advance. Repeated practice has fixed
@@ -116,8 +125,9 @@ the spell in the caster's mind and infused the caster with the magic
 needed to produce the effect over and over. A cantrip's spell level is
 0.
 
+
 Rituals
-~~~~~~~
+-------
 
 Certain spells have a special tag: ritual. Such a spell can be cast
 following the normal rules for spellcasting, or the spell can be cast as
@@ -131,8 +141,9 @@ such a feature. The caster must also have the spell prepared or on his
 or her list of spells known, unless the character's ritual feature
 specifies otherwise, as the wizard's does.
 
+
 Casting a Spell
----------------
+===============
 
 When a character casts any spell, the same basic rules are followed,
 regardless of the character's class or the spell's effects.
@@ -142,13 +153,13 @@ spell's name, level, school of magic, casting time, range, components,
 and duration. The rest of a spell entry describes the spell's effect.
 
 Casting Time
-~~~~~~~~~~~~
+------------
 
 Most spells require a single action to cast, but some spells require a
 bonus action, a reaction, or much more time to cast.
 
 Bonus Action
-^^^^^^^^^^^^
+~~~~~~~~~~~~
 
 A spell cast with a bonus action is especially swift. You must use a
 bonus action on your turn to cast the spell, provided that you haven't
@@ -157,7 +168,7 @@ during the same turn, except for a cantrip with a casting time of 1
 action.
 
 Reactions
-^^^^^^^^^
+~~~~~~~~~
 
 Some spells can be cast as reactions. These spells take a fraction of a
 second to bring about and are cast in response to some event. If a spell
@@ -165,7 +176,7 @@ can be cast as a reaction, the spell description tells you exactly when
 you can do so.
 
 Longer Casting Times
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~
 
 Certain spells (including spells cast as rituals) require more time to
 cast: minutes or even hours. When you cast a spell with a casting time
@@ -176,7 +187,7 @@ the spell fails, but you don't expend a spell slot. If you want to try
 casting the spell again, you must start over.
 
 Spell Range
-~~~~~~~~~~~
+-----------
 
 The target of a spell must be within the spell's range. For a spell like
 *magic missile*, the target is a creature. For a spell like *fireball*,
@@ -194,7 +205,7 @@ Once a spell is cast, its effects aren't limited by its range, unless
 the spell's description says otherwise.
 
 Components
-~~~~~~~~~~
+----------
 
 A spell's components are the physical requirements you must meet in
 order to cast it. Each spell's description indicates whether it requires
@@ -203,7 +214,7 @@ provide one or more of a spell's components, you are unable to cast the
 spell.
 
 Verbal (V)
-^^^^^^^^^^
+~~~~~~~~~~
 
 Most spells require the chanting of mystic words. The words themselves
 aren't the source of the spell's power; rather, the particular
@@ -213,7 +224,7 @@ area of silence, such as one created by the *silence* spell, can't cast
 a spell with a verbal component.
 
 Somatic (S)
-^^^^^^^^^^^
+~~~~~~~~~~~
 
 Spellcasting gestures might include a forceful gesticulation or an
 intricate set of gestures. If a spell requires a somatic component, the
@@ -221,7 +232,7 @@ caster must have free use of at least one hand to perform these
 gestures.
 
 Material (M)
-^^^^^^^^^^^^
+~~~~~~~~~~~~
 
 Casting some spells requires particular objects, specified in
 parentheses in the component entry. A character can use a **component
@@ -238,7 +249,7 @@ components-or to hold a spellcasting focus-but it can be the same hand
 that he or she uses to perform somatic components.
 
 Duration
-~~~~~~~~
+--------
 
 A spell's duration is the length of time the spell persists. A duration
 can be expressed in rounds, minutes, hours, or even years. Some spells
@@ -246,14 +257,14 @@ specify that their effects last until the spells are dispelled or
 destroyed.
 
 Instantaneous
-^^^^^^^^^^^^^
+~~~~~~~~~~~~~
 
 Many spells are instantaneous. The spell harms, heals, creates, or
 alters a creature or an object in a way that can't be dispelled, because
 its magic exists only for an instant.
 
 Concentration
-^^^^^^^^^^^^^
+~~~~~~~~~~~~~
 
 Some spells require you to maintain concentration in order to keep their
 magic active. If you lose concentration, such a spell ends.
@@ -285,7 +296,7 @@ to succeed on a DC 10 Constitution saving throw to maintain
 concentration on a spell.
 
 Targets
-~~~~~~~
+-------
 
 A typical spell requires you to pick one or more targets to be affected
 by the spell's magic. A spell's description tells you whether the spell
@@ -299,7 +310,7 @@ creature's thoughts, typically goes unnoticed, unless a spell says
 otherwise.
 
 A Clear Path to the Target
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To target something, you must have a clear path to it, so it can't be
 behind total cover.
@@ -309,7 +320,7 @@ obstruction, such as a wall, is between you and that point, the point of
 origin comes into being on the near side of that obstruction.
 
 Targeting Yourself
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 If a spell targets a creature of your choice, you can choose yourself,
 unless the creature must be hostile or specifically a creature other
@@ -317,7 +328,7 @@ than you. If you are in the area of effect of a spell you cast, you can
 target yourself.
 
 Areas of Effect
-~~~~~~~~~~~~~~~
+---------------
 
 Spells such as *burning hands* and *cone of cold* cover an area,
 allowing them to affect multiple creatures at once.
@@ -337,7 +348,7 @@ spell's area. To block one of these imaginary lines, an obstruction must
 provide total cover.
 
 Cone
-^^^^
+~~~~
 
 A cone extends in a direction you choose from its point of origin. A
 cone's width at a given point along its length is equal to that point's
@@ -348,7 +359,7 @@ A cone's point of origin is not included in the cone's area of effect,
 unless you decide otherwise.
 
 Cube
-^^^^
+~~~~
 
 You select a cube's point of origin, which lies anywhere on a face of
 the cubic effect. The cube's size is expressed as the length of each
@@ -358,7 +369,7 @@ A cube's point of origin is not included in the cube's area of effect,
 unless you decide otherwise.
 
 Cylinder
-^^^^^^^^
+~~~~~~~~
 
 A cylinder's point of origin is the center of a circle of a particular
 radius, as given in the spell description. The circle must either be on
@@ -372,7 +383,7 @@ A cylinder's point of origin is included in the cylinder's area of
 effect.
 
 Line
-^^^^
+~~~~
 
 A line extends from its point of origin in a straight path up to its
 length and covers an area defined by its width.
@@ -381,7 +392,7 @@ A line's point of origin is not included in the line's area of effect,
 unless you decide otherwise.
 
 Sphere
-^^^^^^
+~~~~~~
 
 You select a sphere's point of origin, and the sphere extends outward
 from that point. The sphere's size is expressed as a radius in feet that
@@ -390,7 +401,7 @@ extends from the point.
 A sphere's point of origin is included in the sphere's area of effect.
 
 Spell Saving Throws
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 Many spells specify that a target can make a saving throw to avoid some
 or all of a spell's effects. The spell specifies the ability that the
@@ -402,7 +413,7 @@ modifier +
 your proficiency bonus + any special modifiers.
 
 Spell Attack Rolls
-~~~~~~~~~~~~~~~~~~
+------------------
 
 Some spells require the caster to make an attack roll to determine
 whether the spell effect hits the intended target. Your attack bonus
@@ -415,7 +426,7 @@ feet of a hostile creature that can see you and that isn't
 incapacitated.
 
 The Schools of Magic
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 Academies of magic group spells into eight categories called schools of
 magic. Scholars, particularly wizards, apply these categories to all
@@ -470,7 +481,7 @@ enhance a creature's innate healing abilities to rapidly recover from
 injury.
 
 Combining Magical Effects
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 The effects of different spells add together while the durations of
 those spells overlap. The effects of the same spell cast multiple times
@@ -488,7 +499,7 @@ Bard Spells
 -----------
 
 Cantrips (0 Level)
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 -  Dancing Lights
 
@@ -507,7 +518,7 @@ Cantrips (0 Level)
 -  True Strike
 
 1st Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Bane
 
@@ -548,7 +559,7 @@ Cantrips (0 Level)
 -  Unseen Servant
 
 2nd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Animal Messenger
 
@@ -589,7 +600,7 @@ Cantrips (0 Level)
 -  Zone of Truth
 
 3rd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Bestow Curse
 
@@ -622,7 +633,7 @@ Cantrips (0 Level)
 -  Tongues
 
 4th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Confusion
 
@@ -639,7 +650,7 @@ Cantrips (0 Level)
 -  Polymorph
 
 5th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Animate Objects
 
@@ -674,7 +685,7 @@ Cantrips (0 Level)
 -  Teleportation Circle
 
 6th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Eyebite
 
@@ -691,7 +702,7 @@ Cantrips (0 Level)
 -  True Seeing
 
 7th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Arcane Sword
 
@@ -714,7 +725,7 @@ Cantrips (0 Level)
 -  Teleport
 
 8th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Dominate Monster
 
@@ -729,7 +740,7 @@ Cantrips (0 Level)
 -  Stun
 
 9th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Foresight
 
@@ -741,7 +752,7 @@ Cleric Spells
 -------------
 
 Cantrips (0 Level)
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 -  Guidance
 
@@ -756,7 +767,7 @@ Cantrips (0 Level)
 -  Thaumaturgy
 
 1st Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Bane
 
@@ -789,7 +800,7 @@ Cantrips (0 Level)
 -  Shield of Faith
 
 2nd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Aid
 
@@ -826,7 +837,7 @@ Cantrips (0 Level)
 -  Zone of Truth
 
 3rd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Animate Dead
 
@@ -867,7 +878,7 @@ Cantrips (0 Level)
 -  Water Walk
 
 4th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Banishment
 
@@ -884,7 +895,7 @@ Cantrips (0 Level)
 -  Stone Shape
 
 5th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Commune
 
@@ -915,7 +926,7 @@ Cantrips (0 Level)
 -  Scrying
 
 6th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Blade Barrier
 
@@ -938,7 +949,7 @@ Cantrips (0 Level)
 -  Word of Recall
 
 7th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Conjure Celestial
 
@@ -957,7 +968,7 @@ Cantrips (0 Level)
 -  Symbol
 
 8th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Antimagic Field
 
@@ -968,7 +979,7 @@ Cantrips (0 Level)
 -  Holy Aura
 
 9th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Astral Projection
 
@@ -982,7 +993,7 @@ Druid Spells
 ------------
 
 Cantrips (0 Level)
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 -  Guidance
 
@@ -995,7 +1006,7 @@ Cantrips (0 Level)
 -  Shillelagh
 
 1st Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Charm Person
 
@@ -1026,7 +1037,7 @@ Cantrips (0 Level)
 -  Thunderwave
 
 2nd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Animal Messenger
 
@@ -1063,7 +1074,7 @@ Cantrips (0 Level)
 -  Spike Growth
 
 3rd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Call Lightning
 
@@ -1090,7 +1101,7 @@ Cantrips (0 Level)
 -  Wind Wall
 
 4th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Blight
 
@@ -1123,7 +1134,7 @@ Cantrips (0 Level)
 -  Wall of Fire
 
 5th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Antilife Shell
 
@@ -1154,7 +1165,7 @@ Cantrips (0 Level)
 -  Wall of Stone
 
 6th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Conjure Fey
 
@@ -1175,7 +1186,7 @@ Cantrips (0 Level)
 -  Wind Walk
 
 7th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Fire Storm
 
@@ -1188,7 +1199,7 @@ Cantrips (0 Level)
 -  Reverse Gravity
 
 8th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Animal Shapes
 
@@ -1203,7 +1214,7 @@ Cantrips (0 Level)
 -  Sunburst
 
 9th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Foresight
 
@@ -1217,7 +1228,7 @@ Paladin Spells
 --------------
 
 1st Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Bless
 
@@ -1242,7 +1253,7 @@ Paladin Spells
 -  Shield of Faith
 
 2nd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Aid
 
@@ -1259,7 +1270,7 @@ Paladin Spells
 -  Zone of Truth
 
 3rd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Create Food and Water
 
@@ -1274,7 +1285,7 @@ Paladin Spells
 -  Revivify
 
 4th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Banishment
 
@@ -1283,7 +1294,7 @@ Paladin Spells
 -  Locate Creature
 
 5th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Dispel Evil and Good
 
@@ -1295,7 +1306,7 @@ Ranger Spells
 -------------
 
 1st Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Alarm
 
@@ -1314,7 +1325,7 @@ Ranger Spells
 -  Speak with Animals
 
 2nd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Animal Messenger
 
@@ -1339,7 +1350,7 @@ Ranger Spells
 -  Spike Growth
 
 3rd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Conjure Animals
 
@@ -1360,7 +1371,7 @@ Ranger Spells
 -  Wind Wall
 
 4th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Conjure Woodland Beings
 
@@ -1371,7 +1382,7 @@ Ranger Spells
 -  Stoneskin
 
 5th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Commune with Nature
 
@@ -1381,7 +1392,7 @@ Sorcerer Spells
 ---------------
 
 Cantrips (0 Level)
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 -  Acid Splash
 
@@ -1408,7 +1419,7 @@ Cantrips (0 Level)
 -  True Strike
 
 1st Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Burning Hands
 
@@ -1445,7 +1456,7 @@ Cantrips (0 Level)
 -  Thunderwave
 
 2nd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Alter Self
 
@@ -1490,7 +1501,7 @@ Cantrips (0 Level)
 -  Web
 
 3rd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Blink
 
@@ -1531,7 +1542,7 @@ Cantrips (0 Level)
 -  Water Walk
 
 4th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Banishment
 
@@ -1554,7 +1565,7 @@ Cantrips (0 Level)
 -  Wall of Fire
 
 5th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Animate Objects
 
@@ -1579,7 +1590,7 @@ Cantrips (0 Level)
 -  Wall of Stone
 
 6th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Chain Lightning
 
@@ -1600,7 +1611,7 @@ Cantrips (0 Level)
 -  True Seeing
 
 7th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Delayed Blast
 
@@ -1621,7 +1632,7 @@ Cantrips (0 Level)
 -  Teleport
 
 8th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Dominate Monster
 
@@ -1634,7 +1645,7 @@ Cantrips (0 Level)
 -  Sunburst
 
 9th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Gate
 
@@ -1650,7 +1661,7 @@ Warlock Spells
 --------------
 
 Cantrips (0 Level)
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 -  Chill Touch
 
@@ -1663,7 +1674,7 @@ Cantrips (0 Level)
 -  True Strike
 
 1st Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Charm Person
 
@@ -1678,7 +1689,7 @@ Cantrips (0 Level)
 -  Unseen Servant
 
 2nd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Darkness
 
@@ -1701,7 +1712,7 @@ Cantrips (0 Level)
 -  Suggestion
 
 3rd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Dispel Magic
 
@@ -1724,7 +1735,7 @@ Cantrips (0 Level)
 -  Vampiric Touch
 
 4th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Banishment
 
@@ -1735,7 +1746,7 @@ Cantrips (0 Level)
 -  Hallucinatory Terrain
 
 5th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Contact Other Plane
 
@@ -1746,7 +1757,7 @@ Cantrips (0 Level)
 -  Scrying
 
 6th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Circle of Death
 
@@ -1763,7 +1774,7 @@ Cantrips (0 Level)
 -  True Seeing
 
 7th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Etherealness
 
@@ -1774,7 +1785,7 @@ Cantrips (0 Level)
 -  Plane Shift
 
 8th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Demiplane
 
@@ -1787,7 +1798,7 @@ Cantrips (0 Level)
 -  Power Word Stun
 
 9th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Astral Projection
 
@@ -1803,7 +1814,7 @@ Wizard Spells
 -------------
 
 Cantrips (0 Level)
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 -  Acid Splash
 
@@ -1830,7 +1841,7 @@ Cantrips (0 Level)
 -  True Strike
 
 1st Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Alarm
 
@@ -1885,7 +1896,7 @@ Cantrips (0 Level)
 -  Unseen Servant
 
 2nd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Acid Arrow
 
@@ -1950,7 +1961,7 @@ Cantrips (0 Level)
 -  Web
 
 3rd Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Animate Dead
 
@@ -2007,7 +2018,7 @@ Cantrips (0 Level)
 -  Water Breathing
 
 4th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Arcane Eye
 
@@ -2058,7 +2069,7 @@ Cantrips (0 Level)
 -  Wall of Fire
 
 5th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Animate Objects
 
@@ -2107,7 +2118,7 @@ Cantrips (0 Level)
 -  Wall of Stone
 
 6th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Chain Lightning
 
@@ -2148,7 +2159,7 @@ Cantrips (0 Level)
 -  Wall of Ice
 
 7th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Arcane Sword
 
@@ -2183,7 +2194,7 @@ Cantrips (0 Level)
 -  Teleport
 
 8th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Antimagic Field
 
@@ -2210,7 +2221,7 @@ Cantrips (0 Level)
 -  Sunburst
 
 9th Level
-^^^^^^^^^
+~~~~~~~~~
 
 -  Astral Projection
 
@@ -2243,7 +2254,7 @@ Spells (A)
 ==========
 
 Acid Arrow
-^^^^^^^^^^
+----------
 
 *2nd-level evocation*
 
@@ -2267,7 +2278,7 @@ its next turn.
 1d4 for each slot level above 2nd.
 
 Acid Splash
-^^^^^^^^^^^
+-----------
 
 *Conjuration cantrip*
 
@@ -2288,7 +2299,7 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6),
 11th level (3d6), and 17th level (4d6).
 
 Aid
-^^^
+---
 
 *2nd-level abjuration*
 
@@ -2309,7 +2320,7 @@ current hit points increase by 5 for the duration.
 for each slot level above 2nd.
 
 Alarm
-^^^^^
+-----
 
 *1st-level abjuration (ritual)*
 
@@ -2335,7 +2346,7 @@ An audible alarm produces the sound of a hand bell for 10 seconds within
 60 feet.
 
 Alter Self
-^^^^^^^^^^
+----------
 
 *2nd-level transmutation*
 
@@ -2375,7 +2386,7 @@ Finally, the natural weapon is magic and you have a +1 bonus to the
 attack and damage rolls you make using it.
 
 Animal Messenger
-^^^^^^^^^^^^^^^^
+----------------
 
 *2nd-level enchantment (ritual)*
 
@@ -2409,7 +2420,7 @@ level or higher, the duration of the spell increases by 48 hours for
 each slot level above 2nd.
 
 Animal Shapes
-^^^^^^^^^^^^^
+-------------
 
 *8th-level transmutation*
 
@@ -2444,7 +2455,7 @@ The target's gear melds into the new form. The target can't activate,
 wield, or otherwise benefit from any of its equipment.
 
 Animate Dead
-^^^^^^^^^^^^
+------------
 
 *3rd-level necromancy*
 
@@ -2486,7 +2497,7 @@ undead creatures for each slot level above 3rd. Each of the creatures
 must come from a different corpse or pile of bones.
 
 Animate Objects
-^^^^^^^^^^^^^^^
+---------------
 
 *5th-level transmutation*
 
@@ -2555,7 +2566,7 @@ level or higher, you can animate two additional objects for each slot
 level above 5th.
 
 Antilife Shell
-^^^^^^^^^^^^^^
+--------------
 
 *5th-level abjuration*
 
@@ -2579,7 +2590,7 @@ If you move so that an affected creature is forced to pass through the
 barrier, the spell ends.
 
 Antimagic Field
-^^^^^^^^^^^^^^^
+---------------
 
 *8th-level abjuration*
 
@@ -2646,7 +2657,7 @@ have no effect on the sphere. Likewise, the spheres created by different
 *antimagic field* spells don't nullify each other.
 
 Antipathy/Sympathy
-^^^^^^^^^^^^^^^^^^
+------------------
 
 *8th-level enchantment*
 
@@ -2703,7 +2714,7 @@ A creature that successfully saves against this effect is immune to it
 for 1 minute, after which time it can be affected again.
 
 Arcane Eye
-^^^^^^^^^^
+----------
 
 *4th-level divination*
 
@@ -2729,7 +2740,7 @@ movement, but the eye can pass through an opening as small as 1 inch in
 diameter.
 
 Arcane Hand
-^^^^^^^^^^^
+-----------
 
 *5th-level evocation*
 
@@ -2792,7 +2803,7 @@ by 2d8 and the damage from the grasping hand increases by 2d6 for each
 slot level above 5th.
 
 Arcane Lock
-^^^^^^^^^^^
+-----------
 
 *2nd-level abjuration*
 
@@ -2817,7 +2828,7 @@ While affected by this spell, the object is more difficult to break or
 force open; the DC to break it or pick any locks on it increases by 10.
 
 Arcane Sword
-^^^^^^^^^^^^
+------------
 
 *7th-level evocation*
 
@@ -2840,7 +2851,7 @@ each of your turns to move the sword up to 20 feet to a spot you can see
 and repeat this attack against the same target or a different one.
 
 Arcanist's Magic Aura
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 *2nd-level illusion*
 
@@ -2877,7 +2888,7 @@ spells and magical effects treat the target as if it were a creature of
 that type or of that alignment.
 
 Astral Projection
-^^^^^^^^^^^^^^^^^
+-----------------
 
 *9th-level necromancy*
 
@@ -2933,7 +2944,7 @@ their astral forms and must find their own way back to their bodies,
 usually by dropping to 0 hit points.
 
 Augury
-^^^^^^
+------
 
 *2nd-level divination (ritual)*
 
@@ -2969,7 +2980,7 @@ rest, there is a cumulative 25 percent chance for each casting after the
 first that you get a random reading. The GM makes this roll in secret.
 
 Awaken
-^^^^^^
+------
 
 *5th-level transmutation*
 
@@ -3001,7 +3012,7 @@ Spells (B)
 ==========
 
 Bane
-^^^^
+----
 
 *1st-level enchantment*
 
@@ -3024,7 +3035,7 @@ roll or saving throw.
 slot level above 1st.
 
 Banishment
-^^^^^^^^^^
+----------
 
 *4th-level abjuration*
 
@@ -3057,7 +3068,7 @@ if that space is occupied. Otherwise, the target doesn't return.
 slot level above 4th.
 
 Barkskin
-^^^^^^^^
+--------
 
 *2nd-level transmutation*
 
@@ -3074,7 +3085,7 @@ has a rough, bark-like appearance, and the target's AC can't be less
 than 16, regardless of what kind of armor it is wearing.
 
 Beacon of Hope
-^^^^^^^^^^^^^^
+--------------
 
 *3rd-level abjuration*
 
@@ -3092,7 +3103,7 @@ saving throws and death saving throws, and regains the maximum number of
 hit points possible from any healing.
 
 Bestow Curse
-^^^^^^^^^^^^
+------------
 
 *3rd-level necromancy*
 
@@ -3135,7 +3146,7 @@ Using a spell slot of 5th level or higher grants a duration that doesn't
 require concentration.
 
 Black Tentacles
-^^^^^^^^^^^^^^^
+---------------
 
 *4th-level conjuration*
 
@@ -3163,7 +3174,7 @@ Strength or Dexterity check (its choice) against your spell save DC. On
 a success, it frees itself.
 
 Blade Barrier
-^^^^^^^^^^^^^
+-------------
 
 *6th-level evocation*
 
@@ -3188,7 +3199,7 @@ On a failed save, the creature takes 6d10 slashing damage. On a
 successful save, the creature takes half as much damage.
 
 Bless
-^^^^^
+-----
 
 *1st-level enchantment*
 
@@ -3210,7 +3221,7 @@ saving throw.
 slot level above 1st.
 
 Blight
-^^^^^^
+------
 
 *4th-level necromancy*
 
@@ -3239,7 +3250,7 @@ or shrub, it doesn't make a saving throw; it simply withers and dies.
 above 4th.
 
 Blindness/Deafness
-^^^^^^^^^^^^^^^^^^
+------------------
 
 *2nd-level necromancy*
 
@@ -3262,7 +3273,7 @@ throw. On a success, the spell ends.
 slot level above 2nd.
 
 Blink
-^^^^^
+-----
 
 *3rd-level transmutation*
 
@@ -3293,7 +3304,7 @@ there can't perceive you or interact with you, unless they have the
 ability to do so.
 
 Blur
-^^^^
+----
 
 *2nd-level illusion*
 
@@ -3311,7 +3322,7 @@ you. An attacker is immune to this effect if it doesn't rely on sight,
 as with blindsight, or can see through illusions, as with truesight.
 
 Burning Hands
-^^^^^^^^^^^^^
+-------------
 
 *1st-level evocation*
 
@@ -3340,7 +3351,7 @@ Spells (C)
 ==========
 
 Call Lightning
-^^^^^^^^^^^^^^
+--------------
 
 *3rd-level conjuration*
 
@@ -3375,7 +3386,7 @@ new one. Under such conditions, the spell's damage increases by 1d10.
 above 3rd.
 
 Calm Emotions
-^^^^^^^^^^^^^
+-------------
 
 *2nd-level enchantment*
 
@@ -3404,7 +3415,7 @@ being harmed. When the spell ends, the creature becomes hostile again,
 unless the GM rules otherwise.
 
 Chain Lightning
-^^^^^^^^^^^^^^^
+---------------
 
 *6th-level evocation*
 
@@ -3432,7 +3443,7 @@ successful one.
 another target for each slot level above 6th.
 
 Charm Person
-^^^^^^^^^^^^
+------------
 
 *1st-level enchantment*
 
@@ -3458,7 +3469,7 @@ slot level above 1st. The creatures must be within 30 feet of each other
 when you target them.
 
 Chill Touch
-^^^^^^^^^^^
+-----------
 
 *Necromancy cantrip*
 
@@ -3483,7 +3494,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8),
 11th level (3d8), and 17th level (4d8).
 
 Circle of Death
-^^^^^^^^^^^^^^^
+---------------
 
 *6th-level necromancy*
 
@@ -3506,7 +3517,7 @@ failed save, or half as much damage on a successful one.
 above 6th.
 
 Clairvoyance
-^^^^^^^^^^^^
+------------
 
 *3rd-level divination*
 
@@ -3534,7 +3545,7 @@ A creature that can see the sensor (such as a creature benefiting from
 the size of your fist.
 
 Clone
-^^^^^
+-----
 
 *8th-level necromancy*
 
@@ -3568,7 +3579,7 @@ exist, become inert and can't thereafter be restored to life, since the
 creature's soul is elsewhere.
 
 Cloudkill
-^^^^^^^^^
+---------
 
 *5th-level conjuration*
 
@@ -3600,7 +3611,7 @@ air, sink to the lowest level of the land, even pouring down openings.
 above 5th.
 
 Color Spray
-^^^^^^^^^^^
+-----------
 
 *1st-level illusion*
 
@@ -3631,7 +3642,7 @@ creature to be affected.
 1st.
 
 Command
-^^^^^^^
+-------
 
 *1st-level enchantment*
 
@@ -3677,7 +3688,7 @@ slot level above 1st. The creatures must be within 30 feet of each other
 when you target them.
 
 Commune
-^^^^^^^
+-------
 
 *5th-level divination (ritual)*
 
@@ -3704,7 +3715,7 @@ rest, there is a cumulative 25 percent chance for each casting after the
 first that you get no answer. The GM makes this roll in secret.
 
 Commune with Nature
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 *5th-level divination (ritual)*
 
@@ -3740,7 +3751,7 @@ area, the location of major sources of safe drinking water, and the
 location of any nearby towns.
 
 Comprehend Languages
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 *1st-level divination (ritual)*
 
@@ -3761,7 +3772,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as
 an arcane sigil, that isn't part of a written language.
 
 Cone of Cold
-^^^^^^^^^^^^
+------------
 
 *5th-level evocation*
 
@@ -3784,7 +3795,7 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 above 5th.
 
 Confusion
-^^^^^^^^^
+---------
 
 *4th-level enchantment*
 
@@ -3833,7 +3844,7 @@ saving throw. If it succeeds, this effect ends for that target.
 each slot level above 4th.
 
 Conjure Animals
-^^^^^^^^^^^^^^^
+---------------
 
 *3rd-level conjuration*
 
@@ -3875,7 +3886,7 @@ times as many with a 7th-level slot, and four times as many with a
 9th-level slot.
 
 Conjure Celestial
-^^^^^^^^^^^^^^^^^
+-----------------
 
 *7th-level conjuration*
 
@@ -3904,7 +3915,7 @@ The GM has the celestial's statistics.
 slot, you summon a celestial of challenge rating 5 or lower.
 
 Conjure Elemental
-^^^^^^^^^^^^^^^^^
+-----------------
 
 *5th-level conjuration*
 
@@ -3944,7 +3955,7 @@ The GM has the elemental's statistics.
 level above 5th.
 
 Conjure Fey
-^^^^^^^^^^^
+-----------
 
 *6th-level conjuration*
 
@@ -3982,7 +3993,7 @@ The GM has the fey creature's statistics.
 level above 6th.
 
 Conjure Minor Elementals
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 *4th-level conjuration*
 
@@ -4022,7 +4033,7 @@ and more creatures appear: twice as many with a 6th-level slot and three
 times as many with an 8th-level slot.
 
 Conjure Woodland Beings
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 *4th-level conjuration*
 
@@ -4062,7 +4073,7 @@ and more creatures appear: twice as many with a 6th-level slot and three
 times as many with an 8th-level slot.
 
 Contact Other Plane
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 *5th-level divination (ritual)*
 
@@ -4091,7 +4102,7 @@ question). If a one-word answer would be misleading, the GM might
 instead offer a short phrase as an answer.
 
 Contagion
-^^^^^^^^^
+---------
 
 *5th-level necromancy*
 
@@ -4143,7 +4154,7 @@ throws. In addition, whenever the creature takes damage, it is stunned
 until the end of its next turn.
 
 Contingency
-^^^^^^^^^^^
+-----------
 
 *6th-level evocation*
 
@@ -4177,7 +4188,7 @@ you ends. Also, *contingency* ends on you if its material component is
 ever not on your person.
 
 Continual Flame
-^^^^^^^^^^^^^^^
+---------------
 
 *2nd-level evocation*
 
@@ -4196,7 +4207,7 @@ creates no heat and doesn't use oxygen. A *continual flame* can be
 covered or hidden but not smothered or quenched.
 
 Control Water
-^^^^^^^^^^^^^
+-------------
 
 *4th-level transmutation*
 
@@ -4263,7 +4274,7 @@ takes 2d8 bludgeoning damage; this damage occurs each round it remains
 in the vortex.
 
 Control Weather
-^^^^^^^^^^^^^^^
+---------------
 
 *8th-level transmutation*
 
@@ -4342,7 +4353,7 @@ the wind, you can change its direction.
 +-------------+-----------------+
 
 Create Food and Water
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 *3rd-level conjuration*
 
@@ -4360,7 +4371,7 @@ five steeds for 24 hours. The food is bland but nourishing, and spoils
 if uneaten after 24 hours. The water is clean and doesn't go bad.
 
 Create or Destroy Water
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 *1st-level transmutation*
 
@@ -4389,7 +4400,7 @@ water, or the size of the cube increases by 5 feet, for each slot level
 above 1st.
 
 Create Undead
-^^^^^^^^^^^^^
+-------------
 
 *6th-level necromancy*
 
@@ -4432,7 +4443,7 @@ this spell using a 9th-level spell slot, you can animate or reassert
 control over six ghouls, three ghasts or wights, or two mummies.
 
 Creation
-^^^^^^^^
+--------
 
 *5th-level illusion*
 
@@ -4477,7 +4488,7 @@ component causes that spell to fail.
 above 5th.
 
 Cure Wounds
-^^^^^^^^^^^
+-----------
 
 *1st-level evocation*
 
@@ -4501,7 +4512,7 @@ Spells (D)
 ==========
 
 Dancing Lights
-^^^^^^^^^^^^^^
+--------------
 
 *Evocation cantrip*
 
@@ -4525,7 +4536,7 @@ created by this spell, and a light winks out if it exceeds the spell's
 range.
 
 Darkness
-^^^^^^^^
+--------
 
 *2nd-level evocation*
 
@@ -4552,7 +4563,7 @@ spell of 2nd level or lower, the spell that created the light is
 dispelled.
 
 Darkvision
-^^^^^^^^^^
+----------
 
 *2nd-level transmutation*
 
@@ -4569,7 +4580,7 @@ For the duration, that creature has darkvision out to a range of 60
 feet.
 
 Daylight
-^^^^^^^^
+--------
 
 *3rd-level evocation*
 
@@ -4595,7 +4606,7 @@ a spell of 3rd level or lower, the spell that created the darkness is
 dispelled.
 
 Death Ward
-^^^^^^^^^^
+----------
 
 *4th-level abjuration*
 
@@ -4618,7 +4629,7 @@ effect that would kill it instantaneously without dealing damage, that
 effect is instead negated against the target, and the spell ends.
 
 Delayed Blast Fireball
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 *7th-level evocation*
 
@@ -4658,7 +4669,7 @@ aren't being worn or carried.
 level above 7th.
 
 Demiplane
-^^^^^^^^^
+---------
 
 *8th-level conjuration*
 
@@ -4685,7 +4696,7 @@ of a demiplane created by a casting of this spell by another creature,
 you can have the shadowy door connect to its demiplane instead.
 
 Detect Evil and Good
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 *1st-level divination*
 
@@ -4708,7 +4719,7 @@ stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood
 or dirt.
 
 Detect Magic
-^^^^^^^^^^^^
+------------
 
 *1st-level divination (ritual)*
 
@@ -4730,7 +4741,7 @@ stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood
 or dirt.
 
 Detect Poison and Disease
-^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------
 
 *1st-level divination (ritual)*
 
@@ -4752,7 +4763,7 @@ stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood
 or dirt.
 
 Detect Thoughts
-^^^^^^^^^^^^^^^
+---------------
 
 *2nd-level divination*
 
@@ -4800,7 +4811,7 @@ thoughts for the rest of the duration as described above, even if you
 can't see it, but it must still be within range.
 
 Dimension Door
-^^^^^^^^^^^^^^
+--------------
 
 *4th-level conjuration*
 
@@ -4828,7 +4839,7 @@ creature, you and any creature traveling with you each take 4d6 force
 damage, and the spell fails to teleport you.
 
 Disguise Self
-^^^^^^^^^^^^^
+-------------
 
 *1st-level illusion*
 
@@ -4859,7 +4870,7 @@ inspect your appearance and must succeed on an Intelligence
 (Investigation) check against your spell save DC.
 
 Disintegrate
-^^^^^^^^^^^^
+------------
 
 *6th-level transmutation*
 
@@ -4894,7 +4905,7 @@ portion of it. A magic item is unaffected by this spell.
 above 6th.
 
 Dispel Evil and Good
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 *5th-level abjuration*
 
@@ -4928,7 +4939,7 @@ plane, undead are sent to the Shadowfell, and fey are sent to the
 Feywild.
 
 Dispel Magic
-^^^^^^^^^^^^
+------------
 
 *3rd-level abjuration*
 
@@ -4952,7 +4963,7 @@ target if the spell's level is equal to or less than the level of the
 spell slot you used.
 
 Divination
-^^^^^^^^^^
+----------
 
 *4th-level divination (ritual)*
 
@@ -4980,7 +4991,7 @@ rest, there is a cumulative 25 percent chance for each casting after the
 first that you get a random reading. The GM makes this roll in secret.
 
 Divine Favor
-^^^^^^^^^^^^
+------------
 
 *1st-level evocation*
 
@@ -4996,7 +5007,7 @@ Your prayer empowers you with divine radiance. Until the spell ends,
 your weapon attacks deal an extra 1d4 radiant damage on a hit.
 
 Divine Word
-^^^^^^^^^^^
+-----------
 
 *7th-level evocation*
 
@@ -5027,7 +5038,7 @@ current hit points:
    means short of a *wish* spell.
 
 Dominate Beast
-^^^^^^^^^^^^^^
+--------------
 
 *4th-level enchantment*
 
@@ -5069,7 +5080,7 @@ you use a spell slot of 7th level or higher, the duration is
 concentration, up to 8 hours.
 
 Dominate Monster
-^^^^^^^^^^^^^^^^
+----------------
 
 *8th-level enchantment*
 
@@ -5108,7 +5119,7 @@ against the spell. If the saving throw succeeds, the spell ends.
 slot, the duration is concentration, up to 8 hours.
 
 Dominate Person
-^^^^^^^^^^^^^^^
+---------------
 
 *5th-level enchantment*
 
@@ -5150,7 +5161,7 @@ you use a spell slot of 8th level or higher, the duration is
 concentration, up to 8 hours.
 
 Dream
-^^^^^
+-----
 
 *5th-level illusion*
 
@@ -5196,7 +5207,7 @@ Spells (E)
 ==========
 
 Earthquake
-^^^^^^^^^^
+----------
 
 *8th-level evocation*
 
@@ -5251,7 +5262,7 @@ nature of the rubble. On a successful save, the creature takes half as
 much damage and doesn't fall prone or become buried.
 
 Enhance Ability
-^^^^^^^^^^^^^^^
+---------------
 
 *2nd-level transmutation*
 
@@ -5289,7 +5300,7 @@ incapacitated.
 slot level above 2nd.
 
 Enlarge/Reduce
-^^^^^^^^^^^^^^
+--------------
 
 *2nd-level transmutation*
 
@@ -5330,7 +5341,7 @@ While these weapons are reduced, the target's attacks with them deal 1d4
 less damage (this can't reduce the damage below 1).
 
 Entangle
-^^^^^^^^
+--------
 
 *1st-level conjuration*
 
@@ -5355,7 +5366,7 @@ frees itself.
 When the spell ends, the conjured plants wilt away.
 
 Enthrall
-^^^^^^^^
+--------
 
 *2nd-level enchantment*
 
@@ -5378,7 +5389,7 @@ hear you. The spell ends if you are incapacitated or can no longer
 speak.
 
 Etherealness
-^^^^^^^^^^^^
+------------
 
 *7th-level transmutation*
 
@@ -5423,7 +5434,7 @@ Planes.
 within 10 feet of you when you cast the spell.
 
 Expeditious Retreat
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 *1st-level transmutation*
 
@@ -5440,7 +5451,7 @@ spell, and then as a bonus action on each of your turns until the spell
 ends, you can take the Dash action.
 
 Eyebite
-^^^^^^^
+-------
 
 *6th-level necromancy*
 
@@ -5478,7 +5489,7 @@ Spells (F)
 ==========
 
 Fabricate
-^^^^^^^^^
+---------
 
 *4th-level transmutation*
 
@@ -5509,7 +5520,7 @@ unless you have proficiency with the type of artisan's tools used to
 craft such objects.
 
 Faerie Fire
-^^^^^^^^^^^
+-----------
 
 *1st-level evocation*
 
@@ -5532,7 +5543,7 @@ the attacker can see it, and the affected creature or object can't
 benefit from being invisible.
 
 Faithful Hound
-^^^^^^^^^^^^^^
+--------------
 
 *4th-level conjuration*
 
@@ -5561,7 +5572,7 @@ bonus is equal to your spellcasting ability modifier + your proficiency
 bonus. On a hit, it deals 4d8 piercing damage.
 
 False Life
-^^^^^^^^^^
+----------
 
 *1st-level necromancy*
 
@@ -5581,7 +5592,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 +
 slot level above 1st.
 
 Fear
-^^^^
+----
 
 *3rd-level illusion*
 
@@ -5605,7 +5616,7 @@ make a Wisdom saving throw. On a successful save, the spell ends for
 that creature.
 
 Feather Fall
-^^^^^^^^^^^^
+------------
 
 *1st-level transmutation*
 
@@ -5624,7 +5635,7 @@ creature lands before the spell ends, it takes no falling damage and can
 land on its feet, and the spell ends for that creature.
 
 Feeblemind
-^^^^^^^^^^
+----------
 
 *8th-level enchantment*
 
@@ -5652,7 +5663,7 @@ against this spell. If it succeeds on its saving throw, the spell ends.
 The spell can also be ended by *greater restoration*, *heal*, or *wish*.
 
 Find Steed
-^^^^^^^^^^
+----------
 
 *2nd-level conjuration*
 
@@ -5693,7 +5704,7 @@ action, you can release the steed from its bond at any time, causing it
 to disappear.
 
 Find the Path
-^^^^^^^^^^^^^
+-------------
 
 *6th-level divination*
 
@@ -5722,7 +5733,7 @@ shortest and most direct route (but not necessarily the safest route) to
 the destination.
 
 Find Traps
-^^^^^^^^^^
+----------
 
 *2nd-level divination*
 
@@ -5749,7 +5760,7 @@ You don't learn the location of each trap, but you do learn the general
 nature of the danger posed by a trap you sense.
 
 Finger of Death
-^^^^^^^^^^^^^^^
+---------------
 
 *7th-level necromancy*
 
@@ -5771,7 +5782,7 @@ a zombie that is permanently under your command, following your verbal
 orders to the best of its ability.
 
 Fireball
-^^^^^^^^
+--------
 
 *3rd-level evocation*
 
@@ -5797,7 +5808,7 @@ area that aren't being worn or carried.
 above 3rd.
 
 Fire Shield
-^^^^^^^^^^^
+-----------
 
 *4th-level evocation*
 
@@ -5822,7 +5833,7 @@ melee attack, the shield erupts with flame. The attacker takes 2d8 fire
 damage from a warm shield, or 2d8 cold damage from a cold shield.
 
 Fire Storm
-^^^^^^^^^^
+----------
 
 *7th-level evocation*
 
@@ -5846,7 +5857,7 @@ aren't being worn or carried. If you choose, plant life in the area is
 unaffected by this spell.
 
 Flame Blade
-^^^^^^^^^^^
+-----------
 
 *2nd-level evocation*
 
@@ -5874,7 +5885,7 @@ for an additional 10 feet.
 levels above 2nd.
 
 Flame Strike
-^^^^^^^^^^^^
+------------
 
 *5th-level evocation*
 
@@ -5897,7 +5908,7 @@ failed save, or half as much damage on a successful one.
 increases by 1d6 for each slot level above 5th.
 
 Flaming Sphere
-^^^^^^^^^^^^^^
+--------------
 
 *2nd-level conjuration*
 
@@ -5930,7 +5941,7 @@ in a 20-foot radius and dim light for an additional 20 feet.
 above 2nd.
 
 Flesh to Stone
-^^^^^^^^^^^^^^
+--------------
 
 *6th-level transmutation*
 
@@ -5963,7 +5974,7 @@ If you maintain your concentration on this spell for the entire possible
 duration, the creature is turned to stone until the effect is removed.
 
 Floating Disk
-^^^^^^^^^^^^^
+-------------
 
 *1st-level conjuration (ritual)*
 
@@ -5993,7 +6004,7 @@ If you move more than 100 feet from the disk (typically because it can't
 move around an obstacle to follow you), the spell ends.
 
 Fly
-^^^
+---
 
 *3rd-level transmutation*
 
@@ -6014,7 +6025,7 @@ aloft, unless it can stop the fall.
 slot level above 3rd.
 
 Fog Cloud
-^^^^^^^^^
+---------
 
 *1st-level conjuration*
 
@@ -6036,7 +6047,7 @@ greater speed (at least 10 miles per hour) disperses it.
 slot level above 1st.
 
 Forbiddance
-^^^^^^^^^^^
+-----------
 
 *6th-level abjuration (ritual)*
 
@@ -6074,7 +6085,7 @@ location, the spell lasts until it is dispelled, and the material
 components are consumed on the last casting.
 
 Forcecage
-^^^^^^^^^
+---------
 
 *7th-level evocation*
 
@@ -6112,7 +6123,7 @@ also extends into the Ethereal Plane, blocking ethereal travel.
 This spell can't be dispelled by *dispel magic*.
 
 Foresight
-^^^^^^^^^
+---------
 
 *9th-level divination*
 
@@ -6134,7 +6145,7 @@ This spell immediately ends if you cast it again before its duration
 ends.
 
 Freedom of Movement
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 *4th-level abjuration*
 
@@ -6158,7 +6169,7 @@ grappled. Finally, being underwater imposes no penalties on the target's
 movement or attacks.
 
 Freezing Sphere
-^^^^^^^^^^^^^^^
+---------------
 
 *6th-level evocation*
 
@@ -6200,7 +6211,7 @@ Spells (G)
 ==========
 
 Gaseous Form
-^^^^^^^^^^^^
+------------
 
 *3rd-level transmutation*
 
@@ -6232,7 +6243,7 @@ used, or otherwise interacted with. The target can't attack or cast
 spells.
 
 Gate
-^^^^
+----
 
 *9th-level conjuration*
 
@@ -6267,7 +6278,7 @@ power over the creature, and it is free to act as the GM deems
 appropriate. It might leave, attack you, or help you.
 
 Geas
-^^^^
+----
 
 *5th-level enchantment*
 
@@ -6301,7 +6312,7 @@ a spell slot of 9th level, the spell lasts until it is ended by one of
 the spells mentioned above.
 
 Gentle Repose
-^^^^^^^^^^^^^
+-------------
 
 *2nd-level necromancy (ritual)*
 
@@ -6322,7 +6333,7 @@ from the dead, since days spent under the influence of this spell don't
 count against the time limit of spells such as *raise dead*.
 
 Giant Insect
-^^^^^^^^^^^^
+------------
 
 *4th-level transmutation*
 
@@ -6352,7 +6363,7 @@ transform a bee, its giant version might have the same statistics as a
 giant wasp.
 
 Glibness
-^^^^^^^^
+--------
 
 *8th-level transmutation*
 
@@ -6370,7 +6381,7 @@ magic that would determine if you are telling the truth indicates that
 you are being truthful.
 
 Globe of Invulnerability
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 *6th-level abjuration*
 
@@ -6398,7 +6409,7 @@ spells.
 each slot level above 6th.
 
 Glyph of Warding
-^^^^^^^^^^^^^^^^
+----------------
 
 *3rd-level abjuration*
 
@@ -6466,7 +6477,7 @@ can store any spell of up to the same level as the slot you use for the
 *glyph of warding*.
 
 Grease
-^^^^^^
+------
 
 *1st-level conjuration*
 
@@ -6487,7 +6498,7 @@ area or ends its turn there must also succeed on a Dexterity saving
 throw or fall prone.
 
 Greater Invisibility
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 *4th-level illusion*
 
@@ -6504,7 +6515,7 @@ Anything the target is wearing or carrying is invisible as long as it is
 on the target's person.
 
 Greater Restoration
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 *5th-level abjuration*
 
@@ -6530,7 +6541,7 @@ one, or end one of the following effects on the target:
 -  One effect reducing the target's hit point maximum
 
 Guards and Wards
-^^^^^^^^^^^^^^^^
+----------------
 
 *6th-level abjuration*
 
@@ -6599,7 +6610,7 @@ You can create a permanently guarded and warded structure by casting
 this spell there every day for one year.
 
 Guidance
-^^^^^^^^
+--------
 
 *Divination cantrip*
 
@@ -6617,7 +6628,7 @@ choice. It can roll the die before or after making the ability check.
 The spell then ends.
 
 Guiding Bolt
-^^^^^^^^^^^^
+------------
 
 *1st-level evocation*
 
@@ -6640,7 +6651,7 @@ mystical dim light glittering on the target until then.
 above 1st.
 
 Gust of Wind
-^^^^^^^^^^^^
+------------
 
 *2nd-level evocation*
 
@@ -6672,7 +6683,7 @@ Spells (H)
 ==========
 
 Hallow
-^^^^^^
+------
 
 *5th-level evocation*
 
@@ -6740,7 +6751,7 @@ can reach into it.
 creature in the area, even if they don't share a common language.
 
 Hallucinatory Terrain
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 *4th-level illusion*
 
@@ -6768,7 +6779,7 @@ spell save DC to disbelieve it. A creature who discerns the illusion for
 what it is, sees it as a vague image superimposed on the terrain.
 
 Harm
-^^^^
+----
 
 *6th-level necromancy*
 
@@ -6790,7 +6801,7 @@ Any effect that removes a disease allows a creature's hit point maximum
 to return to normal before that time passes.
 
 Haste
-^^^^^
+-----
 
 *3rd-level transmutation*
 
@@ -6813,7 +6824,7 @@ When the spell ends, the target can't move or take actions until after
 its next turn, as a wave of lethargy sweeps over it.
 
 Heal
-^^^^
+----
 
 *6th-level evocation*
 
@@ -6835,7 +6846,7 @@ target. This spell has no effect on constructs or undead.
 level above 6th.
 
 Healing Word
-^^^^^^^^^^^^
+------------
 
 *1st-level evocation*
 
@@ -6856,7 +6867,7 @@ no effect on undead or constructs.
 above 1st.
 
 Heat Metal
-^^^^^^^^^^
+----------
 
 *2nd-level transmutation*
 
@@ -6885,7 +6896,7 @@ attack rolls and ability checks until the start of your next turn.
 above 2nd.
 
 Heroes' Feast
-^^^^^^^^^^^^^
+-------------
 
 *6th-level conjuration*
 
@@ -6910,7 +6921,7 @@ Its hit point maximum also increases by 2d10, and it gains the same
 number of hit points. These benefits last for 24 hours.
 
 Heroism
-^^^^^^^
+-------
 
 *1st-level enchantment*
 
@@ -6933,7 +6944,7 @@ temporary hit points from this spell.
 slot level above 1st.
 
 Hideous Laughter
-^^^^^^^^^^^^^^^^
+----------------
 
 *1st-level enchantment*
 
@@ -6959,7 +6970,7 @@ the saving throw if it's triggered by damage. On a success, the spell
 ends.
 
 Hold Monster
-^^^^^^^^^^^^
+------------
 
 *5th-level enchantment*
 
@@ -6983,7 +6994,7 @@ slot level above 5th. The creatures must be within 30 feet of each other
 when you target them.
 
 Hold Person
-^^^^^^^^^^^
+-----------
 
 *2nd-level enchantment*
 
@@ -7006,7 +7017,7 @@ slot level above 2nd. The humanoids must be within 30 feet of each other
 when you target them.
 
 Holy Aura
-^^^^^^^^^
+---------
 
 *8th-level abjuration*
 
@@ -7030,7 +7041,7 @@ with brilliant light. The attacker must succeed on a Constitution saving
 throw or be blinded until the spell ends.
 
 Hypnotic Pattern
-^^^^^^^^^^^^^^^^
+----------------
 
 *3rd-level illusion*
 
@@ -7057,7 +7068,7 @@ Spells (I)
 ==========
 
 Ice Storm
-^^^^^^^^^
+---------
 
 *4th-level evocation*
 
@@ -7083,7 +7094,7 @@ the end of your next turn.
 slot level above 4th.
 
 Identify
-^^^^^^^^
+--------
 
 *1st-level divination (ritual)*
 
@@ -7107,7 +7118,7 @@ If you instead touch a creature throughout the casting, you learn what
 spells, if any, are currently affecting it.
 
 Illusory Script
-^^^^^^^^^^^^^^^
+---------------
 
 *1st-level illusion (ritual)*
 
@@ -7137,7 +7148,7 @@ disappear.
 A creature with truesight can read the hidden message.
 
 Imprisonment
-^^^^^^^^^^^^
+------------
 
 *9th-level abjuration*
 
@@ -7217,7 +7228,7 @@ a time. If you cast the spell again using the same component, the target
 of the first casting is immediately freed from its binding.
 
 Incendiary Cloud
-^^^^^^^^^^^^^^^^
+----------------
 
 *8th-level conjuration*
 
@@ -7245,7 +7256,7 @@ The cloud moves 10 feet directly away from you in a direction that you
 choose at the start of each of your turns.
 
 Inflict Wounds
-^^^^^^^^^^^^^^
+--------------
 
 *1st-level necromancy*
 
@@ -7265,7 +7276,7 @@ the target takes 3d10 necrotic damage.
 above 1st.
 
 Insect Plague
-^^^^^^^^^^^^^
+-------------
 
 *5th-level conjuration*
 
@@ -7294,7 +7305,7 @@ turn or ends its turn there.
 above 5th.
 
 Instant Summons
-^^^^^^^^^^^^^^^
+---------------
 
 *6th-level conjuration (ritual)*
 
@@ -7325,7 +7336,7 @@ located at that moment.
 ends this spell's effect.
 
 Invisibility
-^^^^^^^^^^^^
+------------
 
 *2nd-level illusion*
 
@@ -7347,7 +7358,7 @@ spell.
 slot level above 2nd.
 
 Irresistible Dance
-^^^^^^^^^^^^^^^^^^
+------------------
 
 *6th-level enchantment*
 
@@ -7374,7 +7385,7 @@ Spells (J)
 ==========
 
 Jump
-^^^^
+----
 
 *1st-level transmutation*
 
@@ -7393,7 +7404,7 @@ Spells (K)
 ==========
 
 Knock
-^^^^^
+-----
 
 *2nd-level transmutation*
 
@@ -7424,7 +7435,7 @@ Spells (L)
 ==========
 
 Legend Lore
-^^^^^^^^^^^
+-----------
 
 *5th-level divination*
 
@@ -7454,7 +7465,7 @@ true powers of the axe, and only with the sacred word *Rudnogg* on the
 lips."
 
 Lesser Restoration
-^^^^^^^^^^^^^^^^^^
+------------------
 
 *2nd-level abjuration*
 
@@ -7471,7 +7482,7 @@ afflicting it. The condition can be blinded, deafened, paralyzed, or
 poisoned.
 
 Levitate
-^^^^^^^^
+--------
 
 *2nd-level transmutation*
 
@@ -7501,7 +7512,7 @@ When the spell ends, the target floats gently to the ground if it is
 still aloft.
 
 Light
-^^^^^
+-----
 
 *Evocation cantrip*
 
@@ -7523,7 +7534,7 @@ If you target an object held or worn by a hostile creature, that
 creature must succeed on a Dexterity saving throw to avoid the spell.
 
 Lightning Bolt
-^^^^^^^^^^^^^^
+--------------
 
 *3rd-level evocation*
 
@@ -7549,7 +7560,7 @@ worn or carried.
 above 3rd.
 
 Locate Animals or Plants
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 *2nd-level divination (ritual)*
 
@@ -7567,7 +7578,7 @@ distance to the closest creature or plant of that kind within 5 miles,
 if any are present.
 
 Locate Creature
-^^^^^^^^^^^^^^^
+---------------
 
 *4th-level divination*
 
@@ -7595,7 +7606,7 @@ This spell can't locate a creature if running water at least 10 feet
 wide blocks a direct path between you and the creature.
 
 Locate Object
-^^^^^^^^^^^^^
+-------------
 
 *2nd-level divination*
 
@@ -7621,7 +7632,7 @@ This spell can't locate an object if any thickness of lead, even a thin
 sheet, blocks a direct path between you and the object.
 
 Longstrider
-^^^^^^^^^^^
+-----------
 
 *1st-level transmutation*
 
@@ -7644,7 +7655,7 @@ Spells (M)
 ==========
 
 Mage Armor
-^^^^^^^^^^
+----------
 
 *1st-level abjuration*
 
@@ -7662,7 +7673,7 @@ becomes 13 + its Dexterity modifier. The spell ends if the target dons
 armor or if you dismiss the spell as an action.
 
 Mage Hand
-^^^^^^^^^
+---------
 
 *Conjuration cantrip*
 
@@ -7688,7 +7699,7 @@ The hand can't attack, activate magic items, or carry more than 10
 pounds.
 
 Magic Circle
-^^^^^^^^^^^^
+------------
 
 *3rd-level abjuration*
 
@@ -7729,7 +7740,7 @@ leaving the cylinder and protecting targets outside it.
 level above 3rd.
 
 Magic Jar
-^^^^^^^^^
+---------
 
 *6th-level necromancy*
 
@@ -7784,7 +7795,7 @@ feet. Otherwise, that creature dies.
 When the spell ends, the container is destroyed.
 
 Magic Missile
-^^^^^^^^^^^^^
+-------------
 
 *1st-level evocation*
 
@@ -7806,7 +7817,7 @@ you can direct them to hit one creature or several.
 above 1st.
 
 Magic Mouth
-^^^^^^^^^^^
+-----------
 
 *2nd-level illusion (ritual)*
 
@@ -7841,7 +7852,7 @@ to speak when any creature moves within 30 feet of the object or when a
 silver bell rings within 30 feet of it.
 
 Magic Weapon
-^^^^^^^^^^^^
+------------
 
 *2nd-level transmutation*
 
@@ -7861,7 +7872,7 @@ a magic weapon with a +1 bonus to attack rolls and damage rolls.
 slot of 6th level or higher, the bonus increases to +3.
 
 Magnificent Mansion
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 *7th-level conjuration*
 
@@ -7903,7 +7914,7 @@ inside the extradimensional space are expelled into the open spaces
 nearest to the entrance.
 
 Major Image
-^^^^^^^^^^^
+-----------
 
 *3rd-level illusion*
 
@@ -7944,7 +7955,7 @@ creature.
 your concentration.
 
 Mass Cure Wounds
-^^^^^^^^^^^^^^^^
+----------------
 
 *5th-level evocation*
 
@@ -7967,7 +7978,7 @@ constructs.
 above 5th.
 
 Mass Heal
-^^^^^^^^^
+---------
 
 *9th-level evocation*
 
@@ -7986,7 +7997,7 @@ this spell are also cured of all diseases and any effect making them
 blinded or deafened. This spell has no effect on undead or constructs.
 
 Mass Healing Word
-^^^^^^^^^^^^^^^^^
+-----------------
 
 *3rd-level evocation*
 
@@ -8008,7 +8019,7 @@ constructs.
 above 3rd.
 
 Mass Suggestion
-^^^^^^^^^^^^^^^
+---------------
 
 *6th-level enchantment*
 
@@ -8050,7 +8061,7 @@ duration is 30 days. When you use a 9th-level spell slot, the duration
 is a year and a day.
 
 Maze
-^^^^
+----
 
 *8th-level conjuration*
 
@@ -8074,7 +8085,7 @@ When the spell ends, the target reappears in the space it left or, if
 that space is occupied, in the nearest unoccupied space.
 
 Meld into Stone
-^^^^^^^^^^^^^^^
+---------------
 
 *3rd-level transmutation (ritual)*
 
@@ -8108,7 +8119,7 @@ expelled, you fall prone in an unoccupied space closest to where you
 first entered.
 
 Mending
-^^^^^^^
+-------
 
 *Transmutation cantrip*
 
@@ -8129,7 +8140,7 @@ This spell can physically repair a magic item or construct, but the
 spell can't restore magic to such an object.
 
 Message
-^^^^^^^
+-------
 
 *Transmutation cantrip*
 
@@ -8152,7 +8163,7 @@ blocks the spell. The spell doesn't have to follow a straight line and
 can travel freely around corners or through openings.
 
 Meteor Swarm
-^^^^^^^^^^^^
+------------
 
 *9th-level evocation*
 
@@ -8176,7 +8187,7 @@ The spell damages objects in the area and ignites flammable objects that
 aren't being worn or carried.
 
 Mind Blank
-^^^^^^^^^^
+----------
 
 *8th-level abjuration*
 
@@ -8195,7 +8206,7 @@ foils *wish* spells and spells or effects of similar power used to
 affect the target's mind or to gain information about the target.
 
 Minor Illusion
-^^^^^^^^^^^^^^
+--------------
 
 *Illusion cantrip*
 
@@ -8230,7 +8241,7 @@ creature discerns the illusion for what it is, the illusion becomes
 faint to the creature.
 
 Mirage Arcane
-^^^^^^^^^^^^^
+-------------
 
 *7th-level illusion*
 
@@ -8264,7 +8275,7 @@ the creature is aware of the illusion's presence, the creature can still
 physically interact with the illusion.
 
 Mirror Image
-^^^^^^^^^^^^
+------------
 
 *2nd-level illusion*
 
@@ -8299,7 +8310,7 @@ senses other than sight, such as blindsight, or if it can perceive
 illusions as false, as with truesight.
 
 Mislead
-^^^^^^^
+-------
 
 *5th-level illusion*
 
@@ -8325,7 +8336,7 @@ are using its senses, you are blinded and deafened in regard to your own
 surroundings.
 
 Misty Step
-^^^^^^^^^^
+----------
 
 *2nd-level conjuration*
 
@@ -8341,7 +8352,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an
 unoccupied space that you can see.
 
 Modify Memory
-^^^^^^^^^^^^^
+-------------
 
 *5th-level enchantment*
 
@@ -8392,7 +8403,7 @@ took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year
 ago (8th level), or any time in the creature's past (9th level).
 
 Moonbeam
-^^^^^^^^
+--------
 
 *2nd-level evocation*
 
@@ -8427,7 +8438,7 @@ to move the beam up to 60 feet in any direction.
 above 2nd.
 
 Move Earth
-^^^^^^^^^^
+----------
 
 *6th-level transmutation*
 
@@ -8467,7 +8478,7 @@ Spells (N)
 ==========
 
 Nondetection
-^^^^^^^^^^^^
+------------
 
 *3rd-level abjuration*
 
@@ -8492,7 +8503,7 @@ Spells (P)
 ==========
 
 Pass without Trace
-^^^^^^^^^^^^^^^^^^
+------------------
 
 *2nd-level abjuration*
 
@@ -8513,7 +8524,7 @@ creature that receives this bonus leaves behind no tracks or other
 traces of its passage.
 
 Passwall
-^^^^^^^^
+--------
 
 *5th-level transmutation*
 
@@ -8536,7 +8547,7 @@ passage created by the spell are safely ejected to an unoccupied space
 nearest to the surface on which you cast the spell.
 
 Phantasmal Killer
-^^^^^^^^^^^^^^^^^
+-----------------
 
 *4th-level illusion*
 
@@ -8561,7 +8572,7 @@ the spell ends.
 above 4th.
 
 Phantom Steed
-^^^^^^^^^^^^^
+-------------
 
 *3rd-level illusion (ritual)*
 
@@ -8587,7 +8598,7 @@ minute to dismount. The spell ends if you use an action to dismiss it or
 if the steed takes any damage.
 
 Planar Ally
-^^^^^^^^^^^
+-----------
 
 *6th-level conjuration*
 
@@ -8640,7 +8651,7 @@ A creature enlisted to join your group counts as a member of it,
 receiving a full share of experience points awarded.
 
 Planar Binding
-^^^^^^^^^^^^^^
+--------------
 
 *5th-level abjuration*
 
@@ -8679,7 +8690,7 @@ to 30 days with a 7th-level slot, to 180 days with an 8th-level slot,
 and to a year and a day with a 9th-level spell slot.
 
 Plane Shift
-^^^^^^^^^^^
+-----------
 
 *7th-level conjuration*
 
@@ -8715,7 +8726,7 @@ the plane of existence you specify. A creature so transported must find
 its own way back to your current plane of existence.
 
 Plant Growth
-^^^^^^^^^^^^
+------------
 
 *3rd-level transmutation*
 
@@ -8744,7 +8755,7 @@ a half-mile radius centered on a point within range become enriched for
 1 year. The plants yield twice the normal amount of food when harvested.
 
 Polymorph
-^^^^^^^^^
+---------
 
 *4th-level transmutation*
 
@@ -8783,7 +8794,7 @@ The target's gear melds into the new form. The creature can't activate,
 use, wield, or otherwise benefit from any of its equipment.
 
 Power Word Kill
-^^^^^^^^^^^^^^^
+---------------
 
 *9th-level enchantment*
 
@@ -8800,7 +8811,7 @@ within range to die instantly. If the creature you choose has 100 hit
 points or fewer, it dies. Otherwise, the spell has no effect.
 
 Power Word Stun
-^^^^^^^^^^^^^^^
+---------------
 
 *8th-level enchantment*
 
@@ -8820,7 +8831,7 @@ The stunned target must make a Constitution saving throw at the end of
 each of its turns. On a successful save, this stunning effect ends.
 
 Prayer of Healing
-^^^^^^^^^^^^^^^^^
+-----------------
 
 *2nd-level evocation*
 
@@ -8841,7 +8852,7 @@ This spell has no effect on undead or constructs.
 above 2nd.
 
 Prestidigitation
-^^^^^^^^^^^^^^^^
+----------------
 
 *Transmutation cantrip*
 
@@ -8881,7 +8892,7 @@ non-instantaneous effects active at a time, and you can dismiss such an
 effect as an action.
 
 Prismatic Spray
-^^^^^^^^^^^^^^^
+---------------
 
 *7th-level evocation*
 
@@ -8933,7 +8944,7 @@ a d8 to determine which color ray affects it.
    rerolling any 8.
 
 Prismatic Wall
-^^^^^^^^^^^^^^
+--------------
 
 *9th-level abjuration*
 
@@ -9019,7 +9030,7 @@ effect on it.
    higher level that can end spells and magical effects.
 
 Private Sanctum
-^^^^^^^^^^^^^^^
+---------------
 
 *4th-level abjuration*
 
@@ -9060,7 +9071,7 @@ for each slot level beyond 4th. Thus you could protect a cube that can
 be up to 200 feet on one side by using a spell slot of 5th level.
 
 Produce Flame
-^^^^^^^^^^^^^
+-------------
 
 *Conjuration cantrip*
 
@@ -9087,7 +9098,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8),
 11th level (3d8), and 17th level (4d8).
 
 Programmed Illusion
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 *6th-level illusion*
 
@@ -9127,7 +9138,7 @@ creature discerns the illusion for what it is, the creature can see
 through the image, and any noise it makes sounds hollow to the creature.
 
 Project Image
-^^^^^^^^^^^^^
+-------------
 
 *7th-level illusion*
 
@@ -9165,7 +9176,7 @@ it is, the creature can see through the image, and any noise it makes
 sounds hollow to the creature.
 
 Protection from Energy
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 *3rd-level abjuration*
 
@@ -9181,7 +9192,7 @@ For the duration, the willing creature you touch has resistance to one
 damage type of your choice: acid, cold, fire, lightning, or thunder.
 
 Protection from Evil and Good
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------
 
 *1st-level abjuration*
 
@@ -9205,7 +9216,7 @@ charmed, frightened, or possessed by such a creature, the target has
 advantage on any new saving throw against the relevant effect.
 
 Protection from Poison
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 *2nd-level abjuration*
 
@@ -9225,7 +9236,7 @@ For the duration, the target has advantage on saving throws against
 being poisoned, and it has resistance to poison damage.
 
 Purify Food and Drink
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 *1st-level transmutation (ritual)*
 
@@ -9248,7 +9259,7 @@ Spells (R)
 ==========
 
 Raise Dead
-^^^^^^^^^^
+----------
 
 *5th-level necromancy*
 
@@ -9283,7 +9294,7 @@ target finishes a long rest, the penalty is reduced by 1 until it
 disappears.
 
 Ray of Enfeeblement
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 *2nd-level necromancy*
 
@@ -9304,7 +9315,7 @@ At the end of each of the target's turns, it can make a Constitution
 saving throw against the spell. On a success, the spell ends.
 
 Ray of Frost
-^^^^^^^^^^^^
+------------
 
 *Evocation cantrip*
 
@@ -9325,7 +9336,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th
 level (3d8), and 17th level (4d8).
 
 Regenerate
-^^^^^^^^^^
+----------
 
 *7th-level transmutation*
 
@@ -9348,7 +9359,7 @@ it to the stump, the spell instantaneously causes the limb to knit to
 the stump.
 
 Reincarnate
-^^^^^^^^^^^
+-----------
 
 *5th-level transmutation*
 
@@ -9410,7 +9421,7 @@ exchanges its original race for the new one and changes its racial
 traits accordingly.
 
 Remove Curse
-^^^^^^^^^^^^
+------------
 
 *3rd-level abjuration*
 
@@ -9427,7 +9438,7 @@ object is a cursed magic item, its curse remains, but the spell breaks
 its owner's attunement to the object so it can be removed or discarded.
 
 Resilient Sphere
-^^^^^^^^^^^^^^^^
+----------------
 
 *4th-level evocation*
 
@@ -9462,7 +9473,7 @@ A *disintegrate* spell targeting the globe destroys it without harming
 anything inside it.
 
 Resistance
-^^^^^^^^^^
+----------
 
 *Abjuration cantrip*
 
@@ -9480,7 +9491,7 @@ choice. It can roll the die before or after making the saving throw. The
 spell then ends.
 
 Resurrection
-^^^^^^^^^^^^
+------------
 
 *7th-level necromancy*
 
@@ -9515,7 +9526,7 @@ can't cast spells again, and you have disadvantage on all attack rolls,
 ability checks, and saving throws.
 
 Reverse Gravity
-^^^^^^^^^^^^^^^
+---------------
 
 *7th-level transmutation*
 
@@ -9544,7 +9555,7 @@ At the end of the duration, affected objects and creatures fall back
 down.
 
 Revivify
-^^^^^^^^
+--------
 
 *3rd-level necromancy*
 
@@ -9563,7 +9574,7 @@ creature that has died of old age, nor can it restore any missing body
 parts.
 
 Rope Trick
-^^^^^^^^^^
+----------
 
 *2nd-level transmutation*
 
@@ -9597,7 +9608,7 @@ Spells (S)
 ==========
 
 Sacred Flame
-^^^^^^^^^^^^
+------------
 
 *Evocation cantrip*
 
@@ -9618,7 +9629,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th
 level (3d8), and 17th level (4d8).
 
 Sanctuary
-^^^^^^^^^
+---------
 
 *1st-level abjuration*
 
@@ -9641,7 +9652,7 @@ If the warded creature makes an attack, casts a spell that affects an
 enemy, or deals damage to another creature, this spell ends.
 
 Scorching Ray
-^^^^^^^^^^^^^
+-------------
 
 *2nd-level evocation*
 
@@ -9664,7 +9675,7 @@ fire damage.
 above 2nd.
 
 Scrying
-^^^^^^^
+-------
 
 *5th-level divination*
 
@@ -9716,7 +9727,7 @@ before as the target of this spell. When you do, the sensor appears at
 that location and doesn't move.
 
 Secret Chest
-^^^^^^^^^^^^
+------------
 
 *4th-level conjuration*
 
@@ -9748,7 +9759,7 @@ spell as an action. If the spell ends and the larger chest is on the
 Ethereal Plane, it is irretrievably lost.
 
 See Invisibility
-^^^^^^^^^^^^^^^^
+----------------
 
 *2nd-level divination*
 
@@ -9766,7 +9777,7 @@ were visible, and you can see into the Ethereal Plane. Ethereal
 creatures and objects appear ghostly and translucent.
 
 Seeming
-^^^^^^^
+-------
 
 *5th-level illusion*
 
@@ -9804,7 +9815,7 @@ Intelligence (Investigation) check against your spell save DC. If it
 succeeds, it becomes aware that the target is disguised.
 
 Sending
-^^^^^^^
+-------
 
 *3rd-level evocation*
 
@@ -9827,7 +9838,7 @@ existence, but if the target is on a different plane than you, there is
 a 5 percent chance that the message doesn't arrive.
 
 Sequester
-^^^^^^^^^
+---------
 
 *7th-level transmutation*
 
@@ -9855,7 +9866,7 @@ the target. Examples include "after 1,000 years" or "when the tarrasque
 awakens." This spell also ends if the target takes any damage.
 
 Shapechange
-^^^^^^^^^^^
+-----------
 
 *9th-level transmutation*
 
@@ -9912,7 +9923,7 @@ original form, with one exception: if your new form has more hit points
 than your current one, your hit points remain at their current value.
 
 Shatter
-^^^^^^^
+-------
 
 *2nd-level evocation*
 
@@ -9939,7 +9950,7 @@ damage if it's in the spell's area.
 above 2nd.
 
 Shield
-^^^^^^
+------
 
 *1st-level abjuration*
 
@@ -9958,7 +9969,7 @@ against the triggering attack, and you take no damage from *magic
 missile*.
 
 Shield of Faith
-^^^^^^^^^^^^^^^
+---------------
 
 *1st-level abjuration*
 
@@ -9975,7 +9986,7 @@ A shimmering field appears and surrounds a creature of your choice
 within range, granting it a +2 bonus to AC for the duration.
 
 Shillelagh
-^^^^^^^^^^
+----------
 
 *Transmutation cantrip*
 
@@ -9996,7 +10007,7 @@ also becomes magical, if it isn't already. The spell ends if you cast it
 again or if you let go of the weapon.
 
 Shocking Grasp
-^^^^^^^^^^^^^^
+--------------
 
 *Evocation cantrip*
 
@@ -10018,7 +10029,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th
 level (3d8), and 17th level (4d8).
 
 Silence
-^^^^^^^
+-------
 
 *2nd-level illusion (ritual)*
 
@@ -10037,7 +10048,7 @@ damage, and creatures are deafened while entirely inside it. Casting a
 spell that includes a verbal component is impossible there.
 
 Silent Image
-^^^^^^^^^^^^
+------------
 
 *1st-level illusion*
 
@@ -10068,7 +10079,7 @@ creature discerns the illusion for what it is, the creature can see
 through the image.
 
 Simulacrum
-^^^^^^^^^^
+----------
 
 *7th-level illusion*
 
@@ -10108,7 +10119,7 @@ If you cast this spell again, any currently active duplicates you
 created with this spell are instantly destroyed.
 
 Sleep
-^^^^^
+-----
 
 *1st-level enchantment*
 
@@ -10143,7 +10154,7 @@ spell.
 1st.
 
 Sleet Storm
-^^^^^^^^^^^
+-----------
 
 *3rd-level conjuration*
 
@@ -10170,7 +10181,7 @@ on a spell, the creature must make a successful Constitution saving
 throw against your spell save DC or lose concentration.
 
 Slow
-^^^^
+----
 
 *3rd-level transmutation*
 
@@ -10202,7 +10213,7 @@ the end of each of its turns. On a successful save, the effect ends for
 it.
 
 Speak with Animals
-^^^^^^^^^^^^^^^^^^
+------------------
 
 *1st-level divination (ritual)*
 
@@ -10223,7 +10234,7 @@ persuade a beast to perform a small favor for you, at the GM's
 discretion.
 
 Speak with Dead
-^^^^^^^^^^^^^^^
+---------------
 
 *3rd-level necromancy*
 
@@ -10250,7 +10261,7 @@ can't learn new information, doesn't comprehend anything that has
 happened since it died, and can't speculate about future events.
 
 Speak with Plants
-^^^^^^^^^^^^^^^^^
+-----------------
 
 *3rd-level transmutation*
 
@@ -10286,7 +10297,7 @@ This spell can cause the plants created by the *entangle* spell to
 release a restrained creature.
 
 Spider Climb
-^^^^^^^^^^^^
+------------
 
 *2nd-level transmutation*
 
@@ -10304,7 +10315,7 @@ ceilings, while leaving its hands free. The target also gains a climbing
 speed equal to its walking speed.
 
 Spike Growth
-^^^^^^^^^^^^
+------------
 
 *2nd-level transmutation*
 
@@ -10328,7 +10339,7 @@ a Wisdom (Perception) check against your spell save DC to recognize the
 terrain as hazardous before entering it.
 
 Spirit Guardians
-^^^^^^^^^^^^^^^^
+----------------
 
 *3rd-level conjuration*
 
@@ -10358,7 +10369,7 @@ the creature takes half as much damage.
 above 3rd.
 
 Spiritual Weapon
-^^^^^^^^^^^^^^^^
+----------------
 
 *2nd-level evocation*
 
@@ -10389,7 +10400,7 @@ weapon.
 levels above 2nd.
 
 Stinking Cloud
-^^^^^^^^^^^^^^
+--------------
 
 *3rd-level conjuration*
 
@@ -10416,7 +10427,7 @@ rounds. A strong wind (at least 20 miles per hour) disperses it after 1
 round.
 
 Stone Shape
-^^^^^^^^^^^
+-----------
 
 *4th-level transmutation*
 
@@ -10438,7 +10449,7 @@ or its frame to seal the door shut. The object you create can have up to
 two hinges and a latch, but finer mechanical detail isn't possible.
 
 Stoneskin
-^^^^^^^^^
+---------
 
 *4th-level abjuration*
 
@@ -10456,7 +10467,7 @@ stone. Until the spell ends, the target has resistance to nonmagical
 bludgeoning, piercing, and slashing damage.
 
 Storm of Vengeance
-^^^^^^^^^^^^^^^^^^
+------------------
 
 *9th-level conjuration*
 
@@ -10501,7 +10512,7 @@ disperse fog, mists, and similar phenomena in the area, whether mundane
 or magical.
 
 Suggestion
-^^^^^^^^^^
+----------
 
 *2nd-level enchantment*
 
@@ -10536,7 +10547,7 @@ before the spell expires, the activity isn't performed.
 If you or any of your companions damage the target, the spell ends.
 
 Sunbeam
-^^^^^^^
+-------
 
 *6th-level evocation*
 
@@ -10563,7 +10574,7 @@ sheds bright light in a 30-foot radius and dim light for an additional
 30 feet. This light is sunlight.
 
 Sunburst
-^^^^^^^^
+--------
 
 *8th-level evocation*
 
@@ -10589,7 +10600,7 @@ blinded.
 This spell dispels any darkness in its area that was created by a spell.
 
 Symbol
-^^^^^^
+------
 
 *7th-level abjuration*
 
@@ -10676,7 +10687,7 @@ Spells (T)
 ==========
 
 Telekinesis
-^^^^^^^^^^^
+-----------
 
 *5th-level transmutation*
 
@@ -10722,7 +10733,7 @@ retrieving an item from an open container, or pouring the contents from
 a vial.
 
 Telepathic Bond
-^^^^^^^^^^^^^^^
+---------------
 
 *5th-level divination (ritual)*
 
@@ -10746,7 +10757,7 @@ is possible over any distance, though it can't extend to other planes of
 existence.
 
 Teleport
-^^^^^^^^
+--------
 
 *7th-level conjuration*
 
@@ -10833,7 +10844,7 @@ force damage, and the GM rerolls on the table to see where you wind up
 (multiple mishaps can occur, dealing damage each time).
 
 Teleportation Circle
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 *5th-level conjuration*
 
@@ -10869,7 +10880,7 @@ the same location every day for one year. You need not use the circle to
 teleport when you cast the spell in this way.
 
 Thaumaturgy
-^^^^^^^^^^^
+-----------
 
 *Transmutation cantrip*
 
@@ -10904,7 +10915,7 @@ You create one of the following magical effects within **range:**
    action.
 
 Thunderwave
-^^^^^^^^^^^
+-----------
 
 *1st-level evocation*
 
@@ -10931,7 +10942,7 @@ effect, and the spell emits a thunderous boom audible out to 300 feet.
 above 1st.
 
 Time Stop
-^^^^^^^^^
+---------
 
 *9th-level transmutation*
 
@@ -10954,7 +10965,7 @@ In addition, the spell ends if you move to a place more than 1,000 feet
 from the location where you cast it.
 
 Tiny Hut
-^^^^^^^^
+--------
 
 *3rd-level evocation (ritual)*
 
@@ -10983,7 +10994,7 @@ or dark. The dome is opaque from the outside, of any color you choose,
 but it is transparent from the inside.
 
 Tongues
-^^^^^^^
+-------
 
 *3rd-level divination*
 
@@ -11001,7 +11012,7 @@ that knows at least one language and can hear the target understands
 what it says.
 
 Transport via Plants
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 *6th-level conjuration*
 
@@ -11021,7 +11032,7 @@ target plant and exit from the destination plant by using 5 feet of
 movement.
 
 Tree Stride
-^^^^^^^^^^^
+-----------
 
 *5th-level conjuration*
 
@@ -11047,7 +11058,7 @@ You can use this transportation ability once per round for the duration.
 You must end each turn outside a tree.
 
 True Polymorph
-^^^^^^^^^^^^^^
+--------------
 
 *9th-level transmutation*
 
@@ -11112,7 +11123,7 @@ creature has no memory of time spent in this form, after the spell ends
 and it returns to its normal form.
 
 True Resurrection
-^^^^^^^^^^^^^^^^^
+-----------------
 
 *9th-level necromancy*
 
@@ -11139,7 +11150,7 @@ in which case you must speak the creature's name. The creature then
 appears in an unoccupied space you choose within 10 feet of you.
 
 True Seeing
-^^^^^^^^^^^
+-----------
 
 *6th-level divination*
 
@@ -11159,7 +11170,7 @@ truesight, notices secret doors hidden by magic, and can see into the
 Ethereal Plane, all out to a range of 120 feet.
 
 True Strike
-^^^^^^^^^^^
+-----------
 
 *Divination cantrip*
 
@@ -11180,7 +11191,7 @@ Spells (U)
 ==========
 
 Unseen Servant
-^^^^^^^^^^^^^^
+--------------
 
 *1st-level conjuration (ritual)*
 
@@ -11213,7 +11224,7 @@ Spells (V)
 ==========
 
 Vampiric Touch
-^^^^^^^^^^^^^^
+--------------
 
 *3rd-level necromancy*
 
@@ -11240,7 +11251,7 @@ Spells (W)
 ==========
 
 Wall of Fire
-^^^^^^^^^^^^
+------------
 
 *4th-level evocation*
 
@@ -11272,7 +11283,7 @@ other side of the wall deals no damage.
 above 4th.
 
 Wall of Force
-^^^^^^^^^^^^^
+-------------
 
 *5th-level evocation*
 
@@ -11302,7 +11313,7 @@ destroys the wall instantly, however. The wall also extends into the
 Ethereal Plane, blocking ethereal travel through the wall.
 
 Wall of Ice
-^^^^^^^^^^^
+-----------
 
 *6th-level evocation*
 
@@ -11340,7 +11351,7 @@ by 2d6, and the damage from passing through the sheet of frigid air
 increases by 1d6, for each slot level above 6th.
 
 Wall of Stone
-^^^^^^^^^^^^^
+-------------
 
 *5th-level evocation*
 
@@ -11385,7 +11396,7 @@ the wall becomes permanent and can't be dispelled. Otherwise, the wall
 disappears when the spell ends.
 
 Wall of Thorns
-^^^^^^^^^^^^^^
+--------------
 
 *6th-level conjuration*
 
@@ -11420,7 +11431,7 @@ damage on a successful one.
 level above 6th.
 
 Warding Bond
-^^^^^^^^^^^^
+------------
 
 *2nd-level abjuration*
 
@@ -11445,7 +11456,7 @@ again on either of the connected creatures. You can also dismiss the
 spell as an action.
 
 Water Breathing
-^^^^^^^^^^^^^^^
+---------------
 
 *3rd-level transmutation (ritual)*
 
@@ -11462,7 +11473,7 @@ the ability to breathe underwater until the spell ends. Affected
 creatures also retain their normal mode of respiration.
 
 Water Walk
-^^^^^^^^^^
+----------
 
 *3rd-level transmutation (ritual)*
 
@@ -11484,7 +11495,7 @@ If you target a creature submerged in a liquid, the spell carries the
 target to the surface of the liquid at a rate of 60 feet per round.
 
 Web
-^^^
+---
 
 *2nd-level conjuration*
 
@@ -11520,7 +11531,7 @@ away in 1 round, dealing 2d4 fire damage to any creature that starts its
 turn in the fire.
 
 Weird
-^^^^^
+-----
 
 *9th-level illusion*
 
@@ -11543,7 +11554,7 @@ turns, it must succeed on a Wisdom saving throw or take 4d10 psychic
 damage. On a successful save, the spell ends for that creature.
 
 Wind Walk
-^^^^^^^^^
+---------
 
 *6th-level transmutation*
 
@@ -11570,7 +11581,7 @@ it does safely. If it can't land after 1 minute, the creature falls the
 remaining distance.
 
 Wind Wall
-^^^^^^^^^
+---------
 
 *3rd-level evocation*
 
@@ -11601,7 +11612,7 @@ siege engines, and similar projectiles, are unaffected.) Creatures in
 gaseous form can't pass through it.
 
 Wish
-^^^^
+----
 
 *9th-level conjuration*
 
@@ -11671,7 +11682,7 @@ recovery time decreases by 2 days. Finally, there is a 33 percent chance
 that you are unable to cast *wish* ever again if you suffer this stress.
 
 Word of Recall
-^^^^^^^^^^^^^^
+--------------
 
 *6th-level conjuration*
 
@@ -11705,7 +11716,7 @@ Spells (Z)
 ==========
 
 Zone of Truth
-^^^^^^^^^^^^^
+-------------
 
 *2nd-level enchantment*
 
