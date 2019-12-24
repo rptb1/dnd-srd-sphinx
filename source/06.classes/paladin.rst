@@ -378,7 +378,7 @@ their helmets or coats of arms.
 
 
 Tenets of Devotion
-''''''''''''''''''
+^^^^^^^^^^^^^^^^^^
 
 Though the exact words and strictures of the Oath of Devotion vary,
 paladins of this oath share these tenets.
@@ -400,7 +400,7 @@ authority over you.
 
 
 Oath Spells
-'''''''''''
+^^^^^^^^^^^
 
 You gain oath spells at the paladin levels listed.
 
@@ -422,7 +422,7 @@ You gain oath spells at the paladin levels listed.
 
 
 Channel Divinity
-''''''''''''''''
+^^^^^^^^^^^^^^^^
 
 When you take this oath at 3rd level, you gain the following two Channel
 Divinity options.
@@ -453,7 +453,7 @@ action.
 
 
 Aura of Devotion
-''''''''''''''''
+^^^^^^^^^^^^^^^^
 
 Starting at 7th level, you and friendly creatures within 10 feet of you
 can't be charmed while you are conscious.
@@ -462,14 +462,14 @@ At 18th level, the range of this aura increases to 30 feet.
 
 
 Purity of Spirit
-''''''''''''''''
+^^^^^^^^^^^^^^^^
 
 Beginning at 15th level, you are always under the effects of a
 *protection from evil and good* spell.
 
 
 Holy Nimbus
-'''''''''''
+^^^^^^^^^^^
 
 At 20th level, as an action, you can emanate an aura of sunlight. For 1
 minute, bright light shines from you in a 30-foot radius, and dim light

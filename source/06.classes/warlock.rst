@@ -661,7 +661,7 @@ yugoloths.
 
 
 Expanded Spell List
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
 The Fiend lets you choose from an expanded list of spells when you learn
 a warlock spell. The following spells are added to the warlock spell
@@ -685,7 +685,7 @@ list for you.
 
 
 Dark One's Blessing
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
 Starting at 1st level, when you reduce a hostile creature to 0 hit
 points, you gain temporary hit points equal to your Charisma modifier +
@@ -693,7 +693,7 @@ your warlock level (minimum of 1).
 
 
 Dark One's Own Luck
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
 Starting at 6th level, you can call on your patron to alter fate in your
 favor. When you make an ability check or a saving throw, you can use
@@ -705,7 +705,7 @@ short or long rest.
 
 
 Fiendish Resilience
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
 Starting at 10th level, you can choose one damage type when you finish a
 short or long rest. You gain resistance to that damage type until you
@@ -714,7 +714,7 @@ silver weapons ignores this resistance.
 
 
 Hurl Through Hell
-'''''''''''''''''
+^^^^^^^^^^^^^^^^^
 
 Starting at 14th level, when you hit a creature with an attack, you can
 use this feature to instantly transport the target through the lower

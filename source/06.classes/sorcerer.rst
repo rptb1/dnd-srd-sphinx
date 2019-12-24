@@ -391,7 +391,7 @@ result of a pact or some other exceptional circumstance.
 
 
 Dragon Ancestor
-'''''''''''''''
+^^^^^^^^^^^^^^^
 
 At 1st level, you choose one type of dragon as your ancestor. The damage
 type associated with each dragon is used by features you gain later.
@@ -428,7 +428,7 @@ is doubled if it applies to the check.
 
 
 Draconic Resilience
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
 As magic flows through your body, it causes physical traits of your
 dragon ancestors to emerge. At 1st level, your hit point maximum
@@ -441,7 +441,7 @@ your Dexterity modifier.
 
 
 Elemental Affinity
-''''''''''''''''''
+^^^^^^^^^^^^^^^^^^
 
 Starting at 6th level, when you cast a spell that deals damage of the
 type associated with your draconic ancestry, you can add your Charisma
@@ -450,7 +450,7 @@ spend 1 sorcery point to gain resistance to that damage type for 1 hour.
 
 
 Dragon Wings
-''''''''''''
+^^^^^^^^^^^^
 
 At 14th level, you gain the ability to sprout a pair of dragon wings
 from your back, gaining a flying speed equal to your current speed. You
@@ -463,7 +463,7 @@ wings might be destroyed when you manifest them.
 
 
 Draconic Presence
-'''''''''''''''''
+^^^^^^^^^^^^^^^^^
 
 Beginning at 18th level, you can channel the dread presence of your
 dragon ancestor, causing those around you to become awestruck or

@@ -350,7 +350,7 @@ practice advanced meditation that can protect them from harm.
 
 
 Open Hand Technique
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
 Starting when you choose this tradition at 3rd level, you can manipulate
 your enemy's ki when you harness your own. Whenever you hit a creature
@@ -366,7 +366,7 @@ one of the following effects on that target:
 
 
 Wholeness of Body
-'''''''''''''''''
+^^^^^^^^^^^^^^^^^
 
 At 6th level, you gain the ability to heal yourself. As an action, you
 can regain hit points equal to three times your monk level. You must
@@ -374,7 +374,7 @@ finish a long rest before you can use this feature again.
 
 
 Tranquility
-'''''''''''
+^^^^^^^^^^^
 
 Beginning at 11th level, you can enter a special meditation that
 surrounds you with an aura of peace. At the end of a long rest, you gain
@@ -384,7 +384,7 @@ for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
 
 
 Quivering Palm
-''''''''''''''
+^^^^^^^^^^^^^^
 
 At 17th level, you gain the ability to set up lethal vibrations in
 someone's body. When you hit a creature with an unarmed strike, you can

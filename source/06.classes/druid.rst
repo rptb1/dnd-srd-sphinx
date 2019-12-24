@@ -331,14 +331,14 @@ mysterious rites.
 
 
 Bonus Cantrip
-'''''''''''''
+^^^^^^^^^^^^^
 
 When you choose this circle at 2nd level, you learn one additional druid
 cantrip of your choice.
 
 
 Natural Recovery
-''''''''''''''''
+^^^^^^^^^^^^^^^^
 
 Starting at 2nd level, you can regain some of your magical energy by
 sitting in meditation and communing with nature. During a short rest,
@@ -353,7 +353,7 @@ two 1st-level slots.
 
 
 Circle Spells
-'''''''''''''
+^^^^^^^^^^^^^
 
 Your mystical connection to the land infuses you with the ability to
 cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to
@@ -466,7 +466,7 @@ list, the spell is nonetheless a druid spell for you.
 
 
 Land's Stride
-'''''''''''''
+^^^^^^^^^^^^^
 
 Starting at 6th level, moving through nonmagical difficult terrain costs
 you no extra movement. You can also pass through nonmagical plants
@@ -479,14 +479,14 @@ by the *entangle* spell.
 
 
 Nature's Ward
-'''''''''''''
+^^^^^^^^^^^^^
 
 When you reach 10th level, you can't be charmed or frightened by
 elementals or fey, and you are immune to poison and disease.
 
 
 Nature's Sanctuary
-''''''''''''''''''
+^^^^^^^^^^^^^^^^^^
 
 When you reach 14th level, creatures of the natural world sense your
 connection to nature and become hesitant to attack you. When a beast or

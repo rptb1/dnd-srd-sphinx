@@ -337,14 +337,14 @@ gain as bandits, adventurers, or aspiring tyrants.
 
 
 Evocation Savant
-''''''''''''''''
+^^^^^^^^^^^^^^^^
 
 Beginning when you select this school at 2nd level, the gold and time
 you must spend to copy an evocation spell into your spellbook is halved.
 
 
 Sculpt Spells
-'''''''''''''
+^^^^^^^^^^^^^
 
 Beginning at 2nd level, you can create pockets of relative safety within
 the effects of your evocation spells. When you cast an evocation spell
@@ -356,7 +356,7 @@ save.
 
 
 Potent Cantrip
-''''''''''''''
+^^^^^^^^^^^^^^
 
 Starting at 6th level, your damaging cantrips affect even creatures that
 avoid the brunt of the effect. When a creature succeeds on a saving
@@ -365,14 +365,14 @@ throw against your cantrip, the creature takes half the cantrip's damage
 
 
 Empowered Evocation
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
 Beginning at 10th level, you can add your Intelligence modifier to one
 damage roll of any wizard evocation spell you cast.
 
 
 Overchannel
-'''''''''''
+^^^^^^^^^^^
 
 Starting at 14th level, you can increase the power of your simpler
 spells. When you cast a wizard spell of 1st through 5th level that deals

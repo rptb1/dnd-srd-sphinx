@@ -358,7 +358,7 @@ terrifying dragons.
 
 
 Hunter's Prey
-'''''''''''''
+^^^^^^^^^^^^^
 
 At 3rd level, you gain one of the following features of your choice.
 
@@ -379,7 +379,7 @@ within range of your weapon.
 
 
 Defensive Tactics
-'''''''''''''''''
+^^^^^^^^^^^^^^^^^
 
 At 7th level, you gain one of the following features of your choice.
 
@@ -395,7 +395,7 @@ frightened.
 
 
 Multiattack
-'''''''''''
+^^^^^^^^^^^
 
 At 11th level, you gain one of the following features of your choice.
 
@@ -410,7 +410,7 @@ attack roll for each target.
 
 
 Superior Hunter's Defense
-'''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 At 15th level, you gain one of the following features of your choice.
 
