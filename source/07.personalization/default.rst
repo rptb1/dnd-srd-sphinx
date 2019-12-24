@@ -1,4 +1,7 @@
-[TOC]
+===============
+Personalization
+===============
+
 
 Alignment
 ---------
@@ -51,6 +54,7 @@ giants, and goblins are neutral evil.
 their greed, hatred, or bloodlust. Demons, red dragons, and orcs are
 chaotic evil.
 
+
 Alignment in the Multiverse
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -78,6 +82,7 @@ alignments-they are **unaligned**. Such a creature is incapable of
 making a moral or ethical choice and acts according to its bestial
 nature. Sharks are savage predators, for example, but they are not evil;
 they have no alignment.
+
 
 Languages
 ---------
@@ -141,8 +146,9 @@ communicate with one another.
 | Undercommon    | Underworld traders     | Elvish       |
 +----------------+------------------------+--------------+
 
+
 Inspiration
-===========
+-----------
 
 Inspiration is a rule the game master can use to reward you for playing
 your character in a way that's true to his or her personality traits,
@@ -152,8 +158,9 @@ in negotiating with the Beggar Prince. Or inspiration can let you call
 on your bond to the defense of your home village to push past the effect
 of a spell that has been laid on you.
 
+
 Gaining Inspiration
--------------------
+~~~~~~~~~~~~~~~~~~~
 
 Your GM can choose to give you inspiration for a variety of reasons.
 Typically, GMs award it when you play out your personality traits, give
@@ -164,8 +171,9 @@ earn inspiration in the game.
 You either have inspiration or you don't - you can't stockpile multiple
 "inspirations" for later use.
 
+
 Using Inspiration
------------------
+~~~~~~~~~~~~~~~~~
 
 If you have inspiration, you can expend it when you make an attack roll,
 saving throw, or ability check. Spending your inspiration gives you
@@ -177,8 +185,9 @@ the game. When another player character does something that really
 contributes to the story in a fun and interesting way, you can give up
 your inspiration to give that character inspiration.
 
+
 Backgrounds
-===========
+-----------
 
 Every story has a beginning. Your character's background reveals where
 you came from, how you became an adventurer, and your place in the
@@ -199,6 +208,7 @@ your background?
 The sample backgrounds in this chapter provide both concrete benefits
 (features, proficiencies, and languages) and roleplaying suggestions.
 
+
 Proficiencies
 ~~~~~~~~~~~~~
 
@@ -212,11 +222,13 @@ If a character would gain the same proficiency from two different
 sources, he or she can choose a different proficiency of the same kind
 (skill or tool) instead.
 
+
 Languages
 ~~~~~~~~~
 
 Some backgrounds also allow characters to learn additional languages
 beyond those given by race. See "Languages."
+
 
 Equipment
 ~~~~~~~~~
@@ -225,6 +237,7 @@ Each background provides a package of starting equipment. If you use the
 optional rule to spend coin on gear, you do not receive the starting
 equipment from your background.
 
+
 Suggested Characteristics
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -232,6 +245,7 @@ A background contains suggested personal characteristics based on your
 background. You can pick characteristics, roll dice to determine them
 randomly, or use the suggestions as inspiration for characteristics of
 your own creation.
+
 
 Customizing a Background
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -246,6 +260,7 @@ section. (If you spend coin, you can't also take the equipment package
 suggested for your class.) Finally, choose two personality traits, one
 ideal, one bond, and one flaw. If you can't find a feature that matches
 your desired background, work with your GM to create one.
+
 
 Acolyte
 -------
@@ -275,6 +290,7 @@ fiendish master that you now deny.
 priesthood), a prayer book or prayer wheel, 5 sticks of incense,
 vestments, a set of common clothes, and a pouch containing 15 gp
 
+
 Feature: Shelter of the Faithful
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -292,6 +308,7 @@ a temple where you have found a new home. While near your temple, you
 can call upon the priests for assistance, provided the assistance you
 ask for is not hazardous and you remain in good standing with your
 temple.
+
 
 Suggested Characteristics
 ~~~~~~~~~~~~~~~~~~~~~~~~~
