@@ -15,5 +15,6 @@ Classes
    paladin
    ranger
    rogue
+   sorcerer
    warlock
    wizard
