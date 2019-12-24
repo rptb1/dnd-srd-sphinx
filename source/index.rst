@@ -15,7 +15,7 @@ Dungeons & Dragons 5th Edition System Reference Document
    03.legal/default
    04.beyond/default
    05.races/default
-   06.classes/default
+   06.classes/index
    07.personalization/default
    08.equipment/default
    09.customization/default
