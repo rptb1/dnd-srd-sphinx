@@ -16,7 +16,7 @@ help: $(SPHINXBUILD)
 .PHONY: help Makefile
 
 $(SPHINXBUILD): tool/bin/pip
-	tool/bin/pip install -U sphinx
+	tool/bin/pip install -r requirements.pip
 
 tool/bin/pip:
 	$(PYTHON) -m venv tool
