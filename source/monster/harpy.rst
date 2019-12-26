@@ -43,7 +43,7 @@ Actions
 :bi:`Multiattack`. The harpy makes two attacks: one with its claws and
 one with its club.
 
-***Claws.** Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 6 (2d4 + 1) slashing damage.
 
 :bi:`Club`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.

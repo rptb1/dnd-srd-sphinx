@@ -51,6 +51,6 @@ with its claws.
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 5 (1d6 + 2) piercing damage.
 
-***Claws.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 7 (2d4 + 2) slashing damage.
 

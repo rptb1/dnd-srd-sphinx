@@ -125,7 +125,7 @@ one with its claws.
 :bi:`Bite`. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target.
 *Hit:* 3 (1d6) piercing damage.
 
-***Claws.** Melee Weapon Attack:* +2 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target.
 *Hit:* 5 (2d4) slashing damage.
 
 :bi:`Fetid Cloud (1/Day)`. A 10-foot radius of disgusting green gas

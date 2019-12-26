@@ -435,7 +435,7 @@ with its claws, and one with its tail.
 :bi:`Bite`. *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target.
 *Hit:* 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
 
-***Claws.** Melee Weapon Attack:* +10 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target.
 *Hit:* 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
 
 :bi:`Tail`. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target.

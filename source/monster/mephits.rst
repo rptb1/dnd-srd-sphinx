@@ -61,7 +61,7 @@ Charisma.
 Actions
        
 
-***Claws.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
+:bi:`Claws.` *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 4 (1d4 + 2) slashing damage.
 
 :bi:`Blinding Breath (Recharge 6)`. The mephit exhales a 15- foot cone
@@ -116,7 +116,7 @@ ability is Charisma.
 Actions
        
 
-***Claws.** Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature.
+:bi:`Claws.` *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature.
 *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 
 :bi:`Frost Breath (Recharge 6)`. The mephit exhales a 15- foot cone of
@@ -170,7 +170,7 @@ spellcasting ability is Charisma.
 Actions
        
 
-***Claws.** Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature.
+:bi:`Claws.` *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature.
 *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 
 :bi:`Fire Breath (Recharge 6)`. The mephit exhales a 15-foot cone of
@@ -216,7 +216,7 @@ Charisma.
 Actions
        
 
-***Claws.** Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature.
+:bi:`Claws.` *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature.
 *Hit:* 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 
 :bi:`Steam Breath (Recharge 6)`. The mephit exhales a 15- foot cone of

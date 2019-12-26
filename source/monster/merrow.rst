@@ -48,7 +48,7 @@ one with its claws or harpoon.
 :bi:`Bite`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 8 (1d8 + 4) piercing damage.
 
-***Claws.** Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 9 (2d4 + 4) slashing damage.
 
 :bi:`Harpoon`. *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft.

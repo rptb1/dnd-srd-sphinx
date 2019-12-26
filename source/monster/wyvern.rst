@@ -49,7 +49,7 @@ other attack.
 :bi:`Bite`. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one
 creature. *Hit:* 11 (2d6 + 4) piercing damage.
 
-***Claws.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
 *Hit:* 13 (2d8 + 4) slashing damage.
 
 :bi:`Stinger`. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one

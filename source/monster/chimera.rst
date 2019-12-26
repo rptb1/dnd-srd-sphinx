@@ -52,7 +52,7 @@ available, it can use the breath in place of its bite or horns.
 :bi:`Horns`. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
 *Hit:* 10 (1d12 + 4) bludgeoning damage.
 
-***Claws.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
 *Hit:* 11 (2d6 + 4) slashing damage.
 
 :bi:`Fire Breath (Recharge 5-6)`. The dragon head exhales fire in a

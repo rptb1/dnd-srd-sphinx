@@ -60,7 +60,7 @@ target must succeed on a DC 11 Constitution saving throw or be poisoned
 for 1 minute. The creature can repeat the saving throw at the end of
 each of its turns, ending the effect on itself on a success.
 
-***Claws.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 7 (2d4 + 2) slashing damage.
 
 :bi:`Web (Recharge 5-6)`. *Ranged Weapon Attack:* +4 to hit, range 30/60

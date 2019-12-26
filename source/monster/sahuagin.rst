@@ -58,7 +58,7 @@ bite and one with its claws or spear.
 :bi:`Bite`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 3 (1d4 + 1) piercing damage.
 
-***Claws.** Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 3 (1d4 + 1) slashing damage.
 
 :bi:`Spear`. *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or

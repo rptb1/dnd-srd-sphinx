@@ -57,7 +57,7 @@ successful DC 14 Wisdom (Insight) check.
 Actions
        
 
-***Claws.** Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 13 (2d8 + 4) slashing damage.
 
 :bi:`Illusory Appearance`. The hag covers herself and anything she is
@@ -188,7 +188,7 @@ its eyes has disadvantage on attack rolls against the hag.
 Actions
        
 
-***Claws.** Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 10 (2d6 + 3) slashing damage.
 
 :bi:`Death Glare`. The hag targets one frightened creature she can see

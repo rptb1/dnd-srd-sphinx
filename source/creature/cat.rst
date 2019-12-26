@@ -45,6 +45,6 @@ that rely on smell.
 Actions
        
 
-***Claws.** Melee Weapon Attack:* +0 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target.
 *Hit:* 1 slashing damage.
 

@@ -55,7 +55,7 @@ Actions
 :bi:`Multiattack`. The lamia makes two attacks: one with its claws and
 one with its dagger or Intoxicating Touch.
 
-***Claws.** Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
+:bi:`Claws.` *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 14 (2d10 + 3) slashing damage.
 
 :bi:`Dagger`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
