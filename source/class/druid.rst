@@ -369,7 +369,7 @@ it doesn't count against the number of spells you can prepare each day.
 If you gain access to a spell that doesn't appear on the druid spell
 list, the spell is nonetheless a druid spell for you.
 
-.. table:: Druid: Arctic** **Circle Spells
+.. table:: Druid: Arctic Circle Spells
 
   +-------------+-------------------------------------+
   | Druid Level | Circle Spells                       |
