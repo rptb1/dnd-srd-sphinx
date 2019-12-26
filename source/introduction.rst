@@ -13,6 +13,11 @@ while generating documents in many formats.
 
 .. _Sphinx: https://www.sphinx-doc.org/
 
+The Sphinx project is available for download, editing, and forking on
+GitHub at `https://github.com/rptb1/dnd-srd-sphinx
+<https://github.com/rptb1/dnd-srd-sphinx>`__.  Contributions are
+welcome.
+
 
 Acknowledgements
 ================
