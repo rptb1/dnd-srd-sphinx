@@ -25,7 +25,7 @@ elemental* spell, and the gem's magic is lost. The type of gem
 determines the elemental summoned by the spell.
 
 +------------------+--------------------------+
-| **Gem**          | **Summoned Elemental**   |
+| Gem              | Summoned Elemental       |
 +==================+==========================+
 | Blue sapphire    | Air elemental            |
 +------------------+--------------------------+

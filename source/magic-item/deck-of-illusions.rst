@@ -43,7 +43,7 @@ When the illusion ends, the image on its card disappears, and that card
 can't be used again.
 
 +---------------------+------------------------------------+
-| **Playing Card**    | **Illusion**                       |
+| Playing Card        | Illusion                           |
 +=====================+====================================+
 | Ace of hearts       | Red dragon                         |
 +---------------------+------------------------------------+

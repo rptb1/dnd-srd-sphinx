@@ -26,7 +26,7 @@ at least two 5th-level spell slots. A creature that can't use a *manual
 of golems* and attempts to read it takes 6d6 psychic damage.
 
 +-----------+-------------+------------+--------------+
-| **d20**   | **Golem**   | **Time**   | **Cost**     |
+| d20       | Golem       | Time       | Cost         |
 +===========+=============+============+==============+
 | 1-5       | Clay        | 30 days    | 65,000 gp    |
 +-----------+-------------+------------+--------------+

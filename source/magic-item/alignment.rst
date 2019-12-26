@@ -22,7 +22,7 @@ suggest an alignment. If not, you can pick an alignment or roll on the
 following table.
 
 +------------+-------------------+
-| **d100**   | **Alignment**     |
+| d100       | Alignment         |
 +============+===================+
 | 01-15      | Lawful good       |
 +------------+-------------------+

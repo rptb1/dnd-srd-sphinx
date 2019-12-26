@@ -25,7 +25,7 @@ The duration depends on the object's material. If the object is composed
 of multiple materials, use the shortest duration.
 
 +-------------------------+----------------+
-| **Material**            | **Duration**   |
+| Material                | Duration       |
 +=========================+================+
 | Vegetable matter        | 1 day          |
 +-------------------------+----------------+

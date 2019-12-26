@@ -37,7 +37,7 @@ class description to see what other improvements you gain at each level.
 .. table:: Character Advancement
 
    +-------------------------+-------------+-------------------------+
-   | **Experience Points**   | **Level**   | **Proficiency Bonus**   |
+   | Experience Points       | Level       | Proficiency Bonus       |
    +=========================+=============+=========================+
    | 0                       | 1           | +2                      |
    +-------------------------+-------------+-------------------------+

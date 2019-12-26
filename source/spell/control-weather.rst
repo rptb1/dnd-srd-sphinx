@@ -32,7 +32,7 @@ the wind, you can change its direction.
 **Precipitation**
 
 +-------------+----------------------------------------------+
-| **Stage**   | **Condition**                                |
+| Stage       | Condition                                    |
 +=============+==============================================+
 | 1           | Clear                                        |
 +-------------+----------------------------------------------+
@@ -48,7 +48,7 @@ the wind, you can change its direction.
 **Temperature**
 
 +-------------+-------------------+
-| **Stage**   | **Condition**     |
+| Stage       | Condition         |
 +=============+===================+
 | 1           | Unbearable heat   |
 +-------------+-------------------+
@@ -66,7 +66,7 @@ the wind, you can change its direction.
 **Wind**
 
 +-------------+-----------------+
-| **Stage**   | **Condition**   |
+| Stage       | Condition       |
 +=============+=================+
 | 1           | Calm            |
 +-------------+-----------------+

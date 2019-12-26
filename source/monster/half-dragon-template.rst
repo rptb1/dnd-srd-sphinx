@@ -32,7 +32,7 @@ and darkvision with a radius of 60 feet.
 based on its color.
 
 +-----------------------+-------------------------+
-| **Color**             | **Damage Resistance**   |
+| Color                 | Damage Resistance       |
 +=======================+=========================+
 | Black or copper       | Acid                    |
 +-----------------------+-------------------------+
@@ -53,7 +53,7 @@ of its dragon half. The half- dragon's size determines how this action
 functions.
 
 +--------------------+----------------------+-----------------------------+
-| **Size**           | **Breath Weapon**    | **Optional Prerequisite**   |
+| Size               | Breath Weapon        | Optional Prerequisite       |
 +====================+======================+=============================+
 | Large or smaller   | As a wyrmling        | Challenge 2 or higher       |
 +--------------------+----------------------+-----------------------------+
@@ -74,7 +74,7 @@ Half-Red Dragon Veteran
 **Speed** 30 ft.
 
 +-----------+-----------+-----------+-----------+-----------+-----------+
-| **STR**   | **DEX**   | **CON**   | **INT**   | **WIS**   | **CHA**   |
+| STR       | DEX       | CON       | INT       | WIS       | CHA       |
 +===========+===========+===========+===========+===========+===========+
 | 16 (+3)   | 13 (+1)   | 14 (+2)   | 10 (+0)   | 11 (+0)   | 10 (+0)   |
 +-----------+-----------+-----------+-----------+-----------+-----------+

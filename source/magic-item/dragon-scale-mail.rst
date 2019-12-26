@@ -34,27 +34,27 @@ discern the distance and direction to the closest dragon within 30 miles
 of you that is of the same type as the armor. This special action can't
 be used again until the next dawn.
 
-+--------------+------------------+
-| **Dragon**   | **Resistance**   |
-+==============+==================+
-| Black        | Acid             |
-+--------------+------------------+
-| Blue         | Lightning        |
-+--------------+------------------+
-| Brass        | Fire             |
-+--------------+------------------+
-| Bronze       | Lightning        |
-+--------------+------------------+
-| Copper       | Acid             |
-+--------------+------------------+
-| Gold         | Fire             |
-+--------------+------------------+
-| Green        | Poison           |
-+--------------+------------------+
-| Red          | Fire             |
-+--------------+------------------+
-| Silver       | Cold             |
-+--------------+------------------+
-| White        | Cold             |
-+--------------+------------------+
++--------+------------+
+| Dragon | Resistance |
++========+============+
+| Black  | Acid       |
++--------+------------+
+| Blue   | Lightning  |
++--------+------------+
+| Brass  | Fire       |
++--------+------------+
+| Bronze | Lightning  |
++--------+------------+
+| Copper | Acid       |
++--------+------------+
+| Gold   | Fire       |
++--------+------------+
+| Green  | Poison     |
++--------+------------+
+| Red    | Fire       |
++--------+------------+
+| Silver | Cold       |
++--------+------------+
+| White  | Cold       |
++--------+------------+
 

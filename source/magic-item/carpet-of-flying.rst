@@ -27,7 +27,7 @@ Four sizes of *carpet of flying* exist. The GM chooses the size of a
 given carpet or determines it randomly.
 
 +------------+-----------------+----------------+--------------------+
-| **d100**   | **Size**        | **Capacity**   | **Flying Speed**   |
+| d100       | Size            | Capacity       | Flying Speed       |
 +============+=================+================+====================+
 | 01-20      | 3 ft. × 5 ft.   | 200 lb.        | 80 feet            |
 +------------+-----------------+----------------+--------------------+

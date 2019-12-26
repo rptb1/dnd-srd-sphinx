@@ -26,7 +26,7 @@ the following table to determine what form the creature takes when
 restored to life, or the GM chooses a form.
 
 +------------+-----------------------+
-| **d100**   | **Race**              |
+| d100       | Race                  |
 +============+=======================+
 | 01-04      | Dragonborn            |
 +------------+-----------------------+

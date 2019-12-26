@@ -227,7 +227,7 @@ armor. Buckles and straps distribute the weight over the body.
 .. table:: Equipment: Armor
 
   +----------------------+----------+-----------------------------+----------+--------------+--------+
-  | Armor                | Cost     | **Armor Class (AC)**        | Strength | Stealth      | Weight |
+  | Armor                | Cost     | Armor Class (AC)            | Strength | Stealth      | Weight |
   +======================+==========+=============================+==========+==============+========+
   | :bi:`Light Armor`    |          |                             |          |              |        |
   +----------------------+----------+-----------------------------+----------+--------------+--------+

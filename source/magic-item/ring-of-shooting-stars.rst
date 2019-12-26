@@ -45,17 +45,17 @@ creature and disappears. That creature must make a DC 15 Dexterity
 saving throw. On a failed save, the creature takes lightning damage
 based on the number of spheres you created.
 
-+---------------+------------------------+
-| **Spheres**   | **Lightning Damage**   |
-+===============+========================+
-| 4             | 2d4                    |
-+---------------+------------------------+
-| 3             | 2d6                    |
-+---------------+------------------------+
-| 2             | 5d4                    |
-+---------------+------------------------+
-| 1             | 4d12                   |
-+---------------+------------------------+
++---------+------------------+
+| Spheres | Lightning Damage |
++=========+==================+
+| 4       | 2d4              |
++---------+------------------+
+| 3       | 2d6              |
++---------+------------------+
+| 2       | 5d4              |
++---------+------------------+
+| 1       | 4d12             |
++---------+------------------+
 
 :bi:`Shooting Stars`. You can expend 1 to 3 charges as an action. For
 every charge you expend, you launch a glowing mote of light from the

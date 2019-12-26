@@ -22,7 +22,7 @@ emotions, broadcasting its thoughts telepathically, or speaking aloud.
 You can choose how it communicates or roll on the following table.
 
 +--------+----------------------------------------------------------------------+
-|  d100  | **Communication**                                                    |
+|  d100  | Communication                                                        |
 +========+======================================================================+
 | 01-60  | The item communicates by transmitting emotion to the creature        |
 |        | carrying or wielding it.                                             |

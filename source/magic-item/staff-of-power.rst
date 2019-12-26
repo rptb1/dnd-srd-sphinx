@@ -56,7 +56,7 @@ how far away it is from the point of origin, as shown in the following
 table. On a successful save, a creature takes half as much damage.
 
 +----------------------------+------------------------------------------+
-| **Distance from Origin**   | **Damage**                               |
+| Distance from Origin       | Damage                                   |
 +============================+==========================================+
 | 10 ft. away or closer      | 8 × the number of charges in the staff   |
 +----------------------------+------------------------------------------+

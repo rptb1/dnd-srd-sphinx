@@ -29,7 +29,7 @@ strength* and the *belt of frost giant strength* look different, but
 they have the same effect.
 
 +---------------------+----------------+--------------+
-| **Type**            | **Strength**   | **Rarity**   |
+| Type                | Strength       | Rarity       |
 +=====================+================+==============+
 | Hill giant          | 21             | Rare         |
 +---------------------+----------------+--------------+

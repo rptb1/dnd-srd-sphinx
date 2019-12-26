@@ -47,17 +47,15 @@ created by the *gate* spell, or an extradimensional space, such as that
 within a *portable hole*, the GM determines randomly what happens, using
 the following table.
 
-+------+---------------------------------------------------------------------+
-| **d1 | **Result**                                                          |
-| 00** |                                                                     |
-+======+=====================================================================+
-| 01-5 | The sphere is destroyed.                                            |
-| 0    |                                                                     |
-+------+---------------------------------------------------------------------+
-| 51-8 | The sphere moves through the portal or into the extradimensional    |
-| 5    | space.                                                              |
-+------+---------------------------------------------------------------------+
-| 86-0 | A spatial rift sends each creature and object within 180 feet of    |
-| 0    | the sphere, including the sphere, to a random plane of existence.   |
-+------+---------------------------------------------------------------------+
-
++--------+---------------------------------------------------------------------+
+| d100   | Result                                                              |
++========+=====================================================================+
+| 01-50  | The sphere is destroyed.                                            |
+|        |                                                                     |
++--------+---------------------------------------------------------------------+
+| 51-85  | The sphere moves through the portal or into the extradimensional    |
+|        | space.                                                              |
++--------+---------------------------------------------------------------------+
+| 86-100 | A spatial rift sends each creature and object within 180 feet of    |
+|        | the sphere, including the sphere, to a random plane of existence.   |
++--------+---------------------------------------------------------------------+

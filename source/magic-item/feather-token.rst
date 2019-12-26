@@ -23,21 +23,21 @@ This tiny object looks like a feather. Different types of feather tokens
 exist, each with a different single-use effect. The GM chooses the kind
 of token or determines it randomly.
 
-+------------+---------------------+
-| **d100**   | **Feather Token**   |
-+============+=====================+
-| 01-20      | Anchor              |
-+------------+---------------------+
-| 21-35      | Bird                |
-+------------+---------------------+
-| 36-50      | Fan                 |
-+------------+---------------------+
-| 51-65      | Swan boat           |
-+------------+---------------------+
-| 66-90      | Tree                |
-+------------+---------------------+
-| 91-100     | Whip                |
-+------------+---------------------+
++--------+---------------------+
+| d100   | Feather Token       |
++========+=====================+
+| 01-20  | Anchor              |
++--------+---------------------+
+| 21-35  | Bird                |
++--------+---------------------+
+| 36-50  | Fan                 |
++--------+---------------------+
+| 51-65  | Swan boat           |
++--------+---------------------+
+| 66-90  | Tree                |
++--------+---------------------+
+| 91-100 | Whip                |
++--------+---------------------+
 
 :bi:`Anchor`. You can use an action to touch the token to a boat or
 ship. For the next 24 hours, the vessel can't be moved by any means.

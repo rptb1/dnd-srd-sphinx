@@ -67,7 +67,7 @@ range of possible ability scores, from 1 to 30.
 .. table:: Ability Scores: Modifiers
 
   +-------------+----------------+
-  | **Score**   | **Modifier**   |
+  | Score       | Modifier       |
   +=============+================+
   | 1           | -5             |
   +-------------+----------------+
@@ -199,7 +199,7 @@ Classes table shows the most common DCs.
 .. table:: Ability Checks: Typical Difficulty Classes
 
   +-----------------------+----------+
-  | **Task Difficulty**   | **DC**   |
+  | Task Difficulty       | DC       |
   +=======================+==========+
   | Very easy             | 5        |
   +-----------------------+----------+

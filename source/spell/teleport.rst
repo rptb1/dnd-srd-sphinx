@@ -25,7 +25,7 @@ determines whether you arrive there successfully. The GM rolls d100 and
 consults the table.
 
 +---------------------+--------------+--------------------+------------------+-----------------+
-| Familiarity         | **Mishap**   | **Similar Area**   | **Off Target**   | **On Target**   |
+| Familiarity         | Mishap       | Similar Area       | Off Target       | On Target       |
 +=====================+==============+====================+==================+=================+
 | Permanent circle    | -            | -                  | -                | 01-100          |
 +---------------------+--------------+--------------------+------------------+-----------------+
