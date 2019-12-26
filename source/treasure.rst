@@ -5,6 +5,21 @@ Treasure
 ========
 
 
+.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
+
+.. raw:: html
+
+   <style type="text/css">
+     span.bolditalic {
+       font-weight: bold;
+       font-style: italic;
+     }
+   </style>
+
+.. role:: bi
+   :class: bolditalic
+
+
 Magic
 =====
 
@@ -16,9 +31,7 @@ magical properties.
    :maxdepth: 1
    :caption: Contents:
 
-   magic-item/abilities.rst
    magic-item/adamantine-armor.rst
-   magic-item/alignment.rst
    magic-item/ammunition.rst
    magic-item/amulet-of-health.rst
    magic-item/amulet-of-proof-against-detection-and-location.rst
@@ -62,9 +75,6 @@ magical properties.
    magic-item/cloak-of-protection.rst
    magic-item/cloak-of-the-bat.rst
    magic-item/cloak-of-the-manta-ray.rst
-   magic-item/communication.rst
-   magic-item/conflict.rst
-   magic-item/creating-sentient-magic-items.rst
    magic-item/crystal-ball.rst
    magic-item/cube-of-force.rst
    magic-item/cubic-gate.rst
@@ -145,7 +155,6 @@ magical properties.
    magic-item/oil-of-etherealness.rst
    magic-item/oil-of-sharpness.rst
    magic-item/oil-of-slipperiness.rst
-   magic-item/orb-of-dragonkind.rst
    magic-item/pearl-of-power.rst
    magic-item/periapt-of-health.rst
    magic-item/periapt-of-proof-against-poison.rst
@@ -213,7 +222,6 @@ magical properties.
    magic-item/shield-of-missile-attraction.rst
    magic-item/slippers-of-spider-climbing.rst
    magic-item/sovereign-glue.rst
-   magic-item/special-purpose.rst
    magic-item/spell-scroll.rst
    magic-item/spellguard-shield.rst
    magic-item/sphere-of-annihilation.rst
@@ -263,3 +271,261 @@ magical properties.
    magic-item/wind-fan.rst
    magic-item/winged-boots.rst
    magic-item/wings-of-flying.rst
+
+
+Sentient Magic Items
+====================
+
+Some magic items possess sentience and personality. Such an item might
+be possessed, haunted by the spirit of a previous owner, or self-aware
+thanks to the magic used to create it. In any case, the item behaves
+like a character, complete with personality quirks, ideals, bonds, and
+sometimes flaws. A sentient item might be a cherished ally to its
+wielder or a continual thorn in the side.
+
+Most sentient items are weapons. Other kinds of items can manifest
+sentience, but consumable items such as potions and scrolls are never
+sentient.
+
+Sentient magic items function as NPCs under the GM's control. Any
+activated property of the item is under the item's control, not its
+wielder's. As long as the wielder maintains a good relationship with the
+item, the wielder can access those properties normally. If the
+relationship is strained, the item can suppress its activated properties
+or even turn them against the wielder.
+
+
+Creating Sentient Magic Items
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When you decide to make a magic item sentient, you create the item's
+persona in the same way you would create an NPC, with a few exceptions
+described here.
+
+
+Abilities
+~~~~~~~~~
+
+A sentient magic item has Intelligence, Wisdom, and Charisma scores. You
+can choose the item's abilities or determine them randomly. To determine
+them randomly, roll 4d6 for each one, dropping the lowest roll and
+totaling the rest.
+
+
+Communication
+~~~~~~~~~~~~~
+
+A sentient item has some ability to communicate, either by sharing its
+emotions, broadcasting its thoughts telepathically, or speaking aloud.
+You can choose how it communicates or roll on the following table.
+
++--------+----------------------------------------------------------------------+
+|  d100  | Communication                                                        |
++========+======================================================================+
+| 01-60  | The item communicates by transmitting emotion to the creature        |
+|        | carrying or wielding it.                                             |
++--------+----------------------------------------------------------------------+
+| 61-90  | The item can speak, read, and understand one or more languages.      |
++--------+----------------------------------------------------------------------+
+| 91-100 | The item can speak, read, and understand one or more languages. In   |
+|        | addition, the item can communicate telepathically with any character |
+|        | that carries or wields it.                                           |
++--------+----------------------------------------------------------------------+
+
+
+Senses
+~~~~~~
+
+With sentience comes awareness. A sentient item can perceive its
+surroundings out to a limited range. You can choose its senses or roll
+on the following table.
+
++----+----------------------------------------------+
+| d4 | Senses                                       |
++====+==============================================+
+| 1  | Hearing and normal vision out to 30 feet.    |
++----+----------------------------------------------+
+| 2  | Hearing and normal vision out to 60 feet     |
++----+----------------------------------------------+
+| 3  | Hearing and normal vision out to 120 feet.   |
++----+----------------------------------------------+
+| 4  | Hearing and darkvision out to 120 feet.      |
++----+----------------------------------------------+
+
+
+Special Purpose
+~~~~~~~~~~~~~~~
+
+You can give a sentient item an objective it pursues, perhaps to the
+exclusion of all else. As long as the wielder's use of the item aligns
+with that special purpose, the item remains cooperative. Deviating from
+this course might cause conflict between the wielder and the item, and
+could even cause the item to prevent the use of its activated
+properties. You can pick a special purpose or roll on the following
+table.
+
++-----+----------------------------------------------------------------------+
+| d10 | Purpose                                                              |
++=====+======================================================================+
+| 1   | :bi:`Aligned:` The item seeks to defeat or destroy those of a        |
+|     | diametrically opposed alignment. (Such an item is never neutral.)    |
++-----+----------------------------------------------------------------------+
+| 2   | :bi:`Bane:` The item seeks to defeat or destroy creatures of a       |
+|     | particular kind, such as fiends, shapechangers, trolls, or wizards.  |
++-----+----------------------------------------------------------------------+
+| 3   | :bi:`Protector:` The item seeks to defend a particular race or kind  |
+|     | of creature, such as elves or druids.                                |
++-----+----------------------------------------------------------------------+
+| 4   | :bi:`Crusader:` The item seeks to defeat, weaken, or destroy the     |
+|     | servants of a particular deity.                                      |
++-----+----------------------------------------------------------------------+
+| 5   | :bi:`Templar:` The item seeks to defend the servants and interests   |
+|     | of a particular deity.                                               |
++-----+----------------------------------------------------------------------+
+| 6   | :bi:`Destroyer:` The item craves destruction and goads its user to   |
+|     | fight arbitrarily.                                                   |
++-----+----------------------------------------------------------------------+
+| 7   | :bi:`Glory Seeker:` The item seeks renown as the greatest magic item |
+|     | in the world, by establishing its user as a famous or notorious      |
+|     | figure.                                                              |
++-----+----------------------------------------------------------------------+
+| 8   | :bi:`Lore Seeker:` The item craves knowledge or is determined to     |
+|     | solve a mystery, learn a secret, or unravel a cryptic prophecy.      |
++-----+----------------------------------------------------------------------+
+| 9   | :bi:`Destiny Seeker:` The item is convinced that it and its wielder  |
+|     | have key roles to play in future events.                             |
++-----+----------------------------------------------------------------------+
+| 10  | :bi:`Creator Seeker:` The item seeks its creator and wants to        |
+|     | understand why it was created.                                       |
++-----+----------------------------------------------------------------------+
+
+
+Conflict
+~~~~~~~~
+
+A sentient item has a will of its own, shaped by its personality and
+alignment. If its wielder acts in a manner opposed to the item's
+alignment or purpose, conflict can arise. When such a conflict occurs,
+the item makes a Charisma check contested by the wielder's Charisma
+check. If the item wins the contest, it makes one or more of the
+following demands:
+
+-  The item insists on being carried or worn at all times.
+
+-  The item demands that its wielder dispose of anything the item finds
+   repugnant.
+
+-  The item demands that its wielder pursue the item's goals to the
+   exclusion of all other goals.
+
+-  The item demands to be given to someone else. If its wielder refuses
+   to comply with the item's wishes, the item can do any or all of the
+   following:
+
+-  Make it impossible for its wielder to attune to it.
+
+-  Suppress one or more of its activated properties.
+
+-  Attempt to take control of its wielder.
+
+If a sentient item attempts to take control of its wielder, the wielder
+must make a Charisma saving throw, with a DC equal to 12 + the item's
+Charisma modifier. On a failed save, the wielder is charmed by the item
+for 1d12 hours. While charmed, the wielder must try to follow the item's
+commands. If the wielder takes damage, it can repeat the saving throw,
+ending the effect on a success. Whether the attempt to control its user
+succeeds or fails, the item can't use this power again until the next
+dawn.
+
+
+Artifacts
+=========
+
+
+Orb of Dragonkind
+~~~~~~~~~~~~~~~~~
+
+
+.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
+
+.. raw:: html
+
+   <style type="text/css">
+     span.bolditalic {
+       font-weight: bold;
+       font-style: italic;
+     }
+   </style>
+
+.. role:: bi
+   :class: bolditalic
+
+
+*Wondrous item, artifact (requires attunement)*
+
+Ages past, elves and humans waged a terrible war against evil dragons.
+When the world seemed doomed, powerful wizards came together and worked
+their greatest magic, forging five *Orbs of Dragonkind* (or *Dragon
+Orbs*) to help them defeat the dragons. One orb was taken to each of the
+five wizard towers, and there they were used to speed the war toward a
+victorious end. The wizards used the orbs to lure dragons to them, then
+destroyed the dragons with powerful magic.
+
+As the wizard towers fell in later ages, the orbs were destroyed or
+faded into legend, and only three are thought to survive. Their magic
+has been warped and twisted over the centuries, so although their
+primary purpose of calling dragons still functions, they also allow some
+measure of control over dragons.
+
+Each orb contains the essence of an evil dragon, a presence that resents
+any attempt to coax magic from it. Those lacking in force of personality
+might find themselves enslaved to an orb.
+
+An orb is an etched crystal globe about 10 inches in diameter. When
+used, it grows to about 20 inches in diameter, and mist swirls inside
+it.
+
+While attuned to an orb, you can use an action to peer into the orb's
+depths and speak its command word. You must then make a DC 15 Charisma
+check. On a successful check, you control the orb for as long as you
+remain attuned to it. On a failed check, you become charmed by the orb
+for as long as you remain attuned to it.
+
+While you are charmed by the orb, you can't voluntarily end your
+attunement to it, and the orb casts *suggestion* on you at will (save DC
+18), urging you to work toward the evil ends it desires. The dragon
+essence within the orb might want many things: the annihilation of a
+particular people, freedom from the orb, to spread suffering in the
+world, to advance the worship of Tiamat, or something else the GM
+decides.
+
+:bi:`Random Properties`. An *Orb of Dragonkind* has the following random
+properties:
+
+-  2 minor beneficial properties
+
+-  1 minor detrimental property
+
+-  1 major detrimental property
+
+:bi:`Spells`. The orb has 7 charges and regains 1d4 + 3 expended charges
+daily at dawn. If you control the orb, you can use an action and expend
+1 or more charges to cast one of the following spells (save DC 18) from
+it: *cure wounds* (5th-level version, 3 charges), *daylight* (1 charge),
+*death ward* (2 charges), or *scrying* (3 charges).
+
+You can also use an action to cast the *detect magic* spell from the orb
+without using any charges.
+
+:bi:`Call Dragons`. While you control the orb, you can use an action to
+cause the artifact to issue a telepathic call that extends in all
+directions for 40 miles. Evil dragons in range feel compelled to come to
+the orb as soon as possible by the most direct route. Dragon deities
+such as Tiamat are unaffected by this call. Dragons drawn to the orb
+might be hostile toward you for compelling them against their will. Once
+you have used this property, it can't be used again for 1 hour.
+
+:bi:`Destroying an Orb`. An *Orb of Dragonkind* appears fragile but is
+impervious to most damage, including the attacks and breath weapons of
+dragons. A *disintegrate* spell or one good hit from a +3 magic weapon
+is sufficient to destroy an orb, however.
