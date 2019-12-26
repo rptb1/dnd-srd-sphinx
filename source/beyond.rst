@@ -1,3 +1,5 @@
+.. -*- mode: rst; coding: utf-8 -*-
+
 ================
 Beyond 1st Level
 ================

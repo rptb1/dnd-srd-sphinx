@@ -1,3 +1,4 @@
+.. -*- mode: rst; coding: utf-8 -*-
 
 =====
 Feats
