@@ -71,8 +71,9 @@ Cantrips (at will): *mending, sacred flame, thaumaturgy*
 
 6th level (1 slot): *true seeing*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one
 creature. *Hit:* 8 (1d8 + 4) piercing damage, and the target must make a
@@ -132,8 +133,9 @@ Cantrips (at will): *mage hand, minor illusion, ray of frost*
 
 5th level (2 slots): *dominate person*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one
 creature. *Hit:* 7 (1d6 + 4) piercing damage, and the target must make a

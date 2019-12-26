@@ -61,8 +61,9 @@ emerge from a second living tree within 60 feet of the first tree,
 appearing in an unoccupied space within 5 feet of the second tree. Both
 trees must be Large or bigger.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Club`. *Melee Weapon Attack:* +2 to hit (+6 to hit with
 *shillelagh*), reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning

@@ -60,8 +60,9 @@ darkvision.
 :bi:`Magic Resistance`. The devil has advantage on saving throws against
 spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The devil makes three melee attacks: one with its
 tail and two with its claws. Alternatively, it can use Hurl Flame twice.
@@ -117,8 +118,9 @@ spells and other magical effects.
 :bi:`Steadfast`. The devil can't be frightened while it can see an
 allied creature within 30 feet of it.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The devil makes two attacks: one with its beard and
 one with its glaive.
@@ -180,8 +182,9 @@ darkvision.
 :bi:`Magic Resistance`. The devil has advantage on saving throws against
 spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The devil makes three attacks: two with its claws and
 one with its sting.
@@ -233,8 +236,9 @@ darkvision.
 :bi:`Magic Resistance`. The devil has advantage on saving throws against
 spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The devil makes two attacks with its chains.
 
@@ -304,8 +308,9 @@ an extra 13 (3d8) poison damage on a hit (included in the attacks).
 :bi:`Magic Resistance`. The erinyes has advantage on saving throws
 against spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The erinyes makes three attacks.
 
@@ -364,8 +369,9 @@ darkvision.
 :bi:`Magic Resistance`. The devil has advantage on saving throws against
 spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The devil makes three melee attacks: two with its
 fork and one with its tail. It can use Hurl Flame in place of any melee
@@ -426,8 +432,9 @@ darkvision.
 :bi:`Magic Resistance`. The devil has advantage on saving throws against
 spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The devil makes three attacks: one with its bite, one
 with its claws, and one with its tail.
@@ -508,8 +515,9 @@ darkvision.
 :bi:`Magic Resistance`. The imp has advantage on saving throws against
 spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Sting (Bite in Beast Form)`. *Melee Weapon Attack:* +5 to hit,
 reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage, and the
@@ -558,8 +566,9 @@ back to life with all its hit points in 1d10 days unless it is killed by
 a good-aligned creature with a *bless* spell cast on that creature or
 its remains are sprinkled with holy water.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Fist`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 2 (1d4) bludgeoning damage.
@@ -616,8 +625,9 @@ At will: *detect magic, fireball*
 
 3/day each: *hold monster, wall of fire*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The pit fiend makes four attacks: one with its bite,
 one with its claw, one with its mace, and one with its tail.

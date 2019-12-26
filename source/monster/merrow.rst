@@ -39,8 +39,9 @@ Merrow
 
 :bi:`Amphibious`. The merrow can breathe air and water.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The merrow makes two attacks: one with its bite and
 one with its claws or harpoon.

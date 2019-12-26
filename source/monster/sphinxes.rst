@@ -75,8 +75,9 @@ Cantrips (at will): *sacred flame, spare the dying, thaumaturgy*
 
 6th level (1 slot): *heroes' feast*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The sphinx makes two claw attacks.
 
@@ -103,8 +104,9 @@ On a failed save, a creature takes 44 (8d10) thunder damage and is
 knocked prone. On a successful save, the creature takes half as much
 damage and isn't knocked prone.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The sphinx can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -176,16 +178,18 @@ Cantrips (at will): *mage hand, minor illusion, prestidigitation*
 
 5th level (1 slot): *legend lore*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The sphinx makes two claw attacks.
 
 :bi:`Claw`. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target.
 *Hit:* 13 (2d8 + 4) slashing damage.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The sphinx can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only

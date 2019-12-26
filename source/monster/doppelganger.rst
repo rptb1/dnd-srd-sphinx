@@ -54,8 +54,9 @@ any creature it has surprised.
 it with an attack during the first round of combat, the target takes an
 extra 10 (3d6) damage from the attack.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The doppelganger makes two melee attacks.
 

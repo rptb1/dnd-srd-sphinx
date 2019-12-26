@@ -51,8 +51,9 @@ and unable to smell.
 :bi:`Stone Camouflage`. The grimlock has advantage on Dexterity
 (Stealth) checks made to hide in rocky terrain.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Spiked Bone Club`. *Melee Weapon Attack:* +5 to hit, reach 5 ft.,
 one target. *Hit:* 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing

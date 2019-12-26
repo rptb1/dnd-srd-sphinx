@@ -60,8 +60,9 @@ tongues, wind walk*
 1/day each: *conjure elemental (air elemental only), creation, gaseous
 form, invisibility, major image, plane shift*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The djinni makes three scimitar attacks.
 
@@ -125,8 +126,9 @@ At will: *detect magic*
 1/day each: *conjure elemental (fire elemental only), gaseous form,
 invisibility, major image, plane shift, wall of fire*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The efreeti makes two scimitar attacks or uses its
 Hurl Flame twice.

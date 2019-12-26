@@ -49,8 +49,9 @@ suffocating.
 :bi:`Shark Telepathy`. The sahuagin can magically command any shark
 within 120 feet of it, using a limited telepathy.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The sahuagin makes two melee attacks: one with its
 bite and one with its claws or spear.

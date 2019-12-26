@@ -58,8 +58,9 @@ take the Hide action as a bonus action.
 :bi:`Sunlight Weakness`. While in sunlight, the shadow has disadvantage
 on attack rolls, ability checks, and saving throws.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Strength Drain`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
 creature. *Hit:* 9 (2d6 + 2) necrotic damage, and the target's Strength

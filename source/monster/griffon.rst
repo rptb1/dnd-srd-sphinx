@@ -42,8 +42,9 @@ Griffon
 :bi:`Keen Sight`. The griffon has advantage on Wisdom (Perception)
 checks that rely on sight.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The griffon makes two attacks: one with its beak and
 one with its claws.

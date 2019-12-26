@@ -53,8 +53,9 @@ damage if it ends its turn inside an object.
 disadvantage on attack rolls, as well as on Wisdom (Perception) checks
 that rely on sight.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Life Drain`. *Melee Spell Attack:* +4 to hit, reach 5 ft., one
 creature. *Hit:* 10 (3d6) necrotic damage. The target must succeed on a

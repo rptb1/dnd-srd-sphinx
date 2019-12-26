@@ -54,8 +54,9 @@ At will: *dancing lights, minor illusion, vicious mockery*
 creature that hears the sounds can tell they are imitations with a
 successful DC 14 Wisdom (Insight) check.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Claws.` *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 13 (2d8 + 4) slashing damage.
@@ -119,8 +120,9 @@ At will: *detect magic, magic missile*
 :bi:`Magic Resistance`. The hag has advantage on saving throws against
 spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Claws (Hag Form Only)`. *Melee Weapon Attack:* +7 to hit, reach 5
 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
@@ -185,8 +187,9 @@ is sudden, the target can avert its eyes and avoid making the initial
 saving throw. Until the start of its next turn, a creature that averts
 its eyes has disadvantage on attack rolls against the hag.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Claws.` *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 10 (2d6 + 3) slashing damage.

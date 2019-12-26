@@ -42,8 +42,9 @@ Goblin
 :bi:`Nimble Escape`. The goblin can take the Disengage or Hide action as
 a bonus action on each of its turns.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Scimitar`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
 target. *Hit:* 5 (1d6 + 2) slashing damage.

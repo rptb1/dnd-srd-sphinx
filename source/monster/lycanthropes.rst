@@ -55,8 +55,9 @@ transformed. It reverts to its true form if it dies.
 :bi:`Keen Smell`. The werebear has advantage on Wisdom (Perception)
 checks that rely on smell.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. In bear form, the werebear makes two claw attacks. In
 humanoid form, it makes two greataxe attacks. In hybrid form, it can
@@ -118,8 +119,9 @@ or be knocked prone.
 takes 14 damage or less that would reduce it to 0 hit points, it is
 reduced to 1 hit point instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack (Humanoid or Hybrid Form Only)`. The wereboar makes two
 attacks, only one of which can be with its tusks.
@@ -169,8 +171,9 @@ reverts to its true form if it dies.
 :bi:`Keen Smell`. The wererat has advantage on Wisdom (Perception)
 checks that rely on smell.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack (Humanoid or Hybrid Form Only)`. The wererat makes two
 attacks, only one of which can be a bite.
@@ -230,8 +233,9 @@ attack on the same turn, that target must succeed on a DC 14 Strength
 saving throw or be knocked prone. If the target is prone, the weretiger
 can make one bite attack against it as a bonus action.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack (Humanoid or Hybrid Form Only)`. In humanoid form, the
 weretiger makes two scimitar attacks or two longbow attacks. In hybrid
@@ -290,8 +294,9 @@ reverts to its true form if it dies.
 :bi:`Keen Hearing and Smell`. The werewolf has advantage on Wisdom
 (Perception) checks that rely on hearing or smell.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack (Humanoid or Hybrid Form Only)`. The werewolf makes two
 attacks: two with its spear (humanoid form) or one with its bite and one

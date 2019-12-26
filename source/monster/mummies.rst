@@ -52,8 +52,9 @@ poisoned
 
 **Challenge** 3 (700 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The mummy can use its Dreadful Glare and makes one
 attack with its rotting fist.
@@ -135,8 +136,9 @@ Cantrips (at will): *sacred flame, thaumaturgy*
 
 6th level (1 slot): *harm*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The mummy can use its Dreadful Glare and makes one
 attack with its rotting fist.
@@ -158,8 +160,9 @@ the saving throw by 5 or more, it is also paralyzed for the same
 duration. A target that succeeds on the saving throw is immune to the
 Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The mummy lord can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only

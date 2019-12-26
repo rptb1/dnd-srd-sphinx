@@ -46,8 +46,9 @@ Medium undead, lawful evil
 
 **Challenge** 1/4 (50 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Shortsword`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
 target. *Hit:* 5 (1d6 + 2) piercing damage.
@@ -90,8 +91,9 @@ takes an extra 9 (2d8) piercing damage. If the target is a creature, it
 must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet
 away and knocked prone.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Greataxe`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one
 target. *Hit:* 17 (2d12 + 4) slashing damage.
@@ -128,8 +130,9 @@ Warhorse Skeleton
 
 **Challenge** 1/2 (100 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Hooves`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 11 (2d6 + 4) bludgeoning damage.

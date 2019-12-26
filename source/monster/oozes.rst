@@ -63,8 +63,9 @@ round.
 :bi:`Spider Climb`. The pudding can climb difficult surfaces, including
 upside down on ceilings, without needing to make an ability check.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Pseudopod`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
 target. *Hit:* 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage.
@@ -127,8 +128,9 @@ successful DC 15 Wisdom (Perception) check to spot a cube that has
 neither moved nor attacked. A creature that tries to enter the cube's
 space while unaware of the cube is surprised by the cube.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Pseudopod`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
 creature. *Hit:* 10 (3d6) acid damage.
@@ -196,8 +198,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 :bi:`False Appearance`. While the ooze remains motionless, it is
 indistinguishable from an oily pool or wet rock.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Pseudopod`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one
 target. *Hit:* 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage,
@@ -242,8 +245,9 @@ wide without squeezing.
 :bi:`Spider Climb`. The jelly can climb difficult surfaces, including
 upside down on ceilings, without needing to make an ability check.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Pseudopod`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
 target. *Hit:* 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.

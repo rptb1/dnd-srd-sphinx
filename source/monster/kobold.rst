@@ -45,8 +45,9 @@ that rely on sight.
 creature if at least one of the kobold's allies is within 5 feet of the
 creature and the ally isn't incapacitated.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Dagger`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 4 (1d4 + 2) piercing damage.

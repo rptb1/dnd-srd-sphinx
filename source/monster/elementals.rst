@@ -52,8 +52,9 @@ poisoned, prone, restrained, unconscious
 stop there. It can move through a space as narrow as 1 inch wide without
 squeezing.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The elemental makes two slam attacks.
 
@@ -112,8 +113,9 @@ material it moves through.
 :bi:`Siege Monster`. The elemental deals double damage to objects and
 structures.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The elemental makes two slam attacks.
 
@@ -167,8 +169,9 @@ radius and dim light in an additional 30 feet.
 water, or for every gallon of water splashed on it, it takes 1 cold
 damage.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The elemental makes two touch attacks.
 
@@ -216,8 +219,9 @@ squeezing.
 :bi:`Freeze`. If the elemental takes cold damage, it partially freezes;
 its speed is reduced by 20 feet until the end of its next turn.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The elemental makes two slam attacks.
 

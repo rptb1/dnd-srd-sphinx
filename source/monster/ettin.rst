@@ -46,8 +46,9 @@ frightened, stunned, and knocked unconscious.
 :bi:`Wakeful`. When one of the ettin's heads is asleep, its other head
 is awake.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The ettin makes two attacks: one with its battleaxe
 and one with its morningstar.

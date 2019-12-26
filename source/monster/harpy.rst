@@ -37,8 +37,9 @@ Harpy
 
 **Challenge** 1 (200 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The harpy makes two attacks: one with its claws and
 one with its club.

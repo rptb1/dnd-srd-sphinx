@@ -37,8 +37,9 @@ Cockatrice
 
 **Challenge** 1/2 (100 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature.
 *Hit:* 3 (1d4 + 1) piercing damage, and the target must succeed on a DC

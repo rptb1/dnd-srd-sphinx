@@ -53,8 +53,9 @@ advantage on all melee weapon attack rolls it makes during that turn,
 but attack rolls against it have advantage until the start of its next
 turn.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Greataxe`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one
 target. *Hit:* 17 (2d12 + 4) slashing damage.

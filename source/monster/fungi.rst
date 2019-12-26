@@ -83,8 +83,9 @@ Perception 6
 :bi:`False Appearance`. While the violet fungus remains motionless, it
 is indistinguishable from an ordinary fungus.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The fungus makes 1d4 Rotting Touch attacks.
 

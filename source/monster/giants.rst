@@ -57,8 +57,9 @@ At will: *detect magic, fog cloud, light*
 
 1/day each: *control weather, gaseous form*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The giant makes two morningstar attacks.
 
@@ -97,8 +98,9 @@ Fire Giant
 
 **Challenge** 9 (5,000 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The giant makes two greatsword attacks.
 
@@ -137,8 +139,9 @@ Frost Giant
 
 **Challenge** 8 (3,900 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The giant makes two greataxe attacks.
 
@@ -173,8 +176,9 @@ Hill Giant
 
 **Challenge** 5 (1,800 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The giant makes two greatclub attacks.
 
@@ -214,8 +218,9 @@ Stone Giant
 :bi:`Stone Camouflage.` The giant has advantage on Dexterity (Stealth)
 checks made to hide in rocky terrain.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The giant makes two greatclub attacks.
 
@@ -275,8 +280,9 @@ At will: *detect magic, feather fall, levitate, light*
 
 3/day each: *control weather, water breathing*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The giant makes two greatsword attacks.
 

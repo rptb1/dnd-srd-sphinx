@@ -66,8 +66,9 @@ spells and other magical effects.
 
 :bi:`Magic Weapons`. The balor's weapon attacks are magical.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The balor makes two attacks: one with its longsword
 and one with its whip.
@@ -116,8 +117,9 @@ understand Abyssal)
 
 **Challenge** 1/4 (50 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dretch makes two attacks: one with its bite and
 one with its claws.
@@ -180,8 +182,9 @@ At will: *darkness, detect magic, dispel magic*
 :bi:`Magic Resistance`. The glabrezu has advantage on saving throws
 against spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The glabrezu makes four attacks: two with its pincers
 and two with its fists. Alternatively, it makes two attacks with its
@@ -235,8 +238,9 @@ hezrou must succeed on a DC 14 Constitution saving throw or be poisoned
 until the start of its next turn. On a successful saving throw, the
 creature is immune to the hezrou's stench for 24 hours.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The hezrou makes three attacks: one with its bite and
 two with its claws.
@@ -287,8 +291,9 @@ against spells and other magical effects.
 :bi:`Reactive`. The marilith can take one reaction on every turn in a
 combat.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The marilith makes seven attacks: six with its
 longswords and one with its tail.
@@ -349,8 +354,9 @@ slashing from nonmagical attacks
 :bi:`Magic Resistance`. The nalfeshnee has advantage on saving throws
 against spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The nalfeshnee uses Horror Nimbus if it can. It then
 makes three attacks: one with its bite and two with its claws.
@@ -416,8 +422,9 @@ transformed. It reverts to its true form if it dies.
 :bi:`Magic Resistance`. The quasit has advantage on saving throws
 against spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Claws (Bite in Beast Form)`. *Melee Weapon Attack:* +4 to hit,
 reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage, and the
@@ -472,8 +479,9 @@ slashing from nonmagical attacks
 :bi:`Magic Resistance`. The vrock has advantage on saving throws against
 spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The vrock makes two attacks: one with its beak and
 one with its talons.

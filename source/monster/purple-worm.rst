@@ -42,8 +42,9 @@ Purple Worm
 :bi:`Tunneler`. The worm can burrow through solid rock at half its
 burrow speed and leaves a 10-foot diameter tunnel in its wake.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The worm makes two attacks: one with its bite and one
 with its stinger.

@@ -54,8 +54,9 @@ creature is immune to the ghast's Stench for 24 hours.
 :bi:`Turning Defiance`. The ghast and any ghouls within 30 feet of it
 have advantage on saving throws against effects that turn undead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature.
 *Hit:* 12 (2d8 + 3) piercing damage.
@@ -93,8 +94,9 @@ Ghoul
 
 **Challenge** 1 (200 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature.
 *Hit:* 9 (2d6 + 2) piercing damage.

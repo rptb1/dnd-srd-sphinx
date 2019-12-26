@@ -42,8 +42,9 @@ Remorhaz
 :bi:`Heated Body`. A creature that touches the remorhaz or hits it with
 a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target.
 *Hit:* 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the

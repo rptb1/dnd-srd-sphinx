@@ -39,8 +39,9 @@ Wyvern
 
 **Challenge** 6 (2,300 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The wyvern makes two attacks: one with its bite and
 one with its stinger. While flying, it can use its claws in place of one

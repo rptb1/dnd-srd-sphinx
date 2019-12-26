@@ -51,8 +51,9 @@ must make a Constitution saving throw with a DC of 5 + the damage taken,
 unless the damage is radiant or from a critical hit. On a success, the
 zombie drops to 1 hit point instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Slam`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 4 (1d6 + 1) bludgeoning damage.
@@ -91,8 +92,9 @@ must make a Constitution saving throw with a DC of 5 + the damage taken,
 unless the damage is radiant or from a critical hit. On a success, the
 zombie drops to 1 hit point instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Morningstar`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one
 target. *Hit:* 13 (2d8 + 4) bludgeoning damage.

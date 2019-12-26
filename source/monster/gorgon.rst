@@ -47,8 +47,9 @@ that target must succeed on a DC 16 Strength saving throw or be knocked
 prone. If the target is prone, the gorgon can make one attack with its
 hooves against it as a bonus action.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Gore`. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target.
 *Hit:* 18 (2d12 + 5) piercing damage.

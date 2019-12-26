@@ -56,8 +56,9 @@ unconscious for 1 minute.
 :bi:`False Appearance`. While the armor remains motionless, it is
 indistinguishable from a normal suit of armor.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The armor makes two melee attacks.
 
@@ -103,8 +104,9 @@ save DC or fall unconscious for 1 minute.
 :bi:`False Appearance`. While the sword remains motionless and isn't
 flying, it is indistinguishable from a normal sword.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Longsword`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one
 target. *Hit:* 5 (1d8 + 1) slashing damage.
@@ -150,8 +152,9 @@ takes the other half.
 :bi:`False Appearance`. While the rug remains motionless, it is
 indistinguishable from a normal rug.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Smother`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium
 or smaller creature. *Hit:* The creature is grappled (escape DC 13).

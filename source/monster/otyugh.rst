@@ -44,8 +44,9 @@ messages and images to any creature within 120 feet of it that can
 understand a language. This form of telepathy doesn't allow the
 receiving creature to telepathically respond.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The otyugh makes three attacks: one with its bite and
 two with its tentacles.

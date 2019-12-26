@@ -47,8 +47,9 @@ indistinguishable from a normal tree.
 :bi:`Siege Monster`. The treant deals double damage to objects and
 structures.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The treant makes two slam attacks.
 

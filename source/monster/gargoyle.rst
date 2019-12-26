@@ -47,8 +47,9 @@ nonmagical attacks that aren't adamantine
 :bi:`False Appearance`. While the gargoyle remains motionless, it is
 indistinguishable from an inanimate statue.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The gargoyle makes two attacks: one with its bite and
 one with its claws.

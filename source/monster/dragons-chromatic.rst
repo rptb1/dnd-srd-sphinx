@@ -54,8 +54,9 @@ Ancient Black Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -82,8 +83,9 @@ line that is 10 feet wide. Each creature in that line must make a DC 22
 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save,
 or half as much damage on a successful one.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -133,8 +135,9 @@ Adult Black Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -161,8 +164,9 @@ line that is 5 feet wide. Each creature in that line must make a DC 18
 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save,
 or half as much damage on a successful one.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -209,8 +213,9 @@ Young Black Dragon
 
 :bi:`Amphibious`. The dragon can breathe air and water.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon makes three attacks: one with its bite and
 two with its claws.
@@ -257,8 +262,9 @@ Black Dragon Wyrmling
 
 :bi:`Amphibious`. The dragon can breathe air and water.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
@@ -303,8 +309,9 @@ Ancient Blue Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -331,8 +338,9 @@ dragon's Frightful Presence for the next 24 hours.
 a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a
 failed save, or half as much damage on a successful one.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -380,8 +388,9 @@ Adult Blue Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -408,8 +417,9 @@ dragon's Frightful Presence for the next 24 hours.
 DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a
 failed save, or half as much damage on a successful one.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -454,8 +464,9 @@ Young Blue Dragon
 
 **Challenge** 9 (5,000 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon makes three attacks: one with its bite and
 two with its claws.
@@ -500,8 +511,9 @@ Blue Dragon Wyrmling
 
 **Challenge** 3 (700 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
@@ -551,8 +563,9 @@ Stealth +6
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -579,8 +592,9 @@ a 60-foot cone. Each creature in that area must make a DC 18
 Constitution saving throw, taking 56 (16d6) poison damage on a failed
 save, or half as much damage on a successful one.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -629,8 +643,9 @@ Young Green Dragon
 
 :bi:`Amphibious`. The dragon can breathe air and water.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon makes three attacks: one with its bite and
 two with its claws.
@@ -679,8 +694,9 @@ Green Dragon Wyrmling
 
 :bi:`Amphibious`. The dragon can breathe air and water.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
@@ -725,8 +741,9 @@ Ancient Red Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -753,8 +770,9 @@ cone. Each creature in that area must make a DC 24 Dexterity saving
 throw, taking 91 (26d6) fire damage on a failed save, or half as much
 damage on a successful one.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -802,8 +820,9 @@ Adult Red Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -830,8 +849,9 @@ cone. Each creature in that area must make a DC 21 Dexterity saving
 throw, taking 63 (18d6) fire damage on a failed save, or half as much
 damage on a successful one.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -876,8 +896,9 @@ Young Red Dragon
 
 **Challenge** 10 (5,900 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon makes three attacks: one with its bite and
 two with its claws.
@@ -922,8 +943,9 @@ Red Dragon Wyrmling
 
 **Challenge** 4 (1,100 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
@@ -972,8 +994,9 @@ terrain composed of ice or snow doesn't cost it extra moment.
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -1000,8 +1023,9 @@ dragon's Frightful Presence for the next 24 hours.
 saving throw, taking 72 (16d8) cold damage on a failed save, or half as
 much damage on a successful one.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -1053,8 +1077,9 @@ terrain composed of ice or snow doesn't cost it extra moment.
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -1081,8 +1106,9 @@ dragon's Frightful Presence for the next 24 hours.
 saving throw, taking 54 (12d8) cold damage on a failed save, or half as
 much damage on a successful one.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -1131,8 +1157,9 @@ Young White Dragon
 without needing to make an ability check. Additionally, difficult
 terrain composed of ice or snow doesn't cost it extra moment.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon makes three attacks: one with its bite and
 two with its claws.
@@ -1177,8 +1204,9 @@ White Dragon Wyrmling
 
 **Challenge** 2 (450 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.

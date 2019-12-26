@@ -61,8 +61,9 @@ suggestion*
 
 1/day each: *dominate person, fly, plane shift, true seeing*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The rakshasa makes two claw attacks.
 

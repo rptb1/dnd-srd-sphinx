@@ -89,8 +89,9 @@ Half-Red Dragon Veteran
 
 **Challenge** 5 (1,800 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The veteran makes two longsword attacks. If it has a
 shortsword drawn, it can also make a shortsword attack.

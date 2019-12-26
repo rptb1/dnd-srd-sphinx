@@ -39,8 +39,9 @@ Sprite
 
 **Challenge** 1/4 (50 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Longsword`. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one
 target. *Hit:* 1 slashing damage.

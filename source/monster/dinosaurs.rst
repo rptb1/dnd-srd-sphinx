@@ -44,8 +44,9 @@ Plesiosaurus
 
 :bi:`Hold Breath`. The plesiosaurus can hold its breath for 1 hour.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target.
 *Hit:* 14 (3d6 + 4) piercing damage.
@@ -81,8 +82,9 @@ be knocked prone.
 If the target is prone, the triceratops can make one stomp attack
 against it as a bonus action.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Gore`. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target.
 *Hit:* 24 (4d8 + 6) piercing damage.
@@ -115,8 +117,9 @@ Tyrannosaurus Rex
 
 **Challenge** 8 (3,900 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The tyrannosaurus makes two attacks: one with its
 bite and one with its tail. It can't make both attacks against the same

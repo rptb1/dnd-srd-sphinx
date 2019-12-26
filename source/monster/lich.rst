@@ -85,8 +85,9 @@ fireball*
 :bi:`Turn Resistance`. The lich has advantage on saving throws against
 any effect that turns undead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Paralyzing Touch`. *Melee Spell Attack:* +12 to hit, reach 5 ft.,
 one creature. *Hit:* 10 (3d6) cold damage. The target must succeed on a
@@ -94,8 +95,9 @@ DC 18 Constitution saving throw or be paralyzed for 1 minute. The target
 can repeat the saving throw at the end of each of its turns, ending the
 effect on itself on a success.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The lich can take 3 legendary actions, choosing from the options below.
 Only one legendary action option can be used at a time and only at the

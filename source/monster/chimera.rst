@@ -39,8 +39,9 @@ Chimera
 
 **Challenge** 6 (2,300 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The chimera makes three attacks: one with its bite,
 one with its horns, and one with its claws. When its fire breath is

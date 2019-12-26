@@ -59,8 +59,9 @@ extra reaction that can be used only for opportunity attacks.
 :bi:`Wakeful`. While the hydra sleeps, at least one of its heads is
 awake.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The hydra makes as many bite attacks as it has heads.
 

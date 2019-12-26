@@ -41,8 +41,9 @@ Behir
 
 **Challenge** 11 (7,200 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The behir makes two attacks: one with its bite and
 one to constrict.

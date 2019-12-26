@@ -55,8 +55,9 @@ movement to move in a randomly determined direction. On a 7 or 8, the
 creature makes a melee attack against a randomly determined creature
 within its reach or does nothing if it can't make such an attack.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The gibbering mouther makes one bite attack and, if
 it can, uses its Blinding Spittle.

@@ -42,8 +42,9 @@ Owlbear
 :bi:`Keen Sight and Smell`. The owlbear has advantage on Wisdom
 (Perception) checks that rely on sight or smell.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The owlbear makes two attacks: one with its beak and
 one with its claws.

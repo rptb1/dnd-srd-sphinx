@@ -61,8 +61,9 @@ restoration, protection from poison, sanctuary, shield*
 that would sense its emotions, read its thoughts, or detect its
 location.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature.
 *Hit:* 8 (1d6 + 5) piercing damage, and the target must succeed on a DC

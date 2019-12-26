@@ -46,8 +46,9 @@ cumulative -1 penalty to damage rolls. If its penalty drops to -5, the
 weapon is destroyed. Nonmagical ammunition made of metal that hits the
 rust monster is destroyed after dealing damage.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 5 (1d8 + 1) piercing damage.

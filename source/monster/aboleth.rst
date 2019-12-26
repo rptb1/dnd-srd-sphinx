@@ -53,8 +53,9 @@ Constitution saving throw. On a failure, the creature is diseased for
 the aboleth, the aboleth learns the creature's greatest desires if the
 aboleth can see the creature.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The aboleth makes three tentacle attacks.
 
@@ -87,7 +88,7 @@ hours, the target can also repeat the saving throw when it is at least 1
 mile away from the aboleth.
 
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The aboleth can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only

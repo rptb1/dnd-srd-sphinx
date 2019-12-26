@@ -49,8 +49,9 @@ Chuul
 This trait otherwise works like the *detect magic* spell but isn't
 itself magical.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The chuul makes two pincer attacks. If the chuul is
 grappling a creature, the chuul can also use its tentacles once.

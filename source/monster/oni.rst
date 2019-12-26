@@ -54,8 +54,9 @@ At will: *darkness, invisibility*
 :bi:`Regeneration`. The oni regains 10 hit points at the start of its
 turn if it has at least 1 hit point.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The oni makes two attacks, either with its claws or
 its glaive.

@@ -52,8 +52,9 @@ a DC 15 Strength check against it.
 :bi:`Spider Climb`. The roper can climb difficult surfaces, including
 upside down on ceilings, without needing to make an ability check.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The roper makes four attacks with its tendrils, uses
 Reel, and makes one attack with its bite.

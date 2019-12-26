@@ -52,8 +52,9 @@ being worn or carried in that area are ignited.
 ablaze or extinguish its flames. While ablaze, the magmin sheds bright
 light in a 10-foot radius and dim light for an additional 10 feet.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Touch`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 7 (2d6) fire damage. If the target is a creature or a flammable

@@ -59,8 +59,9 @@ motionless, it is indistinguishable from an ordinary object.
 :bi:`Grappler`. The mimic has advantage on attack rolls against any
 creature grappled by it.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Pseudopod`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
 target. *Hit:* 7 (1d8 + 3) bludgeoning damage. If the mimic is in object

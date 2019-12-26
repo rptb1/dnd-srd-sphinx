@@ -64,8 +64,9 @@ At will: *detect evil and good*
 :bi:`Magic Resistance`. The deva has advantage on saving throws against
 spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The deva makes two melee attacks.
 
@@ -140,8 +141,9 @@ dead*
 :bi:`Magic Resistance`. The planetar has advantage on saving throws
 against spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The planetar makes two melee attacks.
 
@@ -206,8 +208,9 @@ At will: *detect evil and good, invisibility (self only)*
 :bi:`Magic Resistance`. The solar has advantage on saving throws against
 spells and other magical effects.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The solar makes two greatsword attacks.
 
@@ -233,7 +236,7 @@ target magically regains 40 (8d8 + 4) hit points and is freed from any
 curse, disease, poison, blindness, or deafness.
 
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The solar can take 3 legendary actions, choosing from the options below.
 Only one legendary action option can be used at a time and only at the

@@ -52,8 +52,9 @@ Ancient Brass Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -100,8 +101,9 @@ Intelligence, Wisdom, and Charisma scores, as well as this action. Its
 statistics and capabilities are otherwise replaced by those of the new
 form, except any class features or legendary actions of that form.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -149,8 +151,9 @@ Adult Brass Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -185,8 +188,9 @@ creature in that area must succeed on a DC 18 Constitution saving throw
 or fall unconscious for 10 minutes. This effect ends for a creature if
 the creature takes damage or someone uses an action to wake it.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -231,8 +235,9 @@ Young Brass Dragon
 
 **Challenge** 6 (2,300 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon makes three attacks: one with its bite and
 two with its claws.
@@ -285,8 +290,9 @@ Brass Dragon Wyrmling
 
 **Challenge** 1 (200 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 7 (1d10 + 2) piercing damage.
@@ -341,8 +347,9 @@ Ancient Bronze Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -389,8 +396,9 @@ Intelligence, Wisdom, and Charisma scores, as well as this action. Its
 statistics and capabilities are otherwise replaced by those of the new
 form, except any class features or legendary actions of that form.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -440,8 +448,9 @@ Adult Bronze Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -488,8 +497,9 @@ Intelligence, Wisdom, and Charisma scores, as well as this action. Its
 statistics and capabilities are otherwise replaced by those of the new
 form, except any class features or legendary actions of that form.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -536,8 +546,9 @@ Young Bronze Dragon
 
 :bi:`Amphibious`. The dragon can breathe air and water.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon makes three attacks: one with its bite and
 two with its claws.
@@ -592,8 +603,9 @@ Bronze Dragon Wyrmling
 
 :bi:`Amphibious`. The dragon can breathe air and water.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 8 (1d10 + 3) piercing damage.
@@ -646,8 +658,9 @@ Ancient Copper Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -698,8 +711,9 @@ Intelligence, Wisdom, and Charisma scores, as well as this action. Its
 statistics and capabilities are otherwise replaced by those of the new
 form, except any class features or legendary actions of that form.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -747,8 +761,9 @@ Adult Copper Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -787,8 +802,9 @@ both. These effects last for 1 minute. The creature can repeat the
 saving throw at the end of each of its turns, ending the effect on
 itself with a successful save.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -833,8 +849,9 @@ Young Copper Dragon
 
 **Challenge** 7 (2,900 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon makes three attacks: one with its bite and
 two with its claws.
@@ -891,8 +908,9 @@ Copper Dragon Wyrmling
 
 **Challenge** 1 (200 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 7 (1d10 + 2) piercing damage.
@@ -951,8 +969,9 @@ Ancient Gold Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -1001,8 +1020,9 @@ Intelligence, Wisdom, and Charisma scores, as well as this action. Its
 statistics and capabilities are otherwise replaced by those of the new
 form, except any class features or legendary actions of that form.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -1052,8 +1072,9 @@ Adult Gold Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -1102,8 +1123,9 @@ Intelligence, Wisdom, and Charisma scores, as well as this action. Its
 statistics and capabilities are otherwise replaced by those of the new
 form, except any class features or legendary actions of that form.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -1150,8 +1172,9 @@ Young Gold Dragon
 
 :bi:`Amphibious`. The dragon can breathe air and water.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon makes three attacks: one with its bite and
 two with its claws.
@@ -1208,8 +1231,9 @@ Gold Dragon Wyrmling
 
 :bi:`Amphibious`. The dragon can breathe air and water.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 9 (1d10 + 4) piercing damage.
@@ -1264,8 +1288,9 @@ Ancient Silver Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -1313,8 +1338,9 @@ Intelligence, Wisdom, and Charisma scores, as well as this action. Its
 statistics and capabilities are otherwise replaced by those of the new
 form, except any class features or legendary actions of that form.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -1362,8 +1388,9 @@ Adult Silver Dragon
 :bi:`Legendary Resistance (3/Day)`. If the dragon fails a saving throw,
 it can choose to succeed instead.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon can use its Frightful Presence. It then
 makes three attacks: one with its bite and two with its claws.
@@ -1411,8 +1438,9 @@ Intelligence, Wisdom, and Charisma scores, as well as this action. Its
 statistics and capabilities are otherwise replaced by those of the new
 form, except any class features or legendary actions of that form.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The dragon can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only
@@ -1457,8 +1485,9 @@ Young Silver Dragon
 
 **Challenge** 9 (5,000 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dragon makes three attacks: one with its bite and
 two with its claws.
@@ -1512,8 +1541,9 @@ Silver Dragon Wyrmling
 
 **Challenge** 2 (450 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 9 (1d10 + 4) piercing damage.

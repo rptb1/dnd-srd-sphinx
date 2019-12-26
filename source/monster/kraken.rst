@@ -55,8 +55,9 @@ being grappled.
 :bi:`Siege Monster`. The kraken deals double damage to objects and
 structures.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The kraken makes three tentacle attacks, each of
 which it can replace with one use of Fling.
@@ -95,8 +96,9 @@ lightning, each of which can strike a target the kraken can see within
 taking 22 (4d10) lightning damage on a failed save, or half as much
 damage on a successful one.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The kraken can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only

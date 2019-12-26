@@ -49,8 +49,9 @@ At will: *disguise self (any humanoid form), major image*
 
 1/day: *geas*
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The lamia makes two attacks: one with its claws and
 one with its dagger or Intoxicating Touch.

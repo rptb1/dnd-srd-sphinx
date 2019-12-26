@@ -66,8 +66,9 @@ spells and other magical effects.
 
 :bi:`Magic Weapons`. The golem's weapon attacks are magical.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The golem makes two slam attacks.
 
@@ -142,8 +143,9 @@ spells and other magical effects.
 
 :bi:`Magic Weapons`. The golem's weapon attacks are magical.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The golem makes two slam attacks.
 
@@ -191,8 +193,9 @@ spells and other magical effects.
 
 :bi:`Magic Weapons`. The golem's weapon attacks are magical.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The golem makes two melee attacks.
 
@@ -244,8 +247,9 @@ spells and other magical effects.
 
 :bi:`Magic Weapons`. The golem's weapon attacks are magical.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The golem makes two slam attacks.
 

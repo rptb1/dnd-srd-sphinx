@@ -59,8 +59,9 @@ against spells and other magical effects.
 
 :bi:`Magic Weapons`. The unicorn's weapon attacks are magical.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The unicorn makes two attacks: one with its hooves
 and one with its horn.
@@ -81,8 +82,9 @@ three willing creatures it can see within 5 feet of it, along with any
 equipment they are wearing or carrying, to a location the unicorn is
 familiar with, up to 1 mile away.
 
+
 Legendary Actions
-                 
+^^^^^^^^^^^^^^^^^
 
 The unicorn can take 3 legendary actions, choosing from the options
 below. Only one legendary action option can be used at a time and only

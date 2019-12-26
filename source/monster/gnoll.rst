@@ -41,8 +41,9 @@ Gnoll
 melee attack on its turn, the gnoll can take a bonus action to move up
 to half its speed and make a bite attack.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 4 (1d4 + 2) piercing damage.

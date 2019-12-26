@@ -53,8 +53,9 @@ checks made to hide in rocky terrain.
 precious metals and stones, such as coins and gems, within 60 feet of
 it.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The xorn makes three claw attacks and one bite
 attack.

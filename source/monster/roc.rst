@@ -44,8 +44,9 @@ Roc
 :bi:`Keen Sight`. The roc has advantage on Wisdom (Perception) checks
 that rely on sight.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The roc makes two attacks: one with its beak and one
 with its talons.

@@ -50,8 +50,9 @@ underside exposed, it is indistinguishable from a dark leather cloak.
 disadvantage on attack rolls and Wisdom (Perception) checks that rely on
 sight.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The cloaker makes two attacks: one with its bite and
 one with its tail.

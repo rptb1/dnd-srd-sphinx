@@ -47,8 +47,9 @@ charmed or paralyzed.
 disadvantage on attack rolls, as well as on Wisdom (Perception) checks
 that rely on sight.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Enlarge (Recharges after a Short or Long Rest)`. For 1 minute, the
 duergar magically increases in size, along with anything it is wearing

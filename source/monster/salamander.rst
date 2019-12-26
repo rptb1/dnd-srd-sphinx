@@ -50,8 +50,9 @@ with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.
 :bi:`Heated Weapons`. Any metal melee weapon the salamander wields deals
 an extra 3 (1d6) fire damage on a hit (included in the attack).
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The salamander makes two attacks: one with its spear
 and one with its tail.

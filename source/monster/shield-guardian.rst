@@ -61,8 +61,9 @@ spellcaster, the guardian casts the stored spell with any parameters set
 by the original caster, requiring no components. When the spell is cast
 or a new spell is stored, any previously stored spell is lost.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The guardian makes two fist attacks.
 

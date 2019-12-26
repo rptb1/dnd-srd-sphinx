@@ -58,8 +58,9 @@ itself on a success.
 requiring no material components. Its innate spellcasting ability is
 Charisma.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Claws.` *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 4 (1d4 + 2) slashing damage.
@@ -113,8 +114,9 @@ indistinguishable from an ordinary shard of ice.
 cloud*, requiring no material components. Its innate spellcasting
 ability is Charisma.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Claws.` *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature.
 *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
@@ -167,8 +169,9 @@ indistinguishable from an ordinary mound of magma.
 metal* (spell save DC 10), requiring no material components. Its innate
 spellcasting ability is Charisma.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Claws.` *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature.
 *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
@@ -213,8 +216,9 @@ Dexterity saving throw or take 4 (1d8) fire damage.
 requiring no material components. Its innate spellcasting ability is
 Charisma.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Claws.` *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature.
 *Hit:* 2 (1d4) slashing damage plus 2 (1d4) fire damage.
