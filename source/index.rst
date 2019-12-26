@@ -23,9 +23,11 @@ Dungeons & Dragons 5th Edition System Reference Document
    backgrounds
    equipment
    feats
-   gameplay/index
+   abilities
+   adventuring
+   combat
    spellcasting
-   spell-lists/index
+   spell-lists
    spell-descriptions
    gamemastering
    treasure
