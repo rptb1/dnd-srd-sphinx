@@ -131,3 +131,19 @@ Monster Descriptions
    monster/nalfeshnee.rst
    monster/quasit.rst
    monster/vrock.rst
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Devils:
+
+   monster/barbed-devil.rst
+   monster/bearded-devil.rst
+   monster/bone-devil.rst
+   monster/chain-devil.rst
+   monster/erinyes.rst
+   monster/horned-devil.rst
+   monster/ice-devil.rst
+   monster/imp.rst
+   monster/lemure.rst
+   monster/pit-fiend.rst
