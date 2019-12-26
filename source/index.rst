@@ -32,6 +32,7 @@ Dungeons & Dragons 5th Edition System Reference Document
    gamemastering
    treasure
    monsters
+   monster-descriptions
    creatures
    npcs
 
