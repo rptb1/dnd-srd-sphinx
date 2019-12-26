@@ -11,7 +11,6 @@ Dungeons & Dragons 5th Edition System Reference Document
    :caption: Contents:
 
    introduction
-   legal
    beyond
    races/index
    classes/index
