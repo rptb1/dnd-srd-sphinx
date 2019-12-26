@@ -2,6 +2,14 @@
 Legal
 =====
 
+For copyright notices see item 15 of the Open Game License.
+
+Dungeons & Dragons® is a trademark of Wizards of the Coast.
+
+For more information about Wizards of the Coast or any of Wizards'
+trademarks or other intellectual property, please visit their website
+at `www.wizards.com <http://www.wizards.com>`__.
+
 
 Licensing
 =========
@@ -166,5 +174,10 @@ Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney
 Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell,
 Chris Sims, and Steve Townshend, based on original material by E. Gary
 Gygax and Dave Arneson.
+
+Markdown conversion Copyright 2019 B.A. Umberger and Juxtagames, LLC.
+
+Sphinx conversion, restructuring, and extension system Copyright 2019
+Richard Brooksby.
 
 END OF LICENSE
