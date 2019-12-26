@@ -26,6 +26,8 @@ Spell Descriptions
 Spells (A)
 ==========
 
+.. _`Acid Arrow`:
+
 Acid Arrow
 ----------
 
@@ -50,6 +52,8 @@ its next turn.
 3rd level or higher, the damage (both initial and later) increases by
 1d4 for each slot level above 2nd.
 
+.. _`Acid Splash`:
+
 Acid Splash
 -----------
 
@@ -71,6 +75,8 @@ of each other. A target must succeed on a Dexterity saving throw or take
 This spell's damage increases by 1d6 when you reach 5th level (2d6),
 11th level (3d6), and 17th level (4d6).
 
+.. _`Aid`:
+
 Aid
 ---
 
@@ -91,6 +97,8 @@ current hit points increase by 5 for the duration.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, a target's hit points increase by an additional 5
 for each slot level above 2nd.
+
+.. _`Alarm`:
 
 Alarm
 -----
@@ -117,6 +125,8 @@ mile of the warded area. This ping awakens you if you are sleeping.
 
 An audible alarm produces the sound of a hand bell for 10 seconds within
 60 feet.
+
+.. _`Alter Self`:
 
 Alter Self
 ----------
@@ -158,6 +168,8 @@ weapon you chose, and you are proficient with your unarmed strikes.
 Finally, the natural weapon is magic and you have a +1 bonus to the
 attack and damage rolls you make using it.
 
+.. _`Animal Messenger`:
+
 Animal Messenger
 ----------------
 
@@ -191,6 +203,8 @@ spell.
 :bi:`At Higher Levels`. If you cast this spell using a spell slot of 3nd
 level or higher, the duration of the spell increases by 48 hours for
 each slot level above 2nd.
+
+.. _`Animal Shapes`:
 
 Animal Shapes
 -------------
@@ -226,6 +240,8 @@ the nature of its new form, and it can't speak or cast spells.
 
 The target's gear melds into the new form. The target can't activate,
 wield, or otherwise benefit from any of its equipment.
+
+.. _`Animate Dead`:
 
 Animate Dead
 ------------
@@ -268,6 +284,8 @@ spell, rather than animating a new one.
 4th level or higher, you animate or reassert control over two additional
 undead creatures for each slot level above 3rd. Each of the creatures
 must come from a different corpse or pile of bones.
+
+.. _`Animate Objects`:
 
 Animate Objects
 ---------------
@@ -338,6 +356,8 @@ on its form.
 level or higher, you can animate two additional objects for each slot
 level above 5th.
 
+.. _`Antilife Shell`:
+
 Antilife Shell
 --------------
 
@@ -361,6 +381,8 @@ ranged or reach weapons through the barrier.
 
 If you move so that an affected creature is forced to pass through the
 barrier, the spell ends.
+
+.. _`Antimagic Field`:
 
 Antimagic Field
 ---------------
@@ -429,6 +451,8 @@ within the sphere.
 have no effect on the sphere. Likewise, the spheres created by different
 *antimagic field* spells don't nullify each other.
 
+.. _`Antipathy/Sympathy`:
+
 Antipathy/Sympathy
 ------------------
 
@@ -486,6 +510,8 @@ persists.
 A creature that successfully saves against this effect is immune to it
 for 1 minute, after which time it can be affected again.
 
+.. _`Arcane Eye`:
+
 Arcane Eye
 ----------
 
@@ -511,6 +537,8 @@ is no limit to how far away from you the eye can move, but it can't
 enter another plane of existence. A solid barrier blocks the eye's
 movement, but the eye can pass through an opening as small as 1 inch in
 diameter.
+
+.. _`Arcane Hand`:
 
 Arcane Hand
 -----------
@@ -575,6 +603,8 @@ is difficult terrain for the target.
 by 2d8 and the damage from the grasping hand increases by 2d6 for each
 slot level above 5th.
 
+.. _`Arcane Lock`:
+
 Arcane Lock
 -----------
 
@@ -600,6 +630,8 @@ suppresses *arcane lock* for 10 minutes.
 While affected by this spell, the object is more difficult to break or
 force open; the DC to break it or pick any locks on it increases by 10.
 
+.. _`Arcane Sword`:
+
 Arcane Sword
 ------------
 
@@ -622,6 +654,8 @@ of your choice within 5 feet of the sword. On a hit, the target takes
 3d10 force damage. Until the spell ends, you can use a bonus action on
 each of your turns to move the sword up to 20 feet to a spot you can see
 and repeat this attack against the same target or a different one.
+
+.. _`Arcanist's Magic Aura`:
 
 Arcanist's Magic Aura
 ---------------------
@@ -659,6 +693,8 @@ effects that detect creature types, such as a paladin's Divine Sense or
 the trigger of a *symbol* spell. You choose a creature type and other
 spells and magical effects treat the target as if it were a creature of
 that type or of that alignment.
+
+.. _`Astral Projection`:
 
 Astral Projection
 -----------------
@@ -716,6 +752,8 @@ If you are returned to your body prematurely, your companions remain in
 their astral forms and must find their own way back to their bodies,
 usually by dropping to 0 hit points.
 
+.. _`Augury`:
+
 Augury
 ------
 
@@ -752,6 +790,8 @@ If you cast the spell two or more times before completing your next long
 rest, there is a cumulative 25 percent chance for each casting after the
 first that you get a random reading. The GM makes this roll in secret.
 
+.. _`Awaken`:
+
 Awaken
 ------
 
@@ -784,6 +824,8 @@ based on how you treated it while it was charmed.
 Spells (B)
 ==========
 
+.. _`Bane`:
+
 Bane
 ----
 
@@ -806,6 +848,8 @@ roll or saving throw.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you can target one additional creature for each
 slot level above 1st.
+
+.. _`Banishment`:
 
 Banishment
 ----------
@@ -840,6 +884,8 @@ if that space is occupied. Otherwise, the target doesn't return.
 5th level or higher, you can target one additional creature for each
 slot level above 4th.
 
+.. _`Barkskin`:
+
 Barkskin
 --------
 
@@ -856,6 +902,8 @@ Barkskin
 You touch a willing creature. Until the spell ends, the target's skin
 has a rough, bark-like appearance, and the target's AC can't be less
 than 16, regardless of what kind of armor it is wearing.
+
+.. _`Beacon of Hope`:
 
 Beacon of Hope
 --------------
@@ -874,6 +922,8 @@ This spell bestows hope and vitality. Choose any number of creatures
 within range. For the duration, each target has advantage on Wisdom
 saving throws and death saving throws, and regains the maximum number of
 hit points possible from any healing.
+
+.. _`Bestow Curse`:
 
 Bestow Curse
 ------------
@@ -918,6 +968,8 @@ you use a 9th level spell slot, the spell lasts until it is dispelled.
 Using a spell slot of 5th level or higher grants a duration that doesn't
 require concentration.
 
+.. _`Black Tentacles`:
+
 Black Tentacles
 ---------------
 
@@ -946,6 +998,8 @@ A creature restrained by the tentacles can use its action to make a
 Strength or Dexterity check (its choice) against your spell save DC. On
 a success, it frees itself.
 
+.. _`Blade Barrier`:
+
 Blade Barrier
 -------------
 
@@ -971,6 +1025,8 @@ starts its turn there, the creature must make a Dexterity saving throw.
 On a failed save, the creature takes 6d10 slashing damage. On a
 successful save, the creature takes half as much damage.
 
+.. _`Bless`:
+
 Bless
 -----
 
@@ -992,6 +1048,8 @@ saving throw.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you can target one additional creature for each
 slot level above 1st.
+
+.. _`Blight`:
 
 Blight
 ------
@@ -1022,6 +1080,8 @@ or shrub, it doesn't make a saving throw; it simply withers and dies.
 5th level or higher, the damage increases by 1d8 for each slot level
 above 4th.
 
+.. _`Blindness/Deafness`:
+
 Blindness/Deafness
 ------------------
 
@@ -1044,6 +1104,8 @@ throw. On a success, the spell ends.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, you can target one additional creature for each
 slot level above 2nd.
+
+.. _`Blink`:
 
 Blink
 -----
@@ -1076,6 +1138,8 @@ affected by other creatures on the Ethereal Plane. Creatures that aren't
 there can't perceive you or interact with you, unless they have the
 ability to do so.
 
+.. _`Blur`:
+
 Blur
 ----
 
@@ -1093,6 +1157,8 @@ Your body becomes blurred, shifting and wavering to all who can see you.
 For the duration, any creature has disadvantage on attack rolls against
 you. An attacker is immune to this effect if it doesn't rely on sight,
 as with blindsight, or can see through illusions, as with truesight.
+
+.. _`Burning Hands`:
 
 Burning Hands
 -------------
@@ -1122,6 +1188,8 @@ above 1st.
 
 Spells (C)
 ==========
+
+.. _`Call Lightning`:
 
 Call Lightning
 --------------
@@ -1158,6 +1226,8 @@ new one. Under such conditions, the spell's damage increases by 1d10.
 4th or higher level, the damage increases by 1d10 for each slot level
 above 3rd.
 
+.. _`Calm Emotions`:
+
 Calm Emotions
 -------------
 
@@ -1187,6 +1257,8 @@ is attacked or harmed by a spell or if it witnesses any of its friends
 being harmed. When the spell ends, the creature becomes hostile again,
 unless the GM rules otherwise.
 
+.. _`Chain Lightning`:
+
 Chain Lightning
 ---------------
 
@@ -1215,6 +1287,8 @@ successful one.
 7th level or higher, one additional bolt leaps from the first target to
 another target for each slot level above 6th.
 
+.. _`Charm Person`:
+
 Charm Person
 ------------
 
@@ -1241,6 +1315,8 @@ you.
 slot level above 1st. The creatures must be within 30 feet of each other
 when you target them.
 
+.. _`Chill Touch`:
+
 Chill Touch
 -----------
 
@@ -1266,6 +1342,8 @@ against you until the end of your next turn.
 This spell's damage increases by 1d8 when you reach 5th level (2d8),
 11th level (3d8), and 17th level (4d8).
 
+.. _`Circle of Death`:
+
 Circle of Death
 ---------------
 
@@ -1288,6 +1366,8 @@ failed save, or half as much damage on a successful one.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, the damage increases by 2d6 for each slot level
 above 6th.
+
+.. _`Clairvoyance`:
 
 Clairvoyance
 ------------
@@ -1316,6 +1396,8 @@ action, you can switch between seeing and hearing.
 A creature that can see the sensor (such as a creature benefiting from
 *see invisibility* or truesight) sees a luminous, intangible orb about
 the size of your fist.
+
+.. _`Clone`:
 
 Clone
 -----
@@ -1351,6 +1433,8 @@ equipment. The original creature's physical remains, if they still
 exist, become inert and can't thereafter be restored to life, since the
 creature's soul is elsewhere.
 
+.. _`Cloudkill`:
+
 Cloudkill
 ---------
 
@@ -1383,6 +1467,8 @@ air, sink to the lowest level of the land, even pouring down openings.
 6th level or higher, the damage increases by 1d8 for each slot level
 above 5th.
 
+.. _`Color Spray`:
+
 Color Spray
 -----------
 
@@ -1413,6 +1499,8 @@ creature to be affected.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, roll an additional 2d10 for each slot level above
 1st.
+
+.. _`Command`:
 
 Command
 -------
@@ -1460,6 +1548,8 @@ in the air.
 slot level above 1st. The creatures must be within 30 feet of each other
 when you target them.
 
+.. _`Commune`:
+
 Commune
 -------
 
@@ -1486,6 +1576,8 @@ short phrase as an answer instead.
 If you cast the spell two or more times before finishing your next long
 rest, there is a cumulative 25 percent chance for each casting after the
 first that you get no answer. The GM makes this roll in secret.
+
+.. _`Commune with Nature`:
 
 Commune with Nature
 -------------------
@@ -1523,6 +1615,8 @@ For example, you could determine the location of powerful undead in the
 area, the location of major sources of safe drinking water, and the
 location of any nearby towns.
 
+.. _`Comprehend Languages`:
+
 Comprehend Languages
 --------------------
 
@@ -1543,6 +1637,8 @@ written. It takes about 1 minute to read one page of text.
 
 This spell doesn't decode secret messages in a text or a glyph, such as
 an arcane sigil, that isn't part of a written language.
+
+.. _`Cone of Cold`:
 
 Cone of Cold
 ------------
@@ -1566,6 +1662,8 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the damage increases by 1d8 for each slot level
 above 5th.
+
+.. _`Confusion`:
 
 Confusion
 ---------
@@ -1616,6 +1714,8 @@ saving throw. If it succeeds, this effect ends for that target.
 5th level or higher, the radius of the sphere increases by 5 feet for
 each slot level above 4th.
 
+.. _`Conjure Animals`:
+
 Conjure Animals
 ---------------
 
@@ -1658,6 +1758,8 @@ and more creatures appear: twice as many with a 5th-level slot, three
 times as many with a 7th-level slot, and four times as many with a
 9th-level slot.
 
+.. _`Conjure Celestial`:
+
 Conjure Celestial
 -----------------
 
@@ -1686,6 +1788,8 @@ The GM has the celestial's statistics.
 
 :bi:`At Higher Levels`. When you cast this spell using a 9th-level spell
 slot, you summon a celestial of challenge rating 5 or lower.
+
+.. _`Conjure Elemental`:
 
 Conjure Elemental
 -----------------
@@ -1727,6 +1831,8 @@ The GM has the elemental's statistics.
 6th level or higher, the challenge rating increases by 1 for each slot
 level above 5th.
 
+.. _`Conjure Fey`:
+
 Conjure Fey
 -----------
 
@@ -1764,6 +1870,8 @@ The GM has the fey creature's statistics.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, the challenge rating increases by 1 for each slot
 level above 6th.
+
+.. _`Conjure Minor Elementals`:
 
 Conjure Minor Elementals
 ------------------------
@@ -1805,6 +1913,8 @@ higher-level spell slots, you choose one of the summoning options above,
 and more creatures appear: twice as many with a 6th-level slot and three
 times as many with an 8th-level slot.
 
+.. _`Conjure Woodland Beings`:
+
 Conjure Woodland Beings
 -----------------------
 
@@ -1845,6 +1955,8 @@ higher-level spell slots, you choose one of the summoning options above,
 and more creatures appear: twice as many with a 6th-level slot and three
 times as many with an 8th-level slot.
 
+.. _`Contact Other Plane`:
+
 Contact Other Plane
 -------------------
 
@@ -1873,6 +1985,8 @@ question with one word, such as "yes," "no," "maybe," "never,"
 "irrelevant," or "unclear" (if the entity doesn't know the answer to the
 question). If a one-word answer would be misleading, the GM might
 instead offer a short phrase as an answer.
+
+.. _`Contagion`:
 
 Contagion
 ---------
@@ -1926,6 +2040,8 @@ creature has disadvantage on Constitution checks and Constitution saving
 throws. In addition, whenever the creature takes damage, it is stunned
 until the end of its next turn.
 
+.. _`Contingency`:
+
 Contingency
 -----------
 
@@ -1960,6 +2076,8 @@ you cast this spell again, the effect of another *contingency* spell on
 you ends. Also, *contingency* ends on you if its material component is
 ever not on your person.
 
+.. _`Continual Flame`:
+
 Continual Flame
 ---------------
 
@@ -1978,6 +2096,8 @@ A flame, equivalent in brightness to a torch, springs forth from an
 object that you touch. The effect looks like a regular flame, but it
 creates no heat and doesn't use oxygen. A *continual flame* can be
 covered or hidden but not smothered or quenched.
+
+.. _`Control Water`:
 
 Control Water
 -------------
@@ -2045,6 +2165,8 @@ above, but has disadvantage on the Strength (Athletics) check to do so.
 The first time each turn that an object enters the vortex, the object
 takes 2d8 bludgeoning damage; this damage occurs each round it remains
 in the vortex.
+
+.. _`Control Weather`:
 
 Control Weather
 ---------------
@@ -2125,6 +2247,8 @@ the wind, you can change its direction.
 | 5           | Storm           |
 +-------------+-----------------+
 
+.. _`Create Food and Water`:
+
 Create Food and Water
 ---------------------
 
@@ -2142,6 +2266,8 @@ You create 45 pounds of food and 30 gallons of water on the ground or in
 containers within range, enough to sustain up to fifteen humanoids or
 five steeds for 24 hours. The food is bland but nourishing, and spoils
 if uneaten after 24 hours. The water is clean and doesn't go bad.
+
+.. _`Create or Destroy Water`:
 
 Create or Destroy Water
 -----------------------
@@ -2171,6 +2297,8 @@ within range.
 2nd level or higher, you create or destroy 10 additional gallons of
 water, or the size of the cube increases by 5 feet, for each slot level
 above 1st.
+
+.. _`Create Undead`:
 
 Create Undead
 -------------
@@ -2214,6 +2342,8 @@ cast this spell using an 8th-level spell slot, you can animate or
 reassert control over five ghouls or two ghasts or wights. When you cast
 this spell using a 9th-level spell slot, you can animate or reassert
 control over six ghouls, three ghasts or wights, or two mummies.
+
+.. _`Creation`:
 
 Creation
 --------
@@ -2260,6 +2390,8 @@ component causes that spell to fail.
 6th level or higher, the cube increases by 5 feet for each slot level
 above 5th.
 
+.. _`Cure Wounds`:
+
 Cure Wounds
 -----------
 
@@ -2284,6 +2416,8 @@ above 1st.
 Spells (D)
 ==========
 
+.. _`Dancing Lights`:
+
 Dancing Lights
 --------------
 
@@ -2307,6 +2441,8 @@ As a bonus action on your turn, you can move the lights up to 60 feet to
 a new spot within range. A light must be within 20 feet of another light
 created by this spell, and a light winks out if it exceeds the spell's
 range.
+
+.. _`Darkness`:
 
 Darkness
 --------
@@ -2335,6 +2471,8 @@ If any of this spell's area overlaps with an area of light created by a
 spell of 2nd level or lower, the spell that created the light is
 dispelled.
 
+.. _`Darkvision`:
+
 Darkvision
 ----------
 
@@ -2351,6 +2489,8 @@ Darkvision
 You touch a willing creature to grant it the ability to see in the dark.
 For the duration, that creature has darkvision out to a range of 60
 feet.
+
+.. _`Daylight`:
 
 Daylight
 --------
@@ -2378,6 +2518,8 @@ If any of this spell's area overlaps with an area of darkness created by
 a spell of 3rd level or lower, the spell that created the darkness is
 dispelled.
 
+.. _`Death Ward`:
+
 Death Ward
 ----------
 
@@ -2400,6 +2542,8 @@ ends.
 If the spell is still in effect when the target is subjected to an
 effect that would kill it instantaneously without dealing damage, that
 effect is instead negated against the target, and the spell ends.
+
+.. _`Delayed Blast Fireball`:
 
 Delayed Blast Fireball
 ----------------------
@@ -2441,6 +2585,8 @@ aren't being worn or carried.
 8th level or higher, the base damage increases by 1d6 for each slot
 level above 7th.
 
+.. _`Demiplane`:
+
 Demiplane
 ---------
 
@@ -2468,6 +2614,8 @@ casting of this spell. Additionally, if you know the nature and contents
 of a demiplane created by a casting of this spell by another creature,
 you can have the shadowy door connect to its demiplane instead.
 
+.. _`Detect Evil and Good`:
+
 Detect Evil and Good
 --------------------
 
@@ -2491,6 +2639,8 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of
 stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood
 or dirt.
 
+.. _`Detect Magic`:
+
 Detect Magic
 ------------
 
@@ -2513,6 +2663,8 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of
 stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood
 or dirt.
 
+.. _`Detect Poison and Disease`:
+
 Detect Poison and Disease
 -------------------------
 
@@ -2534,6 +2686,8 @@ case.
 The spell can penetrate most barriers, but it is blocked by 1 foot of
 stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood
 or dirt.
+
+.. _`Detect Thoughts`:
 
 Detect Thoughts
 ---------------
@@ -2583,6 +2737,8 @@ Once you detect the presence of a creature in this way, you can read its
 thoughts for the rest of the duration as described above, even if you
 can't see it, but it must still be within range.
 
+.. _`Dimension Door`:
+
 Dimension Door
 --------------
 
@@ -2610,6 +2766,8 @@ must be within 5 feet of you when you cast this spell.
 If you would arrive in a place already occupied by an object or a
 creature, you and any creature traveling with you each take 4d6 force
 damage, and the spell fails to teleport you.
+
+.. _`Disguise Self`:
 
 Disguise Self
 -------------
@@ -2641,6 +2799,8 @@ touch you would bump into you while it was seemingly still in midair.
 To discern that you are disguised, a creature can use its action to
 inspect your appearance and must succeed on an Intelligence
 (Investigation) check against your spell save DC.
+
+.. _`Disintegrate`:
 
 Disintegrate
 ------------
@@ -2677,6 +2837,8 @@ portion of it. A magic item is unaffected by this spell.
 7th level or higher, the damage increases by 3d6 for each slot level
 above 6th.
 
+.. _`Dispel Evil and Good`:
+
 Dispel Evil and Good
 --------------------
 
@@ -2711,6 +2873,8 @@ home plane (if it isn't there already). If they aren't on their home
 plane, undead are sent to the Shadowfell, and fey are sent to the
 Feywild.
 
+.. _`Dispel Magic`:
+
 Dispel Magic
 ------------
 
@@ -2734,6 +2898,8 @@ the spell ends.
 4th level or higher, you automatically end the effects of a spell on the
 target if the spell's level is equal to or less than the level of the
 spell slot you used.
+
+.. _`Divination`:
 
 Divination
 ----------
@@ -2763,6 +2929,8 @@ If you cast the spell two or more times before finishing your next long
 rest, there is a cumulative 25 percent chance for each casting after the
 first that you get a random reading. The GM makes this roll in secret.
 
+.. _`Divine Favor`:
+
 Divine Favor
 ------------
 
@@ -2778,6 +2946,8 @@ Divine Favor
 
 Your prayer empowers you with divine radiance. Until the spell ends,
 your weapon attacks deal an extra 1d4 radiant damage on a hit.
+
+.. _`Divine Word`:
 
 Divine Word
 -----------
@@ -2809,6 +2979,8 @@ current hit points:
    its save is forced back to its plane of origin (if it isn't there
    already) and can't return to your current plane for 24 hours by any
    means short of a *wish* spell.
+
+.. _`Dominate Beast`:
 
 Dominate Beast
 --------------
@@ -2852,6 +3024,8 @@ slot, the duration is concentration, up to 10 minutes. When you use a
 you use a spell slot of 7th level or higher, the duration is
 concentration, up to 8 hours.
 
+.. _`Dominate Monster`:
+
 Dominate Monster
 ----------------
 
@@ -2890,6 +3064,8 @@ against the spell. If the saving throw succeeds, the spell ends.
 
 :bi:`At Higher Levels`. When you cast this spell with a 9th-level spell
 slot, the duration is concentration, up to 8 hours.
+
+.. _`Dominate Person`:
 
 Dominate Person
 ---------------
@@ -2932,6 +3108,8 @@ slot, the duration is concentration, up to 10 minutes. When you use a
 7th-level spell slot, the duration is concentration, up to 1 hour. When
 you use a spell slot of 8th level or higher, the duration is
 concentration, up to 8 hours.
+
+.. _`Dream`:
 
 Dream
 -----
@@ -2978,6 +3156,8 @@ disadvantage.
 
 Spells (E)
 ==========
+
+.. _`Earthquake`:
 
 Earthquake
 ----------
@@ -3034,6 +3214,8 @@ to escape. The GM can adjust the DC higher or lower, depending on the
 nature of the rubble. On a successful save, the creature takes half as
 much damage and doesn't fall prone or become buried.
 
+.. _`Enhance Ability`:
+
 Enhance Ability
 ---------------
 
@@ -3071,6 +3253,8 @@ incapacitated.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, you can target one additional creature for each
 slot level above 2nd.
+
+.. _`Enlarge/Reduce`:
 
 Enlarge/Reduce
 --------------
@@ -3113,6 +3297,8 @@ saving throws. The target's weapons also shrink to match its new size.
 While these weapons are reduced, the target's attacks with them deal 1d4
 less damage (this can't reduce the damage below 1).
 
+.. _`Entangle`:
+
 Entangle
 --------
 
@@ -3138,6 +3324,8 @@ frees itself.
 
 When the spell ends, the conjured plants wilt away.
 
+.. _`Enthrall`:
+
 Enthrall
 --------
 
@@ -3160,6 +3348,8 @@ disadvantage on Wisdom (Perception) checks made to perceive any creature
 other than you until the spell ends or until the target can no longer
 hear you. The spell ends if you are incapacitated or can no longer
 speak.
+
+.. _`Etherealness`:
 
 Etherealness
 ------------
@@ -3206,6 +3396,8 @@ Planes.
 (including you) for each slot level above 7th. The creatures must be
 within 10 feet of you when you cast the spell.
 
+.. _`Expeditious Retreat`:
+
 Expeditious Retreat
 -------------------
 
@@ -3222,6 +3414,8 @@ Expeditious Retreat
 This spell allows you to move at an incredible pace. When you cast this
 spell, and then as a bonus action on each of your turns until the spell
 ends, you can take the Dash action.
+
+.. _`Eyebite`:
 
 Eyebite
 -------
@@ -3261,6 +3455,8 @@ saving throw. If it succeeds, the effect ends.
 Spells (F)
 ==========
 
+.. _`Fabricate`:
+
 Fabricate
 ---------
 
@@ -3292,6 +3488,8 @@ degree of craftsmanship, such as jewelry, weapons, glass, or armor,
 unless you have proficiency with the type of artisan's tools used to
 craft such objects.
 
+.. _`Faerie Fire`:
+
 Faerie Fire
 -----------
 
@@ -3314,6 +3512,8 @@ For the duration, objects and affected creatures shed dim light in a
 Any attack roll against an affected creature or object has advantage if
 the attacker can see it, and the affected creature or object can't
 benefit from being invisible.
+
+.. _`Faithful Hound`:
 
 Faithful Hound
 --------------
@@ -3344,6 +3544,8 @@ creature within 5 feet of it that is hostile to you. The hound's attack
 bonus is equal to your spellcasting ability modifier + your proficiency
 bonus. On a hit, it deals 4d8 piercing damage.
 
+.. _`False Life`:
+
 False Life
 ----------
 
@@ -3363,6 +3565,8 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 +
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you gain 5 additional temporary hit points for each
 slot level above 1st.
+
+.. _`Fear`:
 
 Fear
 ----
@@ -3388,6 +3592,8 @@ location where it doesn't have line of sight to you, the creature can
 make a Wisdom saving throw. On a successful save, the spell ends for
 that creature.
 
+.. _`Feather Fall`:
+
 Feather Fall
 ------------
 
@@ -3406,6 +3612,8 @@ Choose up to five falling creatures within range. A falling creature's
 rate of descent slows to 60 feet per round until the spell ends. If the
 creature lands before the spell ends, it takes no falling damage and can
 land on its feet, and the spell ends for that creature.
+
+.. _`Feeblemind`:
 
 Feeblemind
 ----------
@@ -3434,6 +3642,8 @@ At the end of every 30 days, the creature can repeat its saving throw
 against this spell. If it succeeds on its saving throw, the spell ends.
 
 The spell can also be ended by *greater restoration*, *heal*, or *wish*.
+
+.. _`Find Steed`:
 
 Find Steed
 ----------
@@ -3476,6 +3686,8 @@ You can't have more than one steed bonded by this spell at a time. As an
 action, you can release the steed from its bond at any time, causing it
 to disappear.
 
+.. _`Find the Path`:
+
 Find the Path
 -------------
 
@@ -3505,6 +3717,8 @@ of paths along the way, you automatically determine which path is the
 shortest and most direct route (but not necessarily the safest route) to
 the destination.
 
+.. _`Find Traps`:
+
 Find Traps
 ----------
 
@@ -3532,6 +3746,8 @@ This spell merely reveals that a trap is present.
 You don't learn the location of each trap, but you do learn the general
 nature of the danger posed by a trap you sense.
 
+.. _`Finger of Death`:
+
 Finger of Death
 ---------------
 
@@ -3553,6 +3769,8 @@ save, or half as much damage on a successful one.
 A humanoid killed by this spell rises at the start of your next turn as
 a zombie that is permanently under your command, following your verbal
 orders to the best of its ability.
+
+.. _`Fireball`:
 
 Fireball
 --------
@@ -3580,6 +3798,8 @@ area that aren't being worn or carried.
 4th level or higher, the damage increases by 1d6 for each slot level
 above 3rd.
 
+.. _`Fire Shield`:
+
 Fire Shield
 -----------
 
@@ -3605,6 +3825,8 @@ In addition, whenever a creature within 5 feet of you hits you with a
 melee attack, the shield erupts with flame. The attacker takes 2d8 fire
 damage from a warm shield, or 2d8 cold damage from a cold shield.
 
+.. _`Fire Storm`:
+
 Fire Storm
 ----------
 
@@ -3628,6 +3850,8 @@ failed save, or half as much damage on a successful one.
 The fire damages objects in the area and ignites flammable objects that
 aren't being worn or carried. If you choose, plant life in the area is
 unaffected by this spell.
+
+.. _`Flame Blade`:
 
 Flame Blade
 -----------
@@ -3657,6 +3881,8 @@ for an additional 10 feet.
 4th level or higher, the damage increases by 1d6 for every two slot
 levels above 2nd.
 
+.. _`Flame Strike`:
+
 Flame Strike
 ------------
 
@@ -3679,6 +3905,8 @@ failed save, or half as much damage on a successful one.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the fire damage or the radiant damage (your choice)
 increases by 1d6 for each slot level above 5th.
+
+.. _`Flaming Sphere`:
 
 Flaming Sphere
 --------------
@@ -3713,6 +3941,8 @@ in a 20-foot radius and dim light for an additional 20 feet.
 3rd level or higher, the damage increases by 1d6 for each slot level
 above 2nd.
 
+.. _`Flesh to Stone`:
+
 Flesh to Stone
 --------------
 
@@ -3746,6 +3976,8 @@ similar deformities if it reverts to its original state.
 If you maintain your concentration on this spell for the entire possible
 duration, the creature is turned to stone until the effect is removed.
 
+.. _`Floating Disk`:
+
 Floating Disk
 -------------
 
@@ -3776,6 +4008,8 @@ pit, nor could it leave such a pit if it was created at the bottom.
 If you move more than 100 feet from the disk (typically because it can't
 move around an obstacle to follow you), the spell ends.
 
+.. _`Fly`:
+
 Fly
 ---
 
@@ -3796,6 +4030,8 @@ aloft, unless it can stop the fall.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, you can target one additional creature for each
 slot level above 3rd.
+
+.. _`Fog Cloud`:
 
 Fog Cloud
 ---------
@@ -3818,6 +4054,8 @@ greater speed (at least 10 miles per hour) disperses it.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the radius of the fog increases by 20 feet for each
 slot level above 1st.
+
+.. _`Forbiddance`:
 
 Forbiddance
 -----------
@@ -3857,6 +4095,8 @@ spell. If you cast *forbiddance* every day for 30 days in the same
 location, the spell lasts until it is dispelled, and the material
 components are consumed on the last casting.
 
+.. _`Forcecage`:
+
 Forcecage
 ---------
 
@@ -3895,6 +4135,8 @@ also extends into the Ethereal Plane, blocking ethereal travel.
 
 This spell can't be dispelled by *dispel magic*.
 
+.. _`Foresight`:
+
 Foresight
 ---------
 
@@ -3916,6 +4158,8 @@ the target for the duration.
 
 This spell immediately ends if you cast it again before its duration
 ends.
+
+.. _`Freedom of Movement`:
 
 Freedom of Movement
 -------------------
@@ -3940,6 +4184,8 @@ The target can also spend 5 feet of movement to automatically escape
 from nonmagical restraints, such as manacles or a creature that has it
 grappled. Finally, being underwater imposes no penalties on the target's
 movement or attacks.
+
+.. _`Freezing Sphere`:
 
 Freezing Sphere
 ---------------
@@ -3983,6 +4229,8 @@ above 6th.
 Spells (G)
 ==========
 
+.. _`Gaseous Form`:
+
 Gaseous Form
 ------------
 
@@ -4014,6 +4262,8 @@ While in the form of a misty cloud, the target can't talk or manipulate
 objects, and any objects it was carrying or holding can't be dropped,
 used, or otherwise interacted with. The target can't attack or cast
 spells.
+
+.. _`Gate`:
 
 Gate
 ----
@@ -4050,6 +4300,8 @@ nearest unoccupied space on your side of the portal. You gain no special
 power over the creature, and it is free to act as the GM deems
 appropriate. It might leave, attack you, or help you.
 
+.. _`Geas`:
+
 Geas
 ----
 
@@ -4084,6 +4336,8 @@ curse*, *greater restoration*, or *wish* spell also ends it.
 a spell slot of 9th level, the spell lasts until it is ended by one of
 the spells mentioned above.
 
+.. _`Gentle Repose`:
+
 Gentle Repose
 -------------
 
@@ -4104,6 +4358,8 @@ protected from decay and can't become undead.
 The spell also effectively extends the time limit on raising the target
 from the dead, since days spent under the influence of this spell don't
 count against the time limit of spells such as *raise dead*.
+
+.. _`Giant Insect`:
 
 Giant Insect
 ------------
@@ -4135,6 +4391,8 @@ The GM might allow you to choose different targets. For example, if you
 transform a bee, its giant version might have the same statistics as a
 giant wasp.
 
+.. _`Glibness`:
+
 Glibness
 --------
 
@@ -4152,6 +4410,8 @@ Until the spell ends, when you make a Charisma check, you can replace
 the number you roll with a 15. Additionally, no matter what you say,
 magic that would determine if you are telling the truth indicates that
 you are being truthful.
+
+.. _`Globe of Invulnerability`:
 
 Globe of Invulnerability
 ------------------------
@@ -4180,6 +4440,8 @@ spells.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 7th level or higher, the barrier blocks spells of one level higher for
 each slot level above 6th.
+
+.. _`Glyph of Warding`:
 
 Glyph of Warding
 ----------------
@@ -4249,6 +4511,8 @@ by 1d8 for each slot level above 3rd. If you create a *spell glyph*, you
 can store any spell of up to the same level as the slot you use for the
 *glyph of warding*.
 
+.. _`Grease`:
+
 Grease
 ------
 
@@ -4270,6 +4534,8 @@ on a Dexterity saving throw or fall prone. A creature that enters the
 area or ends its turn there must also succeed on a Dexterity saving
 throw or fall prone.
 
+.. _`Greater Invisibility`:
+
 Greater Invisibility
 --------------------
 
@@ -4286,6 +4552,8 @@ Greater Invisibility
 You or a creature you touch becomes invisible until the spell ends.
 Anything the target is wearing or carrying is invisible as long as it is
 on the target's person.
+
+.. _`Greater Restoration`:
 
 Greater Restoration
 -------------------
@@ -4312,6 +4580,8 @@ one, or end one of the following effects on the target:
 -  Any reduction to one of the target's ability scores
 
 -  One effect reducing the target's hit point maximum
+
+.. _`Guards and Wards`:
 
 Guards and Wards
 ----------------
@@ -4382,6 +4652,8 @@ specific effect, if successful, removes only that effect.
 You can create a permanently guarded and warded structure by casting
 this spell there every day for one year.
 
+.. _`Guidance`:
+
 Guidance
 --------
 
@@ -4399,6 +4671,8 @@ You touch one willing creature. Once before the spell ends, the target
 can roll a d4 and add the number rolled to one ability check of its
 choice. It can roll the die before or after making the ability check.
 The spell then ends.
+
+.. _`Guiding Bolt`:
 
 Guiding Bolt
 ------------
@@ -4422,6 +4696,8 @@ mystical dim light glittering on the target until then.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the damage increases by 1d6 for each slot level
 above 1st.
+
+.. _`Gust of Wind`:
 
 Gust of Wind
 ------------
@@ -4454,6 +4730,8 @@ change the direction in which the line blasts from you.
 
 Spells (H)
 ==========
+
+.. _`Hallow`:
 
 Hallow
 ------
@@ -4523,6 +4801,8 @@ can reach into it.
 :bi:`Tongues`. Affected creatures can communicate with any other
 creature in the area, even if they don't share a common language.
 
+.. _`Hallucinatory Terrain`:
+
 Hallucinatory Terrain
 ---------------------
 
@@ -4551,6 +4831,8 @@ illusion can attempt an Intelligence (Investigation) check against your
 spell save DC to disbelieve it. A creature who discerns the illusion for
 what it is, sees it as a vague image superimposed on the terrain.
 
+.. _`Harm`:
+
 Harm
 ----
 
@@ -4572,6 +4854,8 @@ successful save. The damage can't reduce the target's hit points below
 reduced for 1 hour by an amount equal to the necrotic damage it took.
 Any effect that removes a disease allows a creature's hit point maximum
 to return to normal before that time passes.
+
+.. _`Haste`:
 
 Haste
 -----
@@ -4596,6 +4880,8 @@ action.
 When the spell ends, the target can't move or take actions until after
 its next turn, as a wave of lethargy sweeps over it.
 
+.. _`Heal`:
+
 Heal
 ----
 
@@ -4618,6 +4904,8 @@ target. This spell has no effect on constructs or undead.
 7th level or higher, the amount of healing increases by 10 for each slot
 level above 6th.
 
+.. _`Healing Word`:
+
 Healing Word
 ------------
 
@@ -4638,6 +4926,8 @@ no effect on undead or constructs.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the healing increases by 1d4 for each slot level
 above 1st.
+
+.. _`Heat Metal`:
 
 Heat Metal
 ----------
@@ -4668,6 +4958,8 @@ attack rolls and ability checks until the start of your next turn.
 3rd level or higher, the damage increases by 1d8 for each slot level
 above 2nd.
 
+.. _`Heroes' Feast`:
+
 Heroes' Feast
 -------------
 
@@ -4693,6 +4985,8 @@ and being frightened, and makes all Wisdom saving throws with advantage.
 Its hit point maximum also increases by 2d10, and it gains the same
 number of hit points. These benefits last for 24 hours.
 
+.. _`Heroism`:
+
 Heroism
 -------
 
@@ -4715,6 +5009,8 @@ temporary hit points from this spell.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, you can target one additional creature for each
 slot level above 1st.
+
+.. _`Hideous Laughter`:
 
 Hideous Laughter
 ----------------
@@ -4742,6 +5038,8 @@ target can make another Wisdom saving throw. The target has advantage on
 the saving throw if it's triggered by damage. On a success, the spell
 ends.
 
+.. _`Hold Monster`:
+
 Hold Monster
 ------------
 
@@ -4766,6 +5064,8 @@ target.
 slot level above 5th. The creatures must be within 30 feet of each other
 when you target them.
 
+.. _`Hold Person`:
+
 Hold Person
 -----------
 
@@ -4788,6 +5088,8 @@ success, the spell ends on the target.
 3rd level or higher, you can target one additional humanoid for each
 slot level above 2nd. The humanoids must be within 30 feet of each other
 when you target them.
+
+.. _`Holy Aura`:
 
 Holy Aura
 ---------
@@ -4812,6 +5114,8 @@ rolls against them until the spell ends. In addition, when a fiend or an
 undead hits an affected creature with a melee attack, the aura flashes
 with brilliant light. The attacker must succeed on a Constitution saving
 throw or be blinded until the spell ends.
+
+.. _`Hypnotic Pattern`:
 
 Hypnotic Pattern
 ----------------
@@ -4840,6 +5144,8 @@ someone else uses an action to shake the creature out of its stupor.
 Spells (I)
 ==========
 
+.. _`Ice Storm`:
+
 Ice Storm
 ---------
 
@@ -4866,6 +5172,8 @@ the end of your next turn.
 5th level or higher, the bludgeoning damage increases by 1d8 for each
 slot level above 4th.
 
+.. _`Identify`:
+
 Identify
 --------
 
@@ -4889,6 +5197,8 @@ by a spell, you learn which spell created it.
 
 If you instead touch a creature throughout the casting, you learn what
 spells, if any, are currently affecting it.
+
+.. _`Illusory Script`:
 
 Illusory Script
 ---------------
@@ -4919,6 +5229,8 @@ Should the spell be dispelled, the original script and the illusion both
 disappear.
 
 A creature with truesight can read the hidden message.
+
+.. _`Imprisonment`:
 
 Imprisonment
 ------------
@@ -5000,6 +5312,8 @@ You can use a particular special component to create only one prison at
 a time. If you cast the spell again using the same component, the target
 of the first casting is immediately freed from its binding.
 
+.. _`Incendiary Cloud`:
+
 Incendiary Cloud
 ----------------
 
@@ -5028,6 +5342,8 @@ ends its turn there.
 The cloud moves 10 feet directly away from you in a direction that you
 choose at the start of each of your turns.
 
+.. _`Inflict Wounds`:
+
 Inflict Wounds
 --------------
 
@@ -5047,6 +5363,8 @@ the target takes 3d10 necrotic damage.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the damage increases by 1d10 for each slot level
 above 1st.
+
+.. _`Insect Plague`:
 
 Insect Plague
 -------------
@@ -5076,6 +5394,8 @@ turn or ends its turn there.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 6th level or higher, the damage increases by 1d10 for each slot level
 above 5th.
+
+.. _`Instant Summons`:
 
 Instant Summons
 ---------------
@@ -5108,6 +5428,8 @@ located at that moment.
 *Dispel magic* or a similar effect successfully applied to the sapphire
 ends this spell's effect.
 
+.. _`Invisibility`:
+
 Invisibility
 ------------
 
@@ -5129,6 +5451,8 @@ spell.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, you can target one additional creature for each
 slot level above 2nd.
+
+.. _`Irresistible Dance`:
 
 Irresistible Dance
 ------------------
@@ -5157,6 +5481,8 @@ save, the spell ends.
 Spells (J)
 ==========
 
+.. _`Jump`:
+
 Jump
 ----
 
@@ -5175,6 +5501,8 @@ spell ends.
 
 Spells (K)
 ==========
+
+.. _`Knock`:
 
 Knock
 -----
@@ -5207,6 +5535,8 @@ feet, emanates from the target object.
 Spells (L)
 ==========
 
+.. _`Legend Lore`:
+
 Legend Lore
 -----------
 
@@ -5237,6 +5567,8 @@ Only a true Child of Stone, lover and beloved of Moradin, may awaken the
 true powers of the axe, and only with the sacred word *Rudnogg* on the
 lips."
 
+.. _`Lesser Restoration`:
+
 Lesser Restoration
 ------------------
 
@@ -5253,6 +5585,8 @@ Lesser Restoration
 You touch a creature and can end either one disease or one condition
 afflicting it. The condition can be blinded, deafened, paralyzed, or
 poisoned.
+
+.. _`Levitate`:
 
 Levitate
 --------
@@ -5284,6 +5618,8 @@ action to move the target, which must remain within the spell's range.
 When the spell ends, the target floats gently to the ground if it is
 still aloft.
 
+.. _`Light`:
+
 Light
 -----
 
@@ -5305,6 +5641,8 @@ light. The spell ends if you cast it again or dismiss it as an action.
 
 If you target an object held or worn by a hostile creature, that
 creature must succeed on a Dexterity saving throw to avoid the spell.
+
+.. _`Lightning Bolt`:
 
 Lightning Bolt
 --------------
@@ -5332,6 +5670,8 @@ worn or carried.
 4th level or higher, the damage increases by 1d6 for each slot level
 above 3rd.
 
+.. _`Locate Animals or Plants`:
+
 Locate Animals or Plants
 ------------------------
 
@@ -5349,6 +5689,8 @@ Describe or name a specific kind of beast or plant. Concentrating on the
 voice of nature in your surroundings, you learn the direction and
 distance to the closest creature or plant of that kind within 5 miles,
 if any are present.
+
+.. _`Locate Creature`:
 
 Locate Creature
 ---------------
@@ -5378,6 +5720,8 @@ locate the creature.
 This spell can't locate a creature if running water at least 10 feet
 wide blocks a direct path between you and the creature.
 
+.. _`Locate Object`:
+
 Locate Object
 -------------
 
@@ -5404,6 +5748,8 @@ kind of apparel, jewelry, furniture, tool, or weapon.
 This spell can't locate an object if any thickness of lead, even a thin
 sheet, blocks a direct path between you and the object.
 
+.. _`Longstrider`:
+
 Longstrider
 -----------
 
@@ -5427,6 +5773,8 @@ slot level above 1st.
 Spells (M)
 ==========
 
+.. _`Mage Armor`:
+
 Mage Armor
 ----------
 
@@ -5444,6 +5792,8 @@ You touch a willing creature who isn't wearing armor, and a protective
 magical force surrounds it until the spell ends. The target's base AC
 becomes 13 + its Dexterity modifier. The spell ends if the target dons
 armor or if you dismiss the spell as an action.
+
+.. _`Mage Hand`:
 
 Mage Hand
 ---------
@@ -5470,6 +5820,8 @@ vial. You can move the hand up to 30 feet each time you use it.
 
 The hand can't attack, activate magic items, or carry more than 10
 pounds.
+
+.. _`Magic Circle`:
 
 Magic Circle
 ------------
@@ -5511,6 +5863,8 @@ leaving the cylinder and protecting targets outside it.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the duration increases by 1 hour for each slot
 level above 3rd.
+
+.. _`Magic Jar`:
 
 Magic Jar
 ---------
@@ -5567,6 +5921,8 @@ feet. Otherwise, that creature dies.
 
 When the spell ends, the container is destroyed.
 
+.. _`Magic Missile`:
+
 Magic Missile
 -------------
 
@@ -5588,6 +5944,8 @@ you can direct them to hit one creature or several.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 2nd level or higher, the spell creates one more dart for each slot level
 above 1st.
+
+.. _`Magic Mouth`:
 
 Magic Mouth
 -----------
@@ -5624,6 +5982,8 @@ within 30 feet of the object. For example, you could instruct the mouth
 to speak when any creature moves within 30 feet of the object or when a
 silver bell rings within 30 feet of it.
 
+.. _`Magic Weapon`:
+
 Magic Weapon
 ------------
 
@@ -5643,6 +6003,8 @@ a magic weapon with a +1 bonus to attack rolls and damage rolls.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the bonus increases to +2. When you use a spell
 slot of 6th level or higher, the bonus increases to +3.
+
+.. _`Magnificent Mansion`:
 
 Magnificent Mansion
 -------------------
@@ -5686,6 +6048,8 @@ smoke if removed from the mansion. When the spell ends, any creatures
 inside the extradimensional space are expelled into the open spaces
 nearest to the entrance.
 
+.. _`Major Image`:
+
 Major Image
 -----------
 
@@ -5727,6 +6091,8 @@ creature.
 6th level or higher, the spell lasts until dispelled, without requiring
 your concentration.
 
+.. _`Mass Cure Wounds`:
+
 Mass Cure Wounds
 ----------------
 
@@ -5750,6 +6116,8 @@ constructs.
 6th level or higher, the healing increases by 1d8 for each slot level
 above 5th.
 
+.. _`Mass Heal`:
+
 Mass Heal
 ---------
 
@@ -5768,6 +6136,8 @@ you. You restore up to 700 hit points, divided as you choose among any
 number of creatures that you can see within range. Creatures healed by
 this spell are also cured of all diseases and any effect making them
 blinded or deafened. This spell has no effect on undead or constructs.
+
+.. _`Mass Healing Word`:
 
 Mass Healing Word
 -----------------
@@ -5790,6 +6160,8 @@ constructs.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the healing increases by 1d4 for each slot level
 above 3rd.
+
+.. _`Mass Suggestion`:
 
 Mass Suggestion
 ---------------
@@ -5833,6 +6205,8 @@ slot, the duration is 10 days. When you use an 8th-level spell slot, the
 duration is 30 days. When you use a 9th-level spell slot, the duration
 is a year and a day.
 
+.. _`Maze`:
+
 Maze
 ----
 
@@ -5856,6 +6230,8 @@ spell ends (a minotaur or goristro demon automatically succeeds).
 
 When the spell ends, the target reappears in the space it left or, if
 that space is occupied, in the nearest unoccupied space.
+
+.. _`Meld into Stone`:
 
 Meld into Stone
 ---------------
@@ -5891,6 +6267,8 @@ substance) expels you and deals 50 bludgeoning damage to you. If
 expelled, you fall prone in an unoccupied space closest to where you
 first entered.
 
+.. _`Mending`:
+
 Mending
 -------
 
@@ -5911,6 +6289,8 @@ in any dimension, you mend it, leaving no trace of the former damage.
 
 This spell can physically repair a magic item or construct, but the
 spell can't restore magic to such an object.
+
+.. _`Message`:
 
 Message
 -------
@@ -5934,6 +6314,8 @@ the target and know it is beyond the barrier. Magical silence, 1 foot of
 stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood
 blocks the spell. The spell doesn't have to follow a straight line and
 can travel freely around corners or through openings.
+
+.. _`Meteor Swarm`:
 
 Meteor Swarm
 ------------
@@ -5959,6 +6341,8 @@ affected only once.
 The spell damages objects in the area and ignites flammable objects that
 aren't being worn or carried.
 
+.. _`Mind Blank`:
+
 Mind Blank
 ----------
 
@@ -5977,6 +6361,8 @@ psychic damage, any effect that would sense its emotions or read its
 thoughts, divination spells, and the charmed condition. The spell even
 foils *wish* spells and spells or effects of similar power used to
 affect the target's mind or to gain information about the target.
+
+.. _`Minor Illusion`:
 
 Minor Illusion
 --------------
@@ -6013,6 +6399,8 @@ Intelligence (Investigation) check against your spell save DC. If a
 creature discerns the illusion for what it is, the illusion becomes
 faint to the creature.
 
+.. _`Mirage Arcane`:
+
 Mirage Arcane
 -------------
 
@@ -6046,6 +6434,8 @@ Creatures with truesight can see through the illusion to the terrain's
 true form; however, all other elements of the illusion remain, so while
 the creature is aware of the illusion's presence, the creature can still
 physically interact with the illusion.
+
+.. _`Mirror Image`:
 
 Mirror Image
 ------------
@@ -6082,6 +6472,8 @@ A creature is unaffected by this spell if it can't see, if it relies on
 senses other than sight, such as blindsight, or if it can perceive
 illusions as false, as with truesight.
 
+.. _`Mislead`:
+
 Mislead
 -------
 
@@ -6108,6 +6500,8 @@ switch from using its senses to using your own, or back again. While you
 are using its senses, you are blinded and deafened in regard to your own
 surroundings.
 
+.. _`Misty Step`:
+
 Misty Step
 ----------
 
@@ -6123,6 +6517,8 @@ Misty Step
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an
 unoccupied space that you can see.
+
+.. _`Modify Memory`:
 
 Modify Memory
 -------------
@@ -6175,6 +6571,8 @@ level or higher, you can alter the target's memories of an event that
 took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year
 ago (8th level), or any time in the creature's past (9th level).
 
+.. _`Moonbeam`:
+
 Moonbeam
 --------
 
@@ -6209,6 +6607,8 @@ to move the beam up to 60 feet in any direction.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, the damage increases by 1d10 for each slot level
 above 2nd.
+
+.. _`Move Earth`:
 
 Move Earth
 ----------
@@ -6250,6 +6650,8 @@ earth carries any plants along with it.
 Spells (N)
 ==========
 
+.. _`Nondetection`:
+
 Nondetection
 ------------
 
@@ -6275,6 +6677,8 @@ Spells (O)
 Spells (P)
 ==========
 
+.. _`Pass without Trace`:
+
 Pass without Trace
 ------------------
 
@@ -6295,6 +6699,8 @@ within 30 feet of you (including you) has a +10 bonus to Dexterity
 (Stealth) checks and can't be tracked except by magical means. A
 creature that receives this bonus leaves behind no tracks or other
 traces of its passage.
+
+.. _`Passwall`:
 
 Passwall
 --------
@@ -6318,6 +6724,8 @@ The passage creates no instability in a structure surrounding it.
 When the opening disappears, any creatures or objects still in the
 passage created by the spell are safely ejected to an unoccupied space
 nearest to the surface on which you cast the spell.
+
+.. _`Phantasmal Killer`:
 
 Phantasmal Killer
 -----------------
@@ -6344,6 +6752,8 @@ the spell ends.
 5th level or higher, the damage increases by 1d10 for each slot level
 above 4th.
 
+.. _`Phantom Steed`:
+
 Phantom Steed
 -------------
 
@@ -6369,6 +6779,8 @@ of 100 feet and can travel 10 miles in an hour, or 13 miles at a fast
 pace. When the spell ends, the steed gradually fades, giving the rider 1
 minute to dismount. The spell ends if you use an action to dismiss it or
 if the steed takes any damage.
+
+.. _`Planar Ally`:
 
 Planar Ally
 -----------
@@ -6423,6 +6835,8 @@ creature immediately returns to its home plane.
 A creature enlisted to join your group counts as a member of it,
 receiving a full share of experience points awarded.
 
+.. _`Planar Binding`:
+
 Planar Binding
 --------------
 
@@ -6462,6 +6876,8 @@ higher level, the duration increases to 10 days with a 6th-level slot,
 to 30 days with a 7th-level slot, to 180 days with an 8th-level slot,
 and to a year and a day with a 9th-level spell slot.
 
+.. _`Plane Shift`:
+
 Plane Shift
 -----------
 
@@ -6498,6 +6914,8 @@ the creature fails this save, it is transported to a random location on
 the plane of existence you specify. A creature so transported must find
 its own way back to your current plane of existence.
 
+.. _`Plant Growth`:
+
 Plant Growth
 ------------
 
@@ -6526,6 +6944,8 @@ from being affected.
 If you cast this spell over 8 hours, you enrich the land. All plants in
 a half-mile radius centered on a point within range become enriched for
 1 year. The plants yield twice the normal amount of food when harvested.
+
+.. _`Polymorph`:
 
 Polymorph
 ---------
@@ -6566,6 +6986,8 @@ that requires hands or speech.
 The target's gear melds into the new form. The creature can't activate,
 use, wield, or otherwise benefit from any of its equipment.
 
+.. _`Power Word Kill`:
+
 Power Word Kill
 ---------------
 
@@ -6582,6 +7004,8 @@ Power Word Kill
 You utter a word of power that can compel one creature you can see
 within range to die instantly. If the creature you choose has 100 hit
 points or fewer, it dies. Otherwise, the spell has no effect.
+
+.. _`Power Word Stun`:
 
 Power Word Stun
 ---------------
@@ -6603,6 +7027,8 @@ hit points or fewer, it is stunned. Otherwise, the spell has no effect.
 The stunned target must make a Constitution saving throw at the end of
 each of its turns. On a successful save, this stunning effect ends.
 
+.. _`Prayer of Healing`:
+
 Prayer of Healing
 -----------------
 
@@ -6623,6 +7049,8 @@ This spell has no effect on undead or constructs.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, the healing increases by 1d8 for each slot level
 above 2nd.
+
+.. _`Prestidigitation`:
 
 Prestidigitation
 ----------------
@@ -6663,6 +7091,8 @@ practice. You create one of the following magical effects within
 If you cast this spell multiple times, you can have up to three of its
 non-instantaneous effects active at a time, and you can dismiss such an
 effect as an action.
+
+.. _`Prismatic Spray`:
 
 Prismatic Spray
 ---------------
@@ -6715,6 +7145,8 @@ a d8 to determine which color ray affects it.
 
 8. :bi:`Special`. The target is struck by two rays. Roll twice more,
    rerolling any 8.
+
+.. _`Prismatic Wall`:
 
 Prismatic Wall
 --------------
@@ -6802,6 +7234,8 @@ effect on it.
    destroyed by a *dispel magic* spell or a similar spell of equal or
    higher level that can end spells and magical effects.
 
+.. _`Private Sanctum`:
+
 Private Sanctum
 ---------------
 
@@ -6843,6 +7277,8 @@ provides, choosing any or all of the following properties:
 for each slot level beyond 4th. Thus you could protect a cube that can
 be up to 200 feet on one side by using a spell slot of 5th level.
 
+.. _`Produce Flame`:
+
 Produce Flame
 -------------
 
@@ -6869,6 +7305,8 @@ attack. On a hit, the target takes 1d8 fire damage.
 
 This spell's damage increases by 1d8 when you reach 5th level (2d8),
 11th level (3d8), and 17th level (4d8).
+
+.. _`Programmed Illusion`:
 
 Programmed Illusion
 -------------------
@@ -6910,6 +7348,8 @@ Intelligence (Investigation) check against your spell save DC. If a
 creature discerns the illusion for what it is, the creature can see
 through the image, and any noise it makes sounds hollow to the creature.
 
+.. _`Project Image`:
+
 Project Image
 -------------
 
@@ -6948,6 +7388,8 @@ against your spell save DC. If a creature discerns the illusion for what
 it is, the creature can see through the image, and any noise it makes
 sounds hollow to the creature.
 
+.. _`Protection from Energy`:
+
 Protection from Energy
 ----------------------
 
@@ -6963,6 +7405,8 @@ Protection from Energy
 
 For the duration, the willing creature you touch has resistance to one
 damage type of your choice: acid, cold, fire, lightning, or thunder.
+
+.. _`Protection from Evil and Good`:
 
 Protection from Evil and Good
 -----------------------------
@@ -6988,6 +7432,8 @@ be charmed, frightened, or possessed by them. If the target is already
 charmed, frightened, or possessed by such a creature, the target has
 advantage on any new saving throw against the relevant effect.
 
+.. _`Protection from Poison`:
+
 Protection from Poison
 ----------------------
 
@@ -7007,6 +7453,8 @@ you know is present, or you neutralize one at random.
 
 For the duration, the target has advantage on saving throws against
 being poisoned, and it has resistance to poison damage.
+
+.. _`Purify Food and Drink`:
 
 Purify Food and Drink
 ---------------------
@@ -7030,6 +7478,8 @@ Spells (Q)
 
 Spells (R)
 ==========
+
+.. _`Raise Dead`:
 
 Raise Dead
 ----------
@@ -7066,6 +7516,8 @@ all attack rolls, saving throws, and ability checks. Every time the
 target finishes a long rest, the penalty is reduced by 1 until it
 disappears.
 
+.. _`Ray of Enfeeblement`:
+
 Ray of Enfeeblement
 -------------------
 
@@ -7087,6 +7539,8 @@ Strength until the spell ends.
 At the end of each of the target's turns, it can make a Constitution
 saving throw against the spell. On a success, the spell ends.
 
+.. _`Ray of Frost`:
+
 Ray of Frost
 ------------
 
@@ -7107,6 +7561,8 @@ your next turn.
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th
 level (3d8), and 17th level (4d8).
+
+.. _`Regenerate`:
 
 Regenerate
 ----------
@@ -7130,6 +7586,8 @@ The target's severed body members (fingers, legs, tails, and so on), if
 any, are restored after 2 minutes. If you have the severed part and hold
 it to the stump, the spell instantaneously causes the limb to knit to
 the stump.
+
+.. _`Reincarnate`:
 
 Reincarnate
 -----------
@@ -7193,6 +7651,8 @@ retains the capabilities it had in its original form, except it
 exchanges its original race for the new one and changes its racial
 traits accordingly.
 
+.. _`Remove Curse`:
+
 Remove Curse
 ------------
 
@@ -7209,6 +7669,8 @@ Remove Curse
 At your touch, all curses affecting one creature or object end. If the
 object is a cursed magic item, its curse remains, but the spell breaks
 its owner's attunement to the object so it can be removed or discarded.
+
+.. _`Resilient Sphere`:
 
 Resilient Sphere
 ----------------
@@ -7245,6 +7707,8 @@ other creatures.
 A *disintegrate* spell targeting the globe destroys it without harming
 anything inside it.
 
+.. _`Resistance`:
+
 Resistance
 ----------
 
@@ -7262,6 +7726,8 @@ You touch one willing creature. Once before the spell ends, the target
 can roll a d4 and add the number rolled to one saving throw of its
 choice. It can roll the die before or after making the saving throw. The
 spell then ends.
+
+.. _`Resurrection`:
 
 Resurrection
 ------------
@@ -7298,6 +7764,8 @@ one year or longer taxes you greatly. Until you finish a long rest, you
 can't cast spells again, and you have disadvantage on all attack rolls,
 ability checks, and saving throws.
 
+.. _`Reverse Gravity`:
+
 Reverse Gravity
 ---------------
 
@@ -7327,6 +7795,8 @@ for the duration.
 At the end of the duration, affected objects and creatures fall back
 down.
 
+.. _`Revivify`:
+
 Revivify
 --------
 
@@ -7345,6 +7815,8 @@ You touch a creature that has died within the last minute. That creature
 returns to life with 1 hit point. This spell can't return to life a
 creature that has died of old age, nor can it restore any missing body
 parts.
+
+.. _`Rope Trick`:
 
 Rope Trick
 ----------
@@ -7380,6 +7852,8 @@ ends.
 Spells (S)
 ==========
 
+.. _`Sacred Flame`:
+
 Sacred Flame
 ------------
 
@@ -7400,6 +7874,8 @@ throw.
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th
 level (3d8), and 17th level (4d8).
+
+.. _`Sanctuary`:
 
 Sanctuary
 ---------
@@ -7424,6 +7900,8 @@ explosion of a fireball.
 If the warded creature makes an attack, casts a spell that affects an
 enemy, or deals damage to another creature, this spell ends.
 
+.. _`Scorching Ray`:
+
 Scorching Ray
 -------------
 
@@ -7446,6 +7924,8 @@ fire damage.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 3rd level or higher, you create one additional ray for each slot level
 above 2nd.
+
+.. _`Scrying`:
 
 Scrying
 -------
@@ -7499,6 +7979,8 @@ Instead of targeting a creature, you can choose a location you have seen
 before as the target of this spell. When you do, the sensor appears at
 that location and doesn't move.
 
+.. _`Secret Chest`:
+
 Secret Chest
 ------------
 
@@ -7531,6 +8013,8 @@ the smaller replica chest is destroyed, or if you choose to end the
 spell as an action. If the spell ends and the larger chest is on the
 Ethereal Plane, it is irretrievably lost.
 
+.. _`See Invisibility`:
+
 See Invisibility
 ----------------
 
@@ -7548,6 +8032,8 @@ powdered silver)
 For the duration, you see invisible creatures and objects as if they
 were visible, and you can see into the Ethereal Plane. Ethereal
 creatures and objects appear ghostly and translucent.
+
+.. _`Seeming`:
 
 Seeming
 -------
@@ -7587,6 +8073,8 @@ A creature can use its action to inspect a target and make an
 Intelligence (Investigation) check against your spell save DC. If it
 succeeds, it becomes aware that the target is disguised.
 
+.. _`Sending`:
+
 Sending
 -------
 
@@ -7609,6 +8097,8 @@ of at least 1 to understand the meaning of your message.
 You can send the message across any distance and even to other planes of
 existence, but if the target is on a different plane than you, there is
 a 5 percent chance that the message doesn't arrive.
+
+.. _`Sequester`:
 
 Sequester
 ---------
@@ -7637,6 +8127,8 @@ You can set a condition for the spell to end early. The condition can be
 anything you choose, but it must occur or be visible within 1 mile of
 the target. Examples include "after 1,000 years" or "when the tarrasque
 awakens." This spell also ends if the target takes any damage.
+
+.. _`Shapechange`:
 
 Shapechange
 -----------
@@ -7695,6 +8187,8 @@ different form following the same restrictions and rules for the
 original form, with one exception: if your new form has more hit points
 than your current one, your hit points remain at their current value.
 
+.. _`Shatter`:
+
 Shatter
 -------
 
@@ -7722,6 +8216,8 @@ damage if it's in the spell's area.
 3rd level or higher, the damage increases by 1d8 for each slot level
 above 2nd.
 
+.. _`Shield`:
+
 Shield
 ------
 
@@ -7741,6 +8237,8 @@ the start of your next turn, you have a +5 bonus to AC, including
 against the triggering attack, and you take no damage from *magic
 missile*.
 
+.. _`Shield of Faith`:
+
 Shield of Faith
 ---------------
 
@@ -7757,6 +8255,8 @@ written on it)
 
 A shimmering field appears and surrounds a creature of your choice
 within range, granting it a +2 bonus to AC for the duration.
+
+.. _`Shillelagh`:
 
 Shillelagh
 ----------
@@ -7778,6 +8278,8 @@ instead of Strength for the attack and damage rolls of melee attacks
 using that weapon, and the weapon's damage die becomes a d8. The weapon
 also becomes magical, if it isn't already. The spell ends if you cast it
 again or if you let go of the weapon.
+
+.. _`Shocking Grasp`:
 
 Shocking Grasp
 --------------
@@ -7801,6 +8303,8 @@ take reactions until the start of its next turn.
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th
 level (3d8), and 17th level (4d8).
 
+.. _`Silence`:
+
 Silence
 -------
 
@@ -7819,6 +8323,8 @@ For the duration, no sound can be created within or pass through a
 creature or object entirely inside the sphere is immune to thunder
 damage, and creatures are deafened while entirely inside it. Casting a
 spell that includes a verbal component is impossible there.
+
+.. _`Silent Image`:
 
 Silent Image
 ------------
@@ -7850,6 +8356,8 @@ examine the image can determine that it is an illusion with a successful
 Intelligence (Investigation) check against your spell save DC. If a
 creature discerns the illusion for what it is, the creature can see
 through the image.
+
+.. _`Simulacrum`:
 
 Simulacrum
 ----------
@@ -7891,6 +8399,8 @@ point it reverts to snow and melts instantly.
 If you cast this spell again, any currently active duplicates you
 created with this spell are instantly destroyed.
 
+.. _`Sleep`:
+
 Sleep
 -----
 
@@ -7926,6 +8436,8 @@ spell.
 2nd level or higher, roll an additional 2d8 for each slot level above
 1st.
 
+.. _`Sleet Storm`:
+
 Sleet Storm
 -----------
 
@@ -7952,6 +8464,8 @@ a failed save, it falls prone.
 If a creature starts its turn in the spell's area and is concentrating
 on a spell, the creature must make a successful Constitution saving
 throw against your spell save DC or lose concentration.
+
+.. _`Slow`:
 
 Slow
 ----
@@ -7985,6 +8499,8 @@ A creature affected by this spell makes another Wisdom saving throw at
 the end of each of its turns. On a successful save, the effect ends for
 it.
 
+.. _`Speak with Animals`:
+
 Speak with Animals
 ------------------
 
@@ -8005,6 +8521,8 @@ about nearby locations and monsters, including whatever they can
 perceive or have perceived within the past day. You might be able to
 persuade a beast to perform a small favor for you, at the GM's
 discretion.
+
+.. _`Speak with Dead`:
 
 Speak with Dead
 ---------------
@@ -8032,6 +8550,8 @@ or it recognizes you as an enemy. This spell doesn't return the
 creature's soul to its body, only its animating spirit. Thus, the corpse
 can't learn new information, doesn't comprehend anything that has
 happened since it died, and can't speculate about future events.
+
+.. _`Speak with Plants`:
 
 Speak with Plants
 -----------------
@@ -8069,6 +8589,8 @@ influence it.
 This spell can cause the plants created by the *entangle* spell to
 release a restrained creature.
 
+.. _`Spider Climb`:
+
 Spider Climb
 ------------
 
@@ -8086,6 +8608,8 @@ Until the spell ends, one willing creature you touch gains the ability
 to move up, down, and across vertical surfaces and upside down along
 ceilings, while leaving its hands free. The target also gains a climbing
 speed equal to its walking speed.
+
+.. _`Spike Growth`:
 
 Spike Growth
 ------------
@@ -8110,6 +8634,8 @@ The transformation of the ground is camouflaged to look natural. Any
 creature that can't see the area at the time the spell is cast must make
 a Wisdom (Perception) check against your spell save DC to recognize the
 terrain as hazardous before entering it.
+
+.. _`Spirit Guardians`:
 
 Spirit Guardians
 ----------------
@@ -8140,6 +8666,8 @@ the creature takes half as much damage.
 :bi:`At Higher Levels`. When you cast this spell using a spell slot of
 4th level or higher, the damage increases by 1d8 for each slot level
 above 3rd.
+
+.. _`Spiritual Weapon`:
 
 Spiritual Weapon
 ----------------
@@ -8172,6 +8700,8 @@ weapon.
 3rd level or higher, the damage increases by 1d8 for every two slot
 levels above 2nd.
 
+.. _`Stinking Cloud`:
+
 Stinking Cloud
 --------------
 
@@ -8199,6 +8729,8 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4
 rounds. A strong wind (at least 20 miles per hour) disperses it after 1
 round.
 
+.. _`Stone Shape`:
+
 Stone Shape
 -----------
 
@@ -8221,6 +8753,8 @@ as the wall is less than 5 feet thick. You could also shape a stone door
 or its frame to seal the door shut. The object you create can have up to
 two hinges and a latch, but finer mechanical detail isn't possible.
 
+.. _`Stoneskin`:
+
 Stoneskin
 ---------
 
@@ -8238,6 +8772,8 @@ consumes)
 This spell turns the flesh of a willing creature you touch as hard as
 stone. Until the spell ends, the target has resistance to nonmagical
 bludgeoning, piercing, and slashing damage.
+
+.. _`Storm of Vengeance`:
 
 Storm of Vengeance
 ------------------
@@ -8284,6 +8820,8 @@ strong wind (ranging from 20 to 50 miles per hour) automatically
 disperse fog, mists, and similar phenomena in the area, whether mundane
 or magical.
 
+.. _`Suggestion`:
+
 Suggestion
 ----------
 
@@ -8319,6 +8857,8 @@ before the spell expires, the activity isn't performed.
 
 If you or any of your companions damage the target, the spell ends.
 
+.. _`Sunbeam`:
+
 Sunbeam
 -------
 
@@ -8346,6 +8886,8 @@ For the duration, a mote of brilliant radiance shines in your hand. It
 sheds bright light in a 30-foot radius and dim light for an additional
 30 feet. This light is sunlight.
 
+.. _`Sunburst`:
+
 Sunburst
 --------
 
@@ -8371,6 +8913,8 @@ at the end of each of its turns. On a successful save, it is no longer
 blinded.
 
 This spell dispels any darkness in its area that was created by a spell.
+
+.. _`Symbol`:
 
 Symbol
 ------
@@ -8459,6 +9003,8 @@ stunned for 1 minute on a failed save.
 Spells (T)
 ==========
 
+.. _`Telekinesis`:
+
 Telekinesis
 -----------
 
@@ -8505,6 +9051,8 @@ as manipulating a simple tool, opening a door or a container, stowing or
 retrieving an item from an open container, or pouring the contents from
 a vial.
 
+.. _`Telepathic Bond`:
+
 Telepathic Bond
 ---------------
 
@@ -8528,6 +9076,8 @@ Until the spell ends, the targets can communicate telepathically through
 the bond whether or not they have a common language. The communication
 is possible over any distance, though it can't extend to other planes of
 existence.
+
+.. _`Teleport`:
 
 Teleport
 --------
@@ -8616,6 +9166,8 @@ journey. Each teleporting creature (or the target object) takes 3d10
 force damage, and the GM rerolls on the table to see where you wind up
 (multiple mishaps can occur, dealing damage each time).
 
+.. _`Teleportation Circle`:
+
 Teleportation Circle
 --------------------
 
@@ -8652,6 +9204,8 @@ You can create a permanent teleportation circle by casting this spell in
 the same location every day for one year. You need not use the circle to
 teleport when you cast the spell in this way.
 
+.. _`Thaumaturgy`:
+
 Thaumaturgy
 -----------
 
@@ -8687,6 +9241,8 @@ You create one of the following magical effects within **range:**
    effects active at a time, and you can dismiss such an effect as an
    action.
 
+.. _`Thunderwave`:
+
 Thunderwave
 -----------
 
@@ -8714,6 +9270,8 @@ effect, and the spell emits a thunderous boom audible out to 300 feet.
 2nd level or higher, the damage increases by 1d8 for each slot level
 above 1st.
 
+.. _`Time Stop`:
+
 Time Stop
 ---------
 
@@ -8736,6 +9294,8 @@ effects that you create during this period, affects a creature other
 than you or an object being worn or carried by someone other than you.
 In addition, the spell ends if you move to a place more than 1,000 feet
 from the location where you cast it.
+
+.. _`Tiny Hut`:
 
 Tiny Hut
 --------
@@ -8766,6 +9326,8 @@ Until the spell ends, you can command the interior to become dimly lit
 or dark. The dome is opaque from the outside, of any color you choose,
 but it is transparent from the inside.
 
+.. _`Tongues`:
+
 Tongues
 -------
 
@@ -8783,6 +9345,8 @@ This spell grants the creature you touch the ability to understand any
 spoken language it hears. Moreover, when the target speaks, any creature
 that knows at least one language and can hear the target understands
 what it says.
+
+.. _`Transport via Plants`:
 
 Transport via Plants
 --------------------
@@ -8803,6 +9367,8 @@ of existence. You must have seen or touched the destination plant at
 least once before. For the duration, any creature can step into the
 target plant and exit from the destination plant by using 5 feet of
 movement.
+
+.. _`Tree Stride`:
 
 Tree Stride
 -----------
@@ -8829,6 +9395,8 @@ movement left, you appear within 5 feet of the tree you entered.
 
 You can use this transportation ability once per round for the duration.
 You must end each turn outside a tree.
+
+.. _`True Polymorph`:
 
 True Polymorph
 --------------
@@ -8895,6 +9463,8 @@ size. The creature's statistics become those of the object, and the
 creature has no memory of time spent in this form, after the spell ends
 and it returns to its normal form.
 
+.. _`True Resurrection`:
+
 True Resurrection
 -----------------
 
@@ -8922,6 +9492,8 @@ The spell can even provide a new body if the original no longer exists,
 in which case you must speak the creature's name. The creature then
 appears in an unoccupied space you choose within 10 feet of you.
 
+.. _`True Seeing`:
+
 True Seeing
 -----------
 
@@ -8941,6 +9513,8 @@ This spell gives the willing creature you touch the ability to see
 things as they actually are. For the duration, the creature has
 truesight, notices secret doors hidden by magic, and can see into the
 Ethereal Plane, all out to a range of 120 feet.
+
+.. _`True Strike`:
 
 True Strike
 -----------
@@ -8962,6 +9536,8 @@ provided that this spell hasn't ended.
 
 Spells (U)
 ==========
+
+.. _`Unseen Servant`:
 
 Unseen Servant
 --------------
@@ -8996,6 +9572,8 @@ than 60 feet away from you, the spell ends.
 Spells (V)
 ==========
 
+.. _`Vampiric Touch`:
+
 Vampiric Touch
 --------------
 
@@ -9022,6 +9600,8 @@ above 3rd.
 
 Spells (W)
 ==========
+
+.. _`Wall of Fire`:
 
 Wall of Fire
 ------------
@@ -9055,6 +9635,8 @@ other side of the wall deals no damage.
 5th level or higher, the damage increases by 1d8 for each slot level
 above 4th.
 
+.. _`Wall of Force`:
+
 Wall of Force
 -------------
 
@@ -9084,6 +9666,8 @@ Nothing can physically pass through the wall. It is immune to all damage
 and can't be dispelled by *dispel magic*. A *disintegrate* spell
 destroys the wall instantly, however. The wall also extends into the
 Ethereal Plane, blocking ethereal travel through the wall.
+
+.. _`Wall of Ice`:
 
 Wall of Ice
 -----------
@@ -9122,6 +9706,8 @@ one.
 7th level or higher, the damage the wall deals when it appears increases
 by 2d6, and the damage from passing through the sheet of frigid air
 increases by 1d6, for each slot level above 6th.
+
+.. _`Wall of Stone`:
 
 Wall of Stone
 -------------
@@ -9168,6 +9754,8 @@ If you maintain your concentration on this spell for its whole duration,
 the wall becomes permanent and can't be dispelled. Otherwise, the wall
 disappears when the spell ends.
 
+.. _`Wall of Thorns`:
+
 Wall of Thorns
 --------------
 
@@ -9203,6 +9791,8 @@ damage on a successful one.
 7th level or higher, both types of damage increase by 1d8 for each slot
 level above 6th.
 
+.. _`Warding Bond`:
+
 Warding Bond
 ------------
 
@@ -9228,6 +9818,8 @@ become separated by more than 60 feet. It also ends if the spell is cast
 again on either of the connected creatures. You can also dismiss the
 spell as an action.
 
+.. _`Water Breathing`:
+
 Water Breathing
 ---------------
 
@@ -9244,6 +9836,8 @@ Water Breathing
 This spell grants up to ten willing creatures you can see within range
 the ability to breathe underwater until the spell ends. Affected
 creatures also retain their normal mode of respiration.
+
+.. _`Water Walk`:
 
 Water Walk
 ----------
@@ -9266,6 +9860,8 @@ ability for the duration.
 
 If you target a creature submerged in a liquid, the spell carries the
 target to the surface of the liquid at a rate of 60 feet per round.
+
+.. _`Web`:
 
 Web
 ---
@@ -9303,6 +9899,8 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns
 away in 1 round, dealing 2d4 fire damage to any creature that starts its
 turn in the fire.
 
+.. _`Weird`:
+
 Weird
 -----
 
@@ -9325,6 +9923,8 @@ creature's deepest fears, manifesting its worst nightmares as an
 implacable threat. At the end of each of the frightened creature's
 turns, it must succeed on a Wisdom saving throw or take 4d10 psychic
 damage. On a successful save, the spell ends for that creature.
+
+.. _`Wind Walk`:
 
 Wind Walk
 ---------
@@ -9352,6 +9952,8 @@ If a creature is in cloud form and flying when the effect ends, the
 creature descends 60 feet per round for 1 minute until it lands, which
 it does safely. If it can't land after 1 minute, the creature falls the
 remaining distance.
+
+.. _`Wind Wall`:
 
 Wind Wall
 ---------
@@ -9383,6 +9985,8 @@ and other ordinary projectiles launched at targets behind the wall are
 deflected upward and automatically miss. (Boulders hurled by giants or
 siege engines, and similar projectiles, are unaffected.) Creatures in
 gaseous form can't pass through it.
+
+.. _`Wish`:
 
 Wish
 ----
@@ -9454,6 +10058,8 @@ resting and doing nothing more than light activity, your remaining
 recovery time decreases by 2 days. Finally, there is a 33 percent chance
 that you are unable to cast *wish* ever again if you suffer this stress.
 
+.. _`Word of Recall`:
+
 Word of Recall
 --------------
 
@@ -9487,6 +10093,8 @@ Spells (Y)
 
 Spells (Z)
 ==========
+
+.. _`Zone of Truth`:
 
 Zone of Truth
 -------------

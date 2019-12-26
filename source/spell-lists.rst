@@ -12,161 +12,160 @@ Bard Spells
 Cantrips (0 Level)
 ------------------
 
-- Dancing Lights
-- Light
-- Mage Hand
-- Mending
-- Message
-- Minor Illusion
-- Prestidigitation
-- True Strike
+- :ref:`Dancing Lights`
+- :ref:`Light`
+- :ref:`Mage Hand`
+- :ref:`Mending`
+- :ref:`Message`
+- :ref:`Minor Illusion`
+- :ref:`Prestidigitation`
+- :ref:`True Strike`
 
 
 1st Level
 ---------
 
-- Bane
-- Charm Person
-- Comprehend Languages
-- Cure Wounds
-- Detect Magic
-- Disguise Self
-- Faerie Fire
-- Feather Fall
-- Healing Word
-- Heroism
-- Hideous Laughter
-- Identify
-- Illusory Script
-- Longstrider
-- Silent Image
-- Sleep
-- Speak with Animals
-- Thunderwave
-- Unseen Servant
+- :ref:`Bane`
+- :ref:`Charm Person`
+- :ref:`Comprehend Languages`
+- :ref:`Cure Wounds`
+- :ref:`Detect Magic`
+- :ref:`Disguise Self`
+- :ref:`Faerie Fire`
+- :ref:`Feather Fall`
+- :ref:`Healing Word`
+- :ref:`Heroism`
+- :ref:`Hideous Laughter`
+- :ref:`Identify`
+- :ref:`Illusory Script`
+- :ref:`Longstrider`
+- :ref:`Silent Image`
+- :ref:`Sleep`
+- :ref:`Speak with Animals`
+- :ref:`Thunderwave`
+- :ref:`Unseen Servant`
 
 
 2nd Level
 ---------
 
-- Animal Messenger
-- Blindness/Deafness
-- Calm Emotions
-- Detect Thoughts
-- Enhance Ability
-- Enthrall
-- Heat Metal
-- Hold Person
-- Invisibility
-- Knock
-- Lesser Restoration
-- Locate Animals or Plants
-- Locate Object
-- Magic Mouth
-- See Invisibility
-- Shatter
-- Silence
-- Suggestion
-- Zone of Truth
+- :ref:`Animal Messenger`
+- :ref:`Blindness/Deafness`
+- :ref:`Calm Emotions`
+- :ref:`Detect Thoughts`
+- :ref:`Enhance Ability`
+- :ref:`Enthrall`
+- :ref:`Heat Metal`
+- :ref:`Hold Person`
+- :ref:`Invisibility`
+- :ref:`Knock`
+- :ref:`Lesser Restoration`
+- :ref:`Locate Animals or Plants`
+- :ref:`Locate Object`
+- :ref:`Magic Mouth`
+- :ref:`See Invisibility`
+- :ref:`Shatter`
+- :ref:`Silence`
+- :ref:`Suggestion`
+- :ref:`Zone of Truth`
 
 
 3rd Level
 ---------
 
-- Bestow Curse
-- Clairvoyance
-- Dispel Magic
-- Fear
-- Glyph of Warding
-- Hypnotic Pattern
-- Major Image
-- Nondetection
-- Plant Growth
-- Sending
-- Speak with Dead
-- Speak with Plants
-- Stinking Cloud
-- Tiny Hut
-- Tongues
+- :ref:`Bestow Curse`
+- :ref:`Clairvoyance`
+- :ref:`Dispel Magic`
+- :ref:`Fear`
+- :ref:`Glyph of Warding`
+- :ref:`Hypnotic Pattern`
+- :ref:`Major Image`
+- :ref:`Nondetection`
+- :ref:`Plant Growth`
+- :ref:`Sending`
+- :ref:`Speak with Dead`
+- :ref:`Speak with Plants`
+- :ref:`Stinking Cloud`
+- :ref:`Tiny Hut`
+- :ref:`Tongues`
 
 
 4th Level
 ---------
 
-- Confusion
-- Dimension Door
-- Freedom of Movement
-- Greater Invisibility
-- Hallucinatory Terrain
-- Locate Creature
-- Polymorph
+- :ref:`Confusion`
+- :ref:`Dimension Door`
+- :ref:`Freedom of Movement`
+- :ref:`Greater Invisibility`
+- :ref:`Hallucinatory Terrain`
+- :ref:`Locate Creature`
+- :ref:`Polymorph`
 
 
 5th Level
 ---------
 
-- Animate Objects
-- Awaken
-- Dominate Person
-- Dream
-- Geas
-- Greater Restoration
-- Hold Monster
-- Legend Lore
-- Mass Cure Wounds
-- Mislead
-- Modify Memory
-- Planar Binding
-- Raise Dead
-- Scrying
-- Seeming
-- Teleportation Circle
+- :ref:`Animate Objects`
+- :ref:`Awaken`
+- :ref:`Dominate Person`
+- :ref:`Dream`
+- :ref:`Geas`
+- :ref:`Greater Restoration`
+- :ref:`Hold Monster`
+- :ref:`Legend Lore`
+- :ref:`Mass Cure Wounds`
+- :ref:`Mislead`
+- :ref:`Modify Memory`
+- :ref:`Planar Binding`
+- :ref:`Raise Dead`
+- :ref:`Scrying`
+- :ref:`Seeming`
+- :ref:`Teleportation Circle`
 
 
 6th Level
 ---------
 
-- Eyebite
-- Find the Path
-- Guards and Wards
-- Irresistible Dance
-- Mass Suggestion
-- Programmed Illusion
-- True Seeing
+- :ref:`Eyebite`
+- :ref:`Find the Path`
+- :ref:`Guards and Wards`
+- :ref:`Irresistible Dance`
+- :ref:`Mass Suggestion`
+- :ref:`Programmed Illusion`
+- :ref:`True Seeing`
 
 
 7th Level
 ---------
 
-- Arcane Sword
-- Etherealness
-- Forcecage
-- Magnificent Mansion
-- Mirage Arcane
-- Project Image
-- Regenerate
-- Resurrection
-- Symbol
-- Teleport
+- :ref:`Arcane Sword`
+- :ref:`Etherealness`
+- :ref:`Forcecage`
+- :ref:`Magnificent Mansion`
+- :ref:`Mirage Arcane`
+- :ref:`Project Image`
+- :ref:`Regenerate`
+- :ref:`Resurrection`
+- :ref:`Symbol`
+- :ref:`Teleport`
 
 
 8th Level
 ---------
 
-- Dominate Monster
-- Feeblemind
-- Glibness
-- Mind Blank
-- Power Word
-- Stun
+- :ref:`Dominate Monster`
+- :ref:`Feeblemind`
+- :ref:`Glibness`
+- :ref:`Mind Blank`
+- :ref:`Power Word Stun`
 
 
 9th Level
 ---------
 
-- Foresight
-- Power Word Kill
-- True Polymorph
+- :ref:`Foresight`
+- :ref:`Power Word Kill`
+- :ref:`True Polymorph`
 
 
 Cleric Spells
@@ -175,155 +174,154 @@ Cleric Spells
 Cantrips (0 Level)
 ------------------
 
-- Guidance
-- Light
-- Mending
-- Resistance
-- Sacred Flame
-- Thaumaturgy
+- :ref:`Guidance`
+- :ref:`Light`
+- :ref:`Mending`
+- :ref:`Resistance`
+- :ref:`Sacred Flame`
+- :ref:`Thaumaturgy`
 
 
 1st Level
 ---------
 
-- Bane
-- Bless
-- Command
-- Create or Destroy Water
-- Cure Wounds
-- Detect Evil and Good
-- Detect Magic
-- Detect Poison and Disease
-- Guiding Bolt
-- Healing Word
-- Inflict Wounds
-- Protection from Evil and Good
-- Purify Food and Drink
-- Sanctuary
-- Shield of Faith
+- :ref:`Bane`
+- :ref:`Bless`
+- :ref:`Command`
+- :ref:`Create or Destroy Water`
+- :ref:`Cure Wounds`
+- :ref:`Detect Evil and Good`
+- :ref:`Detect Magic`
+- :ref:`Detect Poison and Disease`
+- :ref:`Guiding Bolt`
+- :ref:`Healing Word`
+- :ref:`Inflict Wounds`
+- :ref:`Protection from Evil and Good`
+- :ref:`Purify Food and Drink`
+- :ref:`Sanctuary`
+- :ref:`Shield of Faith`
 
 
 2nd Level
 ---------
 
-- Aid
-- Augury
-- Blindness/Deafness
-- Calm Emotions
-- Continual Flame
-- Enhance Ability
-- Find Traps
-- Gentle Repose
-- Hold Person
-- Lesser Restoration
-- Locate Object
-- Prayer of Healing
-- Protection from Poison
-- Silence
-- Spiritual Weapon
-- Warding Bond
-- Zone of Truth
+- :ref:`Aid`
+- :ref:`Augury`
+- :ref:`Blindness/Deafness`
+- :ref:`Calm Emotions`
+- :ref:`Continual Flame`
+- :ref:`Enhance Ability`
+- :ref:`Find Traps`
+- :ref:`Gentle Repose`
+- :ref:`Hold Person`
+- :ref:`Lesser Restoration`
+- :ref:`Locate Object`
+- :ref:`Prayer of Healing`
+- :ref:`Protection from Poison`
+- :ref:`Silence`
+- :ref:`Spiritual Weapon`
+- :ref:`Warding Bond`
+- :ref:`Zone of Truth`
 
 
 3rd Level
 ---------
 
-- Animate Dead
-- Beacon of Hope
-- Bestow Curse
-- Clairvoyance
-- Create Food and Water
-- Daylight
-- Dispel Magic
-- Glyph of Warding
-- Magic Circle
-- Mass Healing Word
-- Meld into Stone
-- Protection from Energy
-- Remove Curse
-- Revivify
-- Sending
-- Speak with Dead
-- Spirit Guardians
-- Tongues
-- Water Walk
+- :ref:`Animate Dead`
+- :ref:`Beacon of Hope`
+- :ref:`Bestow Curse`
+- :ref:`Clairvoyance`
+- :ref:`Create Food and Water`
+- :ref:`Daylight`
+- :ref:`Dispel Magic`
+- :ref:`Glyph of Warding`
+- :ref:`Magic Circle`
+- :ref:`Mass Healing Word`
+- :ref:`Meld into Stone`
+- :ref:`Protection from Energy`
+- :ref:`Remove Curse`
+- :ref:`Revivify`
+- :ref:`Sending`
+- :ref:`Speak with Dead`
+- :ref:`Spirit Guardians`
+- :ref:`Tongues`
+- :ref:`Water Walk`
 
 
 4th Level
 ---------
 
-- Banishment
-- Control Water
-- Death Ward
-- Divination
-- Freedom of Movement
-- Locate Creature
-- Stone Shape
+- :ref:`Banishment`
+- :ref:`Control Water`
+- :ref:`Death Ward`
+- :ref:`Divination`
+- :ref:`Freedom of Movement`
+- :ref:`Locate Creature`
+- :ref:`Stone Shape`
 
 
 5th Level
 ---------
 
-- Commune
-- Contagion
-- Dispel Evil and Good
-- Flame Strike
-- Geas
-- Greater Restoration
-- Hallow
-- Insect Plague
-- Legend
-- Lore
-- Mass Cure Wounds
-- Planar Binding
-- Raise Dead
-- Scrying
+- :ref:`Commune`
+- :ref:`Contagion`
+- :ref:`Dispel Evil and Good`
+- :ref:`Flame Strike`
+- :ref:`Geas`
+- :ref:`Greater Restoration`
+- :ref:`Hallow`
+- :ref:`Insect Plague`
+- :ref:`Legend Lore`
+- :ref:`Mass Cure Wounds`
+- :ref:`Planar Binding`
+- :ref:`Raise Dead`
+- :ref:`Scrying`
 
 
 6th Level
 ---------
 
-- Blade Barrier
-- Create Undead
-- Find the Path
-- Forbiddance
-- Harm
-- Heal
-- Heroes' Feast
-- Planar Ally
-- True Seeing
-- Word of Recall
+- :ref:`Blade Barrier`
+- :ref:`Create Undead`
+- :ref:`Find the Path`
+- :ref:`Forbiddance`
+- :ref:`Harm`
+- :ref:`Heal`
+- :ref:`Heroes' Feast`
+- :ref:`Planar Ally`
+- :ref:`True Seeing`
+- :ref:`Word of Recall`
 
 
 7th Level
 ---------
 
-- Conjure Celestial
-- Divine Word
-- Etherealness
-- Fire Storm
-- Plane Shift
-- Regenerate
-- Resurrection
-- Symbol
+- :ref:`Conjure Celestial`
+- :ref:`Divine Word`
+- :ref:`Etherealness`
+- :ref:`Fire Storm`
+- :ref:`Plane Shift`
+- :ref:`Regenerate`
+- :ref:`Resurrection`
+- :ref:`Symbol`
 
 
 8th Level
 ---------
 
-- Antimagic Field
-- Control Weather
-- Earthquake
-- Holy Aura
+- :ref:`Antimagic Field`
+- :ref:`Control Weather`
+- :ref:`Earthquake`
+- :ref:`Holy Aura`
 
 
 9th Level
 ---------
 
-- Astral Projection
-- Gate
-- Mass Heal
-- True Resurrection
+- :ref:`Astral Projection`
+- :ref:`Gate`
+- :ref:`Mass Heal`
+- :ref:`True Resurrection`
 
 
 Druid Spells
@@ -332,152 +330,152 @@ Druid Spells
 Cantrips (0 Level)
 ------------------
 
-- Guidance
-- Mending
-- Produce Flame
-- Resistance
-- Shillelagh
+- :ref:`Guidance`
+- :ref:`Mending`
+- :ref:`Produce Flame`
+- :ref:`Resistance`
+- :ref:`Shillelagh`
 
 
 1st Level
 ---------
 
-- Charm Person
-- Create or Destroy Water
-- Cure Wounds
-- Detect Magic
-- Detect Poison and Disease
-- Entangle
-- Faerie Fire
-- Fog Cloud
-- Healing Word
-- Jump
-- Longstrider
-- Purify Food and Drink
-- Speak with Animals
-- Thunderwave
+- :ref:`Charm Person`
+- :ref:`Create or Destroy Water`
+- :ref:`Cure Wounds`
+- :ref:`Detect Magic`
+- :ref:`Detect Poison and Disease`
+- :ref:`Entangle`
+- :ref:`Faerie Fire`
+- :ref:`Fog Cloud`
+- :ref:`Healing Word`
+- :ref:`Jump`
+- :ref:`Longstrider`
+- :ref:`Purify Food and Drink`
+- :ref:`Speak with Animals`
+- :ref:`Thunderwave`
 
 
 2nd Level
 ---------
 
-- Animal Messenger
-- Barkskin
-- Darkvision
-- Enhance Ability
-- Find Traps
-- Flame Blade
-- Flaming Sphere
-- Gust of Wind
-- Heat Metal
-- Hold Person
-- Lesser Restoration
-- Locate Animals or Plants
-- Locate Object
-- Moonbeam
-- Pass without Trace
-- Protection from Poison
-- Spike Growth
+- :ref:`Animal Messenger`
+- :ref:`Barkskin`
+- :ref:`Darkvision`
+- :ref:`Enhance Ability`
+- :ref:`Find Traps`
+- :ref:`Flame Blade`
+- :ref:`Flaming Sphere`
+- :ref:`Gust of Wind`
+- :ref:`Heat Metal`
+- :ref:`Hold Person`
+- :ref:`Lesser Restoration`
+- :ref:`Locate Animals or Plants`
+- :ref:`Locate Object`
+- :ref:`Moonbeam`
+- :ref:`Pass without Trace`
+- :ref:`Protection from Poison`
+- :ref:`Spike Growth`
 
 
 3rd Level
 ---------
 
-- Call Lightning
-- Conjure Animals
-- Daylight
-- Dispel Magic
-- Meld into Stone
-- Plant Growth
-- Protection from Energy
-- Sleet Storm
-- Speak with Plants
-- Water Breathing
-- Water Walk
-- Wind Wall
+- :ref:`Call Lightning`
+- :ref:`Conjure Animals`
+- :ref:`Daylight`
+- :ref:`Dispel Magic`
+- :ref:`Meld into Stone`
+- :ref:`Plant Growth`
+- :ref:`Protection from Energy`
+- :ref:`Sleet Storm`
+- :ref:`Speak with Plants`
+- :ref:`Water Breathing`
+- :ref:`Water Walk`
+- :ref:`Wind Wall`
 
 
 4th Level
 ---------
 
-- Blight
-- Confusion
-- Conjure Minor Elementals
-- Conjure Woodland Beings
-- Control Water
-- Dominate Beast
-- Freedom of Movement
-- Giant Insect
-- Hallucinatory Terrain
-- Ice Storm
-- Locate Creature
-- Polymorph
-- Stone Shape
-- Stoneskin
-- Wall of Fire
+- :ref:`Blight`
+- :ref:`Confusion`
+- :ref:`Conjure Minor Elementals`
+- :ref:`Conjure Woodland Beings`
+- :ref:`Control Water`
+- :ref:`Dominate Beast`
+- :ref:`Freedom of Movement`
+- :ref:`Giant Insect`
+- :ref:`Hallucinatory Terrain`
+- :ref:`Ice Storm`
+- :ref:`Locate Creature`
+- :ref:`Polymorph`
+- :ref:`Stone Shape`
+- :ref:`Stoneskin`
+- :ref:`Wall of Fire`
 
 
 5th Level
 ---------
 
-- Antilife Shell
-- Awaken
-- Commune with Nature
-- Conjure Elemental
-- Contagion
-- Geas
-- Greater Restoration
-- Insect Plague
-- Mass Cure Wounds
-- Planar Binding
-- Reincarnate
-- Scrying
-- Tree Stride
-- Wall of Stone
+- :ref:`Antilife Shell`
+- :ref:`Awaken`
+- :ref:`Commune with Nature`
+- :ref:`Conjure Elemental`
+- :ref:`Contagion`
+- :ref:`Geas`
+- :ref:`Greater Restoration`
+- :ref:`Insect Plague`
+- :ref:`Mass Cure Wounds`
+- :ref:`Planar Binding`
+- :ref:`Reincarnate`
+- :ref:`Scrying`
+- :ref:`Tree Stride`
+- :ref:`Wall of Stone`
 
 
 6th Level
 ---------
 
-- Conjure Fey
-- Find the Path
-- Heal
-- Heroes' Feast
-- Move Earth
-- Sunbeam
-- Transport via Plants
-- Wall of Thorns
-- Wind Walk
+- :ref:`Conjure Fey`
+- :ref:`Find the Path`
+- :ref:`Heal`
+- :ref:`Heroes' Feast`
+- :ref:`Move Earth`
+- :ref:`Sunbeam`
+- :ref:`Transport via Plants`
+- :ref:`Wall of Thorns`
+- :ref:`Wind Walk`
 
 
 7th Level
 ---------
 
-- Fire Storm
-- Mirage Arcane
-- Plane Shift
-- Regenerate
-- Reverse Gravity
+- :ref:`Fire Storm`
+- :ref:`Mirage Arcane`
+- :ref:`Plane Shift`
+- :ref:`Regenerate`
+- :ref:`Reverse Gravity`
 
 
 8th Level
 ---------
 
-- Animal Shapes
-- Antipathy/Sympathy
-- Control Weather
-- Earthquake
-- Feeblemind
-- Sunburst
+- :ref:`Animal Shapes`
+- :ref:`Antipathy/Sympathy`
+- :ref:`Control Weather`
+- :ref:`Earthquake`
+- :ref:`Feeblemind`
+- :ref:`Sunburst`
 
 
 9th Level
 ---------
 
-- Foresight
-- Shapechange
-- Storm of Vengeance
-- True Resurrection
+- :ref:`Foresight`
+- :ref:`Shapechange`
+- :ref:`Storm of Vengeance`
+- :ref:`True Resurrection`
 
 
 Paladin Spells
@@ -486,56 +484,56 @@ Paladin Spells
 1st Level
 ---------
 
-- Bless
-- Command
-- Cure Wounds
-- Detect Evil and Good
-- Detect Magic
-- Detect Poison and Disease
-- Divine Favor
-- Heroism
-- Protection from Evil and Good
-- Purify Food and Drink
-- Shield of Faith
+- :ref:`Bless`
+- :ref:`Command`
+- :ref:`Cure Wounds`
+- :ref:`Detect Evil and Good`
+- :ref:`Detect Magic`
+- :ref:`Detect Poison and Disease`
+- :ref:`Divine Favor`
+- :ref:`Heroism`
+- :ref:`Protection from Evil and Good`
+- :ref:`Purify Food and Drink`
+- :ref:`Shield of Faith`
 
 
 2nd Level
 ---------
 
-- Aid
-- Find Steed
-- Lesser Restoration
-- Locate Object
-- Magic Weapon
-- Protection from Poison
-- Zone of Truth
+- :ref:`Aid`
+- :ref:`Find Steed`
+- :ref:`Lesser Restoration`
+- :ref:`Locate Object`
+- :ref:`Magic Weapon`
+- :ref:`Protection from Poison`
+- :ref:`Zone of Truth`
 
 
 3rd Level
 ---------
 
-- Create Food and Water
-- Daylight
-- Dispel Magic
-- Magic Circle
-- Remove Curse
-- Revivify
+- :ref:`Create Food and Water`
+- :ref:`Daylight`
+- :ref:`Dispel Magic`
+- :ref:`Magic Circle`
+- :ref:`Remove Curse`
+- :ref:`Revivify`
 
 
 4th Level
 ---------
 
-- Banishment
-- Death Ward
-- Locate Creature
+- :ref:`Banishment`
+- :ref:`Death Ward`
+- :ref:`Locate Creature`
 
 
 5th Level
 ---------
 
-- Dispel Evil and Good
-- Geas
-- Raise Dead
+- :ref:`Dispel Evil and Good`
+- :ref:`Geas`
+- :ref:`Raise Dead`
 
 
 Ranger Spells
@@ -544,60 +542,60 @@ Ranger Spells
 1st Level
 ---------
 
-- Alarm
-- Cure Wounds
-- Detect Magic
-- Detect Poison and Disease
-- Fog Cloud
-- Jump
-- Longstrider
-- Speak with Animals
+- :ref:`Alarm`
+- :ref:`Cure Wounds`
+- :ref:`Detect Magic`
+- :ref:`Detect Poison and Disease`
+- :ref:`Fog Cloud`
+- :ref:`Jump`
+- :ref:`Longstrider`
+- :ref:`Speak with Animals`
 
 
 2nd Level
 ---------
 
-- Animal Messenger
-- Barkskin
-- Darkvision
-- Find Traps
-- Lesser Restoration
-- Locate Animals or Plants
-- Locate Object
-- Pass without Trace
-- Protection from Poison
-- Silence
-- Spike Growth
+- :ref:`Animal Messenger`
+- :ref:`Barkskin`
+- :ref:`Darkvision`
+- :ref:`Find Traps`
+- :ref:`Lesser Restoration`
+- :ref:`Locate Animals or Plants`
+- :ref:`Locate Object`
+- :ref:`Pass without Trace`
+- :ref:`Protection from Poison`
+- :ref:`Silence`
+- :ref:`Spike Growth`
 
 
 3rd Level
 ---------
 
-- Conjure Animals
-- Daylight
-- Nondetection
-- Plant Growth
-- Protection from Energy
-- Speak with Plants
-- Water Breathing
-- Water Walk
-- Wind Wall
+- :ref:`Conjure Animals`
+- :ref:`Daylight`
+- :ref:`Nondetection`
+- :ref:`Plant Growth`
+- :ref:`Protection from Energy`
+- :ref:`Speak with Plants`
+- :ref:`Water Breathing`
+- :ref:`Water Walk`
+- :ref:`Wind Wall`
 
 
 4th Level
 ---------
 
-- Conjure Woodland Beings
-- Freedom of Movement
-- Locate Creature
-- Stoneskin
+- :ref:`Conjure Woodland Beings`
+- :ref:`Freedom of Movement`
+- :ref:`Locate Creature`
+- :ref:`Stoneskin`
 
 
 5th Level
 ---------
 
-- Commune with Nature
-- Tree Stride
+- :ref:`Commune with Nature`
+- :ref:`Tree Stride`
 
 
 Sorcerer Spells
@@ -606,169 +604,168 @@ Sorcerer Spells
 Cantrips (0 Level)
 ------------------
 
-- Acid Splash
-- Chill Touch
-- Dancing Lights
-- Light
-- Mage Hand
-- Mending
-- Message
-- Minor Illusion
-- Prestidigitation
-- Ray of Frost
-- Shocking Grasp
-- True Strike
+- :ref:`Acid Splash`
+- :ref:`Chill Touch`
+- :ref:`Dancing Lights`
+- :ref:`Light`
+- :ref:`Mage Hand`
+- :ref:`Mending`
+- :ref:`Message`
+- :ref:`Minor Illusion`
+- :ref:`Prestidigitation`
+- :ref:`Ray of Frost`
+- :ref:`Shocking Grasp`
+- :ref:`True Strike`
 
 
 1st Level
 ---------
 
-- Burning Hands
-- Charm Person
-- Color Spray
-- Comprehend Languages
-- Detect Magic
-- Disguise Self
-- Expeditious Retreat
-- False Life
-- Feather Fall
-- Fog Cloud
-- Jump
-- Mage Armor
-- Magic Missile
-- Shield
-- Silent Image
-- Sleep
-- Thunderwave
+- :ref:`Burning Hands`
+- :ref:`Charm Person`
+- :ref:`Color Spray`
+- :ref:`Comprehend Languages`
+- :ref:`Detect Magic`
+- :ref:`Disguise Self`
+- :ref:`Expeditious Retreat`
+- :ref:`False Life`
+- :ref:`Feather Fall`
+- :ref:`Fog Cloud`
+- :ref:`Jump`
+- :ref:`Mage Armor`
+- :ref:`Magic Missile`
+- :ref:`Shield`
+- :ref:`Silent Image`
+- :ref:`Sleep`
+- :ref:`Thunderwave`
 
 
 2nd Level
 ---------
 
-- Alter Self
-- Blindness/Deafness
-- Blur
-- Darkness
-- Darkvision
-- Detect Thoughts
-- Enhance Ability
-- Enlarge/Reduce
-- Gust of Wind
-- Hold Person
-- Invisibility
-- Knock
-- Levitate
-- Mirror Image
-- Misty Step
-- Scorching Ray
-- See Invisibility
-- Shatter
-- Spider Climb
-- Suggestion
-- Web
+- :ref:`Alter Self`
+- :ref:`Blindness/Deafness`
+- :ref:`Blur`
+- :ref:`Darkness`
+- :ref:`Darkvision`
+- :ref:`Detect Thoughts`
+- :ref:`Enhance Ability`
+- :ref:`Enlarge/Reduce`
+- :ref:`Gust of Wind`
+- :ref:`Hold Person`
+- :ref:`Invisibility`
+- :ref:`Knock`
+- :ref:`Levitate`
+- :ref:`Mirror Image`
+- :ref:`Misty Step`
+- :ref:`Scorching Ray`
+- :ref:`See Invisibility`
+- :ref:`Shatter`
+- :ref:`Spider Climb`
+- :ref:`Suggestion`
+- :ref:`Web`
 
 
 3rd Level
 ---------
 
-- Blink
-- Clairvoyance
-- Daylight
-- Dispel Magic
-- Fear
-- Fireball
-- Fly
-- Gaseous Form
-- Haste
-- Hypnotic Pattern
-- Lightning Bolt
-- Major Image
-- Protection from Energy
-- Sleet Storm
-- Slow
-- Stinking Cloud
-- Tongues
-- Water Breathing
-- Water Walk
+- :ref:`Blink`
+- :ref:`Clairvoyance`
+- :ref:`Daylight`
+- :ref:`Dispel Magic`
+- :ref:`Fear`
+- :ref:`Fireball`
+- :ref:`Fly`
+- :ref:`Gaseous Form`
+- :ref:`Haste`
+- :ref:`Hypnotic Pattern`
+- :ref:`Lightning Bolt`
+- :ref:`Major Image`
+- :ref:`Protection from Energy`
+- :ref:`Sleet Storm`
+- :ref:`Slow`
+- :ref:`Stinking Cloud`
+- :ref:`Tongues`
+- :ref:`Water Breathing`
+- :ref:`Water Walk`
 
 
 4th Level
 ---------
 
-- Banishment
-- Blight
-- Confusion
-- Dimension Door
-- Dominate Beast
-- Greater Invisibility
-- Ice Storm
-- Polymorph
-- Stoneskin
-- Wall of Fire
+- :ref:`Banishment`
+- :ref:`Blight`
+- :ref:`Confusion`
+- :ref:`Dimension Door`
+- :ref:`Dominate Beast`
+- :ref:`Greater Invisibility`
+- :ref:`Ice Storm`
+- :ref:`Polymorph`
+- :ref:`Stoneskin`
+- :ref:`Wall of Fire`
 
 
 5th Level
 ---------
 
-- Animate Objects
-- Cloudkill
-- Cone of Cold
-- Creation
-- Dominate Person
-- Hold Monster
-- Insect Plague
-- Seeming
-- Telekinesis
-- Teleportation Circle
-- Wall of Stone
+- :ref:`Animate Objects`
+- :ref:`Cloudkill`
+- :ref:`Cone of Cold`
+- :ref:`Creation`
+- :ref:`Dominate Person`
+- :ref:`Hold Monster`
+- :ref:`Insect Plague`
+- :ref:`Seeming`
+- :ref:`Telekinesis`
+- :ref:`Teleportation Circle`
+- :ref:`Wall of Stone`
 
 
 6th Level
 ---------
 
-- Chain Lightning
-- Circle of Death
-- Disintegrate
-- Eyebite
-- Globe of Invulnerability
-- Mass Suggestion
-- Move Earth
-- Sunbeam
-- True Seeing
+- :ref:`Chain Lightning`
+- :ref:`Circle of Death`
+- :ref:`Disintegrate`
+- :ref:`Eyebite`
+- :ref:`Globe of Invulnerability`
+- :ref:`Mass Suggestion`
+- :ref:`Move Earth`
+- :ref:`Sunbeam`
+- :ref:`True Seeing`
 
 
 7th Level
 ---------
 
-- Delayed Blast
-- Fireball
-- Etherealness
-- Finger of Death
-- Fire Storm
-- Plane Shift
-- Prismatic Spray
-- Reverse Gravity
-- Teleport
+- :ref:`Delayed Blast Fireball`
+- :ref:`Etherealness`
+- :ref:`Finger of Death`
+- :ref:`Fire Storm`
+- :ref:`Plane Shift`
+- :ref:`Prismatic Spray`
+- :ref:`Reverse Gravity`
+- :ref:`Teleport`
 
 
 8th Level
 ---------
 
-- Dominate Monster
-- Earthquake
-- Incendiary Cloud
-- Power Word Stun
-- Sunburst
+- :ref:`Dominate Monster`
+- :ref:`Earthquake`
+- :ref:`Incendiary Cloud`
+- :ref:`Power Word Stun`
+- :ref:`Sunburst`
 
 
 9th Level
 ---------
 
-- Gate
-- Meteor Swarm
-- Power Word Kill
-- Time Stop
-- Wish
+- :ref:`Gate`
+- :ref:`Meteor Swarm`
+- :ref:`Power Word Kill`
+- :ref:`Time Stop`
+- :ref:`Wish`
 
 
 Warlock Spells
@@ -777,111 +774,111 @@ Warlock Spells
 Cantrips (0 Level)
 ------------------
 
-- Chill Touch
-- Mage Hand
-- Minor Illusion
-- Prestidigitation
-- True Strike
+- :ref:`Chill Touch`
+- :ref:`Mage Hand`
+- :ref:`Minor Illusion`
+- :ref:`Prestidigitation`
+- :ref:`True Strike`
 
 
 1st Level
 ---------
 
-- Charm Person
-- Comprehend Languages
-- Expeditious Retreat
-- Illusory Script
-- Protection from Evil and Good
-- Unseen Servant
+- :ref:`Charm Person`
+- :ref:`Comprehend Languages`
+- :ref:`Expeditious Retreat`
+- :ref:`Illusory Script`
+- :ref:`Protection from Evil and Good`
+- :ref:`Unseen Servant`
 
 
 2nd Level
 ---------
 
-- Darkness
-- Enthrall
-- Hold Person
-- Invisibility
-- Mirror Image
-- Misty Step
-- Ray of Enfeeblement
-- Shatter
-- Spider Climb
-- Suggestion
+- :ref:`Darkness`
+- :ref:`Enthrall`
+- :ref:`Hold Person`
+- :ref:`Invisibility`
+- :ref:`Mirror Image`
+- :ref:`Misty Step`
+- :ref:`Ray of Enfeeblement`
+- :ref:`Shatter`
+- :ref:`Spider Climb`
+- :ref:`Suggestion`
 
 
 3rd Level
 ---------
 
-- Dispel Magic
-- Fear
-- Fly
-- Gaseous Form
-- Hypnotic Pattern
-- Magic Circle
-- Major Image
-- Remove Curse
-- Tongues
-- Vampiric Touch
+- :ref:`Dispel Magic`
+- :ref:`Fear`
+- :ref:`Fly`
+- :ref:`Gaseous Form`
+- :ref:`Hypnotic Pattern`
+- :ref:`Magic Circle`
+- :ref:`Major Image`
+- :ref:`Remove Curse`
+- :ref:`Tongues`
+- :ref:`Vampiric Touch`
 
 
 4th Level
 ---------
 
-- Banishment
-- Blight
-- Dimension Door
-- Hallucinatory Terrain
+- :ref:`Banishment`
+- :ref:`Blight`
+- :ref:`Dimension Door`
+- :ref:`Hallucinatory Terrain`
 
 
 5th Level
 ---------
 
-- Contact Other Plane
-- Dream
-- Hold Monster
-- Scrying
+- :ref:`Contact Other Plane`
+- :ref:`Dream`
+- :ref:`Hold Monster`
+- :ref:`Scrying`
 
 
 6th Level
 ---------
 
-- Circle of Death
-- Conjure Fey
-- Create Undead
-- Eyebite
-- Flesh to Stone
-- Mass Suggestion
-- True Seeing
+- :ref:`Circle of Death`
+- :ref:`Conjure Fey`
+- :ref:`Create Undead`
+- :ref:`Eyebite`
+- :ref:`Flesh to Stone`
+- :ref:`Mass Suggestion`
+- :ref:`True Seeing`
 
 
 7th Level
 ---------
 
-- Etherealness
-- Finger of Death
-- Forcecage
-- Plane Shift
+- :ref:`Etherealness`
+- :ref:`Finger of Death`
+- :ref:`Forcecage`
+- :ref:`Plane Shift`
 
 
 8th Level
 ---------
 
-- Demiplane
-- Dominate Monster
-- Feeblemind
-- Glibness
-- Power Word Stun
+- :ref:`Demiplane`
+- :ref:`Dominate Monster`
+- :ref:`Feeblemind`
+- :ref:`Glibness`
+- :ref:`Power Word Stun`
 
 
 9th Level
 ---------
 
-- Astral Projection
-- Foresight
-- Imprisonment
-- Power Word Kill
-- True Polymorph
+- :ref:`Astral Projection`
+- :ref:`Foresight`
+- :ref:`Imprisonment`
+- :ref:`Power Word Kill`
+- :ref:`True Polymorph`
 
 
 Wizard Spells
@@ -890,250 +887,248 @@ Wizard Spells
 Cantrips (0 Level)
 ------------------
 
-- Acid Splash
-- Chill Touch
-- Dancing Lights
-- Light
-- Mage Hand
-- Mending
-- Message
-- Minor Illusion
-- Prestidigitation
-- Ray of Frost
-- Shocking Grasp
-- True Strike
+- :ref:`Acid Splash`
+- :ref:`Chill Touch`
+- :ref:`Dancing Lights`
+- :ref:`Light`
+- :ref:`Mage Hand`
+- :ref:`Mending`
+- :ref:`Message`
+- :ref:`Minor Illusion`
+- :ref:`Prestidigitation`
+- :ref:`Ray of Frost`
+- :ref:`Shocking Grasp`
+- :ref:`True Strike`
 
 
 1st Level
 ---------
 
-- Alarm
-- Burning Hands
-- Charm Person
-- Color Spray
-- Comprehend Languages
-- Detect Magic
-- Disguise Self
-- Expeditious Retreat
-- False Life
-- Feather Fall
-- Floating Disk
-- Fog Cloud
-- Grease
-- Hideous Laughter
-- Identify
-- Illusory Script
-- Jump
-- Longstrider
-- Mage Armor
-- Magic Missile
-- Protection from Evil and Good
-- Shield
-- Silent Image
-- Sleep
-- Thunderwave
-- Unseen Servant
+- :ref:`Alarm`
+- :ref:`Burning Hands`
+- :ref:`Charm Person`
+- :ref:`Color Spray`
+- :ref:`Comprehend Languages`
+- :ref:`Detect Magic`
+- :ref:`Disguise Self`
+- :ref:`Expeditious Retreat`
+- :ref:`False Life`
+- :ref:`Feather Fall`
+- :ref:`Floating Disk`
+- :ref:`Fog Cloud`
+- :ref:`Grease`
+- :ref:`Hideous Laughter`
+- :ref:`Identify`
+- :ref:`Illusory Script`
+- :ref:`Jump`
+- :ref:`Longstrider`
+- :ref:`Mage Armor`
+- :ref:`Magic Missile`
+- :ref:`Protection from Evil and Good`
+- :ref:`Shield`
+- :ref:`Silent Image`
+- :ref:`Sleep`
+- :ref:`Thunderwave`
+- :ref:`Unseen Servant`
 
 
 2nd Level
 ---------
 
-- Acid Arrow
-- Alter Self
-- Arcane Lock
-- Arcanist's Magic Aura
-- Blindness/Deafness
-- Blur
-- Continual Flame
-- Darkness
-- Darkvision
-- Detect Thoughts
-- Enlarge/Reduce
-- Flaming Sphere
-- Gentle Repose
-- Gust of Wind
-- Hold Person
-- Invisibility
-- Knock
-- Levitate
-- Locate Object
-- Magic Mouth
-- Magic Weapon
-- Mirror Image
-- Misty Step
-- Ray of Enfeeblement
-- Rope Trick
-- Scorching Ray
-- See Invisibility
-- Shatter
-- Spider Climb
-- Suggestion
-- Web
+- :ref:`Acid Arrow`
+- :ref:`Alter Self`
+- :ref:`Arcane Lock`
+- :ref:`Arcanist's Magic Aura`
+- :ref:`Blindness/Deafness`
+- :ref:`Blur`
+- :ref:`Continual Flame`
+- :ref:`Darkness`
+- :ref:`Darkvision`
+- :ref:`Detect Thoughts`
+- :ref:`Enlarge/Reduce`
+- :ref:`Flaming Sphere`
+- :ref:`Gentle Repose`
+- :ref:`Gust of Wind`
+- :ref:`Hold Person`
+- :ref:`Invisibility`
+- :ref:`Knock`
+- :ref:`Levitate`
+- :ref:`Locate Object`
+- :ref:`Magic Mouth`
+- :ref:`Magic Weapon`
+- :ref:`Mirror Image`
+- :ref:`Misty Step`
+- :ref:`Ray of Enfeeblement`
+- :ref:`Rope Trick`
+- :ref:`Scorching Ray`
+- :ref:`See Invisibility`
+- :ref:`Shatter`
+- :ref:`Spider Climb`
+- :ref:`Suggestion`
+- :ref:`Web`
 
 
 3rd Level
 ---------
 
-- Animate Dead
-- Bestow Curse
-- Blink
-- Clairvoyance
-- Dispel Magic
-- Fear
-- Fireball
-- Fly
-- Gaseous Form
-- Glyph of Warding
-- Haste
-- Hypnotic Pattern
-- Lightning Bolt
-- Magic Circle
-- Major Image
-- Nondetection
-- Phantom Steed
-- Protection from Energy
-- Remove Curse
-- Sending
-- Sleet Storm
-- Slow
-- Stinking Cloud
-- Tiny Hut
-- Tongues
-- Vampiric Touch
-- Water Breathing
+- :ref:`Animate Dead`
+- :ref:`Bestow Curse`
+- :ref:`Blink`
+- :ref:`Clairvoyance`
+- :ref:`Dispel Magic`
+- :ref:`Fear`
+- :ref:`Fireball`
+- :ref:`Fly`
+- :ref:`Gaseous Form`
+- :ref:`Glyph of Warding`
+- :ref:`Haste`
+- :ref:`Hypnotic Pattern`
+- :ref:`Lightning Bolt`
+- :ref:`Magic Circle`
+- :ref:`Major Image`
+- :ref:`Nondetection`
+- :ref:`Phantom Steed`
+- :ref:`Protection from Energy`
+- :ref:`Remove Curse`
+- :ref:`Sending`
+- :ref:`Sleet Storm`
+- :ref:`Slow`
+- :ref:`Stinking Cloud`
+- :ref:`Tiny Hut`
+- :ref:`Tongues`
+- :ref:`Vampiric Touch`
+- :ref:`Water Breathing`
 
 
 4th Level
 ---------
 
-- Arcane Eye
-- Banishment
-- Black Tentacles
-- Blight
-- Confusion
-- Conjure Minor Elementals
-- Control Water
-- Dimension Door
-- Fabricate
-- Faithful Hound
-- Fire Shield
-- Greater Invisibility
-- Hallucinatory Terrain
-- Ice Storm
-- Locate Creature
-- Phantasmal Killer
-- Polymorph
-- Private Sanctum
-- Resilient
-- Sphere
-- Secret Chest
-- Stone Shape
-- Stoneskin
-- Wall of Fire
+- :ref:`Arcane Eye`
+- :ref:`Banishment`
+- :ref:`Black Tentacles`
+- :ref:`Blight`
+- :ref:`Confusion`
+- :ref:`Conjure Minor Elementals`
+- :ref:`Control Water`
+- :ref:`Dimension Door`
+- :ref:`Fabricate`
+- :ref:`Faithful Hound`
+- :ref:`Fire Shield`
+- :ref:`Greater Invisibility`
+- :ref:`Hallucinatory Terrain`
+- :ref:`Ice Storm`
+- :ref:`Locate Creature`
+- :ref:`Phantasmal Killer`
+- :ref:`Polymorph`
+- :ref:`Private Sanctum`
+- :ref:`Resilient Sphere`
+- :ref:`Secret Chest`
+- :ref:`Stone Shape`
+- :ref:`Stoneskin`
+- :ref:`Wall of Fire`
 
 
 5th Level
 ---------
 
-- Animate Objects
-- Arcane Hand
-- Cloudkill
-- Cone of Cold
-- Conjure Elemental
-- Contact Other Plane
-- Creation
-- Dominate Person
-- Dream
-- Geas
-- Hold Monster
-- Legend Lore
-- Mislead
-- Modify Memory
-- Passwall
-- Planar Binding
-- Scrying
-- Seeming
-- Telekinesis
-- Telepathic Bond
-- Teleportation Circle
-- Wall of Force
-- Wall of Stone
+- :ref:`Animate Objects`
+- :ref:`Arcane Hand`
+- :ref:`Cloudkill`
+- :ref:`Cone of Cold`
+- :ref:`Conjure Elemental`
+- :ref:`Contact Other Plane`
+- :ref:`Creation`
+- :ref:`Dominate Person`
+- :ref:`Dream`
+- :ref:`Geas`
+- :ref:`Hold Monster`
+- :ref:`Legend Lore`
+- :ref:`Mislead`
+- :ref:`Modify Memory`
+- :ref:`Passwall`
+- :ref:`Planar Binding`
+- :ref:`Scrying`
+- :ref:`Seeming`
+- :ref:`Telekinesis`
+- :ref:`Telepathic Bond`
+- :ref:`Teleportation Circle`
+- :ref:`Wall of Force`
+- :ref:`Wall of Stone`
 
 
 6th Level
 ---------
 
-- Chain Lightning
-- Circle of Death
-- Contingency
-- Create Undead
-- Disintegrate
-- Eyebite
-- Flesh to Stone
-- Freezing Sphere
-- Globe of Invulnerability
-- Guards and Wards
-- Instant Summons
-- Irresistible Dance
-- Magic Jar
-- Mass Suggestion
-- Move Earth
-- Programmed Illusion
-- Sunbeam
-- True Seeing
-- Wall of Ice
+- :ref:`Chain Lightning`
+- :ref:`Circle of Death`
+- :ref:`Contingency`
+- :ref:`Create Undead`
+- :ref:`Disintegrate`
+- :ref:`Eyebite`
+- :ref:`Flesh to Stone`
+- :ref:`Freezing Sphere`
+- :ref:`Globe of Invulnerability`
+- :ref:`Guards and Wards`
+- :ref:`Instant Summons`
+- :ref:`Irresistible Dance`
+- :ref:`Magic Jar`
+- :ref:`Mass Suggestion`
+- :ref:`Move Earth`
+- :ref:`Programmed Illusion`
+- :ref:`Sunbeam`
+- :ref:`True Seeing`
+- :ref:`Wall of Ice`
 
 
 7th Level
 ---------
 
-- Arcane Sword
-- Delayed Blast
-- Fireball
-- Etherealness
-- Finger of Death
-- Forcecage
-- Magnificent Mansion
-- Mirage Arcane
-- Plane Shift
-- Prismatic Spray
-- Project Image
-- Reverse Gravity
-- Sequester
-- Simulacrum
-- Symbol
-- Teleport
+- :ref:`Arcane Sword`
+- :ref:`Delayed Blast Fireball`
+- :ref:`Etherealness`
+- :ref:`Finger of Death`
+- :ref:`Forcecage`
+- :ref:`Magnificent Mansion`
+- :ref:`Mirage Arcane`
+- :ref:`Plane Shift`
+- :ref:`Prismatic Spray`
+- :ref:`Project Image`
+- :ref:`Reverse Gravity`
+- :ref:`Sequester`
+- :ref:`Simulacrum`
+- :ref:`Symbol`
+- :ref:`Teleport`
 
 
 8th Level
 ---------
 
-- Antimagic Field
-- Antipathy/Sympathy
-- Clone
-- Control Weather
-- Demiplane
-- Dominate Monster
-- Feeblemind
-- Incendiary Cloud
-- Maze
-- Mind Blank
-- Power Word Stun
-- Sunburst
+- :ref:`Antimagic Field`
+- :ref:`Antipathy/Sympathy`
+- :ref:`Clone`
+- :ref:`Control Weather`
+- :ref:`Demiplane`
+- :ref:`Dominate Monster`
+- :ref:`Feeblemind`
+- :ref:`Incendiary Cloud`
+- :ref:`Maze`
+- :ref:`Mind Blank`
+- :ref:`Power Word Stun`
+- :ref:`Sunburst`
 
 
 9th Level
 ---------
 
-- Astral Projection
-- Foresight
-- Gate
-- Imprisonment
-- Meteor Swarm
-- Power Word Kill
-- Prismatic Wall
-- Shapechange
-- Time Stop
-- True Polymorph
-- Weird
-- Wish
+- :ref:`Astral Projection`
+- :ref:`Foresight`
+- :ref:`Gate`
+- :ref:`Imprisonment`
+- :ref:`Meteor Swarm`
+- :ref:`Power Word Kill`
+- :ref:`Prismatic Wall`
+- :ref:`Shapechange`
+- :ref:`Time Stop`
+- :ref:`True Polymorph`
+- :ref:`Weird`
+- :ref:`Wish`
