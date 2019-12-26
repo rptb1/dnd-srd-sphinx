@@ -151,10 +151,21 @@ Monster Descriptions
 
 .. toctree::
    :maxdepth: 1
-   :caption: Dragons (Chromatic):
+   :caption: Dragons, Chromatic:
 
    monster/black-dragon.rst
    monster/blue-dragon.rst
    monster/green-dragon.rst
    monster/red-dragon.rst
    monster/white-dragon.rst
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Dragons, Metallic:
+
+   monster/brass-dragon.rst
+   monster/bronze-dragon.rst
+   monster/copper-dragon.rst
+   monster/gold-dragon.rst
+   monster/silver-dragon.rst

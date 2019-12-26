@@ -3,7 +3,7 @@ Dragons, Chromatic
 
 .. toctree::
    :maxdepth: 1
-   :caption: Devils:
+   :caption: Dragons, Chromatic:
 
    black-dragon.rst
    blue-dragon.rst
