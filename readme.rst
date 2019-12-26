@@ -18,14 +18,24 @@ for converting them in to a large number of useful formats.
 
 .. _Sphinx: https://www.sphinx-doc.org/
 
-This document was created from the `Dungeons & Dragons 5th Edition
-System Reference Document (SRD) v5.1 Remastered in Markdown Format
-<https://ogl-srd5.com/>`__ [#commit]_ by `B.A. Umberger
-<http://www.umbyology.com>`__.  The initial versions were converted
-using `Pandoc <https://pandoc.org/>`__, then hand-edited.
+The plan is to create a custom domain extension for Sphinx so that
+things like classes, spells, creatures, etc. are easy to create and
+cross-reference (rather like classes and functions in software).
 
-The next step is to create a custom domain extension for Sphinx so
-that things like classes, spells, creatures, etc. are easy to create
-and cross-reference (rather like classes and functions in software).
+Here are a few to-do items:
 
-.. [#commit] At commit 532bf6534a8c04d90f042a945f29198ece5d77cc.
+- Things like spells, creatures, weapons, classes, races should be
+  documented with a custom domain so that they can be indexed.
+  
+- Spell lists, weapon tables, etc. should be automatically generated.
+  
+- A custom HTML theme should be created to make the HTML output
+  resemble Wizards official documentation.
+
+- A custom output should be created to generate things like printable
+  spell cards.
+
+See the introduction_ of the documentation produced by this project
+for acknowledgements and licensing information.
+
+.. _introduction: source/introduction.rst
