@@ -10,8 +10,7 @@ Dungeons & Dragons 5th Edition System Reference Document
    :maxdepth: 2
    :caption: Contents:
 
-   home/index
-   changelog
+   introduction
    legal
    beyond
    races/index
