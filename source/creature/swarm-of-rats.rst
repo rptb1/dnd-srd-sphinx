@@ -50,8 +50,9 @@ versa, and the swarm can move through any opening large enough for a
 Tiny rat. The swarm can't regain hit points or gain temporary hit
 points.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bites`. *Melee Weapon Attack:* +2 to hit, reach 0 ft., one target
 in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6)

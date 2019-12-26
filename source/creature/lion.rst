@@ -55,8 +55,9 @@ it as a bonus action.
 :bi:`Running Leap`. With a 10-foot running start, the lion can long jump
 up to 25 feet.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 7 (1d8 + 3) piercing damage.

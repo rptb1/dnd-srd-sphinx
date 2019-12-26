@@ -45,8 +45,9 @@ it must succeed on a DC 10 Strength saving throw or be knocked prone.
 :bi:`Sure-Footed`. The goat has advantage on Strength and Dexterity
 saving throws made against effects that would knock it prone.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Ram`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 3 (1d4 + 1) bludgeoning damage.

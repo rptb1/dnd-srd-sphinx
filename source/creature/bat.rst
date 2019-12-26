@@ -42,8 +42,9 @@ Bat
 :bi:`Keen Hearing`. The bat has advantage on Wisdom (Perception) checks
 that rely on hearing.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature.
 *Hit:* 1 piercing damage.

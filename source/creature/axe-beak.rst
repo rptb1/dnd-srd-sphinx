@@ -37,8 +37,9 @@ Axe Beak
 
 **Challenge** 1/4 (50 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Beak`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 6 (1d8 + 2) slashing damage.

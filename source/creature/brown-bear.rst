@@ -42,8 +42,9 @@ Brown Bear
 :bi:`Keen Smell`. The bear has advantage on Wisdom (Perception) checks
 that rely on smell.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The bear makes two attacks: one with its bite and one
 with its claws.

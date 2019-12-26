@@ -47,8 +47,9 @@ versa, and the swarm can move through any opening large enough for a
 Tiny insect. The swarm can't regain hit points or gain temporary hit
 points.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bites`. *Melee Weapon Attack:* +3 to hit, reach 0 ft., one target
 in the swarm's space. *Hit:* 10 (4d4) piercing damage, or 5 (2d4)

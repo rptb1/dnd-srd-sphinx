@@ -44,8 +44,9 @@ it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 :bi:`Water Breathing`. The sea horse can breathe only underwater.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Ram`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 4 (1d6 + 1) bludgeoning damage.

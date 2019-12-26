@@ -37,8 +37,9 @@ Giant Scorpion
 
 **Challenge** 3 (700 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The scorpion makes three attacks: two with its claws
 and one with its sting.

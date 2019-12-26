@@ -43,8 +43,9 @@ Giant Hyena
 melee attack on its turn, the hyena can take a bonus action to move up
 to half its speed and make a bite attack.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 10 (2d6 + 3) piercing damage.

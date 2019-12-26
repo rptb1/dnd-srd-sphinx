@@ -46,8 +46,9 @@ Giant Vulture
 a creature if at least one of the vulture's allies is within 5 feet of
 the creature and the ally isn't incapacitated.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The vulture makes two attacks: one with its beak and
 one with its talons.

@@ -42,8 +42,9 @@ Giant Toad
 :bi:`Standing Leap`. The toad's long jump is up to 20 feet and its high
 jump is up to 10 feet, with or without a running start.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the

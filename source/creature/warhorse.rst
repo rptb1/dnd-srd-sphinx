@@ -43,8 +43,9 @@ turn, that target must succeed on a DC 14 Strength saving throw or be
 knocked prone. If the target is prone, the horse can make another attack
 with its hooves against it as a bonus action.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Hooves`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 11 (2d6 + 4) bludgeoning damage.

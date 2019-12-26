@@ -46,8 +46,9 @@ Vulture
 a creature if at least one of the vulture's allies is within 5 feet of
 the creature and the ally isn't incapacitated.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Beak`. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target.
 *Hit:* 2 (1d4) piercing damage.

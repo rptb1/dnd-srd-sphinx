@@ -44,8 +44,9 @@ against any creature that doesn't have all its hit points.
 
 :bi:`Water Breathing`. The shark can breathe only underwater.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target.
 *Hit:* 22 (3d10 + 6) piercing damage.

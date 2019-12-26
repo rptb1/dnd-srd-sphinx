@@ -47,8 +47,9 @@ for 1 hour.
 
 :bi:`Water Breathing`. The octopus can breathe only underwater.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Tentacles`. *Melee Weapon Attack:* +5 to hit, reach 15 ft., one
 target. *Hit:* 10 (2d6 + 3) bludgeoning damage. If the target is a

@@ -41,8 +41,9 @@ Crab
 
 :bi:`Amphibious`. The crab can breathe air and water.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Claw`. *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target.
 *Hit:* 1 bludgeoning damage.

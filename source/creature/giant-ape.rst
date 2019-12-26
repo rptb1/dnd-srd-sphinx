@@ -39,8 +39,9 @@ Giant Ape
 
 **Challenge** 7 (2,900 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The ape makes two fist attacks.
 

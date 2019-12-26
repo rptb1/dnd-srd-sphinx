@@ -44,8 +44,9 @@ Awakened Tree
 :bi:`False Appearance`. While the tree remains motionless, it is
 indistinguishable from a normal tree.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Slam`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target.
 *Hit:* 14 (3d6 + 4) bludgeoning damage.

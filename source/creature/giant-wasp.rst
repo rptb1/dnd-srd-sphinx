@@ -37,8 +37,9 @@ Giant Wasp
 
 **Challenge** 1/2 (100 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Sting`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
 creature. *Hit:* 5 (1d6 + 2) piercing damage, and the target must make a

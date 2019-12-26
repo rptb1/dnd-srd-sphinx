@@ -44,8 +44,9 @@ that rely on smell.
 creature if at least one of the rat's allies is within 5 feet of the
 creature and the ally isn't incapacitated.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 4 (1d4 + 2) piercing damage.

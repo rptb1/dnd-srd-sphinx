@@ -43,8 +43,9 @@ Death Dog
 and on saving throws against being blinded, charmed, deafened,
 frightened, stunned, or knocked unconscious.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The dog makes two bite attacks.
 

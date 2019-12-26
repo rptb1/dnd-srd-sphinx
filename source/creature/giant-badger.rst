@@ -40,8 +40,9 @@ Giant Badger
 :bi:`Keen Smell`. The badger has advantage on Wisdom (Perception) checks
 that rely on smell.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The badger makes two attacks: one with its bite and
 one with its claws.

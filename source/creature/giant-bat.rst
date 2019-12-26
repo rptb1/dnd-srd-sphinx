@@ -42,8 +42,9 @@ Giant Bat
 :bi:`Keen Hearing`. The bat has advantage on Wisdom (Perception) checks
 that rely on hearing.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 5 (1d6 + 2) piercing damage.

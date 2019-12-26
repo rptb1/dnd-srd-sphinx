@@ -37,8 +37,9 @@ Scorpion
 
 **Challenge** 0 (10 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Sting`. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one
 creature. *Hit:* 1 piercing damage, and the target must make a DC 9

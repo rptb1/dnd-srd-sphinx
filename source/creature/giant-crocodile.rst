@@ -39,8 +39,9 @@ Giant Crocodile
 
 :bi:`Hold Breath`. The crocodile can hold its breath for 30 minutes.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Multiattack`. The crocodile makes two attacks: one with its bite
 and one with its tail.

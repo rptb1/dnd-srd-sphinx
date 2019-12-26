@@ -37,8 +37,9 @@ Riding Horse
 
 **Challenge** 1/4 (50 XP)
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Hooves`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 8 (2d4 + 3) bludgeoning damage.

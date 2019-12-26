@@ -42,8 +42,9 @@ Blink Dog
 :bi:`Keen Hearing and Smell`. The dog has advantage on Wisdom
 (Perception) checks that rely on hearing or smell.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 4 (1d6 + 1) piercing damage.

@@ -42,8 +42,9 @@ target and then hits it with a gore attack on the same turn, the target
 takes an extra 9 (2d8) bludgeoning damage. If the target is a creature,
 it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Gore`. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
 *Hit:* 14 (2d8 + 5) bludgeoning damage.

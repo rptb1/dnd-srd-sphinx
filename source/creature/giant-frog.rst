@@ -44,8 +44,9 @@ Giant Frog
 :bi:`Standing Leap`. The frog's long jump is up to 20 feet and its high
 jump is up to 10 feet, with or without a running start.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 4 (1d6 + 1) piercing damage, and the target is grappled (escape

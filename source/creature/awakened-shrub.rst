@@ -44,8 +44,9 @@ Awakened Shrub
 :bi:`False Appearance`. While the shrub remains motionless, it is
 indistinguishable from a normal shrub.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Rake`. *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target.
 *Hit:* 1 (1d4 - 1) slashing damage.

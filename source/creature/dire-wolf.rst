@@ -46,8 +46,9 @@ Dire Wolf
 creature if at least one of the wolf's allies is within 5 feet of the
 creature and the ally isn't incapacitated.
 
+
 Actions
-       
+^^^^^^^
 
 :bi:`Bite`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it
