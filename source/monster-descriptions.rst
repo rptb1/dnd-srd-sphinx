@@ -147,3 +147,14 @@ Monster Descriptions
    monster/imp.rst
    monster/lemure.rst
    monster/pit-fiend.rst
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Dragons (Chromatic):
+
+   monster/black-dragon.rst
+   monster/blue-dragon.rst
+   monster/green-dragon.rst
+   monster/red-dragon.rst
+   monster/white-dragon.rst
