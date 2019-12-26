@@ -338,23 +338,23 @@ Each creature takes up a different amount of space. The Size Categories
 table shows how much space a creature of a particular size controls in
 combat. Objects sometimes use the same size categories.
 
-**Table** **52 - Combat: Creature Size Categories**
+.. table:: Combat: Creature Size Categories
 
-+--------------+--------------------------+
-| **Size**     | **Space**                |
-+==============+==========================+
-| Tiny         | 2½ by 2½ ft.             |
-+--------------+--------------------------+
-| Small        | 5 by 5 ft.               |
-+--------------+--------------------------+
-| Medium       | 5 by 5 ft.               |
-+--------------+--------------------------+
-| Large        | 10 by 10 ft.             |
-+--------------+--------------------------+
-| Huge         | 15 by 15 ft.             |
-+--------------+--------------------------+
-| Gargantuan   | 20 by 20 ft. or larger   |
-+--------------+--------------------------+
+  +--------------+--------------------------+
+  | Size         | Space                    |
+  +==============+==========================+
+  | Tiny         | 2½ by 2½ ft.             |
+  +--------------+--------------------------+
+  | Small        | 5 by 5 ft.               |
+  +--------------+--------------------------+
+  | Medium       | 5 by 5 ft.               |
+  +--------------+--------------------------+
+  | Large        | 10 by 10 ft.             |
+  +--------------+--------------------------+
+  | Huge         | 15 by 15 ft.             |
+  +--------------+--------------------------+
+  | Gargantuan   | 20 by 20 ft. or larger   |
+  +--------------+--------------------------+
 
 
 Space

@@ -72,23 +72,23 @@ a special condition called exhaustion. Exhaustion is measured in six
 levels. An effect can give a creature one or more levels of exhaustion,
 as specified in the effect's description.
 
-**Table** **53 - Conditions: Exhaustion Effects**
+.. table:: Conditions: Exhaustion Effects
 
-+-------------+--------------------------------------------------+
-| **Level**   | **Effect**                                       |
-+=============+==================================================+
-| 1           | Disadvantage on ability checks                   |
-+-------------+--------------------------------------------------+
-| 2           | Speed halved                                     |
-+-------------+--------------------------------------------------+
-| 3           | Disadvantage on attack rolls and saving throws   |
-+-------------+--------------------------------------------------+
-| 4           | Hit point maximum halved                         |
-+-------------+--------------------------------------------------+
-| 5           | Speed reduced to 0                               |
-+-------------+--------------------------------------------------+
-| 6           | Death                                            |
-+-------------+--------------------------------------------------+
+  +-------+--------------------------------------------------+
+  | Level | Effect                                           |
+  +=======+==================================================+
+  | 1     | Disadvantage on ability checks                   |
+  +-------+--------------------------------------------------+
+  | 2     | Speed halved                                     |
+  +-------+--------------------------------------------------+
+  | 3     | Disadvantage on attack rolls and saving throws   |
+  +-------+--------------------------------------------------+
+  | 4     | Hit point maximum halved                         |
+  +-------+--------------------------------------------------+
+  | 5     | Speed reduced to 0                               |
+  +-------+--------------------------------------------------+
+  | 6     | Death                                            |
+  +-------+--------------------------------------------------+
 
 If an already exhausted creature suffers another effect that causes
 exhaustion, its current level of exhaustion increases by the amount
@@ -257,52 +257,53 @@ in a brook, these gods forced themselves into being.
 The Celtic gods are as often served by druids as by clerics, for they
 are closely aligned with the forces of nature that druids revere.
 
-**Table** **54 - Pantheons: Celtic Deities**
+.. table:: Pantheons: Celtic Deities
 
-+-------------------------------+----------+---------------+----------------------+
-| **Deity**                     | **Alignm | **Suggested   | **Symbol**           |
-|                               | ent**    | Domains**     |                      |
-+===============================+==========+===============+======================+
-| The Daghdha, god of weather   | CG       | Nature,       | Bubbling cauldron or |
-| and crops                     |          | Trickery      | shield               |
-+-------------------------------+----------+---------------+----------------------+
-| Arawn, god of life and death  | NE       | Life, Death   | Black star on gray   |
-|                               |          |               | background           |
-+-------------------------------+----------+---------------+----------------------+
-| Belenus, god of sun, light,   | NG       | Light         | Solar disk and       |
-| and warmth                    |          |               | standing stones      |
-+-------------------------------+----------+---------------+----------------------+
-| Brigantia, goddess of rivers  | NG       | Life          | Footbridge           |
-| and livestock                 |          |               |                      |
-+-------------------------------+----------+---------------+----------------------+
-| Diancecht, god of medicine    | LG       | Life          | Crossed oak and      |
-| and healing                   |          |               | mistletoe branches   |
-+-------------------------------+----------+---------------+----------------------+
-| Dunatis, god of mountains and | N        | Nature        | Red sun-capped       |
-| peaks                         |          |               | mountain peak        |
-+-------------------------------+----------+---------------+----------------------+
-| Goibhniu, god of smiths and   | NG       | Knowledge,    | Giant mallet over    |
-| healing                       |          | Life          | sword                |
-+-------------------------------+----------+---------------+----------------------+
-| Lugh, god of arts, travel,    | CN       | Knowledge,    | Pair of long hands   |
-| and commerce                  |          | Life          |                      |
-+-------------------------------+----------+---------------+----------------------+
-| Manannan mac Lir, god of      | LN       | Nature,       | Wave of white water  |
-| oceans and sea creatures      |          | Tempest       | on green             |
-+-------------------------------+----------+---------------+----------------------+
-| Math Mathonwy, god of magic   | NE       | Knowledge     | Staff                |
-+-------------------------------+----------+---------------+----------------------+
-| Morrigan, goddess of battle   | CE       | War           | Two crossed spears   |
-+-------------------------------+----------+---------------+----------------------+
-| Nuada, god of war and         | N        | War           | Silver hand on black |
-| warriors                      |          |               | background           |
-+-------------------------------+----------+---------------+----------------------+
-| Oghma, god of speech and      | NG       | Knowledge     | Unfurled scroll      |
-| writing                       |          |               |                      |
-+-------------------------------+----------+---------------+----------------------+
-| Silvanus, god of nature and   | N        | Nature        | Summer oak tree      |
-| forests                       |          |               |                      |
-+-------------------------------+----------+---------------+----------------------+
+  +-------------------------------+------------+---------------+----------------------+
+  | Deity                         | Alignment  | Suggested     | Symbol               |
+  |                               |            | Domains       |                      |
+  +===============================+============+===============+======================+
+  | The Daghdha, god of weather   | CG         | Nature,       | Bubbling cauldron or |
+  | and crops                     |            | Trickery      | shield               |
+  +-------------------------------+------------+---------------+----------------------+
+  | Arawn, god of life and death  | NE         | Life, Death   | Black star on gray   |
+  |                               |            |               | background           |
+  +-------------------------------+------------+---------------+----------------------+
+  | Belenus, god of sun, light,   | NG         | Light         | Solar disk and       |
+  | and warmth                    |            |               | standing stones      |
+  +-------------------------------+------------+---------------+----------------------+
+  | Brigantia, goddess of rivers  | NG         | Life          | Footbridge           |
+  | and livestock                 |            |               |                      |
+  +-------------------------------+------------+---------------+----------------------+
+  | Diancecht, god of medicine    | LG         | Life          | Crossed oak and      |
+  | and healing                   |            |               | mistletoe branches   |
+  +-------------------------------+------------+---------------+----------------------+
+  | Dunatis, god of mountains and | N          | Nature        | Red sun-capped       |
+  | peaks                         |            |               | mountain peak        |
+  +-------------------------------+------------+---------------+----------------------+
+  | Goibhniu, god of smiths and   | NG         | Knowledge,    | Giant mallet over    |
+  | healing                       |            | Life          | sword                |
+  +-------------------------------+------------+---------------+----------------------+
+  | Lugh, god of arts, travel,    | CN         | Knowledge,    | Pair of long hands   |
+  | and commerce                  |            | Life          |                      |
+  +-------------------------------+------------+---------------+----------------------+
+  | Manannan mac Lir, god of      | LN         | Nature,       | Wave of white water  |
+  | oceans and sea creatures      |            | Tempest       | on green             |
+  +-------------------------------+------------+---------------+----------------------+
+  | Math Mathonwy, god of magic   | NE         | Knowledge     | Staff                |
+  +-------------------------------+------------+---------------+----------------------+
+  | Morrigan, goddess of battle   | CE         | War           | Two crossed spears   |
+  +-------------------------------+------------+---------------+----------------------+
+  | Nuada, god of war and         | N          | War           | Silver hand on black |
+  | warriors                      |            |               | background           |
+  +-------------------------------+------------+---------------+----------------------+
+  | Oghma, god of speech and      | NG         | Knowledge     | Unfurled scroll      |
+  | writing                       |            |               |                      |
+  +-------------------------------+------------+---------------+----------------------+
+  | Silvanus, god of nature and   | N          | Nature        | Summer oak tree      |
+  | forests                       |            |               |                      |
+  +-------------------------------+------------+---------------+----------------------+
+
 
 The Greek Pantheon
 ------------------
@@ -314,67 +315,67 @@ olive-covered hillsides hold evidence of their passing. Every aspect of
 nature echoes with their presence, and they've made a place for
 themselves inside the human heart, too.
 
-**Table** **55 - Pantheons: Greek Deities**
+.. table:: Pantheons: Greek Deities
 
-+----------------------------+----------+----------------+-------------------------+
-| **Deity**                  | **Alignm | **Suggested    | **Symbol**              |
-|                            | ent**    | Domains**      |                         |
-+============================+==========+================+=========================+
-| Zeus, god of the sky,      | N        | Tempest        | Fist full of lightning  |
-| ruler of the gods          |          |                | bolts                   |
-+----------------------------+----------+----------------+-------------------------+
-| Aphrodite, goddess of love | CG       | Light          | Sea shell               |
-| and beauty                 |          |                |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Apollo, god of light,      | CG       | Knowledge,     | Lyre                    |
-| music, and healing         |          | Life, Light    |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Ares, god of war and       | CE       | War            | Spear                   |
-| strife                     |          |                |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Artemis, goddess of        | NG       | Life, Nature   | Bow and arrow on lunar  |
-| hunting and childbirth     |          |                | disk                    |
-+----------------------------+----------+----------------+-------------------------+
-| Athena, goddess of wisdom  | LG       | Knowledge, War | Owl                     |
-| and civilization           |          |                |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Demeter, goddess of        | NG       | Life           | Mare's head             |
-| agriculture                |          |                |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Dionysus, god of mirth and | CN       | Life           | Thyrsus (staff tipped   |
-| wine                       |          |                | with pine cone)         |
-+----------------------------+----------+----------------+-------------------------+
-| Hades, god of the          | LE       | Death          | Black ram               |
-| underworld                 |          |                |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Hecate, goddess of magic   | CE       | Knowledge,     | Setting moon            |
-| and the moon               |          | Trickery       |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Hephaestus, god of         | NG       | Knowledge      | Hammer and anvil        |
-| smithing and craft         |          |                |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Hera, goddess of marriage  | CN       | Trickery       | Fan of peacock feathers |
-| and intrigue               |          |                |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Hercules, god of strength  | CG       | Tempest, War   | Lion's head             |
-| and adventure              |          |                |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Hermes, god of travel and  | CG       | Trickery       | Caduceus (winged staff  |
-| commerce                   |          |                | and serpents)           |
-+----------------------------+----------+----------------+-------------------------+
-| Hestia, goddess of home    | NG       | Life           | Hearth                  |
-| and family                 |          |                |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Nike, goddess of victory   | LN       | War            | Winged woman            |
-+----------------------------+----------+----------------+-------------------------+
-| Pan, god of nature         | CN       | Nature         | Syrinx (pan pipes)      |
-+----------------------------+----------+----------------+-------------------------+
-| Poseidon, god of the sea   | CN       | Tempest        | Trident                 |
-| and earthquakes            |          |                |                         |
-+----------------------------+----------+----------------+-------------------------+
-| Tyche, goddess of good     | N        | Trickery       | Red pentagram           |
-| fortune                    |          |                |                         |
-+----------------------------+----------+----------------+-------------------------+
+  +----------------------------+----------+----------------+-------------------------+
+  | Deity                      | Alignment| Suggested      | Symbol                  |
+  |                            |          | Domains        |                         |
+  +============================+==========+================+=========================+
+  | Zeus, god of the sky,      | N        | Tempest        | Fist full of lightning  |
+  | ruler of the gods          |          |                | bolts                   |
+  +----------------------------+----------+----------------+-------------------------+
+  | Aphrodite, goddess of love | CG       | Light          | Sea shell               |
+  | and beauty                 |          |                |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Apollo, god of light,      | CG       | Knowledge,     | Lyre                    |
+  | music, and healing         |          | Life, Light    |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Ares, god of war and       | CE       | War            | Spear                   |
+  | strife                     |          |                |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Artemis, goddess of        | NG       | Life, Nature   | Bow and arrow on lunar  |
+  | hunting and childbirth     |          |                | disk                    |
+  +----------------------------+----------+----------------+-------------------------+
+  | Athena, goddess of wisdom  | LG       | Knowledge, War | Owl                     |
+  | and civilization           |          |                |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Demeter, goddess of        | NG       | Life           | Mare's head             |
+  | agriculture                |          |                |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Dionysus, god of mirth and | CN       | Life           | Thyrsus (staff tipped   |
+  | wine                       |          |                | with pine cone)         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Hades, god of the          | LE       | Death          | Black ram               |
+  | underworld                 |          |                |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Hecate, goddess of magic   | CE       | Knowledge,     | Setting moon            |
+  | and the moon               |          | Trickery       |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Hephaestus, god of         | NG       | Knowledge      | Hammer and anvil        |
+  | smithing and craft         |          |                |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Hera, goddess of marriage  | CN       | Trickery       | Fan of peacock feathers |
+  | and intrigue               |          |                |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Hercules, god of strength  | CG       | Tempest, War   | Lion's head             |
+  | and adventure              |          |                |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Hermes, god of travel and  | CG       | Trickery       | Caduceus (winged staff  |
+  | commerce                   |          |                | and serpents)           |
+  +----------------------------+----------+----------------+-------------------------+
+  | Hestia, goddess of home    | NG       | Life           | Hearth                  |
+  | and family                 |          |                |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Nike, goddess of victory   | LN       | War            | Winged woman            |
+  +----------------------------+----------+----------------+-------------------------+
+  | Pan, god of nature         | CN       | Nature         | Syrinx (pan pipes)      |
+  +----------------------------+----------+----------------+-------------------------+
+  | Poseidon, god of the sea   | CN       | Tempest        | Trident                 |
+  | and earthquakes            |          |                |                         |
+  +----------------------------+----------+----------------+-------------------------+
+  | Tyche, goddess of good     | N        | Trickery       | Red pentagram           |
+  | fortune                    |          |                |                         |
+  +----------------------------+----------+----------------+-------------------------+
 
 The Egyptian Pantheon
 ---------------------
@@ -391,55 +392,55 @@ of the afterlife, who judges the souls of the dead. Set is a chaotic
 evil god of murder, perhaps best known for killing his brother Osiris.
 And Nephthys is a chaotic good goddess of mourning.
 
-**Table** **56 - Pantheons: Egyptian Deities**
+.. table:: Pantheons: Egyptian Deities
 
-+-----------------------------+----------+----------------+-----------------------+
-| **Deity**                   | **Alignm | **Suggested    | **Symbol**            |
-|                             | ent**    | Domains**      |                       |
-+=============================+==========+================+=======================+
-| Re-Horakhty, god of the     | LG       | Life, Light    | Solar disk encircled  |
-| sun, ruler of the gods      |          |                | by serpent            |
-+-----------------------------+----------+----------------+-----------------------+
-| Anubis, god of judgment and | LN       | Death          | Black jackal          |
-| death                       |          |                |                       |
-+-----------------------------+----------+----------------+-----------------------+
-| Apep, god of evil, fire,    | NE       | Trickery       | Flaming snake         |
-| and serpents                |          |                |                       |
-+-----------------------------+----------+----------------+-----------------------+
-| Bast, goddess of cats and   | CG       | War            | Cat                   |
-| vengeance                   |          |                |                       |
-+-----------------------------+----------+----------------+-----------------------+
-| Bes, god of luck and music  | CN       | Trickery       | Image of the          |
-|                             |          |                | misshapen deity       |
-+-----------------------------+----------+----------------+-----------------------+
-| Hathor, goddess of love,    | NG       | Life, Light    | Horned cowʼs head     |
-| music, and motherhood       |          |                | with lunar disk       |
-+-----------------------------+----------+----------------+-----------------------+
-| Imhotep, god of crafts and  | NG       | Knowledge      | Step pyramid          |
-| medicine                    |          |                |                       |
-+-----------------------------+----------+----------------+-----------------------+
-| Isis, goddess of fertility  | NG       | Knowledge,     | Ankh and star         |
-| and magic                   |          | Life           |                       |
-+-----------------------------+----------+----------------+-----------------------+
-| Nephthys, goddess of death  | CG       | Death          | Horns around a lunar  |
-| and grief                   |          |                | disk                  |
-+-----------------------------+----------+----------------+-----------------------+
-| Osiris, god of nature and   | LG       | Life, Nature   | Crook and flail       |
-| the underworld              |          |                |                       |
-+-----------------------------+----------+----------------+-----------------------+
-| Ptah, god of crafts,        | LN       | Knowledge      | Bull                  |
-| knowledge, and secrets      |          |                |                       |
-+-----------------------------+----------+----------------+-----------------------+
-| Set, god of darkness and    | CE       | Death,         | Coiled cobra          |
-| desert storms               |          | Tempest,       |                       |
-|                             |          | Trickery       |                       |
-+-----------------------------+----------+----------------+-----------------------+
-| Sobek, god of water and     | LE       | Nature,        | Crocodile head with   |
-| crocodiles                  |          | Tempest        | horns and plumes      |
-+-----------------------------+----------+----------------+-----------------------+
-| Thoth, god of knowledge and | N        | Knowledge      | Ibis                  |
-| wisdom                      |          |                |                       |
-+-----------------------------+----------+----------------+-----------------------+
+  +-----------------------------+------------+----------------+-----------------------+
+  | Deity                       | Alignment  | Suggested      | Symbol                |
+  |                             |            | Domains        |                       |
+  +=============================+============+================+=======================+
+  | Re-Horakhty, god of the     | LG         | Life, Light    | Solar disk encircled  |
+  | sun, ruler of the gods      |            |                | by serpent            |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Anubis, god of judgment and | LN         | Death          | Black jackal          |
+  | death                       |            |                |                       |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Apep, god of evil, fire,    | NE         | Trickery       | Flaming snake         |
+  | and serpents                |            |                |                       |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Bast, goddess of cats and   | CG         | War            | Cat                   |
+  | vengeance                   |            |                |                       |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Bes, god of luck and music  | CN         | Trickery       | Image of the          |
+  |                             |            |                | misshapen deity       |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Hathor, goddess of love,    | NG         | Life, Light    | Horned cowʼs head     |
+  | music, and motherhood       |            |                | with lunar disk       |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Imhotep, god of crafts and  | NG         | Knowledge      | Step pyramid          |
+  | medicine                    |            |                |                       |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Isis, goddess of fertility  | NG         | Knowledge,     | Ankh and star         |
+  | and magic                   |            | Life           |                       |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Nephthys, goddess of death  | CG         | Death          | Horns around a lunar  |
+  | and grief                   |            |                | disk                  |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Osiris, god of nature and   | LG         | Life, Nature   | Crook and flail       |
+  | the underworld              |            |                |                       |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Ptah, god of crafts,        | LN         | Knowledge      | Bull                  |
+  | knowledge, and secrets      |            |                |                       |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Set, god of darkness and    | CE         | Death,         | Coiled cobra          |
+  | desert storms               |            | Tempest,       |                       |
+  |                             |            | Trickery       |                       |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Sobek, god of water and     | LE         | Nature,        | Crocodile head with   |
+  | crocodiles                  |            | Tempest        | horns and plumes      |
+  +-----------------------------+------------+----------------+-----------------------+
+  | Thoth, god of knowledge and | N          | Knowledge      | Ibis                  |
+  | wisdom                      |            |                |                       |
+  +-----------------------------+------------+----------------+-----------------------+
 
 The Norse Pantheon
 ------------------
@@ -463,70 +464,71 @@ and destiny) and the Vanir (gods of fertility and prosperity). Once
 enemies, these two families are now closely allied against their common
 enemies, the giants (including the gods Surtur and Thrym).
 
-**Table** **57 - Pantheons: Norse Deities**
+.. table:: Pantheons: Norse Deities
 
-+----------------------------+----------+----------------+-----------------------+
-| **Deity**                  | **Alignm | **Suggested    | **Symbol**            |
-|                            | ent**    | Domains**      |                       |
-+============================+==========+================+=======================+
-| Odin, god of knowledge and | NG       | Knowledge, War | Watching blue eye     |
-| war                        |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Aegir, god of the sea and  | NE       | Tempest        | Rough ocean waves     |
-| storms                     |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Balder, god of beauty and  | NG       | Life, Light    | Gem-encrusted silver  |
-| poetry                     |          |                | chalice               |
-+----------------------------+----------+----------------+-----------------------+
-| Forseti, god of justice    | N        | Light          | Head of a bearded man |
-| and law                    |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Frey, god of fertility and | NG       | Life, Light    | Ice-blue greatsword   |
-| the sun                    |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Freya, goddess of          | NG       | Life           | Falcon                |
-| fertility and love         |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Frigga, goddess of birth   | N        | Life, Light    | Cat                   |
-| and fertility              |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Heimdall, god of           | LG       | Light, War     | Curling musical horn  |
-| watchfulness and loyalty   |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Hel, goddess of the        | NE       | Death          | Woman's face, rotting |
-| underworld                 |          |                | on one side           |
-+----------------------------+----------+----------------+-----------------------+
-| Hermod, god of luck        | CN       | Trickery       | Winged scroll         |
-+----------------------------+----------+----------------+-----------------------+
-| Loki, god of thieves and   | CE       | Trickery       | Flame                 |
-| trickery                   |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Njord, god of sea and wind | NG       | Nature,        | Gold coin             |
-|                            |          | Tempest        |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Odur, god of light and the | CG       | Light          | Solar disk            |
-| sun                        |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Sif, goddess of war        | CG       | War            | Upraised sword        |
-+----------------------------+----------+----------------+-----------------------+
-| Skadi, god of earth and    | N        | Nature         | Mountain peak         |
-| mountains                  |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Surtur, god of fire giants | LE       | War            | Flaming sword         |
-| and war                    |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Thor, god of storms and    | CG       | Tempest, War   | Hammer                |
-| thunder                    |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Thrym, god of frost giants | CE       | War            | White double-bladed   |
-| and cold                   |          |                | axe                   |
-+----------------------------+----------+----------------+-----------------------+
-| Tyr, god of courage and    | LN       | Knowledge, War | Sword                 |
-| strategy                   |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
-| Uller, god of hunting and  | CN       | Nature         | Longbow               |
-| winter                     |          |                |                       |
-+----------------------------+----------+----------------+-----------------------+
+  +----------------------------+------------+----------------+-----------------------+
+  | Deity                      | Alignment  | Suggested      | Symbol                |
+  |                            |            | Domains        |                       |
+  +============================+============+================+=======================+
+  | Odin, god of knowledge and | NG         | Knowledge, War | Watching blue eye     |
+  | war                        |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Aegir, god of the sea and  | NE         | Tempest        | Rough ocean waves     |
+  | storms                     |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Balder, god of beauty and  | NG         | Life, Light    | Gem-encrusted silver  |
+  | poetry                     |            |                | chalice               |
+  +----------------------------+------------+----------------+-----------------------+
+  | Forseti, god of justice    | N          | Light          | Head of a bearded man |
+  | and law                    |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Frey, god of fertility and | NG         | Life, Light    | Ice-blue greatsword   |
+  | the sun                    |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Freya, goddess of          | NG         | Life           | Falcon                |
+  | fertility and love         |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Frigga, goddess of birth   | N          | Life, Light    | Cat                   |
+  | and fertility              |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Heimdall, god of           | LG         | Light, War     | Curling musical horn  |
+  | watchfulness and loyalty   |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Hel, goddess of the        | NE         | Death          | Woman's face, rotting |
+  | underworld                 |            |                | on one side           |
+  +----------------------------+------------+----------------+-----------------------+
+  | Hermod, god of luck        | CN         | Trickery       | Winged scroll         |
+  +----------------------------+------------+----------------+-----------------------+
+  | Loki, god of thieves and   | CE         | Trickery       | Flame                 |
+  | trickery                   |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Njord, god of sea and wind | NG         | Nature,        | Gold coin             |
+  |                            |            | Tempest        |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Odur, god of light and the | CG         | Light          | Solar disk            |
+  | sun                        |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Sif, goddess of war        | CG         | War            | Upraised sword        |
+  +----------------------------+------------+----------------+-----------------------+
+  | Skadi, god of earth and    | N          | Nature         | Mountain peak         |
+  | mountains                  |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Surtur, god of fire giants | LE         | War            | Flaming sword         |
+  | and war                    |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Thor, god of storms and    | CG         | Tempest, War   | Hammer                |
+  | thunder                    |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Thrym, god of frost giants | CE         | War            | White double-bladed   |
+  | and cold                   |            |                | axe                   |
+  +----------------------------+------------+----------------+-----------------------+
+  | Tyr, god of courage and    | LN         | Knowledge, War | Sword                 |
+  | strategy                   |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+  | Uller, god of hunting and  | CN         | Nature         | Longbow               |
+  | winter                     |            |                |                       |
+  +----------------------------+------------+----------------+-----------------------+
+
 
 Planes
 ======
@@ -835,31 +837,32 @@ likely to seriously injure (and potentially kill) characters of the
 indicated levels. A **deadly** trap is likely to kill characters of the
 indicated levels.
 
-**Table** **58 - Traps: Save DCs and Attack Bonuses**
+.. table:: Traps: Save DCs and Attack Bonuses
 
-+-------------------+---------------+--------------------+
-| **Trap Danger**   | **Save DC**   | **Attack Bonus**   |
-+===================+===============+====================+
-| Setback           | 10-11         | +3 to +5           |
-+-------------------+---------------+--------------------+
-| Dangerous         | 12-15         | +6 to +8           |
-+-------------------+---------------+--------------------+
-| Deadly            | 16-20         | +9 to +12          |
-+-------------------+---------------+--------------------+
+  +-------------+---------+--------------------+
+  | Trap Danger | Save DC | Attack Bonus       |
+  +=============+=========+====================+
+  | Setback     | 10-11   | +3 to +5           |
+  +-------------+---------+--------------------+
+  | Dangerous   | 12-15   | +6 to +8           |
+  +-------------+---------+--------------------+
+  | Deadly      | 16-20   | +9 to +12          |
+  +-------------+---------+--------------------+
 
-**Table** **59 - Traps: Damage Severity by Level**
+.. table:: Traps: Damage Severity by Level
 
-+-----------------------+---------------+-----------------+--------------+
-| **Character Level**   | **Setback**   | **Dangerous**   | **Deadly**   |
-+=======================+===============+=================+==============+
-| 1st-4th               | 1d10          | 2d10            | 4d10         |
-+-----------------------+---------------+-----------------+--------------+
-| 5th-10th              | 2d10          | 4d10            | 10d10        |
-+-----------------------+---------------+-----------------+--------------+
-| 11th-16th             | 4d10          | 10d10           | 18d10        |
-+-----------------------+---------------+-----------------+--------------+
-| 17th-20th             | 10d10         | 18d10           | 24d10        |
-+-----------------------+---------------+-----------------+--------------+
+  +-----------------+---------+-----------+--------+
+  | Character Level | Setback | Dangerous | Deadly |
+  +=================+=========+===========+========+
+  | 1st-4th         | 1d10    | 2d10      | 4d10   |
+  +-----------------+---------+-----------+--------+
+  | 5th-10th        | 2d10    | 4d10      | 10d10  |
+  +-----------------+---------+-----------+--------+
+  | 11th-16th       | 4d10    | 10d10     | 18d10  |
+  +-----------------+---------+-----------+--------+
+  | 17th-20th       | 10d10   | 18d10     | 24d10  |
+  +-----------------+---------+-----------+--------+
+
 
 Complex Traps
 ^^^^^^^^^^^^^
@@ -1278,146 +1281,129 @@ effect from the Long-Term Madness table for 1d10 × 10 hours.
 A character afflicted with **indefinite madness** gains a new character
 flaw from the Indefinite Madness table that lasts until cured.
 
-**Table** **60 - Madness Short-Term Effects**
+.. table:: Madness Short-Term Effects
 
-+------+---------------------------------------------------------------------+
-| **d1 | **Effect (lasts 1d10 minutes)**                                     |
-| 00** |                                                                     |
-+======+=====================================================================+
-| 01-2 | The character retreats into his or her mind and becomes paralyzed.  |
-| 0    | The effect ends if the character takes any damage.                  |
-+------+---------------------------------------------------------------------+
-| 21-3 | The character becomes incapacitated and spends the duration         |
-| 0    | screaming, laughing, or weeping.                                    |
-+------+---------------------------------------------------------------------+
-| 31-4 | The character becomes frightened and must use his or her action and |
-| 0    | movement each round to flee from the source of the fear.            |
-+------+---------------------------------------------------------------------+
-| 41-5 | The character begins babbling and is incapable of normal speech or  |
-| 0    | spellcasting.                                                       |
-+------+---------------------------------------------------------------------+
-| 51-6 | The character must use his or her action each round to attack the   |
-| 0    | nearest creature.                                                   |
-+------+---------------------------------------------------------------------+
-| 61-7 | The character experiences vivid hallucinations and has disadvantage |
-| 0    | on ability checks.                                                  |
-+------+---------------------------------------------------------------------+
-| 71-7 | The character does whatever anyone tells him or her to do that      |
-| 5    | isn't obviously self- destructive.                                  |
-+------+---------------------------------------------------------------------+
-| 76-8 | The character experiences an overpowering urge to eat something     |
-| 0    | strange such as dirt, slime, or offal.                              |
-+------+---------------------------------------------------------------------+
-| 81-9 | The character is stunned.                                           |
-| 0    |                                                                     |
-+------+---------------------------------------------------------------------+
-| 91-1 | The character falls unconscious.                                    |
-| 00   |                                                                     |
-+------+---------------------------------------------------------------------+
+  +--------+---------------------------------------------------------------------+
+  |  d100  | Effect (lasts 1d10 minutes)                                         |
+  +========+=====================================================================+
+  | 01-20  | The character retreats into his or her mind and becomes paralyzed.  |
+  |        | The effect ends if the character takes any damage.                  |
+  +--------+---------------------------------------------------------------------+
+  | 21-30  | The character becomes incapacitated and spends the duration         |
+  |        | screaming, laughing, or weeping.                                    |
+  +--------+---------------------------------------------------------------------+
+  | 31-40  | The character becomes frightened and must use his or her action and |
+  |        | movement each round to flee from the source of the fear.            |
+  +--------+---------------------------------------------------------------------+
+  | 41-50  | The character begins babbling and is incapable of normal speech or  |
+  |        | spellcasting.                                                       |
+  +--------+---------------------------------------------------------------------+
+  | 51-60  | The character must use his or her action each round to attack the   |
+  |        | nearest creature.                                                   |
+  +--------+---------------------------------------------------------------------+
+  | 61-70  | The character experiences vivid hallucinations and has disadvantage |
+  |        | on ability checks.                                                  |
+  +--------+---------------------------------------------------------------------+
+  | 71-75  | The character does whatever anyone tells him or her to do that      |
+  |        | isn't obviously self- destructive.                                  |
+  +--------+---------------------------------------------------------------------+
+  | 76-80  | The character experiences an overpowering urge to eat something     |
+  |        | strange such as dirt, slime, or offal.                              |
+  +--------+---------------------------------------------------------------------+
+  | 81-90  | The character is stunned.                                           |
+  |        |                                                                     |
+  +--------+---------------------------------------------------------------------+
+  | 91-100 | The character falls unconscious.                                    |
+  |        |                                                                     |
+  +--------+---------------------------------------------------------------------+
 
-**Table** **61 - Madness: Long-Term Effects**
+.. table:: Madness: Long-Term Effects
 
-+----+-----------------------------------------------------------------------+
-| ** | **Effect (lasts 1d10 × 10 hours)**                                    |
-| d1 |                                                                       |
-| 00 |                                                                       |
-| ** |                                                                       |
-+====+=======================================================================+
-| 01 | The character feels compelled to repeat a specific activity over and  |
-| -1 | over, such as washing hands, touching things, praying, or counting    |
-| 0  | coins.                                                                |
-+----+-----------------------------------------------------------------------+
-| 11 | The character experiences vivid hallucinations and has disadvantage   |
-| -2 | on ability checks.                                                    |
-| 0  |                                                                       |
-+----+-----------------------------------------------------------------------+
-| 21 | The character suffers extreme paranoia. The character has             |
-| -3 | disadvantage on Wisdom and Charisma checks.                           |
-| 0  |                                                                       |
-+----+-----------------------------------------------------------------------+
-| 31 | The character regards something (usually the source of madness) with  |
-| -4 | intense revulsion, as if affected by the antipathy effect of the      |
-| 0  | antipathy/sympathy spell.                                             |
-+----+-----------------------------------------------------------------------+
-| 41 | The character experiences a powerful delusion. Choose a potion. The   |
-| -4 | character imagines that he or she is under its effects.               |
-| 5  |                                                                       |
-+----+-----------------------------------------------------------------------+
-| 46 | The character becomes attached to a "lucky charm," such as a person   |
-| -5 | or an object, and has disadvantage on attack rolls, ability checks,   |
-| 5  | and saving throws while more than 30 feet from it.                    |
-+----+-----------------------------------------------------------------------+
-| 56 | The character is blinded (25%) or deafened (75%).                     |
-| -6 |                                                                       |
-| 5  |                                                                       |
-+----+-----------------------------------------------------------------------+
-| 66 | The character experiences uncontrollable tremors or tics, which       |
-| -7 | impose disadvantage on attack rolls, ability checks, and saving       |
-| 5  | throws that involve Strength or Dexterity.                            |
-+----+-----------------------------------------------------------------------+
-| 76 | The character suffers from partial amnesia. The character knows who   |
-| -8 | he or she is and retains racial traits and class features, but        |
-| 5  | doesn't recognize other people or remember anything that happened     |
-|    | before the madness took effect.                                       |
-+----+-----------------------------------------------------------------------+
-| 86 | Whenever the character takes damage, he or she must succeed on a DC   |
-| -9 | 15 Wisdom saving throw or be affected as though he or she failed a    |
-| 0  | saving throw against the confusion spell. The confusion effect lasts  |
-|    | for 1 minute.                                                         |
-+----+-----------------------------------------------------------------------+
-| 91 | The character loses the ability to speak.                             |
-| -9 |                                                                       |
-| 5  |                                                                       |
-+----+-----------------------------------------------------------------------+
-| 96 | The character falls unconscious. No amount of jostling or damage can  |
-| -1 | wake the character.                                                   |
-| 00 |                                                                       |
-+----+-----------------------------------------------------------------------+
+  +-------+-----------------------------------------------------------------------+
+  | d100  | Effect (lasts 1d10 × 10 hours)                                        |
+  +=======+=======================================================================+
+  | 01-10 | The character feels compelled to repeat a specific activity over and  |
+  |       | over, such as washing hands, touching things, praying, or counting    |
+  |       | coins.                                                                |
+  +-------+-----------------------------------------------------------------------+
+  | 11-20 | The character experiences vivid hallucinations and has disadvantage   |
+  |       | on ability checks.                                                    |
+  +-------+-----------------------------------------------------------------------+
+  | 21-30 | The character suffers extreme paranoia. The character has             |
+  |       | disadvantage on Wisdom and Charisma checks.                           |
+  +-------+-----------------------------------------------------------------------+
+  | 31-40 | The character regards something (usually the source of madness) with  |
+  |       | intense revulsion, as if affected by the antipathy effect of the      |
+  |       | antipathy/sympathy spell.                                             |
+  +-------+-----------------------------------------------------------------------+
+  | 41-45 | The character experiences a powerful delusion. Choose a potion. The   |
+  |       | character imagines that he or she is under its effects.               |
+  +-------+-----------------------------------------------------------------------+
+  | 46-55 | The character becomes attached to a "lucky charm," such as a person   |
+  |       | or an object, and has disadvantage on attack rolls, ability checks,   |
+  |       | and saving throws while more than 30 feet from it.                    |
+  +-------+-----------------------------------------------------------------------+
+  | 56-65 | The character is blinded (25%) or deafened (75%).                     |
+  +-------+-----------------------------------------------------------------------+
+  | 66-75 | The character experiences uncontrollable tremors or tics, which       |
+  |       | impose disadvantage on attack rolls, ability checks, and saving       |
+  |       | throws that involve Strength or Dexterity.                            |
+  +-------+-----------------------------------------------------------------------+
+  | 76-85 | The character suffers from partial amnesia. The character knows who   |
+  |       | he or she is and retains racial traits and class features, but        |
+  |       | doesn't recognize other people or remember anything that happened     |
+  |       | before the madness took effect.                                       |
+  +-------+-----------------------------------------------------------------------+
+  | 86-90 | Whenever the character takes damage, he or she must succeed on a DC   |
+  |       | 15 Wisdom saving throw or be affected as though he or she failed a    |
+  |       | saving throw against the confusion spell. The confusion effect lasts  |
+  |       | for 1 minute.                                                         |
+  +-------+-----------------------------------------------------------------------+
+  | 91-95 | The character loses the ability to speak.                             |
+  +-------+-----------------------------------------------------------------------+
+  |96-100 | The character falls unconscious. No amount of jostling or damage can  |
+  |       | wake the character.                                                   |
+  +-------+-----------------------------------------------------------------------+
 
-**Table** **62 - Madness: Indefinite Flaws**
+.. table:: Madness: Indefinite Flaws
 
-+------+---------------------------------------------------------------------+
-| **d1 | **Flaw (lasts until cured)**                                        |
-| 00** |                                                                     |
-+======+=====================================================================+
-| 01-1 | "Being drunk keeps me sane."                                        |
-| 5    |                                                                     |
-+------+---------------------------------------------------------------------+
-| 16-2 | "I keep whatever I find."                                           |
-| 5    |                                                                     |
-+------+---------------------------------------------------------------------+
-| 26-3 | "I try to become more like someone else I know-adopting his or her  |
-| 0    | style of dress, mannerisms, and name."                              |
-+------+---------------------------------------------------------------------+
-| 31-3 | "I must bend the truth, exaggerate, or outright lie to be           |
-| 5    | interesting to other people."                                       |
-+------+---------------------------------------------------------------------+
-| 36-4 | "Achieving my goal is the only thing of interest to me, and I'll    |
-| 5    | ignore everything else to pursue it."                               |
-+------+---------------------------------------------------------------------+
-| 46-5 | "I find it hard to care about anything that goes on around me."     |
-| 0    |                                                                     |
-+------+---------------------------------------------------------------------+
-| 51-5 | "I don't like the way people judge me all the time."                |
-| 5    |                                                                     |
-+------+---------------------------------------------------------------------+
-| 56-7 | "I am the smartest, wisest, strongest, fastest, and most beautiful  |
-| 0    | person I know."                                                     |
-+------+---------------------------------------------------------------------+
-| 71-8 | "I am convinced that powerful enemies are hunting me, and their     |
-| 0    | agents are everywhere I go. I am sure they're watching me all the   |
-|      | time."                                                              |
-+------+---------------------------------------------------------------------+
-| 81-8 | "There's only one person I can trust. And only I can see this       |
-| 5    | special friend."                                                    |
-+------+---------------------------------------------------------------------+
-| 86-9 | "I can't take anything seriously. The more serious the situation,   |
-| 5    | the funnier I find it."                                             |
-+------+---------------------------------------------------------------------+
-| 96-1 | "I've discovered that I really like killing people."                |
-| 00   |                                                                     |
-+------+---------------------------------------------------------------------+
+  +--------+---------------------------------------------------------------------+
+  |  d100  | Flaw (lasts until cured)                                            |
+  +========+=====================================================================+
+  | 01-15  | "Being drunk keeps me sane."                                        |
+  +--------+---------------------------------------------------------------------+
+  | 16-25  | "I keep whatever I find."                                           |
+  +--------+---------------------------------------------------------------------+
+  | 26-30  | "I try to become more like someone else I know-adopting his or her  |
+  |        | style of dress, mannerisms, and name."                              |
+  +--------+---------------------------------------------------------------------+
+  | 31-35  | "I must bend the truth, exaggerate, or outright lie to be           |
+  |        | interesting to other people."                                       |
+  +--------+---------------------------------------------------------------------+
+  | 36-45  | "Achieving my goal is the only thing of interest to me, and I'll    |
+  |        | ignore everything else to pursue it."                               |
+  +--------+---------------------------------------------------------------------+
+  | 46-50  | "I find it hard to care about anything that goes on around me."     |
+  +--------+---------------------------------------------------------------------+
+  | 51-55  | "I don't like the way people judge me all the time."                |
+  +--------+---------------------------------------------------------------------+
+  | 56-70  | "I am the smartest, wisest, strongest, fastest, and most beautiful  |
+  |        | person I know."                                                     |
+  +--------+---------------------------------------------------------------------+
+  | 71-80  | "I am convinced that powerful enemies are hunting me, and their     |
+  |        | agents are everywhere I go. I am sure they're watching me all the   |
+  |        | time."                                                              |
+  +--------+---------------------------------------------------------------------+
+  | 81-85  | "There's only one person I can trust. And only I can see this       |
+  |        | special friend."                                                    |
+  +--------+---------------------------------------------------------------------+
+  | 86-95  | "I can't take anything seriously. The more serious the situation,   |
+  |        | the funnier I find it."                                             |
+  +--------+---------------------------------------------------------------------+
+  | 96-100 | "I've discovered that I really like killing people."                |
+  +--------+---------------------------------------------------------------------+
 
+  
 Curing Madness
 ~~~~~~~~~~~~~~
 
@@ -1454,25 +1440,25 @@ it is to deal damage to the object when striking it (because the object
 has no chance of dodging out of the way). The Object Armor Class table
 provides suggested AC values for various substances.
 
-**Table** **63 - Objects: Armor Class**
+.. table:: Objects: Armor Class
 
-+-----------------------+----------+
-| **Substance**         | **AC**   |
-+=======================+==========+
-| Cloth, paper, rope    | 11       |
-+-----------------------+----------+
-| Crystal, glass, ice   | 13       |
-+-----------------------+----------+
-| Wood, bone            | 15       |
-+-----------------------+----------+
-| Stone                 | 17       |
-+-----------------------+----------+
-| Iron, steel           | 19       |
-+-----------------------+----------+
-| Mithral               | 21       |
-+-----------------------+----------+
-| Adamantine            | 23       |
-+-----------------------+----------+
+  +-----------------------+----------+
+  | Substance             | AC       |
+  +=======================+==========+
+  | Cloth, paper, rope    | 11       |
+  +-----------------------+----------+
+  | Crystal, glass, ice   | 13       |
+  +-----------------------+----------+
+  | Wood, bone            | 15       |
+  +-----------------------+----------+
+  | Stone                 | 17       |
+  +-----------------------+----------+
+  | Iron, steel           | 19       |
+  +-----------------------+----------+
+  | Mithral               | 21       |
+  +-----------------------+----------+
+  | Adamantine            | 23       |
+  +-----------------------+----------+
 
 **Hit Points**. An object's hit points measure how much damage it can
 take before losing its structural integrity. Resilient objects have more
@@ -1482,19 +1468,19 @@ just as effective as breaking the whole thing. The Object Hit Points
 table provides suggested hit points for fragile and resilient objects
 that are Large or smaller.
 
-**Table** **64 - Objects: Hit Points**
+.. table:: Objects: Hit Points
 
-+---------------------------------------+---------------+-----------------+
-| **Size**                              | **Fragile**   | **Resilient**   |
-+=======================================+===============+=================+
-| Tiny (bottle, lock)                   | 2 (1d4)       | 5 (2d4)         |
-+---------------------------------------+---------------+-----------------+
-| Small (chest, lute)                   | 3 (1d6)       | 10 (3d6)        |
-+---------------------------------------+---------------+-----------------+
-| Medium (barrel, chandelier)           | 4 (1d8)       | 18 (4d8)        |
-+---------------------------------------+---------------+-----------------+
-| Large (cart, 10-ft-by-10-ft window)   | 5 (1d10)      | 27 (5d10)       |
-+---------------------------------------+---------------+-----------------+
+  +---------------------------------------+---------------+-----------------+
+  | Size                                  | Fragile       | Resilient       |
+  +=======================================+===============+=================+
+  | Tiny (bottle, lock)                   | 2 (1d4)       | 5 (2d4)         |
+  +---------------------------------------+---------------+-----------------+
+  | Small (chest, lute)                   | 3 (1d6)       | 10 (3d6)        |
+  +---------------------------------------+---------------+-----------------+
+  | Medium (barrel, chandelier)           | 4 (1d8)       | 18 (4d8)        |
+  +---------------------------------------+---------------+-----------------+
+  | Large (cart, 10-ft-by-10-ft window)   | 5 (1d10)      | 27 (5d10)       |
+  +---------------------------------------+---------------+-----------------+
 
 :bi:`Huge and Gargantuan Objects`. Normal weapons are of little use
 against many Huge and Gargantuan objects, such as a colossal statue,
@@ -1555,39 +1541,40 @@ remains potent until delivered through a wound or washed off. A creature
 that takes piercing or slashing damage from an object coated with the
 poison is exposed to its effects.
 
-**Table** **65 - Poisons**
+.. table:: Poisons
 
-+----------------------+------------+------------------+
-| **Item**             | **Type**   | **Price/Dose**   |
-+======================+============+==================+
-| Assassin's blood     | Ingested   | 150 gp           |
-+----------------------+------------+------------------+
-| Burnt othur fumes    | Inhaled    | 500 gp           |
-+----------------------+------------+------------------+
-| Crawler mucus        | Contact    | 200 gp           |
-+----------------------+------------+------------------+
-| Drow poison          | Injury     | 200 gp           |
-+----------------------+------------+------------------+
-| Essence of ether     | Inhaled    | 300 gp           |
-+----------------------+------------+------------------+
-| Malice               | Inhaled    | 250 gp           |
-+----------------------+------------+------------------+
-| Midnight tears       | Ingested   | 1,500 gp         |
-+----------------------+------------+------------------+
-| Oil of taggit        | Contact    | 400 gp           |
-+----------------------+------------+------------------+
-| Pale tincture        | Ingested   | 250 gp           |
-+----------------------+------------+------------------+
-| Purple worm poison   | Injury     | 2,000 gp         |
-+----------------------+------------+------------------+
-| Serpent venom        | Injury     | 200 gp           |
-+----------------------+------------+------------------+
-| Torpor               | Ingested   | 600 gp           |
-+----------------------+------------+------------------+
-| Truth serum          | Ingested   | 150 gp           |
-+----------------------+------------+------------------+
-| Wyvern poison        | Injury     | 1,200 gp         |
-+----------------------+------------+------------------+
+  +----------------------+------------+------------------+
+  | Item                 | Type       | Price/Dose       |
+  +======================+============+==================+
+  | Assassin's blood     | Ingested   | 150 gp           |
+  +----------------------+------------+------------------+
+  | Burnt othur fumes    | Inhaled    | 500 gp           |
+  +----------------------+------------+------------------+
+  | Crawler mucus        | Contact    | 200 gp           |
+  +----------------------+------------+------------------+
+  | Drow poison          | Injury     | 200 gp           |
+  +----------------------+------------+------------------+
+  | Essence of ether     | Inhaled    | 300 gp           |
+  +----------------------+------------+------------------+
+  | Malice               | Inhaled    | 250 gp           |
+  +----------------------+------------+------------------+
+  | Midnight tears       | Ingested   | 1,500 gp         |
+  +----------------------+------------+------------------+
+  | Oil of taggit        | Contact    | 400 gp           |
+  +----------------------+------------+------------------+
+  | Pale tincture        | Ingested   | 250 gp           |
+  +----------------------+------------+------------------+
+  | Purple worm poison   | Injury     | 2,000 gp         |
+  +----------------------+------------+------------------+
+  | Serpent venom        | Injury     | 200 gp           |
+  +----------------------+------------+------------------+
+  | Torpor               | Ingested   | 600 gp           |
+  +----------------------+------------+------------------+
+  | Truth serum          | Ingested   | 150 gp           |
+  +----------------------+------------+------------------+
+  | Wyvern poison        | Injury     | 1,200 gp         |
+  +----------------------+------------+------------------+
+
 
 Sample Poisons
 ~~~~~~~~~~~~~~

@@ -43,31 +43,31 @@ over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
 
 :bi:`Speed`. Your base walking speed is 30 feet.
 
-**Table** **1 - Dragonborn: Draconic Ancestry**
+.. table:: Dragonborn: Draconic Ancestry
 
-+--------------+-------------------+--------------------------------+
-| **Dragon**   | **Damage Type**   | **Breath Weapon**              |
-+==============+===================+================================+
-| Black        | Acid              | 5 by 30 ft. line (Dex. save)   |
-+--------------+-------------------+--------------------------------+
-| Blue         | Lightning         | 5 by 30 ft. line (Dex. save)   |
-+--------------+-------------------+--------------------------------+
-| Brass        | Fire              | 5 by 30 ft. line (Dex. save)   |
-+--------------+-------------------+--------------------------------+
-| Bronze       | Lightning         | 5 by 30 ft. line (Dex. save)   |
-+--------------+-------------------+--------------------------------+
-| Copper       | Acid              | 5 by 30 ft. line (Dex. save)   |
-+--------------+-------------------+--------------------------------+
-| Gold         | Fire              | 15 ft. cone (Dex. save)        |
-+--------------+-------------------+--------------------------------+
-| Green        | Poison            | 15 ft. cone (Con. save)        |
-+--------------+-------------------+--------------------------------+
-| Red          | Fire              | 15 ft. cone (Dex. save)        |
-+--------------+-------------------+--------------------------------+
-| Silver       | Cold              | 15 ft. cone (Con. save)        |
-+--------------+-------------------+--------------------------------+
-| White        | Cold              | 15 ft. cone (Con. save)        |
-+--------------+-------------------+--------------------------------+
+  +--------+-------------+--------------------------------+
+  | Dragon | Damage Type | Breath Weapon                  |
+  +========+=============+================================+
+  | Black  | Acid        | 5 by 30 ft. line (Dex. save)   |
+  +--------+-------------+--------------------------------+
+  | Blue   | Lightning   | 5 by 30 ft. line (Dex. save)   |
+  +--------+-------------+--------------------------------+
+  | Brass  | Fire        | 5 by 30 ft. line (Dex. save)   |
+  +--------+-------------+--------------------------------+
+  | Bronze | Lightning   | 5 by 30 ft. line (Dex. save)   |
+  +--------+-------------+--------------------------------+
+  | Copper | Acid        | 5 by 30 ft. line (Dex. save)   |
+  +--------+-------------+--------------------------------+
+  | Gold   | Fire        | 15 ft. cone (Dex. save)        |
+  +--------+-------------+--------------------------------+
+  | Green  | Poison      | 15 ft. cone (Con. save)        |
+  +--------+-------------+--------------------------------+
+  | Red    | Fire        | 15 ft. cone (Dex. save)        |
+  +--------+-------------+--------------------------------+
+  | Silver | Cold        | 15 ft. cone (Con. save)        |
+  +--------+-------------+--------------------------------+
+  | White  | Cold        | 15 ft. cone (Con. save)        |
+  +--------+-------------+--------------------------------+
 
 :bi:`Draconic Ancestry`. You have draconic ancestry. Choose one type of
 dragon from the Draconic Ancestry table. Your breath weapon and damage

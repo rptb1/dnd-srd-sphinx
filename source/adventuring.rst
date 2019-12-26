@@ -117,22 +117,22 @@ Certain special mounts, such as a pegasus or griffon, or special
 vehicles, such as a *carpet of flying*, allow you to travel more
 swiftly.
 
-**Table** **51 - Adventuring: Travel Pace**
+.. table:: Adventuring: Travel Pace
 
-+--------+--------------------------+------------------------------------+
-| Pace   | Distance per             | Effect                             |
-|        +--------+--------+--------+                                    |
-|        | Minute | Hour   | Day    |                                    |
-+========+========+========+========+====================================+
-| Fast   | 400    | 4      | 30     | -5 penalty to passive Wisdom       |
-|        | feet   | miles  | miles  | (Perception) scores                |
-+--------+--------+--------+--------+------------------------------------+
-| Normal | 300    | 3      | 18     | -                                  |
-|        | feet   | miles  | miles  |                                    |
-+--------+--------+--------+--------+------------------------------------+
-| Slow   | 200    | 2      | 24     | Able to use stealth                |
-|        | feet   | miles  | miles  |                                    |
-+--------+--------+--------+--------+------------------------------------+
+  +--------+--------------------------+------------------------------------+
+  | Pace   | Distance per             | Effect                             |
+  |        +--------+--------+--------+                                    |
+  |        | Minute | Hour   | Day    |                                    |
+  +========+========+========+========+====================================+
+  | Fast   | 400    | 4      | 30     | -5 penalty to passive Wisdom       |
+  |        | feet   | miles  | miles  | (Perception) scores                |
+  +--------+--------+--------+--------+------------------------------------+
+  | Normal | 300    | 3      | 18     | -                                  |
+  |        | feet   | miles  | miles  |                                    |
+  +--------+--------+--------+--------+------------------------------------+
+  | Slow   | 200    | 2      | 24     | Able to use stealth                |
+  |        | feet   | miles  | miles  |                                    |
+  +--------+--------+--------+--------+------------------------------------+
 
 
 Difficult Terrain
