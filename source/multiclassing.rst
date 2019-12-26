@@ -1,23 +1,4 @@
 =============
-Customization
-=============
-
-
-.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
-
-.. raw:: html
-
-   <style type="text/css">
-     span.bolditalic {
-       font-weight: bold;
-       font-style: italic;
-     }
-   </style>
-
-.. role:: bi
-   :class: bolditalic
-
-
 Multiclassing
 =============
 
@@ -38,6 +19,7 @@ change course entirely, never looking back at the class you left behind.
 You might even start progressing in a third or fourth class. Compared to
 a single-class character of the same level, you'll sacrifice some focus
 in exchange for versatility.
+
 
 Prerequisites
 -------------
@@ -81,6 +63,7 @@ than-average ability scores.
 | Wizard      | Intelligence 13               |
 +-------------+-------------------------------+
 
+
 Experience Points
 -----------------
 
@@ -89,6 +72,7 @@ character level, as shown in the Character Advancement table, not your
 level in a particular class. So, if you are a cleric 6/fighter 1, you
 must gain enough XP to reach 8th level before you can take your second
 level as a fighter or your seventh level as a cleric.
+
 
 Hit Points and Hit Dice
 -----------------------
@@ -105,6 +89,7 @@ your classes give you Hit Dice of different types, keep track of them
 separately. If you are a paladin 5/cleric 5, for example, you have five
 d10 Hit Dice and five d8 Hit Dice.
 
+
 Proficiency Bonus
 -----------------
 
@@ -112,6 +97,7 @@ Your proficiency bonus is always based on your total character level, as
 shown in the Character Advancement table in chapter 1, not your level in
 a particular class. For example, if you are a fighter 3/rogue 2, you
 have the proficiency bonus of a 5th- level character, which is +3.
+
 
 Proficiencies
 -------------
@@ -160,6 +146,7 @@ the Multiclassing Proficiencies table.
 | Wizard | -                                                                 |
 +--------+-------------------------------------------------------------------+
 
+
 Class Features
 --------------
 
@@ -167,6 +154,7 @@ When you gain a new level in a class, you get its features for that
 level. You don't, however, receive the class's starting equipment, and a
 few features have additional rules when you're multiclassing: Channel
 Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
+
 
 Channel Divinity
 ~~~~~~~~~~~~~~~~
@@ -181,6 +169,7 @@ rests because you are high enough level in the cleric class to have more
 uses. Whenever you use the feature, you can choose any of the Channel
 Divinity effects available to you from your two classes.
 
+
 Extra Attack
 ~~~~~~~~~~~~
 
@@ -190,11 +179,13 @@ this feature unless it says you do (as the fighter's version of Extra
 Attack does). Similarly, the warlock's eldritch invocation Thirsting
 Blade doesn't give you additional attacks if you also have Extra Attack.
 
+
 Unarmored Defense
 ~~~~~~~~~~~~~~~~~
 
 If you already have the Unarmored Defense feature, you can't gain it
 again from another class.
+
 
 Spellcasting
 ~~~~~~~~~~~~
@@ -297,37 +288,3 @@ to cast warlock spells you know.
 +-------------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+
 | 20th        | 4         | 3         | 3         | 3         | 3         | 2         | 2         | 1         | 1         |
 +-------------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+
-
-Feats
-=====
-
-A feat represents a talent or an area of expertise that gives a
-character special capabilities. It embodies training, experience, and
-abilities beyond what a class provides.
-
-At certain levels, your class gives you the Ability Score Improvement
-feature. Using the optional feats rule, you can forgo taking that
-feature to take a feat of your choice instead. You can take each feat
-only once, unless the feat's description says otherwise.
-
-You must meet any prerequisite specified in a feat to take that feat. If
-you ever lose a feat's prerequisite, you can't use that feat until you
-regain the prerequisite. For example, the Grappler feat requires you to
-have a Strength of 13 or higher. If your Strength is reduced below 13
-somehow-perhaps by a withering curse-you can't benefit from the Grappler
-feat until your Strength is restored.
-
-Grappler
---------
-
-*Prerequisite: Strength 13 or higher*
-
-You've developed the skills necessary to hold your own in close-quarters
-grappling. You gain the following benefits:
-
--  You have advantage on attack rolls against a creature you are
-   grappling.
-
--  You can use your action to try to pin a creature grappled by you. To
-   do so, make another grapple check. If you succeed, you and the
-   creature are both restrained until the grapple ends.

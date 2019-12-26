@@ -11,12 +11,16 @@ Dungeons & Dragons 5th Edition System Reference Document
    :caption: Contents:
 
    introduction
-   beyond
    races/index
    classes/index
-   personalization
+   beyond
+   multiclassing
+   alignment
+   languages
+   inspiration
+   backgrounds
    equipment
-   customization
+   feats
    gameplay/index
    spellcasting
    spell-lists/index
