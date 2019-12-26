@@ -1,0 +1,26 @@
+Potion of Gaseous Form
+~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
+
+.. raw:: html
+
+   <style type="text/css">
+     span.bolditalic {
+       font-weight: bold;
+       font-style: italic;
+     }
+   </style>
+
+.. role:: bi
+   :class: bolditalic
+
+
+*Potion, rare*
+
+When you drink this potion, you gain the effect of the *gaseous form*
+spell for 1 hour (no concentration required) or until you end the effect
+as a bonus action. This potion's container seems to hold fog that moves
+and pours like water.
+
