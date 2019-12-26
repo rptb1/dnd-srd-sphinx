@@ -4,9 +4,10 @@
 Monster Descriptions
 ====================
 
+
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Monsters:
 
    monster/aboleth.rst
    monster/angels.rst
@@ -116,3 +117,17 @@ Monster Descriptions
    monster/wyvern.rst
    monster/xorn.rst
    monster/zombies.rst
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Demons:
+
+   monster/balor.rst
+   monster/dretch.rst
+   monster/glabrezu.rst
+   monster/hezrou.rst
+   monster/marilith.rst
+   monster/nalfeshnee.rst
+   monster/quasit.rst
+   monster/vrock.rst
