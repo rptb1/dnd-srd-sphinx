@@ -8,9 +8,9 @@ Welcome to the online Dungeons & Dragons 5th Edition System Reference
 Document (SRD) v5.1.
 
 This version of the SRD has been generated using the Sphinx_
-documentation system, so that it can easily be edited and extended,
-while generating output in many formats: web pages, PDFs, spell cards,
-etc.
+documentation system, so that it can easily be edited and extended
+while remaining :ref:`fully indexed <genindex>` and generating output
+in many formats: web pages, PDFs, spell cards, etc.
 
 .. _Sphinx: https://www.sphinx-doc.org/
 
