@@ -1,5 +1,5 @@
 Red Dragon
-~~~~~~~~~~
+----------
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
@@ -18,7 +18,7 @@ Red Dragon
 
 
 Ancient Red Dragon
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *Gargantuan dragon, chaotic evil*
 
@@ -96,8 +96,9 @@ creature within 15 feet of the dragon must succeed on a DC 25 Dexterity
 saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Adult Red Dragon
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 *Huge dragon, chaotic evil*
 
@@ -175,8 +176,9 @@ creature within 10 feet of the dragon must succeed on a DC 22 Dexterity
 saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Young Red Dragon
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 *Large dragon, chaotic evil*
 
@@ -222,8 +224,9 @@ cone. Each creature in that area must make a DC 17 Dexterity saving
 throw, taking 56 (16d6) fire damage on a failed save, or half as much
 damage on a successful one.
 
+
 Red Dragon Wyrmling
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 *Medium dragon, chaotic evil*
 

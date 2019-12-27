@@ -1,5 +1,5 @@
 Bronze Dragon
-~~~~~~~~~~~~~
+-------------
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
@@ -18,7 +18,7 @@ Bronze Dragon
 
 
 Ancient Bronze Dragon
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 *Gargantuan dragon, lawful good*
 
@@ -118,8 +118,9 @@ creature within 15 feet of the dragon must succeed on a DC 24 Dexterity
 saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Adult Bronze Dragon
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 *Huge dragon, lawful good*
 
@@ -219,8 +220,9 @@ creature within 10 feet of the dragon must succeed on a DC 20 Dexterity
 saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Young Bronze Dragon
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 *Large dragon, lawful good*
 
@@ -276,8 +278,9 @@ cone. Each creature in that area must succeed on a DC 15 Strength saving
 throw. On a failed save, the creature is pushed 40 feet away from the
 dragon.
 
+
 Bronze Dragon Wyrmling
-^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~
 
 *Medium dragon, lawful good*
 

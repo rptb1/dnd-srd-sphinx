@@ -1,5 +1,5 @@
 Black Dragon
-~~~~~~~~~~~~
+------------
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
@@ -18,7 +18,7 @@ Black Dragon
 
 
 Ancient Black Dragon
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~
 
 *Gargantuan dragon, chaotic evil*
 
@@ -98,8 +98,9 @@ creature within 15 feet of the dragon must succeed on a DC 23 Dexterity
 saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Adult Black Dragon
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *Huge dragon, chaotic evil*
 
@@ -179,8 +180,9 @@ creature within 10 feet of the dragon must succeed on a DC 19 Dexterity
 saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Young Black Dragon
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *Large dragon, chaotic evil*
 
@@ -228,8 +230,9 @@ line that is 5 feet wide. Each creature in that line must make a DC 14
 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save,
 or half as much damage on a successful one.
 
+
 Black Dragon Wyrmling
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 *Medium dragon, chaotic evil*
 

@@ -1,5 +1,5 @@
 Blue Dragon
-~~~~~~~~~~~
+-----------
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
@@ -18,7 +18,7 @@ Blue Dragon
 
 
 Ancient Blue Dragon
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 *Gargantuan dragon, lawful evil*
 
@@ -96,8 +96,9 @@ creature within 15 feet of the dragon must succeed on a DC 24 Dexterity
 saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Adult Blue Dragon
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 *Huge dragon, lawful evil*
 
@@ -175,8 +176,9 @@ creature within 10 feet of the dragon must succeed on a DC 20 Dexterity
 saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Young Blue Dragon
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 *Large dragon, lawful evil*
 
@@ -222,8 +224,9 @@ an 60-foot line that is 5 feet wide. Each creature in that line must
 make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage
 on a failed save, or half as much damage on a successful one.
 
+
 Blue Dragon Wyrmling
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~
 
 *Medium dragon, lawful evil*
 
@@ -262,4 +265,3 @@ Actions
 30-foot line that is 5 feet wide. Each creature in that line must make a
 DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a
 failed save, or half as much damage on a successful one.
-

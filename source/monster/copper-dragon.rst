@@ -1,5 +1,5 @@
 Copper Dragon
-~~~~~~~~~~~~~
+-------------
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
@@ -18,7 +18,7 @@ Copper Dragon
 
 
 Ancient Copper Dragon
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 *Gargantuan dragon, chaotic good*
 
@@ -120,8 +120,9 @@ creature within 15 feet of the dragon must succeed on a DC 23 Dexterity
 saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Adult Copper Dragon
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 *Huge dragon, chaotic good*
 
@@ -211,8 +212,9 @@ creature within 10 feet of the dragon must succeed on a DC 19 Dexterity
 saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Young Copper Dragon
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 *Large dragon, chaotic good*
 
@@ -270,8 +272,9 @@ both. These effects last for 1 minute. The creature can repeat the
 saving throw at the end of each of its turns, ending the effect on
 itself with a successful save.
 
+
 Copper Dragon Wyrmling
-^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~
 
 *Medium dragon, chaotic good*
 

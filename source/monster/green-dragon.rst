@@ -1,5 +1,5 @@
 Green Dragon
-~~~~~~~~~~~~
+------------
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
@@ -18,7 +18,7 @@ Green Dragon
 
 
 Adult Green Dragon
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *Huge dragon, lawful evil*
 
@@ -101,8 +101,9 @@ creature within 10 feet of the dragon must succeed on a DC 19 Dexterity
 saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Young Green Dragon
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *Large dragon, lawful evil*
 
@@ -152,8 +153,9 @@ a 30-foot cone. Each creature in that area must make a DC 14
 Constitution saving throw, taking 42 (12d6) poison damage on a failed
 save, or half as much damage on a successful one.
 
+
 Green Dragon Wyrmling
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 *Medium dragon, lawful evil*
 

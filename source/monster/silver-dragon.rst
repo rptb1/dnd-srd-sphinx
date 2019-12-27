@@ -1,5 +1,5 @@
 Silver Dragon
-~~~~~~~~~~~~~
+-------------
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
@@ -18,7 +18,7 @@ Silver Dragon
 
 
 Ancient Silver Dragon
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 *Gargantuan dragon, lawful good*
 
@@ -117,8 +117,9 @@ creature within 15 feet of the dragon must succeed on a DC 25 Dexterity
 saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Adult Silver Dragon
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 *Huge dragon, lawful good*
 
@@ -217,8 +218,9 @@ creature within 10 feet of the dragon must succeed on a DC 21 Dexterity
 saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Young Silver Dragon
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 *Large dragon, lawful good*
 
@@ -273,8 +275,9 @@ saving throw or be paralyzed for 1 minute. A creature can repeat the
 saving throw at the end of each of its turns, ending the effect on
 itself on a success.
 
+
 Silver Dragon Wyrmling
-^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~
 
 *Medium dragon, lawful good*
 

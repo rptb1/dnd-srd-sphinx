@@ -1,5 +1,5 @@
 Brass Dragon
-~~~~~~~~~~~~
+------------
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
@@ -18,7 +18,7 @@ Brass Dragon
 
 
 Ancient Brass Dragon
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~
 
 *Gargantuan dragon, chaotic good*
 
@@ -116,8 +116,9 @@ creature within 15 feet of the dragon must succeed on a DC 22 Dexterity
 saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Adult Brass Dragon
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *Huge dragon, chaotic good*
 
@@ -203,8 +204,9 @@ creature within 10 feet of the dragon must succeed on a DC 19 Dexterity
 saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Young Brass Dragon
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *Large dragon, chaotic good*
 
@@ -258,8 +260,9 @@ creature in that area must succeed on a DC 14 Constitution saving throw
 or fall unconscious for 5 minutes. This effect ends for a creature if
 the creature takes damage or someone uses an action to wake it.
 
+
 Brass Dragon Wyrmling
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 *Medium dragon, chaotic good*
 

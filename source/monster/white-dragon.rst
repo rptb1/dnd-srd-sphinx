@@ -1,5 +1,5 @@
 White Dragon
-~~~~~~~~~~~~
+------------
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
@@ -18,7 +18,7 @@ White Dragon
 
 
 Ancient White Dragon
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~
 
 *Gargantuan dragon, chaotic evil*
 
@@ -100,8 +100,9 @@ creature within 15 feet of the dragon must succeed on a DC 22 Dexterity
 saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Adult White Dragon
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *Huge dragon, chaotic evil*
 
@@ -183,8 +184,9 @@ creature within 10 feet of the dragon must succeed on a DC 19 Dexterity
 saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked
 prone. The dragon can then fly up to half its flying speed.
 
+
 Young White Dragon
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *Large dragon, chaotic evil*
 
@@ -234,8 +236,9 @@ two with its claws.
 saving throw, taking 45 (10d8) cold damage on a failed save, or half as
 much damage on a successful one.
 
+
 White Dragon Wyrmling
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 *Medium dragon, chaotic evil*
 
