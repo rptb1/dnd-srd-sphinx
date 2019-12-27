@@ -1355,6 +1355,9 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
 Tools
 =====
 
+.. index:: ! tools
+   double: tool; proficiency
+
 A tool helps you to do something you couldn't otherwise do, such as
 craft or repair an item, forge a document, or pick a lock. Your race,
 class, background, or feats give you proficiency with certain tools.
@@ -1449,7 +1452,7 @@ make something out of particularly hard wood.
   | Vehicles (land or water)      | [#veh]_    | [#veh]_      |
   +-------------------------------+------------+--------------+
 
-.. [#veh] See the :ref:`Mounts and Vehicles <mounts-and-vehicles>`
+.. [#veh] See the :ref:`Mounts and Vehicles`
           section.
 
 .. index::
@@ -1537,7 +1540,7 @@ tools lets you add your proficiency bonus to any ability checks you make
 to disarm traps or open locks.
 
 
-.. _mounts-and-vehicles:
+.. _Mounts and Vehicles:
 
 Mounts and Vehicles
 ===================
@@ -1561,6 +1564,7 @@ creature yourself, making a bargain with a powerful entity, or
 negotiating with the mount itself.
 
 .. index:: ! barding
+   double: mount; armor
 
 :bi:`Barding`. Barding is armor designed to protect an animal's head,
 neck, chest, and body. Any type of armor shown on the Armor table can be
@@ -1672,6 +1676,8 @@ adventurers carry it over land.
 Trade Goods
 ===========
 
+.. index:: ! trade goods
+
 Most wealth is not in coins. It is measured in livestock, grain, land,
 rights to collect taxes, or rights to resources (such as a mine or a
 forest).
@@ -1720,6 +1726,8 @@ the value of commonly exchanged goods.
 Expenses
 ========
 
+.. index:: ! expenses
+
 When not descending into the depths of the earth, exploring ruins for
 lost treasures, or waging war against the encroaching darkness,
 adventurers face more mundane realities. Even in a fantastical world,
@@ -1730,6 +1738,10 @@ than others.
 
 Lifestyle Expenses
 ------------------
+
+.. index:: ! lifestyle expenses
+   double: expenses; lifestyle
+   double: expenses; accommodation
 
 Lifestyle expenses provide you with a simple way to account for the cost
 of living in a fantasy world. They cover your accommodations, food and
@@ -1856,6 +1868,9 @@ or participant.
 
 .. sidebar:: Self-Sufficiency
 
+  .. index:: ! self-sufficiency
+     double: lifestyle; self-sufficient
+
   The expenses and lifestyles described here assume that you are
   spending your time between adventures in town, availing yourself of
   whatever services you can afford — paying for food and shelter, paying
@@ -1873,6 +1888,8 @@ or participant.
 
 Food, Drink, and Lodging
 ------------------------
+
+.. index:: ! food, ! drink, ! lodging
 
 The Food, Drink, and Lodging table gives prices for individual food
 items and a single night's lodging. These prices are included in your
@@ -1936,6 +1953,8 @@ total lifestyle expenses.
 Services
 --------
 
+.. index:: ! services, ! hirelings, ! mercenaries, ! laborers, ! servants, ! staff
+
 Adventurers can pay nonplayer characters to assist them or act on their
 behalf in a variety of circumstances. Most such hirelings have fairly
 ordinary skills, while others are masters of a craft or art, and a few
@@ -1971,18 +1990,18 @@ porters, maids, and similar workers.
   +---------------------+-----------------+
   | Service Pay         | Pay             |
   +=====================+=================+
-  | :bi:`Coach cab`                       |
+  | *Coach cab*                           |
+  +-+-------------------+-----------------+
+  | | Between towns     | 3 cp per mile   |
+  +-+-------------------+-----------------+
+  | | Within a city     | 1 cp            |
   +---------------------+-----------------+
-  | *- Between towns*   | 3 cp per mile   |
-  +---------------------+-----------------+
-  | *- Within a city*   | 1 cp            |
-  +---------------------+-----------------+
-  | :bi:`Hireling`                        |
-  +---------------------+-----------------+
-  | *- Skilled*         | 2 gp per day    |
-  +---------------------+-----------------+
-  | *- Untrained*       | 2 sp per day    |
-  +---------------------+-----------------+
+  | *Hireling*                            |
+  +-+-------------------+-----------------+
+  | | Skilled           | 2 gp per day    |
+  +-+-------------------+-----------------+
+  | | Untrained         | 2 sp per day    |
+  +-+-------------------+-----------------+
   | Messenger           | 2 cp per mile   |
   +---------------------+-----------------+
   | Road or gate toll   | 1 cp            |
@@ -1993,6 +2012,9 @@ porters, maids, and similar workers.
 
 Spellcasting Services
 ---------------------
+
+.. index:: ! spellcasting services
+   double: services; spellcasting
 
 People who are able to cast spells don't fall into the category of
 ordinary hirelings. It might be possible to find someone willing to cast
