@@ -121,6 +121,15 @@ Monster Descriptions
 
 .. toctree::
    :maxdepth: 1
+   :caption: Angels:
+
+   monster/deva.rst
+   monster/planetar.rst
+   monster/solar.rst
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: Demons:
 
    monster/balor.rst
