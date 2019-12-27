@@ -130,6 +130,15 @@ Monster Descriptions
 
 .. toctree::
    :maxdepth: 1
+   :caption: Animated Objects:
+
+   monster/animated-armor.rst
+   monster/flying-sword.rst
+   monster/rug-of-smothering.rst
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: Demons:
 
    monster/balor.rst
