@@ -120,6 +120,9 @@ supplement their armor with a shield.
 The Armor table shows the cost, weight, and other properties of the
 common types of armor worn in fantasy gaming worlds.
 
+.. index::
+   double: armor; proficiency
+
 :bi:`Armor Proficiency`. Anyone can put on a suit of armor or strap a
 shield to an arm. Only those proficient in the armor's use know how to
 wear it effectively, however. Your class gives you proficiency with
@@ -127,6 +130,8 @@ certain types of armor. If you wear armor that you lack proficiency
 with, you have disadvantage on any ability check, saving throw, or
 attack roll that involves Strength or Dexterity, and you can't cast
 spells.
+
+.. index:: ! armor class, ! AC
 
 :bi:`Armor Class (AC)`. Armor protects its wearer from attacks. The
 armor (and shield) you wear determines your base Armor Class.
@@ -137,8 +142,14 @@ or "Str 15" in the Strength column for an armor type, the armor reduces
 the wearer's speed by 10 feet unless the wearer has a Strength score
 equal to or higher than the listed score.
 
+.. index::
+   double: armor; stealth
+
 :bi:`Stealth`. If the Armor table shows "Disadvantage" in the Stealth
 column, the wearer has disadvantage on Dexterity (Stealth) checks.
+
+.. index::
+   single: shield, shields
 
 :bi:`Shields`. A shield is made from wood or metal and is carried in one
 hand. Wielding a shield increases your Armor Class by 2. You can benefit
@@ -152,12 +163,21 @@ adventurers since it offers some protection without sacrificing
 mobility. If you wear light armor, you add your Dexterity modifier to
 the base number from your armor type to determine your Armor Class.
 
+.. index::
+   triple: light; armor; padded
+
 :bi:`Padded`. Padded armor consists of quilted layers of cloth and
 batting.
+
+.. index::
+   triple: light; armor; leather
 
 :bi:`Leather`. The breastplate and shoulder protectors of this armor are
 made of leather that has been stiffened by being boiled in oil. The rest
 of the armor is made of softer and more flexible materials.
+
+.. index::
+   triple: light; armor; studded leather
 
 :bi:`Studded Leather`. Made from tough but flexible leather, studded
 leather is reinforced with close-set rivets or spikes.
@@ -171,23 +191,38 @@ impairs movement more. If you wear medium armor, you add your Dexterity
 modifier, to a maximum of +2, to the base number from your armor type to
 determine your Armor Class.
 
+.. index::
+   triple: medium; armor; hide
+
 :bi:`Hide`. This crude armor consists of thick furs and pelts. It is
 commonly worn by barbarian tribes, evil humanoids, and other folk who
 lack access to the tools and materials needed to create better armor.
+
+.. index::
+   triple: medium; armor; chain shirt
 
 :bi:`Chain Shirt`. Made of interlocking metal rings, a chain shirt is
 worn between layers of clothing or leather. This armor offers modest
 protection to the wearer's upper body and allows the sound of the rings
 rubbing against one another to be muffled by outer layers.
 
+.. index::
+   triple: medium; armor; scale mail
+
 :bi:`Scale Mail`. This armor consists of a coat and leggings (and
 perhaps a separate skirt) of leather covered with overlapping pieces of
 metal, much like the scales of a fish. The suit includes gauntlets.
+
+.. index::
+   triple: medium; armor; breastplate
 
 :bi:`Breastplate`. This armor consists of a fitted metal chest piece
 worn with supple leather. Although it leaves the legs and arms
 relatively unprotected, this armor provides good protection for the
 wearer's vital organs while leaving the wearer relatively unencumbered.
+
+.. index::
+   triple: medium; armor; half plate
 
 :bi:`Half Plate`. Half plate consists of shaped metal plates that cover
 most of the wearer's body. It does not include leg protection beyond
@@ -206,18 +241,30 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor
 Class, but it also doesn't penalize you if your Dexterity modifier is
 negative.
 
+.. index::
+   triple: heavy; armor; ring mail
+
 :bi:`Ring Mail`. This armor is leather armor with heavy rings sewn into
 it. The rings help reinforce the armor against blows from swords and
 axes. Ring mail is inferior to chain mail, and it's usually worn only by
 those who can't afford better armor.
 
+.. index::
+   triple: heavy; armor; chain mail
+
 :bi:`Chain Mail`. Made of interlocking metal rings, chain mail includes
 a layer of quilted fabric worn underneath the mail to prevent chafing
 and to cushion the impact of blows. The suit includes gauntlets.
 
+.. index::
+   triple: heavy; armor; splint
+
 :bi:`Splint`. This armor is made of narrow vertical strips of metal
 riveted to a backing of leather that is worn over cloth padding.
 Flexible chain mail protects the joints.
+
+.. index::
+   triple: heavy; armor; plate
 
 :bi:`Plate`. Plate consists of shaped, interlocking metal plates to
 cover the entire body. A suit of plate includes gauntlets, heavy leather
@@ -270,8 +317,14 @@ Getting Into and Out of Armor
 
 The time it takes to don or doff armor depends on the armor's category.
 
+.. index::
+   double: armor; don
+
 :bi:`Don`. This is the time it takes to put on armor. You benefit from
 the armor's AC only if you take the full time to don the suit of armor.
+
+.. index::
+   double: armor; doff
 
 :bi:`Doff`. This is the time it takes to take off armor. If you have
 help, reduce this time by half.
@@ -332,6 +385,8 @@ Weapon Properties
 Many weapons have special properties related to their use, as shown in
 the Weapons table.
 
+.. index:: ! ammunition
+
 :bi:`Ammunition`. You can use a weapon that has the ammunition property
 to make a ranged attack only if you have ammunition to fire from the
 weapon. Each time you attack with the weapon, you expend one piece of
@@ -345,21 +400,37 @@ attack, you treat the weapon as an improvised weapon (see "Improvised
 Weapons" later in the section). A sling must be loaded to deal any
 damage when used in this way.
 
+.. index:: ! finesse
+   double: finesse; weapon
+
 :bi:`Finesse`. When making an attack with a finesse weapon, you use your
 choice of your Strength or Dexterity modifier for the attack and damage
 rolls. You must use the same modifier for both rolls.
+
+.. index::
+   double: heavy; weapon
 
 :bi:`Heavy`. Small creatures have disadvantage on attack rolls with
 heavy weapons. A heavy weapon's size and bulk make it too large for a
 Small creature to use effectively.
 
+.. index::
+   double: light; weapon
+
 :bi:`Light`. A light weapon is small and easy to handle, making it ideal
 for use when fighting with two weapons.
+
+.. index::
+   double: weapon; loading
 
 :bi:`Loading`. Because of the time required to load this weapon, you can
 fire only one piece of ammunition from it when you use an action, bonus
 action, or reaction to fire it, regardless of the number of attacks you
 can normally make.
+
+.. index::
+   double: weapon; range
+   double: weapon; ranged
 
 :bi:`Range`. A weapon that can be used to make a ranged attack has a
 range in parentheses after the ammunition or thrown property. The range
@@ -368,13 +439,22 @@ the second indicates the weapon's long range. When attacking a target
 beyond normal range, you have disadvantage on the attack roll. You can't
 attack a target beyond the weapon's long range.
 
+.. index::
+   double: weapon; reach
+
 :bi:`Reach`. This weapon adds 5 feet to your reach when you attack with
 it, as well as when determining your reach for opportunity attacks with
 it (see chapter 9).
 
+.. index::
+   double: weapon; special
+
 :bi:`Special`. A weapon with the special property has unusual rules
 governing its use, explained in the weapon's description (see "Special
 Weapons" later in this section).
+
+.. index::
+   double: weapon; thrown
 
 :bi:`Thrown`. If a weapon has the thrown property, you can throw the
 weapon to make a ranged attack. If the weapon is a melee weapon, you use
@@ -384,13 +464,22 @@ a handaxe, you use your Strength, but if you throw a dagger, you can use
 either your Strength or your Dexterity, since the dagger has the finesse
 property.
 
+.. index::
+   double: weapon; two-handed
+
 :bi:`Two-Handed`. This weapon requires two hands when you attack with
 it.
+
+.. index::
+   double: weapon; versatile
 
 :bi:`Versatile`. This weapon can be used with one or two hands. A damage
 value in parentheses appears with the property-the damage when the
 weapon is used with two hands to make a melee attack.
 
+
+.. index::
+   double: weapon; improvised
 
 Improvised Weapons
 ~~~~~~~~~~~~~~~~~~
@@ -412,6 +501,9 @@ not have the thrown property, it also deals 1d4 damage. An improvised
 thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
 
+.. index::
+   double: weapon; silvered
+
 Silvered Weapons
 ~~~~~~~~~~~~~~~~
 
@@ -423,14 +515,21 @@ price of the silver, but the time and expertise needed to add silver to
 the weapon without making it less effective.
 
 
+.. index::
+   double: weapon; special
+
 Special Weapons
 ~~~~~~~~~~~~~~~
 
 Weapons with special rules are described here.
 
+.. index:: ! lance
+
 :bi:`Lance`. You have disadvantage when you use a lance to attack a
 target within 5 feet of you. Also, a lance requires two hands to wield
 when you aren't mounted.
+
+.. index:: !net
 
 :bi:`Net`. A Large or smaller creature hit by a net is restrained until
 it is freed. A net has no effect on creatures that are formless, or
@@ -1035,6 +1134,9 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
             rope, to the outside of a backpack.
 
 
+.. index:: ! pack
+   double: equipment; packs
+
 .. sidebar:: Equipment Packs
 
   The starting equipment you get from your class includes a collection
@@ -1043,33 +1145,54 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
   equipment, you can purchase a pack for the price shown, which might
   be cheaper than buying the items individually.
 
+  .. index::
+     double: pack; burglar's
+
   **Burglar's Pack (16 gp)**. Includes a backpack, a bag of 1,000 ball
   bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer,
   10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a
   tinderbox, and a waterskin. The pack also has 50 feet of hempen rope
   strapped to the side of it.
 
+  .. index::
+     double: pack; diplomat's
+
   **Diplomat's Pack (39 gp)**. Includes a chest, 2 cases for maps and
   scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp,
   2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax,
   and soap.
+
+  .. index::
+     double: pack; dungoneer's
 
   **Dungeoneer's Pack (12 gp)**. Includes a backpack, a crowbar, a
   hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and
   a waterskin. The pack also has 50 feet of hempen rope strapped to
   the side of it.
 
+  .. index::
+     double: pack; entertainer's
+
   **Entertainer's Pack (40 gp)**. Includes a backpack, a bedroll, 2
   costumes, 5 candles, 5 days of rations, a waterskin, and a disguise
   kit.
+
+  .. index::
+     double: pack; explorer's
 
   **Explorer's Pack (10 gp)**. Includes a backpack, a bedroll, a mess
   kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin.
   The pack also has 50 feet of hempen rope strapped to the side of it.
 
+  .. index::
+     double: pack; priest's
+
   **Priest's Pack (19 gp)**. Includes a backpack, a blanket, 10
   candles, a tinderbox, an alms box, 2 blocks of incense, a censer,
   vestments, 2 days of rations, and a waterskin.
+
+  .. index::
+     double: pack; scholar's
 
   **Scholar's Pack (40 gp)**. Includes a backpack, a book of lore, a
   bottle of ink, an ink pen, 10 sheets of parchment, a little bag of
@@ -1176,6 +1299,9 @@ make something out of particularly hard wood.
 .. [#veh] See the :ref:`Mounts and Vehicles <mounts-and-vehicles>`
           section.
 
+.. index::
+   double: tools; artisan's
+
 :bi:`Artisan's Tools`. These special tools include the items needed to
 pursue a craft or trade. The table shows examples of the most common
 types of tools, each providing items related to a single craft.
@@ -1183,10 +1309,16 @@ Proficiency with a set of artisan's tools lets you add your proficiency
 bonus to any ability checks you make using the tools in your craft. Each
 type of artisan's tools requires a separate proficiency.
 
+.. index::
+   double: kit; disguise
+
 :bi:`Disguise Kit`. This pouch of cosmetics, hair dye, and small props
 lets you create disguises that change your physical appearance.
 Proficiency with this kit lets you add your proficiency bonus to any
 ability checks you make to create a visual disguise.
+
+.. index::
+   double: kit; forgery
 
 :bi:`Forgery Kit`. This small box contains a variety of papers and
 parchments, pens and inks, seals and sealing wax, gold and silver leaf,
@@ -1195,12 +1327,18 @@ documents. Proficiency with this kit lets you add your proficiency bonus
 to any ability checks you make to create a physical forgery of a
 document.
 
+.. index::
+   double: set; gaming
+
 :bi:`Gaming Set`. This item encompasses a wide range of game pieces,
 including dice and decks of cards (for games such as Three-Dragon Ante).
 A few common examples appear on the Tools table, but other kinds of
 gaming sets exist. If you are proficient with a gaming set, you can add
 your proficiency bonus to ability checks you make to play a game with
 that set. Each type of gaming set requires a separate proficiency.
+
+.. index::
+   double: kit; herbalism
 
 :bi:`Herbalism Kit`. This kit contains a variety of instruments such as
 clippers, mortar and pestle, and pouches and vials used by herbalists to
@@ -1209,6 +1347,9 @@ proficiency bonus to any ability checks you make to identify or apply
 herbs. Also, proficiency with this kit is required to create antitoxin
 and potions of healing.
 
+.. index::
+   double: instrument; musical
+
 :bi:`Musical Instrument`. Several of the most common types of musical
 instruments are shown on the table as examples. If you have proficiency
 with a given musical instrument, you can add your proficiency bonus to
@@ -1216,16 +1357,25 @@ any ability checks you make to play music with the instrument. A bard
 can use a musical instrument as a spellcasting focus. Each type of
 musical instrument requires a separate proficiency.
 
+.. index::
+   double: tools; navigator's
+
 :bi:`Navigator's Tools`. This set of instruments is used for navigation
 at sea. Proficiency with navigator's tools lets you chart a ship's
 course and follow navigation charts. In addition, these tools allow you
 to add your proficiency bonus to any ability check you make to avoid
 getting lost at sea.
 
+.. index::
+   double: kit; poisoner's
+
 :bi:`Poisoner's Kit`. A poisoner's kit includes the vials, chemicals,
 and other equipment necessary for the creation of poisons. Proficiency
 with this kit lets you add your proficiency bonus to any ability checks
 you make to craft or use poisons.
+
+.. index::
+   double: tools; thieves'
 
 :bi:`Thieves' Tools`. This set of tools includes a small file, a set of
 lock picks, a small mirror mounted on a metal handle, a set of
@@ -1257,20 +1407,30 @@ Acquiring such a mount often means securing an egg and raising the
 creature yourself, making a bargain with a powerful entity, or
 negotiating with the mount itself.
 
+.. index:: ! barding
+
 :bi:`Barding`. Barding is armor designed to protect an animal's head,
 neck, chest, and body. Any type of armor shown on the Armor table can be
 purchased as barding. The cost is four times the equivalent armor made
 for humanoids, and it weighs twice as much.
+
+.. index:: ! saddles
 
 :bi:`Saddles`. A military saddle braces the rider, helping you keep your
 seat on an active mount in battle. It gives you advantage on any check
 you make to remain mounted. An exotic saddle is required for riding any
 aquatic or flying mount.
 
+.. index:: ! vehicle proficiency
+   double: proficiency; vehicle
+
 :bi:`Vehicle Proficiency`. If you have proficiency with a certain kind
 of vehicle (land or water), you can add your proficiency bonus to any
 check you make to control that kind of vehicle in difficult
 circumstances.
+
+.. index:: ! rowed vessels
+   double: vessels; rowed
 
 :bi:`Rowed Vessels`. Keelboats and rowboats are used on lakes and
 rivers. If going downstream, add the speed of the current (typically 3
@@ -1458,6 +1618,9 @@ connections.
   | Aristocratic    | 10 gp minimum   |
   +-----------------+-----------------+
 
+.. index::
+   double: lifestyle; wretched
+
 :bi:`Wretched`. You live in inhumane conditions. With no place to call
 home, you shelter wherever you can, sneaking into barns, huddling in old
 crates, and relying on the good graces of people better off than you. A
@@ -1465,6 +1628,9 @@ wretched lifestyle presents abundant dangers. Violence, disease, and
 hunger follow you wherever you go. Other wretched people covet your
 armor, weapons, and adventuring gear, which represent a fortune by their
 standards. You are beneath the notice of most people.
+
+.. index::
+   double: lifestyle; squalid
 
 :bi:`Squalid`. You live in a leaky stable, a mud-floored hut just
 outside town, or a vermin-infested boarding house in the worst part of
@@ -1474,6 +1640,9 @@ misfortune. You are beneath the notice of most people, and you have few
 legal protections. Most people at this lifestyle level have suffered
 some terrible setback. They might be disturbed, marked as exiles, or
 suffer from disease.
+
+.. index::
+   double: lifestyle; poor
 
 :bi:`Poor`. A poor lifestyle means going without the comforts available
 in a stable community. Simple food and lodgings, threadbare clothing,
@@ -1485,6 +1654,9 @@ and disease. People at this lifestyle level tend to be unskilled
 laborers, costermongers, peddlers, thieves, mercenaries, and other
 disreputable types.
 
+.. index::
+   double: lifestyle; modest
+
 :bi:`Modest`. A modest lifestyle keeps you out of the slums and ensures
 that you can maintain your equipment. You live in an older part of town,
 renting a room in a boarding house, inn, or temple. You don't go hungry
@@ -1492,11 +1664,17 @@ or thirsty, and your living conditions are clean, if simple. Ordinary
 people living modest lifestyles include soldiers with families,
 laborers, students, priests, hedge wizards, and the like.
 
+.. index::
+   double: lifestyle; comfortable
+
 :bi:`Comfortable`. Choosing a comfortable lifestyle means that you can
 afford nicer clothing and can easily maintain your equipment. You live
 in a small cottage in a middle-class neighborhood or in a private room
 at a fine inn. You associate with merchants, skilled tradespeople, and
 military officers.
+
+.. index::
+   double: lifestyle; wealthy
 
 :bi:`Wealthy`. Choosing a wealthy lifestyle means living a life of
 luxury, though you might not have achieved the social status associated
@@ -1506,6 +1684,9 @@ the royalty, or the owner of a few small businesses. You have
 respectable lodgings, usually a spacious home in a good part of town or
 a comfortable suite at a fine inn. You likely have a small staff of
 servants.
+
+.. index::
+   double: lifestyle; aristocratic
 
 :bi:`Aristocratic`. You live a life of plenty and comfort. You move in
 circles populated by the most powerful people in the community. You have
