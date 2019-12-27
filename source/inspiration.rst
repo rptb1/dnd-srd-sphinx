@@ -1,5 +1,7 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. index:: ! inspiration
+
 ===========
 Inspiration
 ===========
@@ -13,6 +15,9 @@ on your bond to the defense of your home village to push past the effect
 of a spell that has been laid on you.
 
 
+.. index::
+   double: inspiration; gain
+
 Gaining Inspiration
 ~~~~~~~~~~~~~~~~~~~
 
@@ -22,9 +27,12 @@ in to the drawbacks presented by a flaw or bond, and otherwise portray
 your character in a compelling way. Your GM will tell you how you can
 earn inspiration in the game.
 
-You either have inspiration or you don't - you can't stockpile multiple
-"inspirations" for later use.
+You either have inspiration or you don't — you can't stockpile multiple
+“inspirations” for later use.
 
+
+.. index::
+   double: inspiration; use
 
 Using Inspiration
 ~~~~~~~~~~~~~~~~~
@@ -32,6 +40,9 @@ Using Inspiration
 If you have inspiration, you can expend it when you make an attack roll,
 saving throw, or ability check. Spending your inspiration gives you
 advantage on that roll.
+
+.. index::
+   double: inspiration; player
 
 Additionally, if you have inspiration, you can reward another player for
 good roleplaying, clever thinking, or simply doing something exciting in
