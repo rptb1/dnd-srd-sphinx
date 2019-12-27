@@ -1,17 +1,28 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. index:: ! languages
+
 =========
 Languages
 =========
+
+.. index::
+   double: language; race
 
 Your race indicates the languages your character can speak by default,
 and your background might give you access to one or more additional
 languages of your choice. Note these languages on your character sheet.
 
+.. index::
+   double: language; exotic
+
 Choose your languages from the Standard Languages table, or choose one
 that is common in your campaign. With your GM's permission, you can
 instead choose a language from the Exotic Languages table or a secret
 language, such as thieves' cant or the tongue of druids.
+
+.. index:: dialect
+   double: language; family
 
 Some of these languages are actually families of languages with many
 dialects. For example, the Primordial language includes the Auran,
