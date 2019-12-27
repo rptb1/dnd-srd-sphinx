@@ -1,13 +1,33 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. index:: ! multiclassing
+
 =============
 Multiclassing
 =============
+
+.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
+
+.. raw:: html
+
+   <style type="text/css">
+     span.bolditalic {
+       font-weight: bold;
+       font-style: italic;
+     }
+   </style>
+
+.. role:: bi
+   :class: bolditalic
+
 
 Multiclassing allows you to gain levels in multiple classes. Doing so
 lets you mix the abilities of those classes to realize a character
 concept that might not be reflected in one of the standard class
 options.
+
+.. index::
+   double: multiclass; total level
 
 With this rule, you have the option of gaining a level in a new class
 whenever you advance in level, instead of gaining a level in your
@@ -22,6 +42,9 @@ You might even start progressing in a third or fourth class. Compared to
 a single-class character of the same level, you'll sacrifice some focus
 in exchange for versatility.
 
+
+.. index:: ! multiclassing prerequisites
+   double: multiclass; prerequisite
 
 Prerequisites
 -------------
@@ -66,6 +89,10 @@ than-average ability scores.
   +-------------+-------------------------------+
 
 
+.. index::
+   double: multiclass; experience points
+   double: multiclass; XP
+
 Experience Points
 -----------------
 
@@ -75,6 +102,12 @@ level in a particular class. So, if you are a cleric 6/fighter 1, you
 must gain enough XP to reach 8th level before you can take your second
 level as a fighter or your seventh level as a cleric.
 
+
+.. index::
+   double: multiclass; hit points
+   double: multiclass; HP
+   double: multiclass; hit dice
+   double: multiclass; HD
 
 Hit Points and Hit Dice
 -----------------------
@@ -92,6 +125,9 @@ separately. If you are a paladin 5/cleric 5, for example, you have five
 d10 Hit Dice and five d8 Hit Dice.
 
 
+.. index::
+   double: multiclass; proficiency bonus
+
 Proficiency Bonus
 -----------------
 
@@ -100,6 +136,8 @@ shown in the Character Advancement table in chapter 1, not your level in
 a particular class. For example, if you are a fighter 3/rogue 2, you
 have the proficiency bonus of a 5th- level character, which is +3.
 
+
+.. index:: multiclass; proficiencies
 
 Proficiencies
 -------------
@@ -139,15 +177,18 @@ the Multiclassing Proficiencies table.
   |   Rogue   | Light armor, one skill from the class's skill list, thieves'      |
   |           | tools                                                             |
   +-----------+-------------------------------------------------------------------+
-  | Sorcerer  | -                                                                 |
+  | Sorcerer  | —                                                                 |
   |           |                                                                   |
   +-----------+-------------------------------------------------------------------+
   | Warlock   | Light armor, simple weapons                                       |
   |           |                                                                   |
   +-----------+-------------------------------------------------------------------+
-  |  Wizard   | -                                                                 |
+  |  Wizard   | —                                                                 |
   +-----------+-------------------------------------------------------------------+
 
+
+.. index::
+   double: multiclass; features
 
 Class Features
 --------------
@@ -157,6 +198,9 @@ level. You don't, however, receive the class's starting equipment, and a
 few features have additional rules when you're multiclassing: Channel
 Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
 
+
+.. index::
+   double: multiclass; channel divinity
 
 Channel Divinity
 ~~~~~~~~~~~~~~~~
@@ -172,6 +216,9 @@ uses. Whenever you use the feature, you can choose any of the Channel
 Divinity effects available to you from your two classes.
 
 
+.. index::
+   double: multiclass; extra attack
+
 Extra Attack
 ~~~~~~~~~~~~
 
@@ -182,12 +229,18 @@ Attack does). Similarly, the warlock's eldritch invocation Thirsting
 Blade doesn't give you additional attacks if you also have Extra Attack.
 
 
+.. index::
+   double: multiclass; unarmored defense
+
 Unarmored Defense
 ~~~~~~~~~~~~~~~~~
 
 If you already have the Unarmored Defense feature, you can't gain it
 again from another class.
 
+
+.. index::
+   double: multiclass; spellcasting
 
 Spellcasting
 ~~~~~~~~~~~~
@@ -198,6 +251,11 @@ those classes. Once you have the Spellcasting feature from more than one
 class, use the rules below. If you multiclass but have the Spellcasting
 feature from only one class, you follow the rules as described in that
 class.
+
+.. index::
+   double: multiclass; spells known
+   double: multiclass; spells prepared
+   triple: multiclass; spell; preparation
 
 :bi:`Spells Known and Prepared`. You determine what spells you know and
 can prepare for each class individually, as if you were a single-classed
@@ -216,6 +274,10 @@ used only for the spells from the class associated with that focus.
 
 If a cantrip of yours increases in power at higher levels, the increase
 is based on your character level, not your level in a particular class
+
+.. index::
+   double: multiclass; spell slots
+   triple: multiclass; slot; spell
 
 :bi:`Spell Slots`. You determine your available spell slots by adding
 together all your levels in the bard, cleric, druid, sorcerer, and
@@ -237,6 +299,10 @@ four 1st-level slots, three 2nd-level slots, and two 3rd-level slots.
 However, you don't know any 3rd-level spells, nor do you know any
 2nd-level ranger spells. You can use the spell slots of those levels to
 cast the spells you do know-and potentially enhance their effects.
+
+.. index::
+   double: multiclass; pact magic
+   triple: multiclass; magic; pact
 
 :bi:`Pact Magic`. If you have both the Spellcasting class feature and
 the Pact Magic class feature from the warlock class, you can use the

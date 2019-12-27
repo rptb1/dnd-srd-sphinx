@@ -1,13 +1,23 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. index:: ! leveling, ! gaining a level
+   double: level; gain
+
 ================
 Beyond 1st Level
 ================
+
+.. index:: ! XP, ! experience points
 
 As your character goes on adventures and overcomes challenges, he or she
 gains experience, represented by experience points. A character who
 reaches a specified experience point total advances in capability. This
 advancement is called **gaining a level**.
+
+.. index::
+   triple: level; gain; ability score increase
+   triple: level; gain; ASI
+   triple: level; gain; proficiency bonus increase
 
 When your character gains a level, his or her class often grants
 additional features, as detailed in the class description. Some of these
@@ -16,11 +26,19 @@ two scores by 1 each or increasing one score by 2. You can't increase an
 ability score above 20. In addition, every character's proficiency bonus
 increases at certain levels.
 
+.. index::
+   triple: level; gain; hit dice
+   triple: level; gain; hit points
+   triple: level; gain; HP
+
 Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit
 Die, add your Constitution modifier to the roll, and add the total
 (minimum of 1). to your hit point maximum. Alternatively, you can use
 the fixed value shown in your class entry, which is the average result
 of the die roll (rounded up).
+
+.. index::
+   triple: level; gain; constitution
 
 When your Constitution modifier increases by 1, your hit point maximum
 increases by 1 for each level you have attained. For example, if your
@@ -28,6 +46,9 @@ increases by 1 for each level you have attained. For example, if your
 level, he increases his Constitution score from 17 to 18, thus
 increasing his Constitution modifier from +3 to +4. His hit point
 maximum then increases by 8.
+
+.. index:: ! character advancement
+   double: character; advancement
 
 The Character Advancement table summarizes the XP you need to advance in
 levels from level 1 through level 20, and the proficiency bonus for a

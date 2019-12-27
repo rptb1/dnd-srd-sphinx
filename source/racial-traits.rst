@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. index:: ! racial traits
+   double: race; traits
+
 =============
 Racial Traits
 =============
@@ -9,11 +12,18 @@ members of that race. The following entries appear among the traits of
 most races.
 
 
+.. index::
+   double: race; ability score increase
+   double: race; ASI
+
 Ability Score Increase
 ----------------------
 
 Every race increases one or more of a character's ability scores.
 
+
+.. index:: ! age
+   double: race; age
 
 Age
 ---
@@ -28,6 +38,9 @@ Strength or Constitution score, while advanced age could account for a
 high Intelligence or Wisdom.
 
 
+.. index::
+   triple: racial; alignment; tendency
+
 Alignment
 ---------
 
@@ -36,6 +49,9 @@ entry. These are not binding for player characters, but considering why
 your dwarf is chaotic, for example, in defiance of lawful dwarf society
 can help you better define your character.
 
+
+.. index::
+   double: race; size
 
 Size
 ----
@@ -48,6 +64,9 @@ characters have trouble wielding heavy weapons, as explained in
 "Equipment."
 
 
+.. index::
+   double: race; speed
+
 Speed
 -----
 
@@ -55,12 +74,18 @@ Your speed determines how far you can move when traveling
 ("Adventuring") and fighting ("Combat").
 
 
+.. index::
+   double: race; languages
+
 Languages
 ---------
 
 By virtue of your race, your character can speak, read, and write
 certain languages.
 
+
+.. index::
+   double: race; subraces
 
 Subraces
 --------
