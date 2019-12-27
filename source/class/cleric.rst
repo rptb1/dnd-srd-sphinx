@@ -204,7 +204,7 @@ benefits at 6th, 8th, and 17th levels.
 Domain Spells
 ^^^^^^^^^^^^^
 
-Each domain has a list of spells-its domain spells- that you gain at the
+Each domain has a list of spells — its domain spells — that you gain at the
 cleric levels noted in the domain description. Once you gain a domain
 spell, you always have it prepared, and it doesn't count against the
 number of spells you can prepare each day.
@@ -311,8 +311,8 @@ Cleric Domains
 Life Domain
 ~~~~~~~~~~~
 
-The Life domain focuses on the vibrant positive energy-one of the
-fundamental forces of the universe-that sustains all life. The gods of
+The Life domain focuses on the vibrant positive energy — one of the
+fundamental forces of the universe — that sustains all life. The gods of
 life promote vitality and health through healing the sick and wounded,
 caring for those in need, and driving away the forces of death and
 undeath. Almost any non-evil deity can claim influence over this domain,

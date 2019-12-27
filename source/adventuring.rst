@@ -52,7 +52,7 @@ Movement
 ========
 
 Swimming across a rushing river, sneaking down a dungeon corridor,
-scaling a treacherous mountain slope-all sorts of movement play a key
+scaling a treacherous mountain slope — all sorts of movement play a key
 role in fantasy gaming adventures.
 
 The GM can summarize the adventurers' movement without calculating exact
@@ -143,11 +143,11 @@ Difficult Terrain
 The travel speeds given in the Travel Pace table assume relatively
 simple terrain: roads, open plains, or clear dungeon corridors. But
 adventurers often face dense forests, deep swamps, rubble-filled ruins,
-steep mountains, and ice-covered ground-all considered difficult
+steep mountains, and ice-covered ground — all considered difficult
 terrain.
 
 You move at half speed in difficult terrain- moving 1 foot in difficult
-terrain costs 2 feet of speed-so you can cover only half the normal
+terrain costs 2 feet of speed — so you can cover only half the normal
 distance in a minute, an hour, or a day.
 
 
@@ -244,7 +244,7 @@ Vision and Light
 
 The most fundamental tasks of adventuring- noticing danger, finding
 hidden objects, hitting an enemy in combat, and targeting a spell, to
-name just a few-rely heavily on a character's ability to see. Darkness
+name just a few — rely heavily on a character's ability to see. Darkness
 and other effects that obscure vision can prove a significant hindrance.
 
 A given area might be lightly or heavily obscured. In a **lightly
@@ -252,8 +252,8 @@ obscured** area, such as dim light, patchy fog, or moderate foliage,
 creatures have disadvantage on Wisdom (Perception) checks that rely on
 sight.
 
-A **heavily obscured** area-such as darkness, opaque fog, or dense
-foliage-blocks vision entirely. A creature effectively suffers from the
+A **heavily obscured** area — such as darkness, opaque fog, or dense
+foliage — blocks vision entirely. A creature effectively suffers from the
 blinded condition (see appendix A) when trying to see something in that
 area.
 
@@ -412,8 +412,8 @@ A long rest is a period of extended downtime, at least 8 hours long,
 during which a character sleeps for at least 6 hours and performs no
 more than 2 hours of light activity, such as reading, talking, eating,
 or standing watch. If the rest is interrupted by a period of strenuous
-activity-at least 1 hour of walking, fighting, casting spells, or
-similar adventuring activity-the characters must begin the rest again to
+activity — at least 1 hour of walking, fighting, casting spells, or
+similar adventuring activity — the characters must begin the rest again to
 gain any benefit from it.
 
 At the end of a long rest, a character regains all lost hit points. The

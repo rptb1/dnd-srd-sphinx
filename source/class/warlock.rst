@@ -424,8 +424,8 @@ Chains of Carceri
 
 *Prerequisite: 15th level, Pact of the Chain feature*
 
-You can cast *hold monster* at will-targeting a celestial, fiend, or
-elemental-without expending a spell slot or material components. You
+You can cast *hold monster* at will — targeting a celestial, fiend, or
+elemental — without expending a spell slot or material components. You
 must finish a long rest before you can use this invocation on the same
 creature again.
 
@@ -637,7 +637,7 @@ Otherworldly Patrons
 --------------------
 
 The beings that serve as patrons for warlocks are mighty inhabitants of
-other planes of existence-not gods, but almost godlike in their power.
+other planes of existence — not gods, but almost godlike in their power.
 Various patrons give their warlocks access to different powers and
 invocations, and expect significant favors in return.
 

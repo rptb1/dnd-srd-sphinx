@@ -99,7 +99,7 @@ Your Turn
 
 On your turn, you can **move** a distance up to your speed and **take
 one action**. You decide whether to move first or take your action
-first. Your speed- sometimes called your walking speed-is noted on your
+first. Your speed — sometimes called your walking speed — is noted on your
 character sheet.
 
 The most common actions you can take are described in the "Actions in
@@ -225,7 +225,7 @@ Difficult Terrain
 -----------------
 
 Combat rarely takes place in bare rooms or on featureless plains.
-Boulder-strewn caverns, briar-choked forests, treacherous staircases-the
+Boulder-strewn caverns, briar-choked forests, treacherous staircases — the
 setting of a typical fight contains difficult terrain.
 
 Every foot of movement in difficult terrain costs 1 extra foot. This
@@ -615,7 +615,7 @@ the GM typically just says that the attack missed, not whether you
 guessed the target's location correctly.
 
 When a creature can't see you, you have advantage on attack rolls
-against it. If you are hidden-both unseen and unheard-when you make an
+against it. If you are hidden — both unseen and unheard — when you make an
 attack, you give away your location when the attack hits or misses.
 
 
@@ -825,8 +825,8 @@ damage to your target. Magic weapons, special abilities, and other
 factors can grant a bonus to damage. With a penalty, it is possible to
 deal 0 damage, but never negative damage.
 
-When attacking with a **weapon**, you add your ability modifier-the same
-modifier used for the attack roll-to the damage. A **spell** tells you
+When attacking with a **weapon**, you add your ability modifier — the same
+modifier used for the attack roll — to the damage. A **spell** tells you
 which dice to roll for damage and whether to add any modifiers.
 
 If a spell or other effect deals damage to **more than one target** at
@@ -862,8 +862,8 @@ to a new effect.
 :bi:`Acid`. The corrosive spray of a black dragon's breath and the
 dissolving enzymes secreted by a black pudding deal acid damage.
 
-:bi:`Bludgeoning`. Blunt force attacks-hammers, falling, constriction,
-and the like-deal bludgeoning damage.
+:bi:`Bludgeoning`. Blunt force attacks — hammers, falling, constriction,
+and the like — deal bludgeoning damage.
 
 :bi:`Cold`. The infernal chill radiating from an ice devil's spear and
 the frigid blast of a white dragon's breath deal cold damage.

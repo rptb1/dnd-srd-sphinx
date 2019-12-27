@@ -155,7 +155,7 @@ spells you know, except your cantrips, which are fixed in your mind.
     prepare the spell just like your other spells.
 
     **Replacing the Book**. You can copy a spell from your own spellbook
-    into another book-for example, if you want to make a backup copy of
+    into another book — for example, if you want to make a backup copy of
     your spellbook. This is just like copying a new spell into your
     spellbook, but faster and easier, since you understand your own
     notation and already know how to cast the spell. You need spend only

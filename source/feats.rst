@@ -17,7 +17,7 @@ You must meet any prerequisite specified in a feat to take that feat. If
 you ever lose a feat's prerequisite, you can't use that feat until you
 regain the prerequisite. For example, the Grappler feat requires you to
 have a Strength of 13 or higher. If your Strength is reduced below 13
-somehow-perhaps by a withering curse-you can't benefit from the Grappler
+somehow — perhaps by a withering curse — you can't benefit from the Grappler
 feat until your Strength is restored.
 
 

@@ -234,7 +234,7 @@ Classes table shows the most common DCs.
 To make an ability check, roll a d20 and add the relevant ability
 modifier. As with other d20 rolls, apply bonuses and penalties, and
 compare the total to the DC. If the total equals or exceeds the DC, the
-ability check is a success-the creature overcomes the challenge at hand.
+ability check is a success — the creature overcomes the challenge at hand.
 Otherwise, it's a failure, which means the character or monster makes no
 progress toward the objective or makes progress combined with a setback
 determined by the GM.
@@ -331,7 +331,7 @@ use a skill associated with an ability.
    double: skill; proficiency
 
 Sometimes, the GM might ask for an ability check using a specific
-skill-for example, “Make a Wisdom (Perception) check.” At other times, a
+skill — for example, “Make a Wisdom (Perception) check.” At other times, a
 player might ask the GM if proficiency in a particular skill applies to
 a check. In either case, proficiency in a skill means an individual can
 add his or her proficiency bonus to ability checks that involve that
@@ -401,8 +401,8 @@ Working Together
    double: ability; teamwork
 
 Sometimes two or more characters team up to attempt a task. The
-character who's leading the effort-or the one with the highest ability
-modifier-can make an ability check with advantage, reflecting the help
+character who's leading the effort — or the one with the highest ability
+modifier — can make an ability check with advantage, reflecting the help
 provided by the other characters. In combat, this requires the Help
 action.
 
@@ -1033,8 +1033,8 @@ Saving Throws
 
 .. index:: ! saving throws, ! saves
 
-A saving throw-also called a save-represents an attempt to resist a
-spell, a trap, a poison, a disease, or a similar threat. You don't
+A saving throw — also called a save — represents an attempt to resist
+a spell, a trap, a poison, a disease, or a similar threat. You don't
 normally decide to make a saving throw; you are forced to make one
 because your character or monster is at risk of harm.
 

@@ -21,7 +21,7 @@ energies that suffuse the multiverse into a specific, limited
 expression. In casting a spell, a character carefully plucks at the
 invisible strands of raw magic suffusing the world, pins them in place
 in a particular pattern, sets them vibrating in a specific way, and then
-releases them to unleash the desired effect-in most cases, all in the
+releases them to unleash the desired effect — in most cases, all in the
 span of seconds.
 
 Spells can be versatile tools, weapons, or protective wards. They can
@@ -41,8 +41,8 @@ Spell Level
 Every spell has a level from 0 to 9. A spell's level is a general
 indicator of how powerful it is, with the lowly (but still impressive)
 *magic missile* at 1st level and the earth-shaking *wish* at 9th.
-Cantrips-simple but powerful spells that characters can cast almost by
-rote-are level 0. The higher a spell's level, the higher level a
+Cantrips — simple but powerful spells that characters can cast almost by
+rote — are level 0. The higher a spell's level, the higher level a
 spellcaster must be to use that spell.
 
 Spell level and character level don't correspond directly. Typically, a
@@ -247,7 +247,7 @@ If a spell states that a material component is consumed by the spell,
 the caster must provide this component for each casting of the spell.
 
 A spellcaster must have a hand free to access a spell's material
-components-or to hold a spellcasting focus-but it can be the same hand
+components — or to hold a spellcasting focus — but it can be the same hand
 that he or she uses to perform somatic components.
 
 Duration
@@ -487,8 +487,8 @@ Combining Magical Effects
 
 The effects of different spells add together while the durations of
 those spells overlap. The effects of the same spell cast multiple times
-don't combine, however. Instead, the most potent effect-such as the
-highest bonus-from those castings applies while their durations overlap.
+don't combine, however. Instead, the most potent effect — such as the
+highest bonus — from those castings applies while their durations overlap.
 
 For example, if two clerics cast *bless* on the same target, that
 character gains the spell's benefit only once; he or she doesn't get to

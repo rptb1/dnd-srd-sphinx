@@ -103,7 +103,7 @@ numerous but far more savage and brutal, and almost uniformly evil, are
 the races of goblinoids (goblins, hobgoblins, and bugbears), orcs,
 gnolls, lizardfolk, and kobolds.
 
-**Monstrosities** are monsters in the strictest sense-frightening
+**Monstrosities** are monsters in the strictest sense — frightening
 creatures that are not ordinary, not truly natural, and almost never
 benign. Some are the results of magical experimentation gone awry (such
 as owlbears), and others are the product of terrible curses (including
@@ -764,8 +764,8 @@ regional effects.
 Legendary Actions
 -----------------
 
-A legendary creature can take a certain number of special actions-called
-legendary actions-outside its turn. Only one legendary action option can
+A legendary creature can take a certain number of special actions — called
+legendary actions — outside its turn. Only one legendary action option can
 be used at a time and only at the end of another creature's turn. A
 creature regains its spent legendary actions at the start of its turn.
 It can forgo using them, and it can't use them while incapacitated or

@@ -247,7 +247,7 @@ The Celtic Pantheon
 
 It's said that something wild lurks in the heart of every soul, a space
 that thrills to the sound of geese calling at night, to the whispering
-wind through the pines, to the unexpected red of mistletoe on an oak-and
+wind through the pines, to the unexpected red of mistletoe on an oak — and
 it is in this space that the Celtic gods dwell. They sprang from the
 brook and stream, their might heightened by the strength of the oak and
 the beauty of the woodlands and open moor. When the first forester dared
@@ -382,7 +382,7 @@ The Egyptian Pantheon
 
 These gods are a young dynasty of an ancient divine family, heirs to the
 rulership of the cosmos and the maintenance of the divine principle of
-Ma'at-the fundamental order of truth, justice, law, and order that puts
+Ma'at — the fundamental order of truth, justice, law, and order that puts
 gods, mortal pharaohs, and ordinary men and women in their logical and
 rightful place in the universe.
 
@@ -447,7 +447,7 @@ The Norse Pantheon
 
 Where the land plummets from the snowy hills into the icy fjords below,
 where the longboats draw up on to the beach, where the glaciers flow
-forward and retreat with every fall and spring-this is the land of the
+forward and retreat with every fall and spring — this is the land of the
 Vikings, the home of the Norse pantheon. It's a brutal clime, and one
 that calls for brutal living. The warriors of the land have had to adapt
 to the harsh conditions in order to survive, but they haven't been too
@@ -590,7 +590,7 @@ other planes of existence. *Plane shift* and *gate* can transport
 adventurers directly to any other plane of existence, with different
 degrees of precision. *Etherealness* allows adventurers to enter the
 Ethereal Plane and travel from there to any of the planes it
-touches-such as the Elemental Planes. And the *astral projection* spell
+touches — such as the Elemental Planes. And the *astral projection* spell
 lets adventurers project themselves into the Astral Plane and travel to
 the Outer Planes.
 
@@ -598,8 +598,8 @@ the Outer Planes.
 connection that links a specific location on one plane to a specific
 location on another. Some portals are like doorways, a clear window, or
 a fog- shrouded passage, and simply stepping through it effects the
-interplanar travel. Others are locations- circles of standing stones,
-soaring towers, sailing ships, or even whole towns-that exist in
+interplanar travel. Others are locations — circles of standing stones,
+soaring towers, sailing ships, or even whole towns — that exist in
 multiple planes at once or flicker from one plane to another in turn.
 Some are vortices, typically joining an Elemental Plane with a very
 similar location on the Material Plane, such as the heart of a volcano
@@ -649,7 +649,7 @@ Elemental Planes resemble a world in the Material Plane. The four
 elements mingle together as they do in the Material Plane, forming land,
 sea, and sky. Farther from the Material Plane, though, the Elemental
 Planes are both alien and hostile. Here, the elements exist in their
-purest form-great expanses of solid earth, blazing fire, crystal-clear
+purest form — great expanses of solid earth, blazing fire, crystal-clear
 water, and unsullied air. These regions are little-known, so when
 discussing the Plane of Fire, for example, a speaker usually means just
 the border region. At the farthest extents of the Inner Planes, the pure
@@ -684,7 +684,7 @@ Distance is a virtually meaningless concept on the Outer Planes. The
 perceptible regions of the planes often seem quite small, but they can
 also stretch on to what seems like infinity. It might be possible to
 take a guided tour of the Nine Hells, from the first layer to the ninth,
-in a single day-if the powers of the Hells desire it. Or it could take
+in a single day — if the powers of the Hells desire it. Or it could take
 weeks for travelers to make a grueling trek across a single layer.
 
 The most well-known Outer Planes are a group of sixteen planes that
@@ -1171,9 +1171,9 @@ Symptoms manifest 1d4 hours after infection and include fever and
 disorientation. The infected creature gains one level of exhaustion that
 can't be removed until the disease is cured.
 
-Any event that causes the infected creature great stress-including
+Any event that causes the infected creature great stress — including
 entering combat, taking damage, experiencing fear, or having a
-nightmare-forces the creature to make a DC 13 Constitution saving throw.
+nightmare — forces the creature to make a DC 13 Constitution saving throw.
 On a failed save, the creature takes 5 (1d10) psychic damage and becomes
 incapacitated with mad laughter for 1 minute. The creature can repeat
 the saving throw at the end of each of its turns, ending the mad
@@ -1374,7 +1374,7 @@ flaw from the Indefinite Madness table that lasts until cured.
   +--------+---------------------------------------------------------------------+
   | 16-25  | "I keep whatever I find."                                           |
   +--------+---------------------------------------------------------------------+
-  | 26-30  | "I try to become more like someone else I know-adopting his or her  |
+  | 26-30  | "I try to become more like someone else I know — adopting his or her|
   |        | style of dress, mannerisms, and name."                              |
   +--------+---------------------------------------------------------------------+
   | 31-35  | "I must bend the truth, exaggerate, or outright lie to be           |

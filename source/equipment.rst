@@ -102,8 +102,8 @@ treasures, the GM might require you to find a buyer in a large town or
 larger community first.
 
 :bi:`Trade Goods`. On the borderlands, many people conduct transactions
-through barter. Like gems and art objects, trade goods-bars of iron,
-bags of salt, livestock, and so on-retain their full value in the market
+through barter. Like gems and art objects, trade goods — bars of iron,
+bags of salt, livestock, and so on — retain their full value in the market
 and can be used as currency.
 
 
@@ -476,7 +476,7 @@ it.
    double: weapon; versatile
 
 :bi:`Versatile`. This weapon can be used with one or two hands. A damage
-value in parentheses appears with the property-the damage when the
+value in parentheses appears with the property — the damage when the
 weapon is used with two hands to make a melee attack.
 
 
@@ -695,9 +695,9 @@ Dexterity check to extinguish the flames.
 advantage on saving throws against poison for 1 hour. It confers no
 benefit to undead or constructs.
 
-:bi:`Arcane Focus`. An arcane focus is a special item-an orb, a crystal,
+:bi:`Arcane Focus`. An arcane focus is a special item — an orb, a crystal,
 a rod, a specially constructed staff, a wand-like length of wood, or
-some similar item- designed to channel the power of arcane spells. A
+some similar item — designed to channel the power of arcane spells. A
 sorcerer, warlock, or wizard can use such an item as a spellcasting
 focus.
 
@@ -880,8 +880,8 @@ their size.
 
 :bi:`Tinderbox`. This small container holds flint, fire steel, and
 tinder (usually dry cloth soaked in light oil) used to kindle a fire.
-Using it to light a torch-or anything else with abundant, exposed
-fuel-takes an action. Lighting any other fire takes 1 minute.
+Using it to light a torch — or anything else with abundant, exposed
+fuel — takes an action. Lighting any other fire takes 1 minute.
 
 :bi:`Torch`. A torch burns for 1 hour, providing bright light in a
 20-foot radius and dim light for an additional 20 feet. If you make a
@@ -1572,7 +1572,7 @@ Expenses
 When not descending into the depths of the earth, exploring ruins for
 lost treasures, or waging war against the encroaching darkness,
 adventurers face more mundane realities. Even in a fantastical world,
-people require basic necessities such as shelter, sustenance, and
+people require basic necessities such a|1 sp per mile    nce, and
 clothing. These things cost money, although some lifestyles cost more
 than others.
 
@@ -1707,7 +1707,7 @@ or participant.
 
   The expenses and lifestyles described here assume that you are
   spending your time between adventures in town, availing yourself of
-  whatever services you can afford-paying for food and shelter, paying
+  whatever services you can afford — paying for food and shelter, paying
   townspeople to sharpen your sword and repair your armor, and so on.
   Some characters, though, might prefer to spend their time away from
   civilization, sustaining themselves in the wild by hunting,
@@ -1856,7 +1856,7 @@ and might cost 10 to 50 gold pieces (plus the cost of any expensive
 material components). Finding someone able and willing to cast a
 higher-level spell might involve traveling to a large city, perhaps one
 with a university or prominent temple. Once found, the spellcaster might
-ask for a service instead of payment-the kind of service that only
+ask for a service instead of payment — the kind of service that only
 adventurers can provide, such as retrieving a rare item from a dangerous
 locale or traversing a monster-infested wilderness to deliver something
 important to a distant settlement.
