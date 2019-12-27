@@ -25,6 +25,8 @@ Equipment
 Coins
 =====
 
+.. index:: ! coins
+
 Common coins come in several different denominations based on the
 relative worth of the metal from which they are made. The three most
 common coins are the gold piece (gp), the silver piece (sp), and the
@@ -78,15 +80,26 @@ pound.
 Selling Treasure
 ================
 
+.. index::
+   double:: treasure; selling
+
 Opportunities abound to find treasure, equipment, weapons, armor, and
 more in the dungeons you explore. Normally, you can sell your treasures
 and trinkets when you return to a town or other settlement, provided
 that you can find buyers and merchants interested in your loot.
 
+.. index::
+   double: selling; armor
+   double: selling; weapons
+   double: selling; equipment
+
 :bi:`Arms, Armor, and Other Equipment`. As a general rule, undamaged
 weapons, armor, and other equipment fetch half their cost when sold in a
 market. Weapons and armor used by monsters are rarely in good enough
 condition to sell.
+
+.. index::
+   double: selling; magic items
 
 :bi:`Magic Items`. Selling magic items is problematic. Finding someone
 to buy a potion or a scroll isn't too hard, but other items are out of
@@ -95,11 +108,19 @@ common magic items, you won't normally come across magic items or spells
 to purchase. The value of magic is far beyond simple gold and should
 always be treated as such.
 
+.. index::
+   double: selling; gems
+   double: selling; jewelry
+   double: selling; art
+
 :bi:`Gems, Jewelry, and Art Objects`. These items retain their full
 value in the marketplace, and you can either trade them in for coin or
 use them as currency for other transactions. For exceptionally valuable
 treasures, the GM might require you to find a buyer in a large town or
 larger community first.
+
+.. index::
+   double: selling; trade goods
 
 :bi:`Trade Goods`. On the borderlands, many people conduct transactions
 through barter. Like gems and art objects, trade goods — bars of iron,
@@ -109,6 +130,8 @@ and can be used as currency.
 
 Armor
 =====
+
+.. index:: armor
 
 Fantasy gaming worlds are a vast tapestry made up of many different
 cultures, each with its own technology level. For this reason,
@@ -147,11 +170,11 @@ equal to or higher than the listed score.
 .. index::
    double: armor; stealth
 
-:bi:`Stealth`. If the Armor table shows "Disadvantage" in the Stealth
-column, the wearer has disadvantage on Dexterity (Stealth) checks.
+:bi:`Stealth`. If the Armor table shows “Disadvantage” in the Stealth
+column, the wearer has disadvantage on :ref:`Dexterity (Stealth)
+<Stealth>` checks.
 
-.. index::
-   single: shield, shields
+.. index:: ! shields
 
 :bi:`Shields`. A shield is made from wood or metal and is carried in one
 hand. Wielding a shield increases your Armor Class by 2. You can benefit
@@ -159,6 +182,9 @@ from only one shield at a time.
 
 Light Armor
 -----------
+
+.. index:: ! light armor
+   double: light; armor
 
 Made from supple and thin materials, light armor favors agile
 adventurers since it offers some protection without sacrificing
@@ -187,6 +213,9 @@ leather is reinforced with close-set rivets or spikes.
 
 Medium Armor
 ------------
+
+.. index:: ! medium armor
+   double: medium; armor
 
 Medium armor offers more protection than light armor, but it also
 impairs movement more. If you wear medium armor, you add your Dexterity
@@ -233,6 +262,9 @@ simple greaves that are attached with leather straps.
 
 Heavy Armor
 -----------
+
+.. index:: ! heavy armor
+   double: heavy; armor
 
 Of all the armor categories, heavy armor offers the best protection.
 These suits of armor cover the entire body and are designed to stop a
@@ -349,6 +381,8 @@ help, reduce this time by half.
 Weapons
 =======
 
+.. index:: ! weapons
+
 Your class grants proficiency in certain weapons, reflecting both the
 class's focus and the tools you are most likely to use. Whether you
 favor a longsword or a longbow, your weapon and your ability to wield it
@@ -365,6 +399,9 @@ target at a distance.
 
 Weapon Proficiency
 ------------------
+
+.. index:: ! weapon proficiency
+   double: weapon; proficiency
 
 Your race, class, and feats can grant you proficiency with certain
 weapons or categories of weapons. The two categories are **simple** and
@@ -384,10 +421,14 @@ add your proficiency bonus to the attack roll.
 Weapon Properties
 -----------------
 
+.. index:: ! weapon properties
+   double: weapon; properties
+
 Many weapons have special properties related to their use, as shown in
 the Weapons table.
 
 .. index:: ! ammunition
+   double: ammunition; weapon
 
 :bi:`Ammunition`. You can use a weapon that has the ammunition property
 to make a ranged attack only if you have ammunition to fire from the
@@ -423,7 +464,7 @@ Small creature to use effectively.
 for use when fighting with two weapons.
 
 .. index::
-   double: weapon; loading
+   double: loading; weapon
 
 :bi:`Loading`. Because of the time required to load this weapon, you can
 fire only one piece of ammunition from it when you use an action, bonus
@@ -431,8 +472,8 @@ action, or reaction to fire it, regardless of the number of attacks you
 can normally make.
 
 .. index::
-   double: weapon; range
-   double: weapon; ranged
+   double: range; weapon
+   double: ranged; weapon
 
 :bi:`Range`. A weapon that can be used to make a ranged attack has a
 range in parentheses after the ammunition or thrown property. The range
@@ -442,21 +483,18 @@ beyond normal range, you have disadvantage on the attack roll. You can't
 attack a target beyond the weapon's long range.
 
 .. index::
-   double: weapon; reach
+   double: reach; weapon
 
 :bi:`Reach`. This weapon adds 5 feet to your reach when you attack with
 it, as well as when determining your reach for opportunity attacks with
 it (see chapter 9).
 
-.. index::
-   double: weapon; special
-
 :bi:`Special`. A weapon with the special property has unusual rules
-governing its use, explained in the weapon's description (see "Special
-Weapons" later in this section).
+governing its use, explained in the weapon's description (see :ref:`Special
+Weapons` later in this section).
 
 .. index::
-   double: weapon; thrown
+   double: thrown; weapon
 
 :bi:`Thrown`. If a weapon has the thrown property, you can throw the
 weapon to make a ranged attack. If the weapon is a melee weapon, you use
@@ -467,24 +505,24 @@ either your Strength or your Dexterity, since the dagger has the finesse
 property.
 
 .. index::
-   double: weapon; two-handed
+   double: two-handed; weapon
 
 :bi:`Two-Handed`. This weapon requires two hands when you attack with
 it.
 
 .. index::
-   double: weapon; versatile
+   double: versatile; weapon
 
 :bi:`Versatile`. This weapon can be used with one or two hands. A damage
 value in parentheses appears with the property — the damage when the
 weapon is used with two hands to make a melee attack.
 
 
-.. index::
-   double: weapon; improvised
-
 Improvised Weapons
 ~~~~~~~~~~~~~~~~~~
+
+.. index::
+   double: improvised; weapon
 
 Sometimes characters don't have their weapons and have to attack with
 whatever is at hand. An improvised weapon includes any object you can
@@ -503,11 +541,11 @@ not have the thrown property, it also deals 1d4 damage. An improvised
 thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
 
-.. index::
-   double: weapon; silvered
-
 Silvered Weapons
 ~~~~~~~~~~~~~~~~
+
+.. index::
+   double: silvered; weapon
 
 Some monsters that have immunity or resistance to nonmagical weapons are
 susceptible to silver weapons, so cautious adventurers invest extra coin
@@ -517,11 +555,13 @@ price of the silver, but the time and expertise needed to add silver to
 the weapon without making it less effective.
 
 
-.. index::
-   double: weapon; special
+.. _Special Weapons:
 
 Special Weapons
 ~~~~~~~~~~~~~~~
+
+.. index::
+   double: special; weapon
 
 Weapons with special rules are described here.
 
@@ -677,11 +717,17 @@ Adventuring Gear
 This section describes items that have special rules or require further
 explanation.
 
+.. index:: ! acid
+   double: gear; acid
+
 :bi:`Acid`. As an action, you can splash the contents of this vial onto
 a creature within 5 feet of you or throw the vial up to 20 feet,
 shattering it on impact. In either case, make a ranged attack against a
 creature or object, treating the acid as an improvised weapon. On a hit,
 the target takes 2d6 acid damage.
+
+.. index:: ! alchemist's fire
+   double: gear; alchemist's fire
 
 :bi:`Alchemist's Fire`. This sticky, adhesive fluid ignites when exposed
 to air. As an action, you can throw this flask up to 20 feet, shattering
@@ -691,9 +737,15 @@ target takes 1d4 fire damage at the start of each of its turns. A
 creature can end this damage by using its action to make a DC 10
 Dexterity check to extinguish the flames.
 
+.. index:: ! antitoxin
+   double: gear; antitoxin
+
 :bi:`Antitoxin`. A creature that drinks this vial of liquid gains
 advantage on saving throws against poison for 1 hour. It confers no
 benefit to undead or constructs.
+
+.. index:: ! arcane focus
+   double: gear; arcane focus
 
 :bi:`Arcane Focus`. An arcane focus is a special item — an orb, a crystal,
 a rod, a specially constructed staff, a wand-like length of wood, or
@@ -701,21 +753,33 @@ some similar item — designed to channel the power of arcane spells. A
 sorcerer, warlock, or wizard can use such an item as a spellcasting
 focus.
 
+.. index:: ! ball bearings
+   double: gear; ball bearings
+
 :bi:`Ball Bearings`. As an action, you can spill these tiny metal balls
 from their pouch to cover a level, square area that is 10 feet on a
 side. A creature moving across the covered area must succeed on a DC 10
 Dexterity saving throw or fall prone. A creature moving through the area
 at half speed doesn't need to make the save.
 
+.. index:: ! block and tackle
+   double: gear; block and tackle
+
 :bi:`Block and Tackle`. A set of pulleys with a cable threaded through
 them and a hook to attach to objects, a block and tackle allows you to
 hoist up to four times the weight you can normally lift.
+
+.. index:: ! book
+   double: gear; book
 
 :bi:`Book`. A book might contain poetry, historical accounts,
 information pertaining to a particular field of lore, diagrams and notes
 on gnomish contraptions, or just about anything else that can be
 represented using text or pictures. A book of spells is a spellbook
 (described later in this section).
+
+.. index:: ! caltrops
+   double: gear; caltrops
 
 :bi:`Caltrops`. As an action, you can spread a bag of caltrops to cover
 a square area that is 5 feet on a side. Any creature that enters the
@@ -725,17 +789,32 @@ creature's walking speed by 10 feet until the creature regains at least
 1 hit point. A creature moving through the area at half speed doesn't
 need to make the save.
 
+.. index:: ! candle
+   double: gear; candle
+
 :bi:`Candle`. For 1 hour, a candle sheds bright light in a 5-foot radius
 and dim light for an additional 5 feet.
+
+.. index:: ! case, crossbow bolt
+   double: gear; case, crossbow bolt
 
 :bi:`Case, Crossbow Bolt`. This wooden case can hold up to twenty
 crossbow bolts.
 
+.. index:: ! case, map or scroll
+   double: gear; case, map or scroll
+
 :bi:`Case, Map or Scroll`. This cylindrical leather case can hold up to
 ten rolled-up sheets of paper or five rolled-up sheets of parchment.
 
+.. index:: ! chain
+   double: gear; chain
+
 :bi:`Chain`. A chain has 10 hit points. It can be burst with a
 successful DC 20 Strength check.
+
+.. index:: ! climber's kit
+   double: gear; climber's kit
 
 :bi:`Climber's Kit`. A climber's kit includes special pitons, boot tips,
 gloves, and a harness. You can use the climber's kit as an action to
@@ -743,14 +822,23 @@ anchor yourself; when you do, you can't fall more than 25 feet from the
 point where you anchored yourself, and you can't climb more than 25 feet
 away from that point without undoing the anchor.
 
+.. index:: ! component pouch
+   double: gear; component pouch
+
 :bi:`Component Pouch`. A component pouch is a small, watertight leather
 belt pouch that has compartments to hold all the material components and
 other special items you need to cast your spells, except for those
 components that have a specific cost (as indicated in a spell's
 description).
 
+.. index:: ! crowbar
+   double: gear; crowbar
+
 :bi:`Crowbar`. Using a crowbar grants advantage to Strength checks where
 the crowbar's leverage can be applied.
+
+.. index:: ! druidic focus
+   double: gear; druidic focus
 
 :bi:`Druidic Focus`. A druidic focus might be a sprig of mistletoe or
 holly, a wand or scepter made of yew or another special wood, a staff
@@ -758,12 +846,18 @@ drawn whole out of a living tree, or a totem object incorporating
 feathers, fur, bones, and teeth from sacred animals. A druid can use
 such an object as a spellcasting focus.
 
+.. index:: ! fishing tackle
+   double: gear; fishing tackle
+
 :bi:`Fishing Tackle`. This kit includes a wooden rod, silken line,
 corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow
 netting. Healer's Kit. This kit is a leather pouch containing bandages,
 salves, and splints. The kit has ten uses. As an action, you can expend
 one use of the kit to stabilize a creature that has 0 hit points,
 without needing to make a Wisdom (Medicine) check.
+
+.. index:: ! holy symbol
+   double: gear; holy symbol
 
 :bi:`Holy Symbol`. A holy symbol is a representation of a god or
 pantheon. It might be an amulet depicting a symbol representing a deity,
@@ -774,6 +868,9 @@ with many gods in the multiverse. A cleric or paladin can use a holy
 symbol as a spellcasting focus. To use the symbol in this way, the
 caster must hold it in hand, wear it visibly, or bear it on a shield.
 
+.. index:: ! holy water
+   double: gear; holy water
+
 :bi:`Holy Water`. As an action, you can splash the contents of this
 flask onto a creature within 5 feet of you or throw it up to 20 feet,
 shattering it on impact. In either case, make a ranged attack against a
@@ -782,6 +879,9 @@ target is a fiend or undead, it takes 2d6 radiant damage. A cleric or
 paladin may create holy water by performing a special ritual. The ritual
 takes 1 hour to perform, uses 25 gp worth of powdered silver, and
 requires the caster to expend a 1st-level spell slot.
+
+.. index:: ! hunting trap
+   double: gear; hunting trap
 
 :bi:`Hunting Trap`. When you use your action to set it, this trap forms
 a saw-toothed steel ring that snaps shut when a creature steps on a
@@ -795,6 +895,9 @@ action to make a DC 13 Strength check, freeing itself or another
 creature within its reach on a success. Each failed check deals 1
 piercing damage to the trapped creature.
 
+.. index:: ! lamp
+   double: gear; lamp
+
 :bi:`Lamp`. A lamp casts bright light in a 15-foot radius and dim light
 for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1
 pint) of oil. Lantern, Bullseye. A bullseye lantern casts bright light
@@ -805,10 +908,16 @@ additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint)
 of oil. As an action, you can lower the hood, reducing the light to dim
 light in a 5-foot radius.
 
+.. index:: ! lock
+   double: gear; lock
+
 :bi:`Lock`. A key is provided with the lock. Without the key, a creature
 proficient with thieves' tools can pick this lock with a successful DC
 15 Dexterity check. Your GM may decide that better locks are available
 for higher prices.
+
+.. index:: ! magnifying glass
+   double: gear; magnifying glass
 
 :bi:`Magnifying Glass`. This lens allows a closer look at small objects.
 It is also useful as a substitute for flint and steel when starting
@@ -817,6 +926,9 @@ as sunlight to focus, tinder to ignite, and about 5 minutes for the fire
 to ignite. A magnifying glass grants advantage on any ability check made
 to appraise or inspect an item that is small or highly detailed.
 
+.. index:: ! manacles
+   double: gear; manacles
+
 :bi:`Manacles`. These metal restraints can bind a Small or Medium
 creature. Escaping the manacles requires a successful DC 20 Dexterity
 check. Breaking them requires a successful DC 20 Strength check. Each
@@ -824,9 +936,15 @@ set of manacles comes with one key. Without the key, a creature
 proficient with thieves' tools can pick the manacles' lock with a
 successful DC 15 Dexterity check. Manacles have 15 hit points.
 
+.. index:: ! mess kit
+   double: gear; mess kit
+
 :bi:`Mess Kit`. This tin box contains a cup and simple cutlery. The box
 clamps together, and one side can be used as a cooking pan and the other
 as a plate or shallow bowl.
+
+.. index:: ! oil
+   double: gear; oil
 
 :bi:`Oil`. Oil usually comes in a clay flask that holds 1 pint. As an
 action, you can splash the oil in this flask onto a creature within 5
@@ -840,6 +958,9 @@ provided that the surface is level. If lit, the oil burns for 2 rounds
 and deals 5 fire damage to any creature that enters the area or ends its
 turn in the area. A creature can take this damage only once per turn.
 
+.. index:: ! poison, basic
+   double: gear; poison, basic
+
 :bi:`Poison, Basic`. You can use the poison in this vial to coat one
 slashing or piercing weapon or up to three pieces of ammunition.
 Applying the poison takes an action. A creature hit by the poisoned
@@ -847,9 +968,15 @@ weapon or ammunition must make a DC 10 Constitution saving throw or take
 1d4 poison damage. Once applied, the poison retains potency for 1 minute
 before drying.
 
+.. index:: ! potion of healing
+   double: gear; potion of healing
+
 :bi:`Potion of Healing`. A character who drinks the magical red fluid in
 this vial regains 2d4 + 2 hit points. Drinking or administering a potion
 takes an action.
+
+.. index:: ! pouch
+   double: gear; pouch
 
 :bi:`Pouch`. A cloth or leather pouch can hold up to 20 sling bullets or
 50 blowgun needles, among other things. A compartmentalized pouch for
@@ -859,29 +986,53 @@ Portable. You can use a portable ram to break down doors. When doing so,
 you gain a +4 bonus on the Strength check. One other character can help
 you use the ram, giving you advantage on this check.
 
+.. index:: ! rations
+   double: gear; rations
+
 :bi:`Rations`. Rations consist of dry foods suitable for extended
 travel, including jerky, dried fruit, hardtack, and nuts.
 
+.. index:: ! rope
+   double: gear; rope
+
 :bi:`Rope`. Rope, whether made of hemp or silk, has 2 hit points and can
 be burst with a DC 17 Strength check.
+
+.. index:: ! scale, merchant's
+   double: gear; scale, merchant's
 
 :bi:`Scale, Merchant's`. A scale includes a small balance, pans, and a
 suitable assortment of weights up to 2 pounds. With it, you can measure
 the exact weight of small objects, such as raw precious metals or trade
 goods, to help determine their worth.
 
+.. index:: ! spellbook
+   double: gear; spellbook
+
 :bi:`Spellbook`. Essential for wizards, a spellbook is a leather-bound
 tome with 100 blank vellum pages suitable for recording spells.
+
+.. index:: ! spyglass
+   double: gear; spyglass
 
 :bi:`Spyglass`. Objects viewed through a spyglass are magnified to twice
 their size.
 
+.. index:: ! tent
+   double: gear; tent
+
 :bi:`Tent`. A simple and portable canvas shelter, a tent sleeps two.
+
+.. index:: ! tinderbox
+   double: gear; tinderbox
 
 :bi:`Tinderbox`. This small container holds flint, fire steel, and
 tinder (usually dry cloth soaked in light oil) used to kindle a fire.
 Using it to light a torch — or anything else with abundant, exposed
 fuel — takes an action. Lighting any other fire takes 1 minute.
+
+.. index:: ! torch
+   double: gear; torch
 
 :bi:`Torch`. A torch burns for 1 hour, providing bright light in a
 20-foot radius and dim light for an additional 20 feet. If you make a
