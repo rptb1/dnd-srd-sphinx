@@ -1,5 +1,7 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. index:: ! acolyte
+
 Acolyte
 -------
 
@@ -20,14 +22,26 @@ way? Perhaps you were the leader of a small cult outside of any
 established temple structure, or even an occult group that served a
 fiendish master that you now deny.
 
+.. index::
+   triple: background; acolyte; proficiencies
+
 **Skill Proficiencies:** Insight, Religion
 
+.. index::
+   triple: background; acolyte; languages
+
 **Languages:** Two of your choice
+
+.. index::
+   triple: background; acolyte; equipment
 
 **Equipment:** A holy symbol (a gift to you when you entered the
 priesthood), a prayer book or prayer wheel, 5 sticks of incense,
 vestments, a set of common clothes, and a pouch containing 15 gp
 
+
+.. index:: Shelter of the Faithful
+   triple: background; acolyte; features
 
 Feature: Shelter of the Faithful
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,6 +62,9 @@ ask for is not hazardous and you remain in good standing with your
 temple.
 
 
+.. index::
+   triple: background; acolyte; characteristics
+
 Suggested Characteristics
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -56,6 +73,9 @@ communities. Their study of the history and tenets of their faith and
 their relationships to temples, shrines, or hierarchies affect their
 mannerisms and ideals. Their flaws might be some hidden hypocrisy or
 heretical idea, or an ideal or bond taken to an extreme.
+
+.. index::
+   triple: background; acolyte; traits
 
 .. table:: Backgrounds: Suggested Acolyte Personality Traits
 
@@ -86,6 +106,9 @@ heretical idea, or an ideal or bond taken to an extreme.
   |      | experience dealing with people in the outside world.                 |
   +------+----------------------------------------------------------------------+
 
+.. index::
+   triple: background; acolyte; ideals
+
 .. table:: Backgrounds: Suggested Acolyte Ideals
 
   +------+----------------------------------------------------------------------+
@@ -110,6 +133,9 @@ heretical idea, or an ideal or bond taken to an extreme.
   |      | matching my actions against his or her teachings. (Any)              |
   +------+----------------------------------------------------------------------+
 
+.. index::
+   triple: background; acolyte; bonds
+
 .. table:: Backgrounds: Suggested Acolyte Bonds
 
   +------+----------------------------------------------------------------------+
@@ -131,6 +157,9 @@ heretical idea, or an ideal or bond taken to an extreme.
   |      | and seek to destroy.                                                 |
   +------+----------------------------------------------------------------------+
 
+
+.. index::
+   triple: background; acolyte; flaws
 
 .. table:: Backgrounds: Suggested Acolyte Flaws
 

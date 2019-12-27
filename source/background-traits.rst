@@ -1,29 +1,41 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. index::
+   double: background; traits
+
 Background Traits
 -----------------
 
+
+.. index::
+   double: background; proficiencies
 
 Proficiencies
 ~~~~~~~~~~~~~
 
 Each background gives a character proficiency in two skills (described
-in "Using Ability Scores").
+in :ref:`Using Ability Scores`).
 
 In addition, most backgrounds give a character proficiency with one or
-more tools (detailed in "Equipment").
+more tools (detailed in :ref:`Equipment`).
 
 If a character would gain the same proficiency from two different
 sources, he or she can choose a different proficiency of the same kind
 (skill or tool) instead.
 
 
+.. index::
+   double: background; language
+
 Languages
 ~~~~~~~~~
 
 Some backgrounds also allow characters to learn additional languages
-beyond those given by race. See "Languages."
+beyond those given by race. See :ref:`Languages`.
 
+
+.. index::
+   double: background; equipment
 
 Equipment
 ~~~~~~~~~
@@ -33,6 +45,9 @@ optional rule to spend coin on gear, you do not receive the starting
 equipment from your background.
 
 
+.. index::
+   double: background; characteristics
+
 Suggested Characteristics
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -41,6 +56,9 @@ background. You can pick characteristics, roll dice to determine them
 randomly, or use the suggestions as inspiration for characteristics of
 your own creation.
 
+
+.. index::
+   double: background; customizing
 
 Customizing a Background
 ~~~~~~~~~~~~~~~~~~~~~~~~
