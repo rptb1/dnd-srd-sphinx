@@ -1,5 +1,7 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. index:: ! alignment
+
 =========
 Alignment
 =========
@@ -16,51 +18,89 @@ behavior of a creature with that alignment. Individuals might vary
 significantly from that typical behavior, and few people are perfectly
 and consistently faithful to the precepts of their alignment.
 
+.. index:: ! lawful good, ! LG
+   double: good; lawful
+
 **Lawful good** (LG) creatures can be counted on to do the right thing
 as expected by society. Gold dragons, paladins, and most dwarves are
 lawful good.
+
+.. index:: ! neutral good, ! NG
+   double: good; neutral
 
 **Neutral good** (NG) folk do the best they can to help others according
 to their needs. Many celestials, some cloud giants, and most gnomes are
 neutral good.
 
+.. index:: ! chaotic good, ! CG
+   double: good; chaotic
+
 **Chaotic good** (CG) creatures act as their conscience directs, with
 little regard for what others expect. Copper dragons, many elves, and
 unicorns are chaotic good.
+
+.. index:: ! lawful neutral, ! LN
+   double: neutral; lawful
 
 **Lawful neutral** (LN) individuals act in accordance with law,
 tradition, or personal codes. Many monks and some wizards are lawful
 neutral.
 
+.. index:: ! neutral, ! N
+
 **Neutral** (N) is the alignment of those who prefer to steer clear of
 moral questions and don't take sides, doing what seems best at the time.
 Lizardfolk, most druids, and many humans are neutral.
+
+.. index:: ! chaotic neutral, ! CN
+   double: neutral; chaotic
 
 **Chaotic neutral** (CN) creatures follow their whims, holding their
 personal freedom above all else. Many barbarians and rogues, and some
 bards, are chaotic neutral.
 
+.. index:: ! lawful evil, ! LE
+   double: evil; lawful
+
 **Lawful evil** (LE) creatures methodically take what they want, within
 the limits of a code of tradition, loyalty, or order. Devils, blue
 dragons, and hobgoblins are lawful evil.
 
+.. index:: ! neutral evil, ! NE
+   double: evil; neutral
+
 **Neutral evil** (NE) is the alignment of those who do whatever they can
 get away with, without compassion or qualms. Many drow, some cloud
 giants, and goblins are neutral evil.
+
+.. index:: ! chaotic evil, ! CE
+   double: evil; chaotic
 
 **Chaotic evil** (CE) creatures act with arbitrary violence, spurred by
 their greed, hatred, or bloodlust. Demons, red dragons, and orcs are
 chaotic evil.
 
 
+.. index::
+   double: alignment; multiverse
+
 Alignment in the Multiverse
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. index::
+   double: alignment; choice
+   double: alignment; free will
 
 For many thinking creatures, alignment is a moral choice. Humans,
 dwarves, elves, and other humanoid races can choose whether to follow
 the paths of good or evil, law or chaos. According to myth, the good-
 aligned gods who created these races gave them free will to choose their
 moral paths, knowing that good without free will is slavery.
+
+.. index::
+   double: alignment; race
+   double: alignment; deity
+   double: alignment; tendency
 
 The evil deities who created other races, though, made those races to
 serve them. Those races have strong inborn tendencies that match the
@@ -70,10 +110,17 @@ good alignment, it struggles against its innate tendencies for its
 entire life. (Even half-orcs feel the lingering pull of the orc god's
 influence.)
 
+.. index::
+   double: alignment; essential
+   double: alignment; determinism
+
 Alignment is an essential part of the nature of celestials and fiends. A
 devil does not choose to be lawful evil, and it doesn't tend toward
 lawful evil, but rather it is lawful evil in its essence. If it somehow
 ceased to be lawful evil, it would cease to be a devil.
+
+.. index:: unaligned
+   double: unaligned; creatures
 
 Most creatures that lack the capacity for rational thought do not have
 alignments-they are **unaligned**. Such a creature is incapable of
