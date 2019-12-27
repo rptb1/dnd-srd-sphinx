@@ -9,11 +9,12 @@ Document (SRD) v5.1.
 
 This version of the SRD has been generated using the Sphinx_
 documentation system, so that it can easily be edited and extended,
-while generating documents in many formats.
+while generating output in many formats: web pages, PDFs, spell cards,
+etc.
 
 .. _Sphinx: https://www.sphinx-doc.org/
 
-The Sphinx project is available for download, editing, and forking on
+The source is available for download, editing, and forking on
 GitHub at `https://github.com/rptb1/dnd-srd-sphinx
 <https://github.com/rptb1/dnd-srd-sphinx>`__.  Contributions are
 welcome.
