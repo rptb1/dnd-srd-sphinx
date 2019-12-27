@@ -2,6 +2,8 @@
 
 .. index:: ! languages
 
+.. _Languages:
+
 =========
 Languages
 =========

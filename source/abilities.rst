@@ -1,8 +1,12 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
-=========
-Abilities
-=========
+.. index:: ! abilities
+
+.. _Using Ability Scores:
+
+====================
+Using Ability Scores
+====================
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
 
@@ -22,24 +26,24 @@ Abilities
 Six abilities provide a quick description of every creature's physical
 and mental characteristics:
 
--  **Strength**, measuring physical power
+- **Strength**, measuring physical power
 
--  **Dexterity**, measuring agility
+- **Dexterity**, measuring agility
 
--  **Constitution**, measuring endurance
+- **Constitution**, measuring endurance
 
--  **Intelligence**, measuring reasoning and memory
+- **Intelligence**, measuring reasoning and memory
 
--  **Wisdom**, measuring perception and insight
+- **Wisdom**, measuring perception and insight
 
--  **Charisma**, measuring force of personality
+- **Charisma**, measuring force of personality
 
 Is a character muscle-bound and insightful? Brilliant and charming?
-Nimble and hardy? Ability scores define these qualities-a creature's
+Nimble and hardy? Ability scores define these qualities — a creature's
 assets as well as weaknesses.
 
-The three main rolls of the game-the ability check, the saving throw,
-and the attack roll-rely on the six ability scores. The book's
+The three main rolls of the game — the ability check, the saving throw,
+and the attack roll — rely on the six ability scores. The book's
 introduction describes the basic rule behind these rolls: roll a d20,
 add an ability modifier derived from one of the six ability scores, and
 compare the total to a target number.
@@ -47,6 +51,9 @@ compare the total to a target number.
 
 Ability Scores and Modifiers
 ============================
+
+.. index:: ! ability score
+   double: ability; score
 
 Each of a creature's abilities has a score, a number that defines the
 magnitude of that ability. An ability score is not just a measure of
@@ -58,6 +65,9 @@ many monsters are a cut above average in most abilities. A score of 18
 is the highest that a person usually reaches. Adventurers can have
 scores as high as 20, and monsters and divine beings can have scores as
 high as 30.
+
+.. index:: ! ability modifier, ! modifier
+   double: ability; modifier
 
 Each ability also has a modifier, derived from the score and ranging
 from -5 (for an ability score of 1) to +10 (for a score of 30). The
@@ -110,6 +120,8 @@ check, and saving throw, ability modifiers come up in play more often
 than their associated scores.
 
 
+.. index:: ! advantage, ! disadvantage
+
 Advantage and Disadvantage
 ==========================
 
@@ -141,14 +153,15 @@ the 1.
 
 You usually gain advantage or disadvantage through the use of special
 abilities, actions, or spells. Inspiration can also give a character
-advantage. The
-
-GM can also decide that circumstances influence a roll in one direction
-or the other and grant advantage or impose disadvantage as a result.
+advantage. The GM can also decide that circumstances influence a roll
+in one direction or the other and grant advantage or impose
+disadvantage as a result.
 
 
 Proficiency Bonus
 =================
+
+.. index:: ! proficiency bonus
 
 Characters have a proficiency bonus determined by level. Monsters also
 have this bonus, which is incorporated in their stat blocks. The bonus
@@ -183,11 +196,15 @@ rules apply.
 Ability Checks
 ==============
 
+.. index:: ! ability check
+
 An ability check tests a character's or monster's innate talent and
 training in an effort to overcome a challenge. The GM calls for an
 ability check when a character or monster attempts an action (other than
 an attack) that has a chance of failure. When the outcome is uncertain,
 the dice determine the results.
+
+.. index:: ! difficulty class
 
 For every ability check, the GM decides which of the six abilities is
 relevant to the task at hand and the difficulty of the task, represented
@@ -226,6 +243,9 @@ determined by the GM.
 Contests
 --------
 
+.. index:: ! ability contest
+   double: ability; contest
+
 Sometimes one character's or monster's efforts are directly opposed to
 another's. This can occur when both of them are trying to do the same
 thing and only one can succeed, such as attempting to snatch up a magic
@@ -253,6 +273,8 @@ means that the door remains shut.
 Skills
 ------
 
+.. index:: ! skills
+
 Each ability covers a broad range of capabilities, including skills that
 a character or a monster can be proficient in. A skill represents a
 specific aspect of an ability score, and an individual's proficiency in
@@ -274,52 +296,42 @@ use a skill associated with an ability.
 
 **Strength**
 
-Athletics
+  - Athletics
 
 **Dexterity**
 
-Acrobatics
-
-Sleight of Hand
-
-Stealth
+  - Acrobatics
+  - Sleight of Hand
+  - Stealth
 
 **Intelligence**
 
-Arcana
-
-History
-
-Investigation
-
-Nature
-
-Religion
+  - Arcana
+  - History
+  - Investigation
+  - Nature
+  - Religion
 
 **Wisdom**
 
-Animal Handling
-
-Insight
-
-Medicine
-
-Perception
-
-Survival
+  - Animal Handling
+  - Insight
+  - Medicine
+  - Perception
+  - Survival
 
 **Charisma**
 
-Deception
+  - Deception
+  - Intimidation
+  - Performance
+  - Persuasion
 
-Intimidation
-
-Performance
-
-Persuasion
+.. index:: ! proficiency
+   double: skill; proficiency
 
 Sometimes, the GM might ask for an ability check using a specific
-skill-for example, "Make a Wisdom (Perception) check." At other times, a
+skill-for example, “Make a Wisdom (Perception) check.” At other times, a
 player might ask the GM if proficiency in a particular skill applies to
 a check. In either case, proficiency in a skill means an individual can
 add his or her proficiency bonus to ability checks that involve that
@@ -357,6 +369,9 @@ is normally associated with Charisma.
 Passive Checks
 --------------
 
+.. index::
+   triple: passive; ability; check
+
 A passive check is a special kind of ability check that doesn't involve
 any die rolls. Such a check can represent the average result for a task
 done repeatedly, such as searching for secret doors over and over again,
@@ -374,12 +389,16 @@ subtract 5. The game refers to a passive check total as a **score**.
 For example, if a 1st-level character has a Wisdom of 15 and proficiency
 in Perception, he or she has a passive Wisdom (Perception) score of 14.
 
-The rules on hiding in the "Dexterity" section below rely on passive
+The rules on hiding in the :ref:`Dexterity` section below rely on passive
 checks, as do the exploration rules.
 
 
 Working Together
 ----------------
+
+.. index::
+   double: ability; helping
+   double: ability; teamwork
 
 Sometimes two or more characters team up to attempt a task. The
 character who's leading the effort-or the one with the highest ability
@@ -398,6 +417,9 @@ are no easier with help.
 
 Group Checks
 ~~~~~~~~~~~~
+
+.. index::
+   triple: group; ability; check
 
 When a number of individuals are trying to accomplish something as a
 group, the GM might ask for a group ability check. In such a situation,
@@ -428,6 +450,10 @@ detail what those abilities mean and the ways they are used in the game.
 Strength
 --------
 
+.. index:: ! strength, ! STR
+   double: ability; strength
+   double: ability; STR
+
 Strength measures bodily power, athletic training, and the extent to
 which you can exert raw physical force.
 
@@ -435,10 +461,16 @@ which you can exert raw physical force.
 Strength Checks
 ~~~~~~~~~~~~~~~
 
+.. index::
+   double: strength; check
+
 A Strength check can model any attempt to lift, push, pull, or break
 something, to force your body through a space, or to otherwise apply
 brute force to a situation. The Athletics skill reflects aptitude in
 certain kinds of Strength checks.
+
+.. index:: ! athletics
+   triple: strength; skill; athletics
 
 :bi:`Athletics`. Your Strength (Athletics) check covers difficult
 situations you encounter while climbing, jumping, or swimming. Examples
@@ -475,6 +507,10 @@ when you try to accomplish tasks like the following:
 Attack Rolls and Damage
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+.. index::
+   triple: ability; strength; combat
+   triple: ability; strength; melee
+
 You add your Strength modifier to your attack roll and your damage roll
 when attacking with a melee weapon such as a mace, a battleaxe, or a
 javelin. You use melee weapons to make melee attacks in hand-to-hand
@@ -487,15 +523,25 @@ Lifting and Carrying
 Your Strength score determines the amount of weight you can bear. The
 following terms define what you can lift or carry.
 
+.. index::
+   triple: ability; strength; carrying capacity
+
 :bi:`Carrying Capacity`. Your carrying capacity is your Strength score
 multiplied by 15. This is the weight (in pounds) that you can carry,
 which is high enough that most characters don't usually have to worry
 about it.
 
+.. index::
+   triple: ability; strength; push, ability; strength; drag
+   triple: ability; strength; lift
+
 :bi:`Push, Drag, or Lift`. You can push, drag, or lift a weight in
 pounds up to twice your carrying capacity (or 30 times your Strength
 score). While pushing or dragging weight in excess of your carrying
 capacity, your speed drops to 5 feet.
+
+.. index::
+   triple: ability; strength; scaling with size
 
 :bi:`Size and Strength`. Larger creatures can bear more weight, whereas
 Tiny creatures can carry less. For each size category above Medium,
@@ -505,6 +551,8 @@ drag, or lift. For a Tiny creature, halve these weights.
 
 Variant: Encumbrance
 ~~~~~~~~~~~~~~~~~~~~
+
+.. index:: ! encumbrance
 
 The rules for lifting and carrying are intentionally simple. Here is a
 variant if you are looking for more detailed rules for determining how a
@@ -521,8 +569,14 @@ ability checks, attack rolls, and saving throws that use Strength,
 Dexterity, or Constitution.
 
 
+.. _Dexterity:
+
 Dexterity
 ---------
+
+.. index:: ! dexterity, ! DEX
+   double: ability; dexterity
+   double: ability; DEX
 
 Dexterity measures agility, reflexes, and balance.
 
@@ -530,10 +584,16 @@ Dexterity measures agility, reflexes, and balance.
 Dexterity Checks
 ~~~~~~~~~~~~~~~~
 
+.. index::
+   double: dexterity; check
+
 A Dexterity check can model any attempt to move nimbly, quickly, or
 quietly, or to keep from falling on tricky footing. The Acrobatics,
 Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of
 Dexterity checks.
+
+.. index:: ! acrobatics
+   triple: skill; dexterity; acrobatics
 
 :bi:`Acrobatics`. Your Dexterity (Acrobatics) check covers your attempt
 to stay on your feet in a tricky situation, such as when you're trying
@@ -542,12 +602,18 @@ a rocking ship's deck. The GM might also call for a Dexterity
 (Acrobatics) check to see if you can perform acrobatic stunts, including
 dives, rolls, somersaults, and flips.
 
+.. index:: ! sleight of hand
+   triple: skill; dexterity; sleight of hand
+
 :bi:`Sleight of Hand`. Whenever you attempt an act of legerdemain or
 manual trickery, such as planting something on someone else or
 concealing an object on your person, make a Dexterity (Sleight of Hand)
 check. The GM might also call for a Dexterity (Sleight of Hand) check to
 determine whether you can lift a coin purse off another person or slip
 something out of another person's pocket.
+
+.. index:: ! stealth
+   triple: skill; dexterity; stealth
 
 :bi:`Stealth`. Make a Dexterity (Stealth) check when you attempt to
 conceal yourself from enemies, slink past guards, slip away without
@@ -576,6 +642,10 @@ when you try to accomplish tasks like the following:
 Attack Rolls and Damage
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+.. index::
+   triple: dexterity; attack; ranged
+   triple: dexterity; attack; finesse
+
 You add your Dexterity modifier to your attack roll and your damage roll
 when attacking with a ranged weapon, such as a sling or a longbow. You
 can also add your Dexterity modifier to your attack roll and your damage
@@ -586,6 +656,10 @@ such as a dagger or a rapier.
 Armor Class
 ~~~~~~~~~~~
 
+.. index::
+   double: dexterity; armor class
+   double: dexterity; AC
+
 Depending on the armor you wear, you might add some or all of your
 Dexterity modifier to your Armor Class.
 
@@ -593,57 +667,71 @@ Dexterity modifier to your Armor Class.
 Initiative
 ~~~~~~~~~~
 
+.. index::
+   double: dexterity; initiative
+
 At the beginning of every combat, you roll initiative by making a
 Dexterity check. Initiative determines the order of creatures' turns in
 combat.
 
-**Hiding**
+.. sidebar:: Hiding
 
-    The DM decides when circumstances are appropriate for hiding. When
-    you try to hide, make a Dexterity (Stealth) check. Until you are
-    discovered or you stop hiding, that check's total is contested by
-    the Wisdom (Perception) check of any creature that actively searches
-    for signs of your presence.
+  .. index:: ! hiding
 
-    You can't hide from a creature that can see you clearly, and you
-    give away your position if you make noise, such as shouting a
-    warning or knocking over a vase.
+  The DM decides when circumstances are appropriate for hiding. When
+  you try to hide, make a Dexterity (Stealth) check. Until you are
+  discovered or you stop hiding, that check's total is contested by
+  the Wisdom (Perception) check of any creature that actively searches
+  for signs of your presence.
 
-    An invisible creature can always try to hide. Signs of its passage
-    might still be noticed, and it does have to stay quiet.
+  You can't hide from a creature that can see you clearly, and you
+  give away your position if you make noise, such as shouting a
+  warning or knocking over a vase.
 
-    In combat, most creatures stay alert for signs of danger all around,
-    so if you come out of hiding and approach a creature, it usually
-    sees you. However, under certain circumstances, the DM might allow
-    you to stay hidden as you approach a creature that is distracted,
-    allowing you to gain advantage on an attack roll before you are
-    seen.
+  An invisible creature can always try to hide. Signs of its passage
+  might still be noticed, and it does have to stay quiet.
 
-    **Passive Perception**. When you hide, there's a chance someone will
-    notice you even if they aren't searching. To determine whether such
-    a creature notices you, the DM compares your Dexterity (Stealth)
-    check with that creature's passive Wisdom (Perception) score, which
-    equals 10 + the creature's Wisdom modifier, as well as any other
-    bonuses or penalties. If the creature has advantage, add 5. For
-    disadvantage, subtract 5. For example, if a 1st-level character
-    (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier)
-    and proficiency in Perception, he or she has a passive Wisdom
-    (Perception) of 14.
+  In combat, most creatures stay alert for signs of danger all around,
+  so if you come out of hiding and approach a creature, it usually
+  sees you. However, under certain circumstances, the DM might allow
+  you to stay hidden as you approach a creature that is distracted,
+  allowing you to gain advantage on an attack roll before you are
+  seen.
 
-    **What Can You See?** One of the main factors in determining whether
-    you can find a hidden creature or object is how well you can see in
-    an area, which might be **lightly** or **heavily obscured**, as
-    explained in chapter 8, "Adventuring."
+  .. index::
+     double: hiding; passive perception
+
+  **Passive Perception**. When you hide, there's a chance someone will
+  notice you even if they aren't searching. To determine whether such
+  a creature notices you, the DM compares your Dexterity (Stealth)
+  check with that creature's passive Wisdom (Perception) score, which
+  equals 10 + the creature's Wisdom modifier, as well as any other
+  bonuses or penalties. If the creature has advantage, add 5. For
+  disadvantage, subtract 5. For example, if a 1st-level character
+  (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier)
+  and proficiency in Perception, he or she has a passive Wisdom
+  (Perception) of 14.
+
+  **What Can You See?** One of the main factors in determining whether
+  you can find a hidden creature or object is how well you can see in
+  an area, which might be **lightly** or **heavily obscured**, as
+  explained in :ref:`Adventuring`.
 
 
 Constitution
 ------------
+
+.. index:: ! constitution, ! CON
+   double: ability; constitution
 
 Constitution measures health, stamina, and vital force.
 
 
 Constitution Checks
 ~~~~~~~~~~~~~~~~~~~
+
+.. index::
+   double: constitution; check
 
 Constitution checks are uncommon, and no skills apply to Constitution
 checks, because the endurance this ability represents is largely passive
@@ -668,6 +756,10 @@ tasks like the following:
 Hit Points
 ~~~~~~~~~~
 
+.. index::
+   triple: ability; constitution; hit points
+   triple: ability; constitution; HP
+
 Your Constitution modifier contributes to your hit points. Typically,
 you add your Constitution modifier to each Hit Die you roll for your hit
 points.
@@ -686,6 +778,10 @@ modifier by 1, your hit point maximum is reduced by 7.
 Intelligence
 ------------
 
+.. index:: ! intelligence, ! INT
+   double: ability; intelligence
+   double: ability; INT
+
 Intelligence measures mental acuity, accuracy of recall, and the ability
 to reason.
 
@@ -693,19 +789,31 @@ to reason.
 Intelligence Checks
 ~~~~~~~~~~~~~~~~~~~
 
+.. index::
+   double: intelligence; check
+
 An Intelligence check comes into play when you need to draw on logic,
 education, memory, or deductive reasoning. The Arcana, History,
 Investigation, Nature, and Religion skills reflect aptitude in certain
 kinds of Intelligence checks.
+
+.. index:: ! arcana
+   triple: skill; intelligence; arcana
 
 :bi:`Arcana`. Your Intelligence (Arcana) check measures your ability to
 recall lore about spells, magic items, eldritch symbols, magical
 traditions, the planes of existence, and the inhabitants of those
 planes.
 
+.. index:: ! history
+   triple: skill; intelligence; history
+
 :bi:`History`. Your Intelligence (History) check measures your ability
 to recall lore about historical events, legendary people, ancient
 kingdoms, past disputes, recent wars, and lost civilizations.
+
+.. index::
+   triple: skill; intelligence; investigation
 
 :bi:`Investigation`. When you look around for clues and make deductions
 based on those clues, you make an Intelligence (Investigation) check.
@@ -715,9 +823,15 @@ weakest point in a tunnel that could cause it to collapse. Poring
 through ancient scrolls in search of a hidden fragment of knowledge
 might also call for an Intelligence (Investigation) check.
 
+.. index::
+   triple: skill; intelligence; nature
+
 :bi:`Nature`. Your Intelligence (Nature) check measures your ability to
 recall lore about terrain, plants and animals, the weather, and natural
 cycles.
+
+.. index::
+   triple: skill; intelligence; religion
 
 :bi:`Religion`. Your Intelligence (Religion) check measures your ability
 to recall lore about deities, rites and prayers, religious hierarchies,
@@ -742,12 +856,18 @@ check when you try to accomplish tasks like the following:
 Spellcasting Ability
 ~~~~~~~~~~~~~~~~~~~~
 
+.. index::
+   triple: ability; intelligence; spellcasting
+
 Wizards use Intelligence as their spellcasting ability, which helps
 determine the saving throw DCs of spells they cast.
 
 
 Wisdom
 ------
+
+.. index:: ! wisdom, ! WIS
+   double: ability; wisdom
 
 Wisdom reflects how attuned you are to the world around you and
 represents perceptiveness and intuition.
@@ -756,10 +876,16 @@ represents perceptiveness and intuition.
 Wisdom Checks
 ~~~~~~~~~~~~~
 
+.. index::
+   double: wisdom; check
+
 A Wisdom check might reflect an effort to read body language, understand
 someone's feelings, notice things about the environment, or care for an
 injured person. The Animal Handling, Insight, Medicine, Perception, and
 Survival skills reflect aptitude in certain kinds of Wisdom checks.
+
+.. index::
+   triple: skill; wisdom; animal handling
 
 :bi:`Animal Handling`. When there is any question whether you can calm
 down a domesticated animal, keep a mount from getting spooked, or intuit
@@ -767,13 +893,22 @@ an animal's intentions, the GM might call for a Wisdom (Animal Handling)
 check. You also make a Wisdom (Animal Handling) check to control your
 mount when you attempt a risky maneuver.
 
+.. index::
+   triple: skill; wisdom; insight
+
 :bi:`Insight`. Your Wisdom (Insight) check decides whether you can
 determine the true intentions of a creature, such as when searching out
 a lie or predicting someone's next move. Doing so involves gleaning
 clues from body language, speech habits, and changes in mannerisms.
 
+.. index::
+   triple: skill; wisdom; medicine
+
 :bi:`Medicine`. A Wisdom (Medicine) check lets you try to stabilize a
 dying companion or diagnose an illness.
+
+.. index::
+   triple: skill; wisdom; perception
 
 :bi:`Perception`. Your Wisdom (Perception) check lets you spot, hear, or
 otherwise detect the presence of something. It measures your general
@@ -783,6 +918,9 @@ eavesdrop under an open window, or hear monsters moving stealthily in
 the forest. Or you might try to spot things that are obscured or easy to
 miss, whether they are orcs lying in ambush on a road, thugs hiding in
 the shadows of an alley, or candlelight under a closed secret door.
+
+.. index::
+   triple: skill; wisdom; survival
 
 :bi:`Survival`. The GM might ask you to make a Wisdom (Survival) check
 to follow tracks, hunt wild game, guide your group through frozen
@@ -800,12 +938,19 @@ try to accomplish tasks like the following:
 Spellcasting Ability
 ~~~~~~~~~~~~~~~~~~~~
 
+.. index::
+   triple: ability; wisdom; spellcasting
+
 Clerics, druids, and rangers use Wisdom as their spellcasting ability,
 which helps determine the saving throw DCs of spells they cast.
 
 
 Charisma
 --------
+
+.. index:: ! charisma, ! CHA
+   double: ability; charisma
+   double: ability; CHA
 
 Charisma measures your ability to interact effectively with others. It
 includes such factors as confidence and eloquence, and it can represent
@@ -815,11 +960,17 @@ a charming or commanding personality.
 Charisma Checks
 ~~~~~~~~~~~~~~~
 
+.. index::
+   double: charisma; check
+
 A Charisma check might arise when you try to influence or entertain
 others, when you try to make an impression or tell a convincing lie, or
 when you are navigating a tricky social situation. The Deception,
 Intimidation, Performance, and Persuasion skills reflect aptitude in
 certain kinds of Charisma checks.
+
+.. index::
+   triple: skill; charisma; deception
 
 :bi:`Deception`. Your Charisma (Deception) check determines whether you
 can convincingly hide the truth, either verbally or through your
@@ -830,6 +981,9 @@ gambling, pass yourself off in a disguise, dull someone's suspicions
 with false assurances, or maintain a straight face while telling a
 blatant lie.
 
+.. index::
+   triple: skill; charisma; intimidation
+
 :bi:`Intimidation`. When you attempt to influence someone through overt
 threats, hostile actions, and physical violence, the GM might ask you to
 make a Charisma (Intimidation) check. Examples include trying to pry
@@ -837,9 +991,15 @@ information out of a prisoner, convincing street thugs to back down from
 a confrontation, or using the edge of a broken bottle to convince a
 sneering vizier to reconsider a decision.
 
+.. index::
+   triple: skill; charisma; performance
+
 :bi:`Performance`. Your Charisma (Performance) check determines how well
 you can delight an audience with music, dance, acting, storytelling, or
 some other form of entertainment.
+
+.. index::
+   triple: skill; charisma; persuasion
 
 :bi:`Persuasion`. When you attempt to influence someone or a group of
 people with tact, social graces, or good nature, the GM might ask you to
@@ -860,6 +1020,9 @@ you try to accomplish tasks like the following:
 Spellcasting Ability
 ~~~~~~~~~~~~~~~~~~~~
 
+.. index::
+   triple: ability; charisma; spellcasting
+
 Bards, paladins, sorcerers, and warlocks use Charisma as their
 spellcasting ability, which helps determine the saving throw DCs of
 spells they cast.
@@ -867,6 +1030,8 @@ spells they cast.
 
 Saving Throws
 =============
+
+.. index:: ! saving throws, ! saves
 
 A saving throw-also called a save-represents an attempt to resist a
 spell, a trap, a poison, a disease, or a similar threat. You don't
@@ -880,11 +1045,18 @@ saving throw.
 A saving throw can be modified by a situational bonus or penalty and can
 be affected by advantage and disadvantage, as determined by the GM.
 
+.. index::
+   triple: saving throw; proficiency; class
+
 Each class gives proficiency in at least two saving throws. The wizard,
 for example, is proficient in Intelligence saves. As with skill
 proficiencies, proficiency in a saving throw lets a character add his or
 her proficiency bonus to saving throws made using a particular ability
 score. Some monsters have saving throw proficiencies as well.
+
+.. index::
+   double: saving throw; difficulty class
+   double: saving throw; DC
 
 The Difficulty Class for a saving throw is determined by the effect that
 causes it. For example, the DC for a saving throw allowed by a spell is

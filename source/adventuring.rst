@@ -1,5 +1,7 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. _Adventuring:
+
 ===========
 Adventuring
 ===========
