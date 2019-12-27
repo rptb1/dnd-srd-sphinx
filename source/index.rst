@@ -13,8 +13,8 @@ Dungeons & Dragons 5th Edition System Reference Document
    :caption: Contents:
 
    introduction
-   race
-   class
+   races
+   classes
    beyond
    multiclassing
    alignment
