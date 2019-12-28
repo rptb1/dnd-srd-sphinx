@@ -1,3 +1,5 @@
+.. _Carpet of Flying:
+
 Carpet of Flying
 ~~~~~~~~~~~~~~~~
 

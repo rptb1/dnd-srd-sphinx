@@ -397,8 +397,12 @@ Working Together
 ----------------
 
 .. index::
-   double: ability; helping
+   double: ability; help
    double: ability; teamwork
+   double: ability; cooperation
+   double: skills; help
+   double: skills; teamwork
+   double: skills; cooperation
 
 Sometimes two or more characters team up to attempt a task. The
 character who's leading the effort — or the one with the highest ability
@@ -419,7 +423,12 @@ Group Checks
 ~~~~~~~~~~~~
 
 .. index::
-   triple: group; ability; check
+   triple: group; ability; help
+   triple: group; ability; teamwork
+   triple: group; ability; cooperation
+   triple: group; skills; help
+   triple: group; skills; teamwork
+   triple: group; skills; cooperation
 
 When a number of individuals are trying to accomplish something as a
 group, the GM might ask for a group ability check. In such a situation,
