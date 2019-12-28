@@ -154,6 +154,8 @@ the people in an area are easy marks or will provide a safe house for
 thieves on the run.
 
 
+.. _Cunning Action:
+
 Cunning Action
 ~~~~~~~~~~~~~~
 

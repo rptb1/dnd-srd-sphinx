@@ -22,6 +22,9 @@ Combat
 The Order of Combat
 ===================
 
+.. index:: ! round, ! turn, initiative
+   double: combat; order
+
 A typical combat encounter is a clash between two sides, a flurry of
 weapon swings, feints, parries, footwork, and spellcasting. The game
 organizes the chaos of combat into a cycle of rounds and turns. A
@@ -32,25 +35,24 @@ initiative. Once everyone has taken a turn, the fight continues to the
 next round if neither side has defeated the other.
 
 
-Combat Step by Step
--------------------
+.. sidebar:: Combat Step by Step
 
-1. **Determine surprise.** The GM determines whether anyone involved in
-   the combat encounter is surprised.
+  1. **Determine surprise.** The GM determines whether anyone involved in
+     the combat encounter is surprised.
 
-2. **Establish positions.** The GM decides where all the characters and
-   monsters are located. Given the adventurers' marching order or their
-   stated positions in the room or other location, the GM figures out
-   where the adversaries are̶how far away and in what direction.
+  2. **Establish positions.** The GM decides where all the characters and
+     monsters are located. Given the adventurers' marching order or their
+     stated positions in the room or other location, the GM figures out
+     where the adversaries are̶how far away and in what direction.
 
-3. **Roll initiative.** Everyone involved in the combat encounter rolls
-   initiative, determining the order of combatants' turns.
+  3. **Roll initiative.** Everyone involved in the combat encounter rolls
+     initiative, determining the order of combatants' turns.
 
-4. **Take turns.** Each participant in the battle takes a turn in
-   initiative order.
+  4. **Take turns.** Each participant in the battle takes a turn in
+     initiative order.
 
-5. **Begin the next round.** When everyone involved in the combat has
-   had a turn, the round ends. Repeat step 4 until the fighting stops.
+  5. **Begin the next round.** When everyone involved in the combat has
+     had a turn, the round ends. Repeat step 4 until the fighting stops.
 
 
 Surprise
@@ -60,6 +62,8 @@ A band of adventurers sneaks up on a bandit camp, springing from the
 trees to attack them. A gelatinous cube glides down a dungeon passage,
 unnoticed by the adventurers until the cube engulfs one of them. In
 these situations, one side of the battle gains surprise over the other.
+
+.. index:: ! surprise
 
 The GM determines who might be surprised. If neither side tries to be
 stealthy, they automatically notice each other. Otherwise, the GM
@@ -75,6 +79,8 @@ member of a group can be surprised even if the other members aren't.
 
 Initiative
 ----------
+
+.. index:: ! initiative
 
 Initiative determines the order of turns during combat. When combat
 starts, every participant makes a Dexterity check to determine their
@@ -97,28 +103,35 @@ each roll a d20 to determine the order, highest roll going first.
 Your Turn
 ---------
 
+.. index:: ! turn
+   double: combat; turn
+
 On your turn, you can **move** a distance up to your speed and **take
 one action**. You decide whether to move first or take your action
 first. Your speed — sometimes called your walking speed — is noted on your
 character sheet.
 
-The most common actions you can take are described in the "Actions in
-Combat" section later in this chapter. Many class features and other
-abilities provide additional options for your action.
+The most common actions you can take are described in the
+:ref:`Actions in Combat` section later in this chapter. Many class
+features and other abilities provide additional options for your
+action.
 
-The "Movement and Position" section later in this chapter gives the
+The :ref:`Movement and Position` section later in this chapter gives the
 rules for your move.
 
 You can forgo moving, taking an action, or doing anything at all on your
 turn. If you can't decide what to do on your turn, consider taking the
-Dodge or Ready action, as described in "Actions in Combat."
+:ref:`Dodge` or :ref:`Ready` action, as described in :ref:`Actions in Combat`.
 
 
 Bonus Actions
 ~~~~~~~~~~~~~
 
+.. index:: ! bonus action
+   triple: combat; bonus; action
+
 Various class features, spells, and other abilities let you take an
-additional action on your turn called a bonus action. The Cunning Action
+additional action on your turn called a bonus action. The :ref:`Cunning Action`
 feature, for example, allows a rogue to take a bonus action. You can
 take a bonus action only when a special ability, spell, or other feature
 of the game states that you can do something as a bonus action. You
@@ -139,8 +152,15 @@ Other Activity on Your Turn
 Your turn can include a variety of flourishes that require neither your
 action nor your move.
 
+.. index::
+   double: combat; communication
+   double: combat; gestures
+
 You can communicate however you are able, through brief utterances and
 gestures, as you take your turn.
+
+.. index::
+   triple: combat; objects; interaction
 
 You can also interact with one object or feature of the environment for
 free, during either your move or your action. For example, you could
@@ -160,6 +180,8 @@ stuck door or turn a crank to lower a drawbridge.
 Reactions
 ---------
 
+.. index:: ! reaction
+
 Certain special abilities, spells, and situations allow you to take a
 special action called a reaction. A reaction is an instant response to a
 trigger of some kind, which can occur on your turn or on someone else's.
@@ -171,8 +193,14 @@ your next turn. If the reaction interrupts another creature's turn, that
 creature can continue its turn right after the reaction.
 
 
+.. _Movement and Position:
+
 Movement and Position
 =====================
+
+.. index:: ! movement, ! position
+   double: combat; movement
+   double: combat; position
 
 In combat, characters and monsters are in constant motion, often using
 movement and position to gain the upper hand.
@@ -180,6 +208,11 @@ movement and position to gain the upper hand.
 On your turn, you can move a distance up to your speed. You can use as
 much or as little of your speed as you like on your turn, following the
 rules here.
+
+.. index::
+   double: combat; jumping
+   double: combat; climing
+   double: combat; swimming
 
 Your movement can include jumping, climbing, and swimming. These
 different modes of movement can be combined with walking, or they can
@@ -191,6 +224,10 @@ or until you are done moving.
 Breaking Up Your Move
 ---------------------
 
+.. index::
+   triple: combat; movement; split
+   triple: combat; movement; partial
+
 You can break up your movement on your turn, using some of your speed
 before and after your action. For example, if you have a speed of 30
 feet, you can move 10 feet, take your action, and then move 20 feet.
@@ -198,6 +235,9 @@ feet, you can move 10 feet, take your action, and then move 20 feet.
 
 Moving between Attacks
 ~~~~~~~~~~~~~~~~~~~~~~
+
+.. index::
+   triple: combat; movement; between attacks
 
 If you take an action that includes more than one weapon attack, you can
 break up your movement even further by moving between those attacks. For
@@ -208,6 +248,9 @@ attack, move 15 feet, and then attack again.
 
 Using Different Speeds
 ~~~~~~~~~~~~~~~~~~~~~~
+
+.. index::
+   triple: combat; movement; speeds
 
 If you have more than one speed, such as your walking speed and a flying
 speed, you can switch back and forth between your speeds during your
@@ -223,6 +266,9 @@ a wizard cast the *fly* spell on you, you could fly 20 feet, then walk
 
 Difficult Terrain
 -----------------
+
+.. index::
+   triple: combat; terrain; difficulty
 
 Combat rarely takes place in bare rooms or on featureless plains.
 Boulder-strewn caverns, briar-choked forests, treacherous staircases — the
@@ -240,9 +286,13 @@ whether hostile or not, also counts as difficult terrain.
 Being Prone
 -----------
 
+.. index:: ! prone
+
 Combatants often find themselves lying on the ground, either because
 they are knocked down or because they throw themselves down. In the
 game, they are prone, a condition described in appendix A.
+
+.. index:: standing up
 
 You can **drop prone** without using any of your speed. **Standing up**
 takes more effort; doing so costs an amount of movement equal to half
@@ -250,6 +300,8 @@ your speed. For example, if your speed is 30 feet, you must spend
 
 15 feet of movement to stand up. You can't stand up if you don't have
 enough movement left or if your speed is 0.
+
+.. index:: crawling
 
 To move while prone, you must **crawl** or use magic such as
 teleportation. Every foot of movement while crawling costs 1 extra foot.
@@ -259,6 +311,9 @@ movement.
 
 Interacting with Objects Around You
 -----------------------------------
+
+.. index:: ! combat interaction
+   triple: combat; objects; interaction
 
 Here are a few examples of the sorts of thing you can do in tandem with
 your movement and action:
@@ -389,6 +444,8 @@ Attack rolls against the creature have advantage while it's in the
 smaller space.
 
 
+.. _Actions in Combat:
+
 Actions in Combat
 =================
 
@@ -448,6 +505,8 @@ If you take the Disengage action, your movement doesn't provoke
 opportunity attacks for the rest of the turn.
 
 
+.. _Dodge:
+
 Dodge
 -----
 
@@ -482,6 +541,8 @@ an attempt to hide, following the rules for hiding. If you succeed, you
 gain certain benefits, as described in the "Unseen Attackers and
 Targets" section later in this chapter.
 
+
+.. _Ready:
 
 Ready
 -----
