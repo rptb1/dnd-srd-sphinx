@@ -122,6 +122,8 @@ At 6th level, you can choose two more of your proficiencies (in skills
 or with thieves' tools) to gain this benefit.
 
 
+.. _Sneak Attack:
+
 Sneak Attack
 ~~~~~~~~~~~~
 

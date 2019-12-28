@@ -915,6 +915,8 @@ clues from body language, speech habits, and changes in mannerisms.
 .. index::
    triple: medicine; wisdom; skill
 
+.. _`Wisdom (Medicine)`:
+
 :bi:`Medicine`. A Wisdom (Medicine) check lets you try to stabilize a
 dying companion or diagnose an illness.
 
