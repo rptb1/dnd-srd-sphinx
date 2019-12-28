@@ -479,7 +479,7 @@ brute force to a situation. The Athletics skill reflects aptitude in
 certain kinds of Strength checks.
 
 .. index:: ! athletics
-   triple: strength; skill; athletics
+   triple: athletics; strength; skill
 
 :bi:`Athletics`. Your Strength (Athletics) check covers difficult
 situations you encounter while climbing, jumping, or swimming. Examples
@@ -602,7 +602,7 @@ Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of
 Dexterity checks.
 
 .. index:: ! acrobatics
-   triple: skill; dexterity; acrobatics
+   triple: acrobatics; dexterity; skill
 
 :bi:`Acrobatics`. Your Dexterity (Acrobatics) check covers your attempt
 to stay on your feet in a tricky situation, such as when you're trying
@@ -612,7 +612,7 @@ a rocking ship's deck. The GM might also call for a Dexterity
 dives, rolls, somersaults, and flips.
 
 .. index:: ! sleight of hand
-   triple: skill; dexterity; sleight of hand
+   triple: sleight of hand; dexterity; skill
 
 :bi:`Sleight of Hand`. Whenever you attempt an act of legerdemain or
 manual trickery, such as planting something on someone else or
@@ -622,7 +622,7 @@ determine whether you can lift a coin purse off another person or slip
 something out of another person's pocket.
 
 .. index:: ! stealth
-   triple: skill; dexterity; stealth
+   triple: stealth; dexterity; skill
 
 .. _Stealth:
 
@@ -809,7 +809,7 @@ Investigation, Nature, and Religion skills reflect aptitude in certain
 kinds of Intelligence checks.
 
 .. index:: ! arcana
-   triple: skill; intelligence; arcana
+   triple: arcana; intelligence; skill
 
 :bi:`Arcana`. Your Intelligence (Arcana) check measures your ability to
 recall lore about spells, magic items, eldritch symbols, magical
@@ -817,14 +817,14 @@ traditions, the planes of existence, and the inhabitants of those
 planes.
 
 .. index:: ! history
-   triple: skill; intelligence; history
+   triple: history; intelligence; skill
 
 :bi:`History`. Your Intelligence (History) check measures your ability
 to recall lore about historical events, legendary people, ancient
 kingdoms, past disputes, recent wars, and lost civilizations.
 
 .. index::
-   triple: skill; intelligence; investigation
+   triple: investigation; intelligence; skill
 
 :bi:`Investigation`. When you look around for clues and make deductions
 based on those clues, you make an Intelligence (Investigation) check.
@@ -835,14 +835,14 @@ through ancient scrolls in search of a hidden fragment of knowledge
 might also call for an Intelligence (Investigation) check.
 
 .. index::
-   triple: skill; intelligence; nature
+   triple: nature; intelligence; skill
 
 :bi:`Nature`. Your Intelligence (Nature) check measures your ability to
 recall lore about terrain, plants and animals, the weather, and natural
 cycles.
 
 .. index::
-   triple: skill; intelligence; religion
+   triple: religion; intelligence; skill
 
 :bi:`Religion`. Your Intelligence (Religion) check measures your ability
 to recall lore about deities, rites and prayers, religious hierarchies,
@@ -868,7 +868,7 @@ Spellcasting Ability
 ~~~~~~~~~~~~~~~~~~~~
 
 .. index::
-   triple: ability; intelligence; spellcasting
+   triple: spellcasting; intelligence; ability
 
 Wizards use Intelligence as their spellcasting ability, which helps
 determine the saving throw DCs of spells they cast.
@@ -896,7 +896,7 @@ injured person. The Animal Handling, Insight, Medicine, Perception, and
 Survival skills reflect aptitude in certain kinds of Wisdom checks.
 
 .. index::
-   triple: skill; wisdom; animal handling
+   triple: animal handling; wisdom; skill
 
 :bi:`Animal Handling`. When there is any question whether you can calm
 down a domesticated animal, keep a mount from getting spooked, or intuit
@@ -905,7 +905,7 @@ check. You also make a Wisdom (Animal Handling) check to control your
 mount when you attempt a risky maneuver.
 
 .. index::
-   triple: skill; wisdom; insight
+   triple: insight; wisdom; skill
 
 :bi:`Insight`. Your Wisdom (Insight) check decides whether you can
 determine the true intentions of a creature, such as when searching out
@@ -913,13 +913,13 @@ a lie or predicting someone's next move. Doing so involves gleaning
 clues from body language, speech habits, and changes in mannerisms.
 
 .. index::
-   triple: skill; wisdom; medicine
+   triple: medicine; wisdom; skill
 
 :bi:`Medicine`. A Wisdom (Medicine) check lets you try to stabilize a
 dying companion or diagnose an illness.
 
 .. index::
-   triple: skill; wisdom; perception
+   triple: perception; wisdom; skill
 
 :bi:`Perception`. Your Wisdom (Perception) check lets you spot, hear, or
 otherwise detect the presence of something. It measures your general
@@ -931,7 +931,7 @@ miss, whether they are orcs lying in ambush on a road, thugs hiding in
 the shadows of an alley, or candlelight under a closed secret door.
 
 .. index::
-   triple: skill; wisdom; survival
+   triple: survival; wisdom; skill
 
 :bi:`Survival`. The GM might ask you to make a Wisdom (Survival) check
 to follow tracks, hunt wild game, guide your group through frozen
@@ -950,7 +950,7 @@ Spellcasting Ability
 ~~~~~~~~~~~~~~~~~~~~
 
 .. index::
-   triple: ability; wisdom; spellcasting
+   triple: spellcasting; wisdom; ability
 
 Clerics, druids, and rangers use Wisdom as their spellcasting ability,
 which helps determine the saving throw DCs of spells they cast.
@@ -981,7 +981,7 @@ Intimidation, Performance, and Persuasion skills reflect aptitude in
 certain kinds of Charisma checks.
 
 .. index::
-   triple: skill; charisma; deception
+   triple: deception; charisma; skill
 
 :bi:`Deception`. Your Charisma (Deception) check determines whether you
 can convincingly hide the truth, either verbally or through your
@@ -993,7 +993,7 @@ with false assurances, or maintain a straight face while telling a
 blatant lie.
 
 .. index::
-   triple: skill; charisma; intimidation
+   triple: intimidation; charisma; skill
 
 :bi:`Intimidation`. When you attempt to influence someone through overt
 threats, hostile actions, and physical violence, the GM might ask you to
@@ -1003,14 +1003,14 @@ a confrontation, or using the edge of a broken bottle to convince a
 sneering vizier to reconsider a decision.
 
 .. index::
-   triple: skill; charisma; performance
+   triple: performance; charisma; skill
 
 :bi:`Performance`. Your Charisma (Performance) check determines how well
 you can delight an audience with music, dance, acting, storytelling, or
 some other form of entertainment.
 
 .. index::
-   triple: skill; charisma; persuasion
+   triple: persuasion; charisma; skill
 
 :bi:`Persuasion`. When you attempt to influence someone or a group of
 people with tact, social graces, or good nature, the GM might ask you to
@@ -1032,7 +1032,7 @@ Spellcasting Ability
 ~~~~~~~~~~~~~~~~~~~~
 
 .. index::
-   triple: ability; charisma; spellcasting
+   triple: spellcasting; charisma; ability
 
 Bards, paladins, sorcerers, and warlocks use Charisma as their
 spellcasting ability, which helps determine the saving throw DCs of
