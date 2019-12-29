@@ -777,11 +777,11 @@ the DC to detect the trap with each character's passive Wisdom
 (Perception) score to determine whether anyone in the party notices the
 trap in passing. If the adventurers detect a trap before triggering it,
 they might be able to disarm it, either permanently or long enough to
-move past it. You might call for an Intelligence (Investigation) check
+move past it. You might call for an :ref:`Intelligence (Investigation)` check
 for a character to deduce what needs to be done, followed by a Dexterity
 check using thieves' tools to perform the necessary sabotage.
 
-Any character can attempt an Intelligence (Arcana) check to detect or
+Any character can attempt an :ref:`Intelligence (Arcana)` check to detect or
 disarm a magic trap, in addition to any other checks noted in the trap's
 description. The DCs are the same regardless of the check used. In
 addition, *dispel magic* has a chance of disabling most magic traps. A
@@ -986,7 +986,7 @@ identical to the floor around it.
 
 A successful DC 15 Wisdom (Perception) check discerns an absence of foot
 traffic over the section of floor that forms the pit's cover. A
-successful DC 15 Intelligence (Investigation) check is necessary to
+successful DC 15 :ref:`Intelligence (Investigation)` check is necessary to
 confirm that the trapped section of floor is actually the cover of a
 pit.
 
@@ -1066,7 +1066,7 @@ from the lock. A creature within range takes 1 piercing damage and 11
 (2d10) poison damage, and must succeed on a DC 15 Constitution saving
 throw or be poisoned for 1 hour.
 
-A successful DC 20 Intelligence (Investigation) check allows a character
+A successful DC 20 :ref:`Intelligence (Investigation)` check allows a character
 to deduce the trap's presence from alterations made to the lock to
 accommodate the needle. A successful DC 15 Dexterity check using
 thieves' tools disarms the trap, removing the needle from the lock.
@@ -1083,7 +1083,7 @@ diameter rolling sphere of solid stone.
 
 With a successful DC 15 Wisdom (Perception) check, a character can spot
 the trapdoor and pressure plate. A search of the floor accompanied by a
-successful DC 15 Intelligence (Investigation) check reveals variations
+successful DC 15 :ref:`Intelligence (Investigation)` check reveals variations
 in the mortar and stone that betray the pressure plate's presence. The
 same check made while inspecting the ceiling notes variations in the
 stonework that reveal the trapdoor. Wedging an iron spike or other
@@ -1117,7 +1117,7 @@ carved into a wall. The mouth is 2 feet in diameter and roughly
 circular. No sound issues from it, no light can illuminate the inside of
 it, and any matter that enters it is instantly obliterated.
 
-A successful DC 20 Intelligence (Arcana) check reveals that the mouth
+A successful DC 20 :ref:`Intelligence (Arcana)` check reveals that the mouth
 contains a *sphere of annihilation* that can't be controlled or moved.
 It is otherwise identical to a normal *sphere of annihilation*.
 

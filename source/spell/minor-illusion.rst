@@ -31,7 +31,7 @@ can pass through it.
 
 If a creature uses its action to examine the sound or image, the
 creature can determine that it is an illusion with a successful
-Intelligence (Investigation) check against your spell save DC. If a
+:ref:`Intelligence (Investigation)` check against your spell save DC. If a
 creature discerns the illusion for what it is, the illusion becomes
 faint to the creature.
 

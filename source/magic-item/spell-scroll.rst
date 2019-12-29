@@ -64,7 +64,7 @@ Spell Scroll table.
 
 A wizard spell on a *spell scroll* can be copied just as spells in
 spellbooks can be copied. When a spell is copied from a the copier must
-succeed on an Intelligence (Arcana) check with a DC equal to 10 + the
+succeed on an :ref:`Intelligence (Arcana)` check with a DC equal to 10 + the
 spell's level. If the check succeeds, the spell is successfully copied.
 Whether the check succeeds or fails, the *spell scroll* is destroyed.
 

@@ -811,6 +811,8 @@ kinds of Intelligence checks.
 .. index:: ! arcana
    triple: arcana; intelligence; skill
 
+.. _`Intelligence (Arcana)`:
+
 :bi:`Arcana`. Your Intelligence (Arcana) check measures your ability to
 recall lore about spells, magic items, eldritch symbols, magical
 traditions, the planes of existence, and the inhabitants of those
@@ -819,12 +821,16 @@ planes.
 .. index:: ! history
    triple: history; intelligence; skill
 
+.. _`Intelligence (History)`:
+
 :bi:`History`. Your Intelligence (History) check measures your ability
 to recall lore about historical events, legendary people, ancient
 kingdoms, past disputes, recent wars, and lost civilizations.
 
 .. index::
    triple: investigation; intelligence; skill
+
+.. _`Intelligence (Investigation)`:
 
 :bi:`Investigation`. When you look around for clues and make deductions
 based on those clues, you make an Intelligence (Investigation) check.
@@ -837,12 +843,16 @@ might also call for an Intelligence (Investigation) check.
 .. index::
    triple: nature; intelligence; skill
 
+.. _`Intelligence (Nature)`:
+
 :bi:`Nature`. Your Intelligence (Nature) check measures your ability to
 recall lore about terrain, plants and animals, the weather, and natural
 cycles.
 
 .. index::
    triple: religion; intelligence; skill
+
+.. _`Intelligence (Religion)`:
 
 :bi:`Religion`. Your Intelligence (Religion) check measures your ability
 to recall lore about deities, rites and prayers, religious hierarchies,
@@ -898,6 +908,8 @@ Survival skills reflect aptitude in certain kinds of Wisdom checks.
 .. index::
    triple: animal handling; wisdom; skill
 
+.. _`Wisdom (Animal Handling)`:
+
 :bi:`Animal Handling`. When there is any question whether you can calm
 down a domesticated animal, keep a mount from getting spooked, or intuit
 an animal's intentions, the GM might call for a Wisdom (Animal Handling)
@@ -906,6 +918,8 @@ mount when you attempt a risky maneuver.
 
 .. index::
    triple: insight; wisdom; skill
+
+.. _`Wisdom (Insight)`:
 
 :bi:`Insight`. Your Wisdom (Insight) check decides whether you can
 determine the true intentions of a creature, such as when searching out
@@ -923,6 +937,8 @@ dying companion or diagnose an illness.
 .. index::
    triple: perception; wisdom; skill
 
+.. _`Wisdom (Perception)`:
+
 :bi:`Perception`. Your Wisdom (Perception) check lets you spot, hear, or
 otherwise detect the presence of something. It measures your general
 awareness of your surroundings and the keenness of your senses. For
@@ -934,6 +950,8 @@ the shadows of an alley, or candlelight under a closed secret door.
 
 .. index::
    triple: survival; wisdom; skill
+
+.. _`Wisdom (Survival)`:
 
 :bi:`Survival`. The GM might ask you to make a Wisdom (Survival) check
 to follow tracks, hunt wild game, guide your group through frozen
@@ -985,6 +1003,8 @@ certain kinds of Charisma checks.
 .. index::
    triple: deception; charisma; skill
 
+.. _`Charisma (Deception)`:
+
 :bi:`Deception`. Your Charisma (Deception) check determines whether you
 can convincingly hide the truth, either verbally or through your
 actions. This deception can encompass everything from misleading others
@@ -997,6 +1017,8 @@ blatant lie.
 .. index::
    triple: intimidation; charisma; skill
 
+.. _`Charisma (Intimidation)`:
+
 :bi:`Intimidation`. When you attempt to influence someone through overt
 threats, hostile actions, and physical violence, the GM might ask you to
 make a Charisma (Intimidation) check. Examples include trying to pry
@@ -1007,12 +1029,16 @@ sneering vizier to reconsider a decision.
 .. index::
    triple: performance; charisma; skill
 
+.. _`Charisma (Performance)`:
+
 :bi:`Performance`. Your Charisma (Performance) check determines how well
 you can delight an audience with music, dance, acting, storytelling, or
 some other form of entertainment.
 
 .. index::
    triple: persuasion; charisma; skill
+
+.. _`Charisma (Persuasion)`:
 
 :bi:`Persuasion`. When you attempt to influence someone or a group of
 people with tact, social graces, or good nature, the GM might ask you to

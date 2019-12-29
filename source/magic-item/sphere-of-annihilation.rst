@@ -30,7 +30,7 @@ wholly engulfed and obliterated by it takes 4d10 force damage.
 
 The sphere is stationary until someone controls it. If you are within 60
 feet of an uncontrolled sphere, you can use an action to make a DC 25
-Intelligence (Arcana) check. On a success, the sphere levitates in one
+:ref:`Intelligence (Arcana)` check. On a success, the sphere levitates in one
 direction of your choice, up to a number of feet equal to 5 × your
 Intelligence modifier (minimum 5 feet). On a failure, the sphere moves
 10 feet toward you. A creature whose space the sphere enters must
@@ -38,8 +38,8 @@ succeed on a DC 13 Dexterity saving throw or be touched by it, taking
 4d10 force damage.
 
 If you attempt to control a sphere that is under another creature's
-control, you make an Intelligence (Arcana) check contested by the other
-creature's Intelligence (Arcana) check. The winner of the contest gains
+control, you make an :ref:`Intelligence (Arcana)` check contested by the other
+creature's :ref:`Intelligence (Arcana)` check. The winner of the contest gains
 control of the sphere and can levitate it as normal.
 
 If the sphere comes into contact with a planar portal, such as that

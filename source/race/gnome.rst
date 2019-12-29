@@ -65,7 +65,7 @@ that of other gnomes.
 
 :bi:`Ability Score Increase`. Your Constitution score increases by 1.
 
-:bi:`Artificer's Lore`. Whenever you make an Intelligence (History)
+:bi:`Artificer's Lore`. Whenever you make an :ref:`Intelligence (History)`
 check related to magic items, alchemical objects, or technological
 devices, you can add twice your proficiency bonus, instead of any
 proficiency bonus you normally apply.

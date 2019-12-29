@@ -76,6 +76,6 @@ Constitution saving throw or lose 5 (1d10) hit points at the start of
 each of its turns due to an infernal wound. Each time the devil hits the
 wounded target with this attack, the damage dealt by the wound increases
 by 5 (1d10). Any creature can take an action to stanch the wound with a
-successful DC 12 Wisdom (Medicine) check. The wound also closes if the
+successful DC 12 :ref:`Wisdom (Medicine)` check. The wound also closes if the
 target receives magical healing.
 

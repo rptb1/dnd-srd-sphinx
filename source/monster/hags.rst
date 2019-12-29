@@ -70,7 +70,7 @@ The changes wrought by this effect fail to hold up to physical
 inspection. For example, the hag could appear to have smooth skin, but
 someone touching her would feel her rough flesh. Otherwise, a creature
 must take an action to visually inspect the illusion and succeed on a DC
-20 Intelligence (Investigation) check to discern that the hag is
+20 :ref:`Intelligence (Investigation)` check to discern that the hag is
 disguised.
 
 :bi:`Invisible Passage`. The hag magically turns invisible until she
@@ -207,6 +207,6 @@ The changes wrought by this effect fail to hold up to physical
 inspection. For example, the hag could appear to have no claws, but
 someone touching her hand might feel the claws. Otherwise, a creature
 must take an action to visually inspect the illusion and succeed on a DC
-16 Intelligence (Investigation) check to discern that the hag is
+16 :ref:`Intelligence (Investigation)` check to discern that the hag is
 disguised.
 

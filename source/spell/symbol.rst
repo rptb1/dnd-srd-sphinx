@@ -23,7 +23,7 @@ choose an object, that object must remain in its place; if the object is
 moved more than 10 feet from where you cast this spell, the glyph is
 broken, and the spell ends without being triggered.
 
-The glyph is nearly invisible, requiring an Intelligence (Investigation)
+The glyph is nearly invisible, requiring an :ref:`Intelligence (Investigation)`
 check against your spell save DC to find it.
 
 You decide what triggers the glyph when you cast the spell. For glyphs
