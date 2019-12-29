@@ -12,7 +12,7 @@ from the lock. A creature within range takes 1 piercing damage and 11
 (2d10) poison damage, and must succeed on a DC 15 Constitution saving
 throw or be poisoned for 1 hour.
 
-A successful DC 20 :ref:`Intelligence (Investigation)` check allows a character
+A successful DC 20 :ref:`Intelligence (Investigation) <investigation>` check allows a character
 to deduce the trap's presence from alterations made to the lock to
 accommodate the needle. A successful DC 15 Dexterity check using
 thieves' tools disarms the trap, removing the needle from the lock.

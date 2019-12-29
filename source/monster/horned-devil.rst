@@ -70,7 +70,7 @@ saving throw or lose 10 (3d6) hit points at the start of each of its
 turns due to an infernal wound. Each time the devil hits the wounded
 target with this attack, the damage dealt by the wound increases by 10
 (3d6). Any creature can take an action to stanch the wound with a
-successful DC 12 :ref:`Wisdom (Medicine)` check. The wound also closes if the
+successful DC 12 :ref:`Wisdom (Medicine) <medicine>` check. The wound also closes if the
 target receives magical healing.
 
 :bi:`Hurl Flame`. *Ranged Spell Attack:* +7 to hit, range 150 ft., one

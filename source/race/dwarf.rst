@@ -57,7 +57,7 @@ handaxe, light hammer, and warhammer.
 :bi:`Tool Proficiency`. You gain proficiency with the artisan's tools of
 your choice: smith's tools, brewer's supplies, or mason's tools.
 
-:bi:`Stonecunning`. Whenever you make an :ref:`Intelligence (History)` check
+:bi:`Stonecunning`. Whenever you make an :ref:`Intelligence (History) <history>` check
 related to the origin of stonework, you are considered proficient in the
 History skill and add double your proficiency bonus to the check,
 instead of your normal proficiency bonus.

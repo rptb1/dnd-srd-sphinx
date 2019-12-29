@@ -9,7 +9,7 @@ diameter rolling sphere of solid stone.
 
 With a successful DC 15 Wisdom (Perception) check, a character can spot
 the trapdoor and pressure plate. A search of the floor accompanied by a
-successful DC 15 :ref:`Intelligence (Investigation)` check reveals variations
+successful DC 15 :ref:`Intelligence (Investigation) <investigation>` check reveals variations
 in the mortar and stone that betray the pressure plate's presence. The
 same check made while inspecting the ceiling notes variations in the
 stonework that reveal the trapdoor. Wedging an iron spike or other

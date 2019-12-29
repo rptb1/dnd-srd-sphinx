@@ -56,11 +56,11 @@ the DC to detect the trap with each character's passive Wisdom
 (Perception) score to determine whether anyone in the party notices the
 trap in passing. If the adventurers detect a trap before triggering it,
 they might be able to disarm it, either permanently or long enough to
-move past it. You might call for an :ref:`Intelligence (Investigation)` check
+move past it. You might call for an :ref:`Intelligence (Investigation) <investigation>` check
 for a character to deduce what needs to be done, followed by a Dexterity
 check using thieves' tools to perform the necessary sabotage.
 
-Any character can attempt an :ref:`Intelligence (Arcana)` check to detect or
+Any character can attempt an :ref:`Intelligence (Arcana) <arcana>` check to detect or
 disarm a magic trap, in addition to any other checks noted in the trap's
 description. The DCs are the same regardless of the check used. In
 addition, *dispel magic* has a chance of disabling most magic traps. A

@@ -8,7 +8,7 @@ carved into a wall. The mouth is 2 feet in diameter and roughly
 circular. No sound issues from it, no light can illuminate the inside of
 it, and any matter that enters it is instantly obliterated.
 
-A successful DC 20 :ref:`Intelligence (Arcana)` check reveals that the mouth
+A successful DC 20 :ref:`Intelligence (Arcana) <arcana>` check reveals that the mouth
 contains a *sphere of annihilation* that can't be controlled or moved.
 It is otherwise identical to a normal *sphere of annihilation*.
 

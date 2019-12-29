@@ -35,7 +35,7 @@ Dungeons & Dragons 5th Edition System Reference Document
    objects
    poisons
    gamemastering
-   treasure
+   magic-items
    monsters
    monster-descriptions
    creatures

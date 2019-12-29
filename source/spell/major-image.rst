@@ -32,7 +32,7 @@ at different times, even making it carry on a conversation, for example.
 Physical interaction with the image reveals it to be an illusion,
 because things can pass through it. A creature that uses its action to
 examine the image can determine that it is an illusion with a successful
-:ref:`Intelligence (Investigation)` check against your spell save DC. If a
+:ref:`Intelligence (Investigation) <investigation>` check against your spell save DC. If a
 creature discerns the illusion for what it is, the creature can see
 through the image, and its other sensory qualities become faint to the
 creature.

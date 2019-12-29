@@ -18,7 +18,7 @@ identical to the floor around it.
 
 A successful DC 15 Wisdom (Perception) check discerns an absence of foot
 traffic over the section of floor that forms the pit's cover. A
-successful DC 15 :ref:`Intelligence (Investigation)` check is necessary to
+successful DC 15 :ref:`Intelligence (Investigation) <investigation>` check is necessary to
 confirm that the trapped section of floor is actually the cover of a
 pit.
 
