@@ -29,6 +29,11 @@ Dungeons & Dragons 5th Edition System Reference Document
    spellcasting
    spell-lists
    spell-descriptions
+   traps
+   diseases
+   madness
+   objects
+   poisons
    gamemastering
    treasure
    monsters
