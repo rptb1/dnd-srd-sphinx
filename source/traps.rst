@@ -2,6 +2,8 @@
 Traps
 =====
 
+.. index:: ! traps
+
 Traps can be found almost anywhere. One wrong step in an ancient tomb
 might trigger a series of scything blades, which cleave through armor
 and bone. The seemingly innocuous vines that hang over a cave entrance
@@ -30,12 +32,15 @@ characters to detect the trap and to disable or avoid it.
 Triggering a Trap
 ~~~~~~~~~~~~~~~~~
 
+.. index::
+   double: triggering; traps
+
 Most traps are triggered when a creature goes somewhere or touches
 something that the trap's creator wanted to protect. Common triggers
 include stepping on a pressure plate or a false section of floor,
 pulling a trip wire, turning a doorknob, and using the wrong key in a
 lock. Magic traps are often set to go off when a creature enters an area
-or touches an object. Some magic traps (such as the *glyph of warding*
+or touches an object. Some magic traps (such as the *:ref:`glyph of warding`*
 spell) have more complicated trigger conditions, including a password
 that prevents the trap from activating.
 
@@ -43,29 +48,42 @@ that prevents the trap from activating.
 Detecting and Disabling a Trap
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. index::
+   double: detecting; traps
+   double: disabling; traps
+
 Usually, some element of a trap is visible to careful inspection.
 Characters might notice an uneven flagstone that conceals a pressure
 plate, spot the gleam of light off a trip wire, notice small holes in
 the walls from which jets of flame will erupt, or otherwise detect
 something that points to a trap's presence.
 
+.. index::
+   double: traps; difficulty
+   double: traps; DC
+
 A trap's description specifies the checks and DCs needed to detect it,
-disable it, or both. A character actively looking for a trap can attempt
-a :ref:`Wisdom (Perception) <perception>` check against the trap's DC. You can also compare
-the DC to detect the trap with each character's passive Wisdom
-(Perception) score to determine whether anyone in the party notices the
-trap in passing. If the adventurers detect a trap before triggering it,
-they might be able to disarm it, either permanently or long enough to
-move past it. You might call for an :ref:`Intelligence (Investigation) <investigation>` check
-for a character to deduce what needs to be done, followed by a Dexterity
-check using thieves' tools to perform the necessary sabotage.
+disable it, or both. A character actively looking for a trap can
+attempt a :ref:`Wisdom (Perception) <perception>` check against the
+trap's DC. You can also compare the DC to detect the trap with each
+character's passive :ref:`Wisdom (Perception) <perception>` score to
+determine whether anyone in the party notices the trap in passing. If
+the adventurers detect a trap before triggering it, they might be able
+to disarm it, either permanently or long enough to move past it. You
+might call for an :ref:`Intelligence (Investigation) <investigation>`
+check for a character to deduce what needs to be done, followed by a
+Dexterity check using thieves' tools to perform the necessary
+sabotage.
+
+.. index::
+   double: disarming; traps
 
 Any character can attempt an :ref:`Intelligence (Arcana) <arcana>` check to detect or
 disarm a magic trap, in addition to any other checks noted in the trap's
 description. The DCs are the same regardless of the check used. In
-addition, *dispel magic* has a chance of disabling most magic traps. A
+addition, *:ref:`dispel magic`* has a chance of disabling most magic traps. A
 magic trap's description provides the DC for the ability check made when
-you use *dispel magic*.
+you use *:ref:`dispel magic`*.
 
 In most cases, a trap's description is clear enough that you can
 adjudicate whether a character's actions locate or foil the trap. As
@@ -74,10 +92,16 @@ play and good planning. Use your common sense, drawing on the trap's
 description to determine what happens. No trap's design can anticipate
 every possible action that the characters might attempt.
 
+.. index::
+   double: discovering; traps
+
 You should allow a character to discover a trap without making an
 ability check if an action would clearly reveal the trap's presence. For
 example, if a character lifts a rug that conceals a pressure plate, the
 character has found the trigger and no check is required.
+
+.. index::
+   double: foiling; traps
 
 Foiling traps can be a little more complicated. Consider a trapped
 treasure chest. If the chest is opened without first pulling on the two
@@ -99,6 +123,9 @@ door might conceal a passage that goes around the trap.
 Trap Effects
 ~~~~~~~~~~~~
 
+.. index::
+   double: traps; effects
+
 The effects of traps can range from inconvenient to deadly, making use
 of elements such as arrows, spikes, blades, poison, toxic gas, blasts of
 fire, and deep pits. The deadliest traps combine multiple elements to
@@ -110,6 +137,11 @@ The attack bonus of a trap, the save DC to resist its effects, and the
 damage it deals can vary depending on the trap's severity. Use the Trap
 Save DCs and Attack Bonuses table and the Damage Severity by Level table
 for suggestions based on three levels of trap severity.
+
+.. index::
+   double: setback; traps
+   double: dangerous; traps
+   double: deadly; traps
 
 A trap intended to be a **setback** is unlikely to kill or seriously
 harm characters of the indicated levels, whereas a **dangerous** trap is
@@ -129,6 +161,9 @@ indicated levels.
   | Deadly      | 16-20   | +9 to +12          |
   +-------------+---------+--------------------+
 
+.. index::
+   double: traps; severity
+
 .. table:: Traps: Damage Severity by Level
 
   +-----------------+---------+-----------+--------+
@@ -146,6 +181,9 @@ indicated levels.
 
 Complex Traps
 ~~~~~~~~~~~~~
+
+.. index::
+   double: complex; traps
 
 Complex traps work like standard traps, except once activated they
 execute a series of actions each round. A complex trap turns the process
