@@ -67,7 +67,7 @@ these situations, one side of the battle gains surprise over the other.
 
 The GM determines who might be surprised. If neither side tries to be
 stealthy, they automatically notice each other. Otherwise, the GM
-compares the Dexterity (Stealth) checks of anyone hiding with the
+compares the :ref:`Dexterity (Stealth) <stealth>` checks of anyone hiding with the
 passive Wisdom (Perception) score of each creature on the opposing side.
 Any character or monster that doesn't notice a threat is surprised at
 the start of the encounter.
@@ -577,7 +577,7 @@ Hide
 .. index:: ! hide
    triple: hide; combat; action
 
-When you take the Hide action, you make a Dexterity (Stealth) check in
+When you take the Hide action, you make a :ref:`Dexterity (Stealth) <stealth>` check in
 an attempt to hide, following the rules for hiding. If you succeed, you
 gain certain benefits, as described in the "Unseen Attackers and
 Targets" section later in this chapter.
@@ -626,7 +626,7 @@ Search
 
 When you take the Search action, you devote your attention to finding
 something. Depending on the nature of your search, the GM might have you
-make a Wisdom (Perception) check or an Intelligence (Investigation)
+make a :ref:`Wisdom (Perception) <perception>` check or an Intelligence (Investigation)
 check.
 
 
@@ -818,14 +818,6 @@ Instead of using a weapon to make a melee weapon attack, you can use an
 bludgeoning damage equal to 1 + your Strength modifier. You are
 proficient with your unarmed strikes.
 
-**Contests in Combat**
-
-    Battle often involves pitting your prowess against that of your foe.
-    Such a challenge is represented by a contest. This section includes
-    the most common contests that require an action in combat: grappling
-    and shoving a creature. The GM can use these contests as models for
-    improvising others.
-
 
 Opportunity Attacks
 ~~~~~~~~~~~~~~~~~~~
@@ -884,8 +876,8 @@ one of them.
 The target of your grapple must be no more than one size larger than you
 and must be within your reach. Using at least one free hand, you try to
 seize the target by making a grapple check instead of an attack roll: a
-Strength (Athletics) check contested by the target's Strength
-(Athletics) or Dexterity (Acrobatics) check (the target chooses the
+:ref:`Strength (Athletics) <athletics>` check contested by the target's Strength
+(Athletics) or :ref:`Dexterity (Acrobatics) <acrobatics>` check (the target chooses the
 ability to use). You succeed automatically if the target is
 incapacitated. If you succeed, you subject the target to the grappled
 condition (see appendix A). The condition specifies the things that end
@@ -897,7 +889,7 @@ required).
 
 :bi:`Escaping a Grapple`. A grappled creature can use its action to
 escape. To do so, it must succeed on a Strength (Athletics) or Dexterity
-(Acrobatics) check contested by your Strength (Athletics) check.
+(Acrobatics) check contested by your :ref:`Strength (Athletics) <athletics>` check.
 
 .. index::
    triple: combat; moving; grapple
@@ -905,6 +897,15 @@ escape. To do so, it must succeed on a Strength (Athletics) or Dexterity
 :bi:`Moving a Grappled Creature`. When you move, you can drag or carry
 the grappled creature with you, but your speed is halved, unless the
 creature is two or more sizes smaller than you.
+
+
+.. sidebar:: Contests in Combat
+
+    Battle often involves pitting your prowess against that of your foe.
+    Such a challenge is represented by a contest. This section includes
+    the most common contests that require an action in combat: grappling
+    and shoving a creature. The GM can use these contests as models for
+    improvising others.
 
 
 Shoving a Creature
@@ -921,7 +922,7 @@ replaces one of them.
 The target must be no more than one size larger than you and must be
 within your reach. Instead of making an attack roll, you make a Strength
 (Athletics) check contested by the target's Strength (Athletics) or
-Dexterity (Acrobatics) check (the target chooses the ability to use).
+:ref:`Dexterity (Acrobatics) <acrobatics>` check (the target chooses the ability to use).
 You succeed automatically if the target is incapacitated. If you
 succeed, you either knock the target prone or push it 5 feet away from
 you.

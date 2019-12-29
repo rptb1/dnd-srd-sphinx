@@ -214,12 +214,12 @@ jump costs a foot of movement.
 
 This rule assumes that the height of your jump doesn't matter, such as a
 jump across a stream or chasm. At your GM's option, you must succeed on
-a DC 10 Strength (Athletics) check to clear a low obstacle (no taller
+a DC 10 :ref:`Strength (Athletics) <athletics>` check to clear a low obstacle (no taller
 than a quarter of the jump's distance), such as a hedge or low wall.
 Otherwise, you hit it.
 
 When you land in difficult terrain, you must succeed on a DC 10
-Dexterity (Acrobatics) check to land on your feet. Otherwise, you land
+:ref:`Dexterity (Acrobatics) <acrobatics>` check to land on your feet. Otherwise, you land
 prone.
 
 .. index::
@@ -230,7 +230,7 @@ number of feet equal to 3 + your Strength modifier if you move at least
 10 feet on foot immediately before the jump. When you make a standing
 high jump, you can jump only half that distance. Either way, each foot
 you clear on the jump costs a foot of movement. In some circumstances,
-your GM might allow you to make a Strength (Athletics) check to jump
+your GM might allow you to make a :ref:`Strength (Athletics) <athletics>` check to jump
 higher than you normally can.
 
 You can extend your arms half your height above yourself during the
@@ -294,7 +294,7 @@ and other effects that obscure vision can prove a significant hindrance.
 
 A given area might be lightly or heavily obscured. In a **lightly
 obscured** area, such as dim light, patchy fog, or moderate foliage,
-creatures have disadvantage on Wisdom (Perception) checks that rely on
+creatures have disadvantage on :ref:`Wisdom (Perception) <perception>` checks that rely on
 sight.
 
 .. index::
@@ -680,7 +680,7 @@ whether there are any restrictions on your research (such as needing to
 seek out a specific individual, tome, or location). The GM might also
 require you to make one or more ability checks, such as an Intelligence
 (Investigation) check to find clues pointing toward the information you
-seek, or a Charisma (Persuasion) check to secure someone's aid. Once
+seek, or a :ref:`Charisma (Persuasion) <persuasion>` check to secure someone's aid. Once
 those conditions are met, you learn the information if it is available.
 
 .. index::

@@ -131,7 +131,7 @@ constructs, dragons, elementals, fey, fiends, giants, monstrosities,
 oozes, plants, or undead. Alternatively, you can select two races of
 humanoid (such as gnolls and orcs) as favored enemies.
 
-You have advantage on Wisdom (Survival) checks to track your favored
+You have advantage on :ref:`Wisdom (Survival) <survival>` checks to track your favored
 enemies, as well as on Intelligence checks to recall information about
 them.
 

@@ -39,7 +39,7 @@ Cat
 
 **Challenge** 0 (10 XP)
 
-:bi:`Keen Smell`. The cat has advantage on Wisdom (Perception) checks
+:bi:`Keen Smell`. The cat has advantage on :ref:`Wisdom (Perception) <perception>` checks
 that rely on smell.
 
 

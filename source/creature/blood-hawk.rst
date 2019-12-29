@@ -39,7 +39,7 @@ Blood Hawk
 
 **Challenge** 1/8 (25 XP)
 
-:bi:`Keen Sight`. The hawk has advantage on Wisdom (Perception) checks
+:bi:`Keen Sight`. The hawk has advantage on :ref:`Wisdom (Perception) <perception>` checks
 that rely on sight.
 
 :bi:`Pack Tactics`. The hawk has advantage on an attack roll against a

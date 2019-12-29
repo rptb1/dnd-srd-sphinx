@@ -331,7 +331,7 @@ use a skill associated with an ability.
    double: skill; proficiency
 
 Sometimes, the GM might ask for an ability check using a specific
-skill — for example, “Make a Wisdom (Perception) check.” At other times, a
+skill — for example, “Make a :ref:`Wisdom (Perception) <perception>` check.” At other times, a
 player might ask the GM if proficiency in a particular skill applies to
 a check. In either case, proficiency in a skill means an individual can
 add his or her proficiency bonus to ability checks that involve that
@@ -339,7 +339,7 @@ skill. Without proficiency in the skill, the individual makes a normal
 ability check.
 
 For example, if a character attempts to climb up a dangerous cliff, the
-GM might ask for a Strength (Athletics) check. If the character is
+GM might ask for a :ref:`Strength (Athletics) <athletics>` check. If the character is
 proficient in Athletics, the character's proficiency bonus is added to
 the Strength check. If the character lacks that proficiency, he or she
 just makes a Strength check.
@@ -360,9 +360,9 @@ the stamina to make it that far. In this case, your GM might allow you
 to apply your proficiency in Athletics and ask for a Constitution
 (Athletics) check. So if you're proficient in Athletics, you apply your
 proficiency bonus to the Constitution check just as you would normally
-do for a Strength (Athletics) check. Similarly, when your half-orc
+do for a :ref:`Strength (Athletics) <athletics>` check. Similarly, when your half-orc
 barbarian uses a display of raw strength to intimidate an enemy, your GM
-might ask for a Strength (Intimidation) check, even though Intimidation
+might ask for a :ref:`Strength (Intimidation) <intimidation>` check, even though Intimidation
 is normally associated with Charisma.
 
 
@@ -480,6 +480,8 @@ certain kinds of Strength checks.
 
 .. index:: ! athletics
    triple: athletics; strength; skill
+
+.. _athletics:
 
 :bi:`Athletics`. Your Strength (Athletics) check covers difficult
 situations you encounter while climbing, jumping, or swimming. Examples
@@ -604,6 +606,8 @@ Dexterity checks.
 .. index:: ! acrobatics
    triple: acrobatics; dexterity; skill
 
+.. _acrobatics:
+
 :bi:`Acrobatics`. Your Dexterity (Acrobatics) check covers your attempt
 to stay on your feet in a tricky situation, such as when you're trying
 to run across a sheet of ice, balance on a tightrope, or stay upright on
@@ -613,6 +617,8 @@ dives, rolls, somersaults, and flips.
 
 .. index:: ! sleight of hand
    triple: sleight of hand; dexterity; skill
+
+.. _sleight of hand:
 
 :bi:`Sleight of Hand`. Whenever you attempt an act of legerdemain or
 manual trickery, such as planting something on someone else or
@@ -624,7 +630,7 @@ something out of another person's pocket.
 .. index:: ! stealth
    triple: stealth; dexterity; skill
 
-.. _Stealth:
+.. _stealth:
 
 :bi:`Stealth`. Make a Dexterity (Stealth) check when you attempt to
 conceal yourself from enemies, slink past guards, slip away without
@@ -690,9 +696,9 @@ combat.
   .. index:: ! hiding
 
   The DM decides when circumstances are appropriate for hiding. When
-  you try to hide, make a Dexterity (Stealth) check. Until you are
+  you try to hide, make a :ref:`Dexterity (Stealth) <stealth>` check. Until you are
   discovered or you stop hiding, that check's total is contested by
-  the Wisdom (Perception) check of any creature that actively searches
+  the :ref:`Wisdom (Perception) <perception>` check of any creature that actively searches
   for signs of your presence.
 
   You can't hide from a creature that can see you clearly, and you

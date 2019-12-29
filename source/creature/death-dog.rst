@@ -39,7 +39,7 @@ Death Dog
 
 **Challenge** 1 (200 XP)
 
-:bi:`Two-Headed`. The dog has advantage on Wisdom (Perception) checks
+:bi:`Two-Headed`. The dog has advantage on :ref:`Wisdom (Perception) <perception>` checks
 and on saving throws against being blinded, charmed, deafened,
 frightened, stunned, or knocked unconscious.
 

@@ -673,7 +673,7 @@ information is presented after the "Miss:" notation.
 
     A creature grappled by the monster can use its action to try to
     escape. To do so, it must succeed on a Strength (Athletics) or
-    Dexterity (Acrobatics) check against the escape DC in the monster's
+    :ref:`Dexterity (Acrobatics) <acrobatics>` check against the escape DC in the monster's
     stat block. If no escape DC is given, assume the DC is 10 + the
     monster's Strength (Athletics) modifier.
 

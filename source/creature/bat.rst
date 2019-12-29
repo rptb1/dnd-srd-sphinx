@@ -39,7 +39,7 @@ Bat
 
 :bi:`Echolocation`. The bat can't use its blindsight while deafened.
 
-:bi:`Keen Hearing`. The bat has advantage on Wisdom (Perception) checks
+:bi:`Keen Hearing`. The bat has advantage on :ref:`Wisdom (Perception) <perception>` checks
 that rely on hearing.
 
 

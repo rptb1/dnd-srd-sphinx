@@ -39,7 +39,7 @@ Brown Bear
 
 **Challenge** 1 (200 XP)
 
-:bi:`Keen Smell`. The bear has advantage on Wisdom (Perception) checks
+:bi:`Keen Smell`. The bear has advantage on :ref:`Wisdom (Perception) <perception>` checks
 that rely on smell.
 
 

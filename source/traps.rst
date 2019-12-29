@@ -51,7 +51,7 @@ something that points to a trap's presence.
 
 A trap's description specifies the checks and DCs needed to detect it,
 disable it, or both. A character actively looking for a trap can attempt
-a Wisdom (Perception) check against the trap's DC. You can also compare
+a :ref:`Wisdom (Perception) <perception>` check against the trap's DC. You can also compare
 the DC to detect the trap with each character's passive Wisdom
 (Perception) score to determine whether anyone in the party notices the
 trap in passing. If the adventurers detect a trap before triggering it,

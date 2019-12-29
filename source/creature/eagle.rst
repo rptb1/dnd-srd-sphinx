@@ -39,7 +39,7 @@ Eagle
 
 **Challenge** 0 (10 XP)
 
-:bi:`Keen Sight`. The eagle has advantage on Wisdom (Perception) checks
+:bi:`Keen Sight`. The eagle has advantage on :ref:`Wisdom (Perception) <perception>` checks
 that rely on sight.
 
 

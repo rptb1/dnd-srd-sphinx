@@ -275,7 +275,7 @@ Fast Hands
 ^^^^^^^^^^
 
 Starting at 3rd level, you can use the bonus action granted by your
-Cunning Action to make a Dexterity (Sleight of Hand) check, use your
+Cunning Action to make a :ref:`Dexterity (Sleight of Hand) <sleight of hand>` check, use your
 thieves' tools to disarm a trap or open a lock, or take the Use an
 Object action.
 
@@ -293,7 +293,7 @@ increases by a number of feet equal to your Dexterity modifier.
 Supreme Sneak
 ^^^^^^^^^^^^^
 
-Starting at 9th level, you have advantage on a Dexterity (Stealth) check
+Starting at 9th level, you have advantage on a :ref:`Dexterity (Stealth) <stealth>` check
 if you move no more than half your speed on the same turn.
 
 
