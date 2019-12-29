@@ -1,8 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
-========
-Treasure
-========
+===========
+Magic Items
+===========
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
@@ -19,9 +19,6 @@ Treasure
 .. role:: bi
    :class: bolditalic
 
-
-Magic Items
-===========
 
 Magic items are presented in alphabetical order. A magic item's
 description gives the item's name, its category, its rarity, and its
