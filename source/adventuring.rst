@@ -694,7 +694,7 @@ Training
 ~~~~~~~~
 
 .. index:: ! training
-   double:: downtime; training
+   double: downtime; training
 
 You can spend time between adventures learning a new language or
 training with a set of tools. Your GM might allow additional training

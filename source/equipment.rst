@@ -81,7 +81,7 @@ Selling Treasure
 ================
 
 .. index::
-   double:: treasure; selling
+   double: treasure; selling
 
 Opportunities abound to find treasure, equipment, weapons, armor, and
 more in the dungeons you explore. Normally, you can sell your treasures

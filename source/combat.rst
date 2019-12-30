@@ -425,7 +425,7 @@ Space
 ~~~~~
 
 .. index::
-   triple:: creature; space; movement
+   triple: creature; space; movement
 
 A creature's space is the area in feet that it effectively controls in
 combat, not an expression of its physical dimensions. A typical Medium
