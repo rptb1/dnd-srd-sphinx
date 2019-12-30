@@ -1,6 +1,8 @@
 Madness
 -------
 
+.. index:: ! madness, ! insanity
+
 In a typical campaign, characters aren't driven mad by the horrors they
 face and the carnage they inflict day after day, but sometimes the
 stress of being an adventurer can be too much to bear. If your campaign
@@ -8,11 +10,12 @@ has a strong horror theme, you might want to use madness as a way to
 reinforce that theme, emphasizing the extraordinarily horrific nature of
 the threats the adventurers face.
 
+
 Going Mad
 ~~~~~~~~~
 
 Various magical effects can inflict madness on an otherwise stable mind.
-Certain spells, such as *contact other plane* and *symbol*, can cause
+Certain spells, such as *:ref:`contact other plane`* and *:ref:`symbol`*, can cause
 insanity, and you can use the madness rules here instead of the spell
 effects of those spells. Diseases, poisons, and planar effects such as
 psychic wind or the howling winds of Pandemonium can all inflict
@@ -22,19 +25,32 @@ uses or becomes attuned to them.
 Resisting a madness-inducing effect usually requires a Wisdom or
 Charisma saving throw.
 
+
 Madness Effects
 ~~~~~~~~~~~~~~~
+
+.. index::
+   double: madness; effects
 
 Madness can be short-term, long-term, or indefinite. Most relatively
 mundane effects impose short-term madness, which lasts for just a few
 minutes. More horrific effects or cumulative effects can result in
 long-term or indefinite madness.
 
+.. index::
+   double: madness; short-term
+
 A character afflicted with **short-term madness** is subjected to an
 effect from the Short-Term Madness table for 1d10 minutes.
 
+.. index::
+   double: madness; long-term
+
 A character afflicted with **long-term madness** is subjected to an
 effect from the Long-Term Madness table for 1d10 × 10 hours.
+
+.. index::
+   double: madness; indefinite
 
 A character afflicted with **indefinite madness** gains a new character
 flaw from the Indefinite Madness table that lasts until cured.
@@ -128,46 +144,49 @@ flaw from the Indefinite Madness table that lasts until cured.
   +--------+---------------------------------------------------------------------+
   |  d100  | Flaw (lasts until cured)                                            |
   +========+=====================================================================+
-  | 01-15  | "Being drunk keeps me sane."                                        |
+  | 01-15  | “Being drunk keeps me sane.”                                        |
   +--------+---------------------------------------------------------------------+
-  | 16-25  | "I keep whatever I find."                                           |
+  | 16-25  | “I keep whatever I find.”                                           |
   +--------+---------------------------------------------------------------------+
-  | 26-30  | "I try to become more like someone else I know — adopting his or her|
-  |        | style of dress, mannerisms, and name."                              |
+  | 26-30  | “I try to become more like someone else I know — adopting his or her|
+  |        | style of dress, mannerisms, and name.”                              |
   +--------+---------------------------------------------------------------------+
-  | 31-35  | "I must bend the truth, exaggerate, or outright lie to be           |
-  |        | interesting to other people."                                       |
+  | 31-35  | “I must bend the truth, exaggerate, or outright lie to be           |
+  |        | interesting to other people.”                                       |
   +--------+---------------------------------------------------------------------+
-  | 36-45  | "Achieving my goal is the only thing of interest to me, and I'll    |
-  |        | ignore everything else to pursue it."                               |
+  | 36-45  | “Achieving my goal is the only thing of interest to me, and I'll    |
+  |        | ignore everything else to pursue it.”                               |
   +--------+---------------------------------------------------------------------+
-  | 46-50  | "I find it hard to care about anything that goes on around me."     |
+  | 46-50  | “I find it hard to care about anything that goes on around me.”     |
   +--------+---------------------------------------------------------------------+
-  | 51-55  | "I don't like the way people judge me all the time."                |
+  | 51-55  | “I don't like the way people judge me all the time.”                |
   +--------+---------------------------------------------------------------------+
-  | 56-70  | "I am the smartest, wisest, strongest, fastest, and most beautiful  |
-  |        | person I know."                                                     |
+  | 56-70  | “I am the smartest, wisest, strongest, fastest, and most beautiful  |
+  |        | person I know.”                                                     |
   +--------+---------------------------------------------------------------------+
-  | 71-80  | "I am convinced that powerful enemies are hunting me, and their     |
+  | 71-80  | “I am convinced that powerful enemies are hunting me, and their     |
   |        | agents are everywhere I go. I am sure they're watching me all the   |
-  |        | time."                                                              |
+  |        | time.”                                                              |
   +--------+---------------------------------------------------------------------+
-  | 81-85  | "There's only one person I can trust. And only I can see this       |
-  |        | special friend."                                                    |
+  | 81-85  | “There's only one person I can trust. And only I can see this       |
+  |        | special friend.”                                                    |
   +--------+---------------------------------------------------------------------+
-  | 86-95  | "I can't take anything seriously. The more serious the situation,   |
-  |        | the funnier I find it."                                             |
+  | 86-95  | “I can't take anything seriously. The more serious the situation,   |
+  |        | the funnier I find it.”                                             |
   +--------+---------------------------------------------------------------------+
-  | 96-100 | "I've discovered that I really like killing people."                |
+  | 96-100 | “I've discovered that I really like killing people.”                |
   +--------+---------------------------------------------------------------------+
 
   
 Curing Madness
 ~~~~~~~~~~~~~~
 
-A *calm emotions* spell can suppress the effects of madness, while a
-*lesser restoration* spell can rid a character of a short-term or
-long-term madness. Depending on the source of the madness, *remove
-curse* or *dispel evil* might also prove effective. A *greater
-restoration* spell or more powerful magic is required to rid a character
-of indefinite madness.
+.. index::
+   double: curing; madness
+
+A *:ref:`calm emotions`* spell can suppress the effects of madness,
+while a *:ref:`lesser restoration`* spell can rid a character of a
+short-term or long-term madness. Depending on the source of the
+madness, *:ref:`remove curse`* or *:ref:`dispel evil`* might also
+prove effective. A *:ref:`greater restoration`* spell or more powerful
+magic is required to rid a character of indefinite madness.
