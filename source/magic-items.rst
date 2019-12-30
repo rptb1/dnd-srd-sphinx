@@ -273,6 +273,9 @@ magical properties.
 Sentient Magic Items
 ====================
 
+.. index::
+   double: sentient; magic item
+
 Some magic items possess sentience and personality. Such an item might
 be possessed, haunted by the spirit of a previous owner, or self-aware
 thanks to the magic used to create it. In any case, the item behaves
@@ -303,6 +306,9 @@ described here.
 Abilities
 ~~~~~~~~~
 
+.. index::
+   triple: sentient; magic item; ability
+
 A sentient magic item has Intelligence, Wisdom, and Charisma scores. You
 can choose the item's abilities or determine them randomly. To determine
 them randomly, roll 4d6 for each one, dropping the lowest roll and
@@ -311,6 +317,9 @@ totaling the rest.
 
 Communication
 ~~~~~~~~~~~~~
+
+.. index::
+   triple: sentient; magic item; communication
 
 A sentient item has some ability to communicate, either by sharing its
 emotions, broadcasting its thoughts telepathically, or speaking aloud.
@@ -333,6 +342,9 @@ You can choose how it communicates or roll on the following table.
 Senses
 ~~~~~~
 
+.. index::
+   triple: sentient; magic item; senses
+
 With sentience comes awareness. A sentient item can perceive its
 surroundings out to a limited range. You can choose its senses or roll
 on the following table.
@@ -353,6 +365,9 @@ on the following table.
 Special Purpose
 ~~~~~~~~~~~~~~~
 
+.. index::
+   triple: sentient; magic item; purpose
+
 You can give a sentient item an objective it pursues, perhaps to the
 exclusion of all else. As long as the wielder's use of the item aligns
 with that special purpose, the item remains cooperative. Deviating from
@@ -364,41 +379,74 @@ table.
 +-----+----------------------------------------------------------------------+
 | d10 | Purpose                                                              |
 +=====+======================================================================+
-| 1   | :bi:`Aligned:` The item seeks to defeat or destroy those of a        |
+| 1   | .. index::                                                           |
+|     |    triple: sentient; magic item; aligned                             |
+|     |                                                                      |
+|     | :bi:`Aligned:` The item seeks to defeat or destroy those of a        |
 |     | diametrically opposed alignment. (Such an item is never neutral.)    |
 +-----+----------------------------------------------------------------------+
-| 2   | :bi:`Bane:` The item seeks to defeat or destroy creatures of a       |
+| 2   | .. index::                                                           |
+|     |    triple: sentient; magic item; bane                                |
+|     |                                                                      |
+|     | :bi:`Bane:` The item seeks to defeat or destroy creatures of a       |
 |     | particular kind, such as fiends, shapechangers, trolls, or wizards.  |
 +-----+----------------------------------------------------------------------+
-| 3   | :bi:`Protector:` The item seeks to defend a particular race or kind  |
+| 3   | .. index::                                                           |
+|     |    triple: sentient; magic item; protector                           |
+|     |                                                                      |
+|     | :bi:`Protector:` The item seeks to defend a particular race or kind  |
 |     | of creature, such as elves or druids.                                |
 +-----+----------------------------------------------------------------------+
-| 4   | :bi:`Crusader:` The item seeks to defeat, weaken, or destroy the     |
+| 4   | .. index::                                                           |
+|     |    triple: sentient; magic item; crusader                            |
+|     |                                                                      |
+|     | :bi:`Crusader:` The item seeks to defeat, weaken, or destroy the     |
 |     | servants of a particular deity.                                      |
 +-----+----------------------------------------------------------------------+
-| 5   | :bi:`Templar:` The item seeks to defend the servants and interests   |
+| 5   | .. index::                                                           |
+|     |    triple: sentient; magic item; templar                             |
+|     |                                                                      |
+|     | :bi:`Templar:` The item seeks to defend the servants and interests   |
 |     | of a particular deity.                                               |
 +-----+----------------------------------------------------------------------+
-| 6   | :bi:`Destroyer:` The item craves destruction and goads its user to   |
+| 6   | .. index::                                                           |
+|     |    triple: sentient; magic item; destroyer                           |
+|     |                                                                      |
+|     | :bi:`Destroyer:` The item craves destruction and goads its user to   |
 |     | fight arbitrarily.                                                   |
 +-----+----------------------------------------------------------------------+
-| 7   | :bi:`Glory Seeker:` The item seeks renown as the greatest magic item |
+| 7   | .. index::                                                           |
+|     |    triple: sentient; magic item; glory seeker                        |
+|     |                                                                      |
+|     | :bi:`Glory Seeker:` The item seeks renown as the greatest magic item |
 |     | in the world, by establishing its user as a famous or notorious      |
 |     | figure.                                                              |
 +-----+----------------------------------------------------------------------+
-| 8   | :bi:`Lore Seeker:` The item craves knowledge or is determined to     |
+| 8   | .. index::                                                           |
+|     |    triple: sentient; magic item; lore seeker                         |
+|     |                                                                      |
+|     | :bi:`Lore Seeker:` The item craves knowledge or is determined to     |
 |     | solve a mystery, learn a secret, or unravel a cryptic prophecy.      |
 +-----+----------------------------------------------------------------------+
-| 9   | :bi:`Destiny Seeker:` The item is convinced that it and its wielder  |
+| 9   | .. index::                                                           |
+|     |    triple: sentient; magic item; destiny seeker                      |
+|     |                                                                      |
+|     | :bi:`Destiny Seeker:` The item is convinced that it and its wielder  |
 |     | have key roles to play in future events.                             |
 +-----+----------------------------------------------------------------------+
-| 10  | :bi:`Creator Seeker:` The item seeks its creator and wants to        |
+| 10  | .. index::                                                           |
+|     |    triple: sentient; magic item; creator seeker                      |
+|     |                                                                      |
+|     | :bi:`Creator Seeker:` The item seeks its creator and wants to        |
 |     | understand why it was created.                                       |
 +-----+----------------------------------------------------------------------+
 
 
 Conflict
 ~~~~~~~~
+
+.. index::
+   triple: sentient; magic item; conflict
 
 A sentient item has a will of its own, shaped by its personality and
 alignment. If its wielder acts in a manner opposed to the item's
@@ -438,25 +486,13 @@ dawn.
 Artifacts
 =========
 
+.. index:: artifact
+
+
+.. _Orb of Dragonkind:
 
 Orb of Dragonkind
 ~~~~~~~~~~~~~~~~~
-
-
-.. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
-
-.. raw:: html
-
-   <style type="text/css">
-     span.bolditalic {
-       font-weight: bold;
-       font-style: italic;
-     }
-   </style>
-
-.. role:: bi
-   :class: bolditalic
-
 
 *Wondrous item, artifact (requires attunement)*
 
