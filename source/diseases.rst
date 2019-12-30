@@ -1,6 +1,8 @@
 Diseases
 --------
 
+.. index:: ! disease, ! plague
+
 A plague ravages the kingdom, setting the adventurers on a quest to find
 a cure. An adventurer emerges from an ancient tomb, unopened for
 centuries, and soon finds herself suffering from a wasting illness. A
@@ -8,7 +10,7 @@ warlock offends some dark power and contracts a strange affliction that
 spreads whenever he casts spells.
 
 A simple outbreak might amount to little more than a small drain on
-party resources, curable by a casting of *lesser restoration*. A more
+party resources, curable by a casting of *:ref:`lesser restoration`*. A more
 complicated outbreak can form the basis of one or more adventures as
 characters search for a cure, stop the spread of the disease, and deal
 with the consequences.
