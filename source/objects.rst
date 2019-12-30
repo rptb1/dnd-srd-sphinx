@@ -1,6 +1,9 @@
 Objects
 -------
 
+.. index:: ! object, destruction
+   double: destroying; object
+
 When characters need to saw through ropes, shatter a window, or smash a
 vampire's coffin, the only hard and fast rule is this: given enough time
 and the right tools, characters can destroy any destructible object. Use
@@ -12,12 +15,19 @@ For the purpose of these rules, an object is a discrete, inanimate item
 like a window, door, sword, book, table, chair, or stone, not a building
 or a vehicle that is composed of many other objects.
 
+
 Statistics for Objects
 ~~~~~~~~~~~~~~~~~~~~~~
+
+.. index::
+   double: object; stats
 
 When time is a factor, you can assign an Armor Class and hit points to a
 destructible object. You can also give it immunities, resistances, and
 vulnerabilities to specific types of damage.
+
+.. index::
+   double: object; armor class
 
 :bi:`Armor Class`. An object's Armor Class is a measure of how difficult
 it is to deal damage to the object when striking it (because the object
@@ -44,7 +54,10 @@ provides suggested AC values for various substances.
   | Adamantine            | 23       |
   +-----------------------+----------+
 
-**Hit Points**. An object's hit points measure how much damage it can
+.. index::
+   double: object; hit points
+
+:bi:`Hit Points`. An object's hit points measure how much damage it can
 take before losing its structural integrity. Resilient objects have more
 hit points than fragile ones. Large objects also tend to have more hit
 points than small ones, unless breaking a small part of the object is
@@ -66,6 +79,10 @@ that are Large or smaller.
   | Large (cart, 10-ft-by-10-ft window)   | 5 (1d10)      | 27 (5d10)       |
   +---------------------------------------+---------------+-----------------+
 
+.. index::
+   double: huge; object
+   double: gargantuan; object
+
 :bi:`Huge and Gargantuan Objects`. Normal weapons are of little use
 against many Huge and Gargantuan objects, such as a colossal statue,
 towering column of stone, or massive boulder. That said, one torch can
@@ -78,6 +95,9 @@ section's hit points separately. Destroying one of those sections could
 ruin the entire object. For example, a Gargantuan statue of a human
 might topple over when one of its Large legs is reduced to 0 hit points.
 
+.. index::
+   triple: object; damage; type
+
 :bi:`Objects and Damage Types`. Objects are immune to poison and psychic
 damage. You might decide that some damage types are more effective
 against a particular object or substance than others. For example,
@@ -86,6 +106,9 @@ through rope or leather. Paper or cloth objects might be vulnerable to
 fire and lightning damage. A pick can chip away stone but can't
 effectively cut down a tree. As always, use your best judgment.
 
+.. index::
+   triple: object; damage; threshold
+
 :bi:`Damage Threshold`. Big objects such as castle walls often have
 extra resilience represented by a damage threshold. An object with a
 damage threshold has immunity to all damage unless it takes an amount of
@@ -93,4 +116,3 @@ damage from a single attack or effect equal to or greater than its
 damage threshold, in which case it takes damage as normal. Any damage
 that fails to meet or exceed the object's damage threshold is considered
 superficial and doesn't reduce the object's hit points.
-
