@@ -59,15 +59,17 @@ Equipment
 You start with the following equipment, in addition to the equipment
 granted by your background:
 
-- (a) a rapier or (b) a shortsword
+- (a) a rapier or
+  (b) a shortsword
 
-- (a) a shortbow and quiver of 20 arrows or (b) a shortsword
+- (a) a shortbow and quiver of 20 arrows or
+  (b) a shortsword
 
-- (a) a :ref:`burglar's pack <Burglar's pack>`, (b) a
-  :ref:`dungeoneer's pack <Dungeoneer's Pack>`, or (c) an
-  :ref:`explorer's pack <Explorer's Pack>`
+- (a) a :ref:`burglar's pack <Burglar's pack>`,
+  (b) a :ref:`dungeoneer's pack <Dungeoneer's Pack>`, or
+  (c) an :ref:`explorer's pack <Explorer's Pack>`
 
-- (a) Leather armor, two daggers, and thieves' tools
+- Leather armor, two daggers, and thieves' tools
 
 .. index::
    triple: rogue; class; table
@@ -78,47 +80,51 @@ granted by your background:
   | Level | Proficiency | Sneak  | Features                                 |
   |       | Bonus       | Attack |                                          |
   +=======+=============+========+==========================================+
-  | 1st   | +2          | 1d6    | Expertise, Sneak Attack, Thieves' Cant   |
+  | 1st   | +2          | 1d6    | :ref:`Rogue Expertise`,                  |
+  |       |             |        | :ref:`Sneak Attack`,                     |
+  |       |             |        | :ref:`Thieves' Cant`                     |
   +-------+-------------+--------+------------------------------------------+
-  | 2nd   | +2          | 1d6    | Cunning Action                           |
+  | 2nd   | +2          | 1d6    | :ref:`Cunning Action`                    |
   +-------+-------------+--------+------------------------------------------+
-  | 3rd   | +2          | 2d6    | Roguish Archetype                        |
+  | 3rd   | +2          | 2d6    | :ref:`Roguish Archetype`                 |
   +-------+-------------+--------+------------------------------------------+
-  | 4th   | +2          | 2d6    | Ability Score Improvement                |
+  | 4th   | +2          | 2d6    | :ref:`Rogue Ability Score Improvement`   |
   +-------+-------------+--------+------------------------------------------+
-  | 5th   | +3          | 3d6    | Uncanny Dodge                            |
+  | 5th   | +3          | 3d6    | :ref:`Uncanny Dodge`                     |
   +-------+-------------+--------+------------------------------------------+
-  | 6th   | +3          | 3d6    | Expertise                                |
+  | 6th   | +3          | 3d6    | :ref:`Rogue Expertise`                   |
   +-------+-------------+--------+------------------------------------------+
-  | 7th   | +3          | 4d6    | Evasion                                  |
+  | 7th   | +3          | 4d6    | :ref:`Evasion`                           |
   +-------+-------------+--------+------------------------------------------+
-  | 8th   | +3          | 4d6    | Ability Score Improvement                |
+  | 8th   | +3          | 4d6    | :ref:`Rogue Ability Score Improvement`   |
   +-------+-------------+--------+------------------------------------------+
   | 9th   | +4          | 5d6    | Roguish Archetype feature                |
   +-------+-------------+--------+------------------------------------------+
-  | 10th  | +4          | 5d6    | Ability Score Improvement                |
+  | 10th  | +4          | 5d6    | :ref:`Rogue Ability Score Improvement`   |
   +-------+-------------+--------+------------------------------------------+
-  | 11th  | +4          | 6d6    | Reliable Talent                          |
+  | 11th  | +4          | 6d6    | :ref:`Reliable Talent`                   |
   +-------+-------------+--------+------------------------------------------+
-  | 12th  | +4          | 6d6    | Ability Score Improvement                |
+  | 12th  | +4          | 6d6    | :ref:`Rogue Ability Score Improvement`   |
   +-------+-------------+--------+------------------------------------------+
   | 13th  | +5          | 7d6    | Roguish Archetype Feature                |
   +-------+-------------+--------+------------------------------------------+
-  | 14th  | +5          | 7d6    | Blindsense                               |
+  | 14th  | +5          | 7d6    | :ref:`Blindsense`                        |
   +-------+-------------+--------+------------------------------------------+
-  | 15th  | +5          | 8d6    | Slippery Mind                            |
+  | 15th  | +5          | 8d6    | :ref:`Slippery Mind`                     |
   +-------+-------------+--------+------------------------------------------+
-  | 16th  | +5          | 8d6    | Ability Score Improvement                |
+  | 16th  | +5          | 8d6    | :ref:`Rogue Ability Score Improvement`   |
   +-------+-------------+--------+------------------------------------------+
   | 17th  | +6          | 9d6    | Roguish Archetype Feature                |
   +-------+-------------+--------+------------------------------------------+
-  | 18th  | +6          | 9d6    | Elusive                                  |
+  | 18th  | +6          | 9d6    | :ref:`Elusive`                           |
   +-------+-------------+--------+------------------------------------------+
-  | 19th  | +6          | 10d6   | Ability Score Improvement                |
+  | 19th  | +6          | 10d6   | :ref:`Rogue Ability Score Improvement`   |
   +-------+-------------+--------+------------------------------------------+
-  | 20th  | +6          | 10d6   | Stroke of Luck                           |
+  | 20th  | +6          | 10d6   | :ref:`Stroke of Luck`                    |
   +-------+-------------+--------+------------------------------------------+
 
+
+.. _Rogue Expertise:
 
 Expertise
 ~~~~~~~~~
@@ -155,6 +161,8 @@ don't have disadvantage on the attack roll.
 The amount of the extra damage increases as you gain levels in this
 class, as shown in the Sneak Attack column of the Rogue table.
 
+
+.. _`Thieves' Cant`:
 
 Thieves' Cant
 ~~~~~~~~~~~~~
@@ -198,6 +206,8 @@ grants you features at 3rd level and then again at 9th, 13th, and 17th
 level.
 
 
+.. _Rogue Ability Score Improvement:
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -211,6 +221,8 @@ can increase two ability scores of your choice by 1. As normal, you
 can't increase an ability score above 20 using this feature.
 
 
+.. _Uncanny Dodge:
+
 Uncanny Dodge
 ~~~~~~~~~~~~~
 
@@ -221,6 +233,8 @@ Starting at 5th level, when an attacker that you can see hits you with
 an attack, you can use your reaction to halve the attack's damage
 against you.
 
+
+.. _Evasion:
 
 Evasion
 ~~~~~~~
@@ -236,6 +250,8 @@ damage if you succeed on the saving throw, and only half damage if you
 fail.
 
 
+.. _Reliable Talent:
+
 Reliable Talent
 ~~~~~~~~~~~~~~~
 
@@ -247,6 +263,8 @@ perfection. Whenever you make an ability check that lets you add your
 proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
 
+.. _Blindsense:
+
 Blindsense
 ~~~~~~~~~~
 
@@ -256,6 +274,8 @@ Blindsense
 Starting at 14th level, if you are able to hear, you are aware of the
 location of any hidden or invisible creature within 10 feet of you.
 
+
+.. _Slippery Mind:
 
 Slippery Mind
 ~~~~~~~~~~~~~
@@ -267,6 +287,8 @@ By 15th level, you have acquired greater mental strength. You gain
 proficiency in Wisdom saving throws.
 
 
+.. _Elusive:
+
 Elusive
 ~~~~~~~
 
@@ -277,6 +299,8 @@ Beginning at 18th level, you are so evasive that attackers rarely gain
 the upper hand against you. No attack roll has advantage against you
 while you aren't incapacitated.
 
+
+.. _Stroke of Luck:
 
 Stroke of Luck
 ~~~~~~~~~~~~~~
@@ -293,6 +317,8 @@ Once you use this feature, you can't use it again until you finish a
 short or long rest.
 
 
+.. _Roguish Archetype:
+
 Roguish Archetypes
 ------------------
 
@@ -307,6 +333,8 @@ choice of archetype is a reflection of your focus — not necessarily an
 indication of your chosen profession, but a description of your
 preferred techniques.
 
+
+.. _Thief:
 
 Thief
 ~~~~~
