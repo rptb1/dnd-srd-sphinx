@@ -1,3 +1,10 @@
+
+.. -*- mode: rst; coding: utf-8 -*-
+
+.. Origin: SRD p363 "Appendix PH-C: THe Planes of Existence"
+
+
+======
 Planes
 ======
 

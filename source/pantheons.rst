@@ -1,3 +1,9 @@
+.. -*- mode: rst; coding: utf-8 -*-
+
+.. Origin: SRD p360 "Appendix PH-B: Fantasy-Historical Pantheons"
+
+
+=========
 Pantheons
 =========
 
@@ -293,5 +299,3 @@ enemies, the giants (including the gods Surtur and Thrym).
   | Uller, god of hunting and  | CN         | Nature         | Longbow               |
   | winter                     |            |                |                       |
   +----------------------------+------------+----------------+-----------------------+
-
-

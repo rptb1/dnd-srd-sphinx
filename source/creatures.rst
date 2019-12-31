@@ -1,5 +1,7 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p366 "Appendix MM-A: Miscellaneous Creatures"
+
 =========
 Creatures
 =========
