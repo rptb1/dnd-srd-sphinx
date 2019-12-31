@@ -34,5 +34,5 @@ you shared a common language, but you gain no magical ability to
 influence it.
 
 This spell can cause the plants created by the *entangle* spell to
-release a restrained creature.
+release a :ref:`restrained` creature.
 

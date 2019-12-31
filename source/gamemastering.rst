@@ -195,6 +195,8 @@ Prone
    within 5 feet of the creature. Otherwise, the attack roll has
    disadvantage.
 
+.. _restrained:
+
 Restrained
 ----------
 

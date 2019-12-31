@@ -37,7 +37,7 @@ Will-o'-Wisp
 piercing, and slashing from nonmagical attacks
 
 **Condition Immunities** exhaustion, grappled, paralyzed, poisoned,
-prone, restrained, unconscious
+prone, :ref:`restrained`, unconscious
 
 **Senses** darkvision 120 ft., passive Perception 12
 

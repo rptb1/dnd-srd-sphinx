@@ -467,6 +467,8 @@ Strength measures bodily power, athletic training, and the extent to
 which you can exert raw physical force.
 
 
+.. _Strength check:
+
 Strength Checks
 ~~~~~~~~~~~~~~~
 

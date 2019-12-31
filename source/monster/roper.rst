@@ -64,7 +64,7 @@ Reel, and makes one attack with its bite.
 
 :bi:`Tendril`. *Melee Weapon Attack:* +7 to hit, reach 50 ft., one
 creature. *Hit:* The target is grappled (escape DC 15). Until the
-grapple ends, the target is restrained and has disadvantage on Strength
+grapple ends, the target is :ref:`restrained` and has disadvantage on Strength
 checks and Strength saving throws, and the roper can't use the same
 tendril on another target.
 

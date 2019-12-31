@@ -20,12 +20,17 @@ Monsters
    :class: bolditalic
 
 
+.. index:: ! monsters
+
 Stats
 =====
 
 
 Type
 ----
+
+.. index::
+   double: monster; type
 
 A monster's type speaks to its fundamental nature. Certain spells, magic
 items, class features, and other effects in the game interact in special
@@ -36,21 +41,33 @@ creatures of the dragon type, such as dragon turtles and wyverns.
 The game includes the following monster types, which have no rules of
 their own.
 
+.. index:: ! aberration
+   triple: aberration; monster; type
+
 **Aberrations** are utterly alien beings. Many of them have innate
 magical abilities drawn from the creature's alien mind rather than the
 mystical forces of the world. The quintessential aberrations are
 aboleths, beholders, mind flayers, and slaadi.
+
+.. index:: ! beast
+   triple: beast; monster; type
 
 **Beasts** are nonhumanoid creatures that are a natural part of the
 fantasy ecology. Some of them have magical powers, but most are
 unintelligent and lack any society or language. Beasts include all
 varieties of ordinary animals, dinosaurs, and giant versions of animals.
 
+.. index:: ! celestial
+   triple: celestial; monster; type
+
 **Celestials** are creatures native to the Upper Planes. Many of them
 are the servants of deities, employed as messengers or agents in the
 mortal realm and throughout the planes. Celestials are good by nature,
 so the exceptional celestial who strays from a good alignment is a
 horrifying rarity. Celestials include angels, couatls, and pegasi.
+
+.. index:: ! construct
+   triple: construct; monster; type
 
 **Constructs** are made, not born. Some are programmed by their creators
 to follow a simple set of instructions, while others are imbued with
@@ -59,12 +76,18 @@ constructs. Many creatures native to the outer plane of Mechanus, such
 as modrons, are constructs shaped from the raw material of the plane by
 the will of more powerful creatures.
 
+.. index:: ! dragon
+   triple: dragon; monster; type
+
 **Dragons** are large reptilian creatures of ancient origin and
 tremendous power. True dragons, including the good metallic dragons and
 the evil chromatic dragons, are highly intelligent and have innate
 magic. Also in this category are creatures distantly related to true
 dragons, but less powerful, less intelligent, and less magical, such as
 wyverns and pseudodragons.
+
+.. index:: ! elemental
+   triple: elemental; monster; type
 
 **Elementals** are creatures native to the elemental planes. Some
 creatures of this type are little more than animate masses of their
@@ -80,6 +103,9 @@ closely tied to the Feywild, also called the Plane of Faerie. Some are
 also found in the Outer Planes, particularly the planes of Arborea and
 the Beastlands. Fey include dryads, pixies, and satyrs.
 
+.. index:: ! fiend
+   triple: fiend; monster; type
+
 **Fiends** are creatures of wickedness that are native to the Lower
 Planes. A few are the servants of deities, but many more labor under the
 leadership of archdevils and demon princes. Evil priests and mages
@@ -87,11 +113,17 @@ sometimes summon fiends to the material world to do their bidding. If an
 evil celestial is a rarity, a good fiend is almost inconceivable. Fiends
 include demons, devils, hell hounds, rakshasas, and yugoloths.
 
+.. index:: ! giant
+   triple: giant; monster; type
+
 **Giants** tower over humans and their kind. They are humanlike in
 shape, though some have multiple heads (ettins) or deformities
 (fomorians). The six varieties of true giant are hill giants, stone
 giants, frost giants, fire giants, cloud giants, and storm giants.
 Besides these, creatures such as ogres and trolls are giants.
+
+.. index:: ! humanoid
+   triple: humanoid; monster; type
 
 **Humanoids** are the main peoples of a fantasy gaming world, both
 civilized and savage, including humans and a tremendous variety of other
@@ -103,6 +135,9 @@ numerous but far more savage and brutal, and almost uniformly evil, are
 the races of goblinoids (goblins, hobgoblins, and bugbears), orcs,
 gnolls, lizardfolk, and kobolds.
 
+.. index:: ! monstrosity
+   triple: monstrosity; monster; type
+
 **Monstrosities** are monsters in the strictest sense — frightening
 creatures that are not ordinary, not truly natural, and almost never
 benign. Some are the results of magical experimentation gone awry (such
@@ -111,16 +146,25 @@ minotaurs and yuan-ti). They defy categorization, and in some sense
 serve as a catch-all category for creatures that don't fit into any
 other type.
 
+.. index:: ! ooze
+   triple: ooze; monster; type
+
 **Oozes** are gelatinous creatures that rarely have a fixed shape. They
 are mostly subterranean, dwelling in caves and dungeons and feeding on
 refuse, carrion, or creatures unlucky enough to get in their way. Black
 puddings and gelatinous cubes are among the most recognizable oozes.
+
+.. index:: ! plant
+   triple: plant; monster; type
 
 **Plants** in this context are vegetable creatures, not ordinary flora.
 Most of them are ambulatory, and some are carnivorous. The
 quintessential plants are the shambling mound and the treant. Fungal
 creatures such as the gas spore and the myconid also fall into this
 category.
+
+.. index:: ! undead
+   triple: undead; monster; type
 
 **Undead** are once-living creatures brought to a horrifying state of
 undeath through the practice of necromantic magic or some unholy curse.
@@ -130,6 +174,9 @@ bodiless spirits, such as ghosts and specters.
 
 Tags
 ~~~~
+
+.. index::
+   triple: monster; type; tag
 
 A monster might have one or more tags appended to its type, in
 parentheses. For example, an orc has the *humanoid (orc)* type. The
@@ -143,11 +190,14 @@ monster that has the demon tag.
 Alignment
 ---------
 
+.. index::
+   double: monster; alignment
+
 A monster's alignment provides a clue to its disposition and how it
 behaves in a roleplaying or combat situation. For example, a chaotic
 evil monster might be difficult to reason with and might attack
 characters on sight, whereas a neutral monster might be willing to
-negotiate. See the *Player's Handbook* for descriptions of the different
+negotiate. See :ref:`Alignment` for descriptions of the different
 alignments.
 
 The alignment specified in a monster's stat block is the default. Feel
@@ -170,6 +220,10 @@ they don't have an alignment.
 Armor Class
 -----------
 
+.. index::
+   double: monster; armor class
+   double: monster; AC
+
 A monster that wears armor or carries a shield has an Armor Class (AC)
 that takes its armor, shield, and Dexterity into account. Otherwise, a
 monster's AC is based on its Dexterity modifier and natural armor, if
@@ -180,12 +234,19 @@ this is noted in parentheses after its AC value.
 Hit Points
 ----------
 
+.. index::
+   double: monster; hit points
+   double: monster; HP
+
 A monster usually dies or is destroyed when it drops to 0 hit points.
-For more on hit points, see the *Player's Handbook*.
+For more on hit points, see :ref:`Hit Points`.
 
 A monster's hit points are presented both as a die expression and as an
 average number. For example, a monster with 2d8 hit points has 9 hit
 points on average (2 × 4½).
+
+.. index::
+   double: monster; hit dice
 
 A monster's size determines the die used to calculate its hit points, as
 shown in the Hit Dice by Size table.
@@ -208,6 +269,9 @@ shown in the Hit Dice by Size table.
   | Gargantuan   | d20     | 10½                |
   +--------------+---------+--------------------+
 
+.. index::
+   double: monster; constitution
+
 A monster's Constitution modifier also affects the number of hit points
 it has. Its Constitution modifier is multiplied by the number of Hit
 Dice it possesses, and the result is added to its hit points. For
@@ -218,6 +282,9 @@ Dice, it has 2d8 + 2 hit points (average 11).
 Speed
 -----
 
+.. index::
+   double: monster; speed
+
 A monster's speed tells you how far it can move on its turn. For more
 information on speed, see the *Player's Handbook*.
 
@@ -225,12 +292,18 @@ All creatures have a walking speed, simply called the monster's speed.
 Creatures that have no form of ground-based locomotion have a walking
 speed of 0 feet.
 
+.. index::
+   triple: monster; movement; mode
+
 Some creatures have one or more of the following additional movement
 modes.
 
 
 Burrow
 ~~~~~~
+
+.. index::
+   triple: monster; burrow; movement
 
 A monster that has a burrowing speed can use that speed to move through
 sand, earth, mud, or ice. A monster can't burrow through solid rock
@@ -240,6 +313,9 @@ unless it has a special trait that allows it to do so.
 Climb
 ~~~~~
 
+.. index::
+   triple: monster; climb; movement
+
 A monster that has a climbing speed can use all or part of its movement
 to move on vertical surfaces. The monster doesn't need to spend extra
 movement to climb.
@@ -247,6 +323,9 @@ movement to climb.
 
 Fly
 ~~~
+
+.. index::
+   triple: monster; fly; movement
 
 A monster that has a flying speed can use all or part of its movement to
 fly. Some monsters have the ability to **hover**, which makes them hard
@@ -257,6 +336,9 @@ to knock out of the air (as explained in the rules on flying in the
 Swim
 ~~~~
 
+.. index::
+   triple: monster; fly; movement
+
 A monster that has a swimming speed doesn't need to spend extra movement
 to swim.
 
@@ -264,20 +346,29 @@ to swim.
 Ability Scores
 --------------
 
-Every monster has six ability scores (Strength, Dexterity, Constitution,
-Intelligence, Wisdom, and Charisma) and corresponding modifiers. For
-more information on ability scores and how they're used in play, see the
-*Player's Handbook*.
+.. index::
+   double: monster; ability
+
+Every monster has six ability scores (Strength, Dexterity,
+Constitution, Intelligence, Wisdom, and Charisma) and corresponding
+modifiers. For more information on ability scores and how they're used
+in play, see :ref:`Abilities <Using Ability Scores>`.
 
 
 Saving Throws
 -------------
+
+.. index::
+   double: monster; saving throw
 
 The Saving Throws entry is reserved for creatures that are adept at
 resisting certain kinds of effects. For example, a creature that isn't
 easily charmed or frightened might gain a bonus on its Wisdom saving
 throws. Most creatures don't have special saving throw bonuses, in which
 case this section is absent.
+
+.. index::
+   double: monster; proficiency bonus
 
 A saving throw bonus is the sum of a monster's relevant ability modifier
 and its proficiency bonus, which is determined by the monster's
@@ -362,6 +453,9 @@ table).
 Skills
 ------
 
+.. index::
+   double: monster; skill
+
 The Skills entry is reserved for monsters that are proficient in one or
 more skills. For example, a monster that is very perceptive and stealthy
 might have bonuses to Wisdom (Perception) and Dexterity (Stealth)
@@ -374,7 +468,10 @@ Other modifiers might apply. For instance, a monster might have a
 larger-than-expected bonus (usually double its proficiency bonus) to
 account for its heightened expertise.
 
-**Armor, Weapon, and Tool Proficiencies**
+.. sidebar:: Armor, Weapon, and Tool Proficiencies
+
+    .. index::
+       double: monster; proficiency
 
     Assume that a creature is proficient with its armor, weapons, and
     tools. If you swap them out, you decide whether the creature is
@@ -392,6 +489,11 @@ account for its heightened expertise.
 Vulnerabilities, Resistances, and Immunities
 --------------------------------------------
 
+.. index::
+   double: monster; vulnerability
+   double: monster; resistance
+   double: monster; immunity
+
 Some creatures have vulnerability, resistance, or immunity to certain
 types of damage. Particular creatures are even resistant or immune to
 damage from nonmagical attacks (a magical attack is an attack delivered
@@ -402,6 +504,9 @@ creatures are immune to certain conditions.
 Senses
 ------
 
+.. index::
+   double: monster; senses
+
 The Senses entry notes a monster's passive Wisdom (Perception) score, as
 well as any special senses the monster might have. Special senses are
 described below.
@@ -409,6 +514,9 @@ described below.
 
 Blindsight
 ~~~~~~~~~~
+
+.. index::
+   triple: monster; blindsight; sense
 
 A monster with blindsight can perceive its surroundings without relying
 on sight, within a specific radius.
@@ -425,6 +533,9 @@ range of its perception.
 Darkvision
 ~~~~~~~~~~
 
+.. index::
+   triple: monster; darkvision; sense
+
 A monster with darkvision can see in the dark within a specific radius.
 The monster can see in dim light within the radius as if it were bright
 light, and in darkness as if it were dim light. The monster can't
@@ -434,6 +545,9 @@ underground have this special sense.
 
 Tremorsense
 ~~~~~~~~~~~
+
+.. index::
+   triple: monster; tremorsense; sense
 
 A monster with tremorsense can detect and pinpoint the origin of
 vibrations within a specific radius, provided that the monster and the
@@ -446,6 +560,9 @@ have this special sense.
 Truesight
 ~~~~~~~~~
 
+.. index::
+   triple: monster; truesight; sense
+
 A monster with truesight can, out to a specific range, see in normal and
 magical darkness, see invisible creatures and objects, automatically
 detect visual illusions and succeed on saving throws against them, and
@@ -457,6 +574,9 @@ Plane within the same range.
 Languages
 ---------
 
+.. index::
+   double: monster; language
+
 The languages that a monster can speak are listed in alphabetical order.
 Sometimes a monster can understand a language but can't speak it, and
 this is noted in its entry. A "-" indicates that a creature neither
@@ -465,6 +585,9 @@ speaks nor understands any language.
 
 Telepathy
 ~~~~~~~~~
+
+.. index::
+   double: monster; telepathy
 
 Telepathy is a magical ability that allows a monster to communicate
 mentally with another creature within a specified range. The contacted
@@ -491,6 +614,9 @@ messages.
 Challenge
 ---------
 
+.. index:: ! challenge rating, ! CR
+   double: monster; challenge
+
 A monster's **Challenge rating** tells you how great a threat the
 monster is. An appropriately equipped and well-rested party of four
 adventurers should be able to defeat a monster that has a challenge
@@ -498,7 +624,7 @@ rating equal to its level without suffering any deaths. For example, a
 party of four 3rd-level characters should find a monster with a
 challenge rating of 3 to be a worthy challenge, but not a deadly one.
 
-Monsters that are significantly weaker than 1st- level characters have a
+Monsters that are significantly weaker than 1st-level characters have a
 challenge rating lower than 1. Monsters with a challenge rating of 0 are
 insignificant except in large numbers; those with no effective attacks
 are worth no experience points, while those that have attacks are worth
@@ -511,6 +637,10 @@ and are specifically designed to test player skill.
 
 Experience Points
 ~~~~~~~~~~~~~~~~~
+
+.. index::
+   double: monster; experience points
+   double: monster; XP
 
 The number of experience points (XP) a monster is worth is based on its
 challenge rating. Typically, XP is awarded for defeating the monster,
@@ -578,6 +708,9 @@ other magical ability is worth the XP noted in its stat block.
 Special Traits
 --------------
 
+.. index::
+   double: monster; trait
+
 Special traits (which appear after a monster's challenge rating but
 before any actions or reactions) are characteristics that are likely to
 be relevant in a combat encounter and that require some explanation.
@@ -586,6 +719,10 @@ be relevant in a combat encounter and that require some explanation.
 Innate Spellcasting
 ~~~~~~~~~~~~~~~~~~~
 
+.. index::
+   triple: monster; innate spellcasting; trait
+   triple: innate; spellcasting; monster
+
 A monster with the innate ability to cast spells has the Innate
 Spellcasting special trait. Unless noted otherwise, an innate spell of
 1st level or higher is always cast at its lowest possible level and
@@ -593,8 +730,8 @@ can't be cast at a higher level. If a monster has a cantrip where its
 level matters and no level is given, use the monster's challenge rating.
 
 An innate spell can have special rules or restrictions. For example, a
-drow mage can innately cast the *levitate* spell, but the spell has a
-"self only" restriction, which means that the spell affects only the
+drow mage can innately cast the *:ref:`levitate`* spell, but the spell has a
+“self only” restriction, which means that the spell affects only the
 drow mage.
 
 A monster's innate spells can't be swapped out with other spells. If a
@@ -604,6 +741,9 @@ given for them.
 
 Spellcasting
 ~~~~~~~~~~~~
+
+.. index::
+   triple: monster; spellcasting; trait
 
 A monster with the Spellcasting special trait has a spellcaster level
 and spell slots, which it uses to cast its spells of 1st level and
@@ -619,13 +759,16 @@ class or access to its spell list.
 
 A monster can cast a spell from its list at a higher level if it has the
 spell slot to do so. For example, a drow mage with the 3rd-level
-*lightning bolt* spell can cast it as a 5th-level spell by using one of
+*:ref:`lightning bolt`* spell can cast it as a 5th-level spell by using one of
 its 5th-level greater or lesser threat than suggested by its challenge
 rating.
 
 
 Psionics
 ~~~~~~~~
+
+.. index::
+   triple: monster; psionics; trait
 
 A monster that casts spells using only the power of its mind has the
 psionics tag added to its Spellcasting or Innate Spellcasting special
@@ -636,6 +779,9 @@ doesn't require any components to cast its spells.
 
 Actions
 -------
+
+.. index::
+   double: monster; action
 
 When a monster takes its action, it can choose from the options in the
 Actions section of its stat block or use one of the actions available to
@@ -664,7 +810,7 @@ reason, both the average damage and the die expression are presented.
 :bi:`Miss`. If an attack has an effect that occurs on a miss, that
 information is presented after the "Miss:" notation.
 
-**Grapple Rules for Monsters**
+.. sidebar:: Grapple Rules for Monsters
 
     Many monsters have special attacks that allow them to quickly
     grapple prey. When a monster hits with such an attack, it doesn't

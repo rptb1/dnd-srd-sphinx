@@ -48,7 +48,7 @@ and one with its tail.
 
 :bi:`Bite`. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target.
 *Hit:* 21 (3d10 + 5) piercing damage, and the target is grappled (escape
-DC 16). Until this grapple ends, the target is restrained, and the
+DC 16). Until this grapple ends, the target is :ref:`restrained`, and the
 crocodile can't bite another target.
 
 :bi:`Tail`. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target

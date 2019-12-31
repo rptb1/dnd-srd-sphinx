@@ -67,7 +67,7 @@ target. *Hit:* 13 (2d8 + 4) slashing damage.
 :bi:`Tail`. *Melee Weapon Attack:* +9 to hit, reach 10 ft., one
 creature. *Hit:* 15 (2d10 + 4) bludgeoning damage. If the target is
 Medium or smaller, it is grappled (escape DC 19). Until this grapple
-ends, the target is restrained, the marilith can automatically hit the
+ends, the target is :ref:`restrained`, the marilith can automatically hit the
 target with its tail, and the marilith can't make tail attacks against
 other targets.
 

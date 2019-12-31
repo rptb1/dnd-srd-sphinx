@@ -2,6 +2,8 @@
 
 .. index:: ! alignment
 
+.. _Alignment:
+
 =========
 Alignment
 =========

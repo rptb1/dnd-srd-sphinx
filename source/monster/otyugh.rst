@@ -63,7 +63,7 @@ to the target's hit point maximum lasts until the disease is cured.
 :bi:`Tentacle`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one
 target. *Hit:* 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing
 damage. If the target is Medium or smaller, it is grappled (escape DC
-13) and restrained until the grapple ends. The otyugh has two tentacles,
+13) and :ref:`restrained` until the grapple ends. The otyugh has two tentacles,
 each of which can grapple one target.
 
 :bi:`Tentacle Slam`. The otyugh slams creatures grappled by it into each

@@ -34,7 +34,7 @@ Swarm of Insects
 **Damage Resistances** bludgeoning, piercing, slashing
 
 **Condition Immunities** charmed, frightened, grappled, paralyzed,
-petrified, prone, restrained, stunned
+petrified, prone, :ref:`restrained`, stunned
 
 **Senses** blindsight 10 ft., passive Perception 8
 

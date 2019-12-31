@@ -33,7 +33,7 @@ a d8 to determine which color ray affects it.
 5. :bi:`Blue`. The target takes 10d6 cold damage on a failed save, or
    half as much damage on a successful one.
 
-6. :bi:`Indigo`. On a failed save, the target is restrained. It must
+6. :bi:`Indigo`. On a failed save, the target is :ref:`restrained`. It must
    then make a Constitution saving throw at the end of each of its
    turns. If it successfully saves three times, the spell ends. If it
    fails its save three times, it permanently turns to stone and is

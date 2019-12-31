@@ -573,7 +573,7 @@ when you aren't mounted.
 
 .. index:: !net
 
-:bi:`Net`. A Large or smaller creature hit by a net is restrained until
+:bi:`Net`. A Large or smaller creature hit by a net is :ref:`restrained` until
 it is freed. A net has no effect on creatures that are formless, or
 creatures that are Huge or larger. A creature can use its action to make
 a DC 10 Strength check, freeing itself or another creature within its
@@ -1301,6 +1301,8 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
   .. index::
      double: pack; burglar's
 
+.. _`Burglar's pack`:
+
   **Burglar's Pack (16 gp)**. Includes a backpack, a bag of 1,000 ball
   bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer,
   10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a
@@ -1318,6 +1320,8 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
   .. index::
      double: pack; dungoneer's
 
+.. _`Dungeoneer's Pack`:
+
   **Dungeoneer's Pack (12 gp)**. Includes a backpack, a crowbar, a
   hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and
   a waterskin. The pack also has 50 feet of hempen rope strapped to
@@ -1332,6 +1336,8 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
 
   .. index::
      double: pack; explorer's
+
+.. _`Explorer's pack`:
 
   **Explorer's Pack (10 gp)**. Includes a backpack, a bedroll, a mess
   kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin.

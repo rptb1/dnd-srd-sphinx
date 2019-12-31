@@ -145,7 +145,7 @@ suffers the consequences of a failed saving throw.
 
 On a failed save, the cube enters the creature's space, and the creature
 takes 10 (3d6) acid damage and is engulfed. The engulfed creature can't
-breathe, is restrained, and takes 21 (6d6) acid damage at the start of
+breathe, is :ref:`restrained`, and takes 21 (6d6) acid damage at the start of
 each of the cube's turns. When the cube moves, the engulfed creature
 moves with it.
 

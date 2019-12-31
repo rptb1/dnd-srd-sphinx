@@ -61,7 +61,7 @@ Actions
 :bi:`Chain`. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target.
 *Hit:* 11 (2d6 + 4) slashing damage. The target is grappled (escape DC
 14) if the devil isn't already grappling a creature. Until this grapple
-ends, the target is restrained and takes 7 (2d6) piercing damage at the
+ends, the target is :ref:`restrained` and takes 7 (2d6) piercing damage at the
 start of each of its turns.
 
 :bi:`Animate Chains (Recharges after a Short or Long Rest)`. Up to four

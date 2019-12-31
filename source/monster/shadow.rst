@@ -41,7 +41,7 @@ bludgeoning, piercing, and slashing from nonmagical attacks
 **Damage Immunities** necrotic, poison
 
 **Condition Immunities** exhaustion, frightened, grappled, paralyzed,
-petrified, poisoned, prone, restrained
+petrified, poisoned, prone, :ref:`restrained`
 
 **Senses** darkvision 60 ft., passive Perception 10
 

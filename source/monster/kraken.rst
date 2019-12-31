@@ -48,7 +48,7 @@ but can't speak, telepathy 120 ft.
 :bi:`Amphibious`. The kraken can breathe air and water.
 
 :bi:`Freedom of Movement`. The kraken ignores difficult terrain, and
-magical effects can't reduce its speed or cause it to be restrained. It
+magical effects can't reduce its speed or cause it to be :ref:`restrained`. It
 can spend 5 feet of movement to escape from nonmagical restraints or
 being grappled.
 
@@ -66,7 +66,7 @@ which it can replace with one use of Fling.
 *Hit:* 23 (3d8 + 10) piercing damage. If the target is a Large or
 smaller creature grappled by the kraken, that creature is swallowed, and
 the grapple ends. While swallowed, the creature is blinded and
-restrained, it has total cover against attacks and other effects outside
+:ref:`restrained`, it has total cover against attacks and other effects outside
 the kraken, and it takes 42 (12d6) acid damage at the start of each of
 the kraken's turns.
 
@@ -74,13 +74,13 @@ If the kraken takes 50 damage or more on a single turn from a creature
 inside it, the kraken must succeed on a DC 25 Constitution saving throw
 at the end of that turn or regurgitate all swallowed creatures, which
 fall prone in a space within 10 feet of the kraken. If the kraken dies,
-a swallowed creature is no longer restrained by it and can escape from
+a swallowed creature is no longer :ref:`restrained` by it and can escape from
 the corpse using 15 feet of movement, exiting prone.
 
 :bi:`Tentacle`. *Melee Weapon Attack:* +17 to hit, reach 30 ft., one
 target. *Hit:* 20 (3d6 + 10) bludgeoning damage, and the target is
 grappled (escape DC 18). Until this grapple ends, the target is
-restrained. The kraken has ten tentacles, each of which can grapple one
+:ref:`restrained`. The kraken has ten tentacles, each of which can grapple one
 target.
 
 :bi:`Fling`. One Large or smaller object held or creature grappled by

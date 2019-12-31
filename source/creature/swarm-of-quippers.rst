@@ -34,7 +34,7 @@ Swarm of Quippers
 **Damage Resistances** bludgeoning, piercing, slashing
 
 **Condition Immunities** charmed, frightened, grappled, paralyzed,
-petrified, prone, restrained, stunned
+petrified, prone, :ref:`restrained`, stunned
 
 **Senses** darkvision 60 ft., passive Perception 8
 

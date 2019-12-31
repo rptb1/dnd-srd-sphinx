@@ -24,7 +24,7 @@ you switch targets, the prior target is no longer affected by the spell.
 ability check with your spellcasting ability contested by the creature's
 Strength check. If you win the contest, you move the creature up to 30
 feet in any direction, including upward but not beyond the range of this
-spell. Until the end of your next turn, the creature is restrained in
+spell. Until the end of your next turn, the creature is :ref:`restrained` in
 your telekinetic grip. A creature lifted upward is suspended in mid-air.
 
 On subsequent rounds, you can use your action to attempt to maintain

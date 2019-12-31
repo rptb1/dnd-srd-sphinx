@@ -39,7 +39,7 @@ nonmagical attacks
 **Damage Immunities** poison
 
 **Condition Immunities** exhaustion, grappled, paralyzed, petrified,
-poisoned, prone, restrained, unconscious
+poisoned, prone, :ref:`restrained`, unconscious
 
 **Senses** darkvision 60 ft., passive Perception 18
 

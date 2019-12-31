@@ -41,7 +41,7 @@ Basilisk
 basilisk and the two of them can see each other, the basilisk can force
 the creature to make a DC 12 Constitution saving throw if the basilisk
 isn't incapacitated. On a failed save, the creature magically begins to
-turn to stone and is restrained. It must repeat the saving throw at the
+turn to stone and is :ref:`restrained`. It must repeat the saving throw at the
 end of its next turn. On a success, the effect ends. On a failure, the
 creature is petrified until freed by the *greater restoration* spell or
 other magic.

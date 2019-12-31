@@ -74,7 +74,7 @@ action to shake the target awake.
 :bi:`Constrict`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one
 Medium or smaller creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and
 the target is grappled (escape DC 15). Until this grapple ends, the
-target is restrained, and the couatl can't constrict another target.
+target is :ref:`restrained`, and the couatl can't constrict another target.
 
 :bi:`Change Shape`. The couatl magically polymorphs into a humanoid or
 beast that has a challenge rating equal to or less than its own, or back

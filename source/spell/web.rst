@@ -25,12 +25,12 @@ Webs layered over a flat surface have a depth of 5 feet.
 Each creature that starts its turn in the webs or that enters them
 during its turn must make a
 
-Dexterity saving throw. On a failed save, the creature is restrained as
+Dexterity saving throw. On a failed save, the creature is :ref:`restrained` as
 long as it remains in the webs or until it breaks free.
 
-A creature restrained by the webs can use its action to make a Strength
+A creature :ref:`restrained` by the webs can use its action to make a Strength
 check against your spell save DC. If it succeeds, it is no longer
-restrained.
+:ref:`restrained`.
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns
 away in 1 round, dealing 2d4 fire damage to any creature that starts its

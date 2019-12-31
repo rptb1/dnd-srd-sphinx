@@ -38,7 +38,7 @@ silvered
 **Damage Immunities** necrotic, poison
 
 **Condition Immunities** charmed, exhaustion, grappled, paralyzed,
-petrified, poisoned, prone, restrained
+petrified, poisoned, prone, :ref:`restrained`
 
 **Senses** darkvision 60 ft., passive Perception 12
 

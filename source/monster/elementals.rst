@@ -40,7 +40,7 @@ slashing from nonmagical attacks
 **Damage Immunities** poison
 
 **Condition Immunities** exhaustion, grappled, paralyzed, petrified,
-poisoned, prone, restrained, unconscious
+poisoned, prone, :ref:`restrained`, unconscious
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -145,7 +145,7 @@ nonmagical attacks
 **Damage Immunities** fire, poison
 
 **Condition Immunities** exhaustion, grappled, paralyzed, petrified,
-poisoned, prone, restrained, unconscious
+poisoned, prone, :ref:`restrained`, unconscious
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -204,7 +204,7 @@ nonmagical attacks
 **Damage Immunities** poison
 
 **Condition Immunities** exhaustion, grappled, paralyzed, petrified,
-poisoned, prone, restrained, unconscious
+poisoned, prone, :ref:`restrained`, unconscious
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -232,7 +232,7 @@ Actions
 make a DC 15 Strength saving throw. On a failure, a target takes 13
 (2d8+4) bludgeoning damage. If it is Large or smaller, it is also
 grappled (escape DC 14). Until this grapple ends, the target is
-restrained and unable to breathe unless it can breathe water. If the
+:ref:`restrained` and unable to breathe unless it can breathe water. If the
 saving throw is successful, the target is pushed out of the elemental's
 space.
 

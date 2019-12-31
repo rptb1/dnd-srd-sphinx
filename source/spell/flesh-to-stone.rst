@@ -15,11 +15,11 @@ Flesh to Stone
 
 You attempt to turn one creature that you can see within range into
 stone. If the target's body is made of flesh, the creature must make a
-Constitution saving throw. On a failed save, it is restrained as its
+Constitution saving throw. On a failed save, it is :ref:`restrained` as its
 flesh begins to harden. On a successful save, the creature isn't
 affected.
 
-A creature restrained by this spell must make another Constitution
+A creature :ref:`restrained` by this spell must make another Constitution
 saving throw at the end of each of its turns. If it successfully saves
 against this spell three times, the spell ends. If it fails its saves
 three times, it is turned to stone and subjected to the petrified

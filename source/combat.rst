@@ -982,6 +982,8 @@ arrow, or a blast of flame from a *fireball* spell all have the
 potential to damage, or even kill, the hardiest of creatures.
 
 
+.. _Hit Points:
+
 Hit Points
 ----------
 

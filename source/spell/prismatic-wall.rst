@@ -66,7 +66,7 @@ effect on it.
    half as much damage on a successful one. This layer can be destroyed
    by dealing at least 25 fire damage to it.
 
-6. :bi:`Indigo`. On a failed save, the creature is restrained. It must
+6. :bi:`Indigo`. On a failed save, the creature is :ref:`restrained`. It must
    then make a Constitution saving throw at the end of each of its
    turns. If it successfully saves three times, the spell ends. If it
    fails its save three times, it permanently turns to stone and is

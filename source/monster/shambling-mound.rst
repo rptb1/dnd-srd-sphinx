@@ -62,7 +62,7 @@ DC 14), and the shambling mound uses its Engulf on it.
 *Hit:* 13 (2d8 + 4) bludgeoning damage.
 
 :bi:`Engulf`. The shambling mound engulfs a Medium or smaller creature
-grappled by it. The engulfed target is blinded, restrained, and unable
+grappled by it. The engulfed target is blinded, :ref:`restrained`, and unable
 to breathe, and it must succeed on a DC 14 Constitution saving throw at
 the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning
 damage. If the mound moves, the engulfed target moves with it. The mound

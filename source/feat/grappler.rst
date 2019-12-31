@@ -13,4 +13,4 @@ grappling. You gain the following benefits:
 
 -  You can use your action to try to pin a creature grappled by you. To
    do so, make another grapple check. If you succeed, you and the
-   creature are both restrained until the grapple ends.
+   creature are both :ref:`restrained` until the grapple ends.
