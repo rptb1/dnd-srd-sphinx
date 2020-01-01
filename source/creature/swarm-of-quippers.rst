@@ -1,3 +1,5 @@
+.. _Swarm of Quippers:
+
 Swarm of Quippers
 -----------------
 

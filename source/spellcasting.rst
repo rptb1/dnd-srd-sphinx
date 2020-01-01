@@ -30,7 +30,7 @@ releases them to unleash the desired effect — in most cases, all in the
 span of seconds.
 
 Spells can be versatile tools, weapons, or protective wards. They can
-deal damage or undo it, impose or remove conditions (see appendix A),
+deal damage or undo it, impose or remove conditions (see :ref:`Conditions`),
 drain life energy away, and restore life to the dead.
 
 Uncounted thousands of spells have been created over the course of the

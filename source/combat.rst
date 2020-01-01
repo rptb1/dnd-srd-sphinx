@@ -290,7 +290,7 @@ Being Prone
 
 Combatants often find themselves lying on the ground, either because
 they are knocked down or because they throw themselves down. In the
-game, they are :ref:`prone`, a condition described in appendix A.
+game, they are :ref:`prone`, a condition described in :ref:`Conditions`.
 
 .. index:: standing up
 
@@ -549,7 +549,7 @@ When you take the Dodge action, you focus entirely on avoiding attacks.
 Until the start of your next turn, any attack roll made against you has
 disadvantage if you can see the attacker, and you make Dexterity saving
 throws with advantage. You lose this benefit if you are :ref:`incapacitated`
-(as explained in appendix A) or if your speed drops to 0.
+(as explained in :ref:`Conditions`) or if your speed drops to 0.
 
 
 Help
@@ -1227,7 +1227,7 @@ Falling Unconscious
    double: falling; unconscious
 
 If damage reduces you to 0 hit points and fails to kill you, you fall
-:ref:`unconscious` (see appendix A). This unconsciousness ends if you regain
+:ref:`unconscious` (see :ref:`Conditions`). This unconsciousness ends if you regain
 any hit points.
 
 

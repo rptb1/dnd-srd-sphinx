@@ -302,7 +302,7 @@ sight.
 
 A **heavily obscured** area — such as darkness, opaque fog, or dense
 foliage — blocks vision entirely. A creature effectively suffers from the
-:ref:`blinded` condition (see appendix A) when trying to see something in that
+:ref:`blinded` condition (see :ref:`Conditions`) when trying to see something in that
 area.
 
 The presence or absence of light in an environment creates three

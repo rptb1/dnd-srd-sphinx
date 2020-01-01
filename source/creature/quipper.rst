@@ -52,5 +52,5 @@ Actions
 A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt
 to any aquatic environment, including cold subterranean lakes. They
 frequently gather in swarms; the statistics for a swarm of quippers
-appear later in this appendix.
+appear later in :ref:`Swarm of Quippers`.
 

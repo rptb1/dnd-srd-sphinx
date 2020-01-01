@@ -2,10 +2,11 @@
 
 .. Origin: SRD p360 "Appendix PH-B: Fantasy-Historical Pantheons"
 
+.. _Pantheons:
 
-=========
-Pantheons
-=========
+============================
+Fantasy-Historical Pantheons
+============================
 
 The Celtic, Egyptian, Greek, and Norse pantheons are fantasy
 interpretations of historical religions from our world's ancient times.

@@ -1,8 +1,12 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
-====
-NPCs
-====
+.. Origin: SRD p395 "Appendix MM-B: Nonplayer Characters"
+
+.. _NPCs:
+
+====================
+Nonplayer Characters
+====================
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
@@ -28,7 +32,7 @@ used to represent both human and nonhuman NPCs.
 Customizing NPCs
 ================
 
-There are many easy ways to customize the NPCs in this appendix for your
+There are many easy ways to customize the NPCs in this :ref:`NPCs` for your
 home campaign.
 
 :bi:`Racial Traits`. You can add racial traits to an NPC. For example, a

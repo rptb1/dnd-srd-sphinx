@@ -1,7 +1,10 @@
-.. NOTE: In the SRD this is titled "Appendix PH-A: Conditions"
+.. -*- mode: rst; coding: utf-8 -*-
+
+.. Origin: SRD p358 "Appendix PH-A: Conditions"
 
 .. _Conditions:
 
+==========
 Conditions
 ==========
 
