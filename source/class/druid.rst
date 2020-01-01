@@ -184,25 +184,6 @@ Spellcasting Focus
 You can use a druidic focus (see :ref:`Equipment`) as a
 spellcasting focus for your druid spells.
 
-**Sacred Plants and Wood**
-
-    A druid holds certain plants to be sacred, particularly alder, ash,
-    birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow,
-    and yew. Druids often use such plants as part of a spellcasting
-    focus, incorporating lengths of oak or yew or sprigs of mistletoe.
-
-    Similarly, a druid uses such woods to make other objects, such as
-    weapons and shields. Yew is associated with death and rebirth, so
-    weapon handles for scimitars or sickles might be fashioned from it.
-    Ash is associated with life and oak with strength. These woods make
-    excellent hafts or whole weapons, such as clubs or quarterstaffs, as
-    well as shields. Alder is associated with air, and it might be used
-    for thrown weapons, such as darts or javelins.
-
-    Druids from regions that lack the plants described here have chosen
-    other plants to take on similar uses. For instance, a druid of a
-    desert region might value the yucca tree and cactus plants.
-
 
 Wild Shape
 ~~~~~~~~~~
@@ -506,7 +487,28 @@ successful save, the creature is immune to this effect for 24 hours.
 The creature is aware of this effect before it makes its attack against
 you.
 
-**Druids and the Gods**
+
+.. topic:: Sacred Plants and Wood
+
+    A druid holds certain plants to be sacred, particularly alder, ash,
+    birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow,
+    and yew. Druids often use such plants as part of a spellcasting
+    focus, incorporating lengths of oak or yew or sprigs of mistletoe.
+
+    Similarly, a druid uses such woods to make other objects, such as
+    weapons and shields. Yew is associated with death and rebirth, so
+    weapon handles for scimitars or sickles might be fashioned from it.
+    Ash is associated with life and oak with strength. These woods make
+    excellent hafts or whole weapons, such as clubs or quarterstaffs, as
+    well as shields. Alder is associated with air, and it might be used
+    for thrown weapons, such as darts or javelins.
+
+    Druids from regions that lack the plants described here have chosen
+    other plants to take on similar uses. For instance, a druid of a
+    desert region might value the yucca tree and cactus plants.
+
+
+.. topic:: Druids and the Gods
 
     Some druids venerate the forces of nature themselves, but most
     druids are devoted to one of the many nature deities worshiped in

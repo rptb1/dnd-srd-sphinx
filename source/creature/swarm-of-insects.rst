@@ -55,7 +55,7 @@ Actions
 in the swarm's space. *Hit:* 10 (4d4) piercing damage, or 5 (2d4)
 piercing damage if the swarm has half of its hit points or fewer.
 
-**Variant: Insect Swarms**
+.. topic:: Variant: Insect Swarms
 
     Different kinds of insects can gather in swarms, and each swarm has
     the special characteristics described below.

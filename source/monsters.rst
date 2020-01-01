@@ -473,7 +473,7 @@ Other modifiers might apply. For instance, a monster might have a
 larger-than-expected bonus (usually double its proficiency bonus) to
 account for its heightened expertise.
 
-.. sidebar:: Armor, Weapon, and Tool Proficiencies
+.. topic:: Armor, Weapon, and Tool Proficiencies
 
     .. index::
        double: monster; proficiency
@@ -815,7 +815,7 @@ reason, both the average damage and the die expression are presented.
 :bi:`Miss`. If an attack has an effect that occurs on a miss, that
 information is presented after the "Miss:" notation.
 
-.. sidebar:: Grapple Rules for Monsters
+.. topic:: Grapple Rules for Monsters
 
     Many monsters have special attacks that allow them to quickly
     grapple prey. When a monster hits with such an attack, it doesn't

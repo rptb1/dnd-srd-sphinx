@@ -41,7 +41,7 @@ initiative. Once everyone has taken a turn, the fight continues to the
 next round if neither side has defeated the other.
 
 
-.. sidebar:: Combat Step by Step
+.. topic:: Combat Step by Step
 
   1. **Determine surprise.** The GM determines whether anyone involved in
      the combat encounter is surprised.
@@ -906,7 +906,7 @@ the :ref:`grappled` creature with you, but your speed is halved, unless the
 creature is two or more sizes smaller than you.
 
 
-.. sidebar:: Contests in Combat
+.. topic:: Contests in Combat
 
     Battle often involves pitting your prowess against that of your foe.
     Such a challenge is represented by a contest. This section includes

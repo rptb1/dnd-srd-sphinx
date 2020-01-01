@@ -1294,7 +1294,7 @@ melee attack with a burning torch and hit, it deals 1 fire damage.
 .. index:: ! pack
    double: equipment; packs
 
-.. sidebar:: Equipment Packs
+.. topic:: Equipment Packs
 
   The starting equipment you get from your class includes a collection
   of useful adventuring gear, put together in a pack. The contents of
@@ -1876,7 +1876,7 @@ greater the chance you will be drawn into political intrigue as a pawn
 or participant.
 
 
-.. sidebar:: Self-Sufficiency
+.. topic:: Self-Sufficiency
 
   .. index:: ! self-sufficiency
      double: lifestyle; self-sufficient

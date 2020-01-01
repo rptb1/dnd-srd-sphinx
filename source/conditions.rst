@@ -99,7 +99,7 @@ Deafened
 
 .. _exhaustion:
 
-.. sidebar:: Exhaustion
+.. topic:: Exhaustion
 
   .. index:: ! exhaustion
      triple: exhaustion; special; condition

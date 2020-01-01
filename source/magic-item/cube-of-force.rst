@@ -38,25 +38,25 @@ If your movement causes the barrier to come into contact with a solid
 object that can't pass through the cube, you can't move any closer to
 that object as long as the barrier remains.
 
-**Cube of Force Faces**
+.. table:: Cube of Force Faces
 
-+------+---------+--------------------------------------------------------------+
-| Face | Charges | Effect                                                       |
-+======+=========+==============================================================+
-| 1    | 1       | Gases, wind, and fog can't pass through the barrier.         |
-+------+---------+--------------------------------------------------------------+
-| 2    | 2       | Nonliving matter can't pass through the barrier. Walls,      |
-|      |         | floors, and ceilings can pass through at your discretion.    |
-+------+---------+--------------------------------------------------------------+
-| 3    | 3       | Living matter can't pass through the barrier.                |
-+------+---------+--------------------------------------------------------------+
-| 4    | 4       | Spell effects can't pass through the barrier.                |
-+------+---------+--------------------------------------------------------------+
-| 5    | 5       | Nothing can pass through the barrier. Walls, floors, and     |
-|      |         | ceilings can pass through at your discretion.                |
-+------+---------+--------------------------------------------------------------+
-| 6    | 0       | The barrier deactivates.                                     |
-+------+---------+--------------------------------------------------------------+
+  +------+---------+--------------------------------------------------------------+
+  | Face | Charges | Effect                                                       |
+  +======+=========+==============================================================+
+  | 1    | 1       | Gases, wind, and fog can't pass through the barrier.         |
+  +------+---------+--------------------------------------------------------------+
+  | 2    | 2       | Nonliving matter can't pass through the barrier. Walls,      |
+  |      |         | floors, and ceilings can pass through at your discretion.    |
+  +------+---------+--------------------------------------------------------------+
+  | 3    | 3       | Living matter can't pass through the barrier.                |
+  +------+---------+--------------------------------------------------------------+
+  | 4    | 4       | Spell effects can't pass through the barrier.                |
+  +------+---------+--------------------------------------------------------------+
+  | 5    | 5       | Nothing can pass through the barrier. Walls, floors, and     |
+  |      |         | ceilings can pass through at your discretion.                |
+  +------+---------+--------------------------------------------------------------+
+  | 6    | 0       | The barrier deactivates.                                     |
+  +------+---------+--------------------------------------------------------------+
 
 The cube loses charges when the barrier is targeted by certain spells or
 comes into contact with certain spell or magic item effects, as shown in

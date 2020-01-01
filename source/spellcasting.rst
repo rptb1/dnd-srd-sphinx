@@ -558,7 +558,7 @@ that you have disadvantage on a ranged attack roll if you are within 5
 feet of a hostile creature that can see you and that isn't
 :ref:`incapacitated`.
 
-.. sidebar:: The Schools of Magic
+.. topic:: The Schools of Magic
 
   .. index:: ! school of magic
      double: magic; school

@@ -133,7 +133,7 @@ At 1st level, you have a spellbook containing six 1st- level wizard
 spells of your choice. Your spellbook is the repository of the wizard
 spells you know, except your cantrips, which are fixed in your mind.
 
-**Your Spellbook**
+.. topic:: Your Spellbook
 
     The spells that you add to your spellbook as you gain levels reflect
     the arcane research you conduct on your own, as well as intellectual

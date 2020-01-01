@@ -283,7 +283,7 @@ receive a replacement from your patron. This ceremony can be performed
 during a short or long rest, and it destroys the previous book. The book
 turns to ash when you die.
 
-**Your Pact Boon**
+.. topic:: Your Pact Boon
 
     Each Pact Boon option produces a special creature or an object that
     reflects your patron's nature.
