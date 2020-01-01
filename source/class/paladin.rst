@@ -346,6 +346,9 @@ At 18th level, the range of this aura increases to 30 feet.
 Aura of Courage
 ~~~~~~~~~~~~~~~
 
+.. index::
+   single: frightened; immunity by paladin aura of courage
+
 Starting at 10th level, you and friendly creatures within 10 feet of you
 can't be :ref:`frightened` while you are conscious.
 

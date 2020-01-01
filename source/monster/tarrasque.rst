@@ -84,6 +84,9 @@ target. *Hit:* 32 (4d10 + 10) piercing damage.
 *Hit:* 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it
 must succeed on a DC 20 Strength saving throw or be knocked :ref:`prone`.
 
+.. index::
+   single: frightened; by tarrasque presence
+
 :bi:`Frightful Presence`. Each creature of the tarrasque's choice within
 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving
 throw or become :ref:`frightened` for 1 minute. A creature can repeat the

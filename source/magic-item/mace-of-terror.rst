@@ -19,6 +19,9 @@ Mace of Terror
 
 *Weapon (mace), rare (requires attunement)*
 
+.. index::
+   single: frightened; by mace of terror
+
 This magic weapon has 3 charges. While holding it, you can use an action
 and expend 1 charge to release a wave of terror. Each creature of your
 choice in a 30-foot radius extending from you must succeed on a DC 15

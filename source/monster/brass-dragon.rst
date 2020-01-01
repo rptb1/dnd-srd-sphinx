@@ -65,6 +65,9 @@ makes three attacks: one with its bite and two with its claws.
 :bi:`Tail`. *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target.
 *Hit:* 17 (2d8 + 8) bludgeoning damage.
 
+.. index::
+   single: frightened; by ancient brass dragon
+
 :bi:`Frightful Presence`. Each creature of the dragon's choice that is
 within 120 feet of the dragon and aware of it must succeed on a DC 18
 Wisdom saving throw or become :ref:`frightened` for 1 minute. A creature can
@@ -164,6 +167,9 @@ makes three attacks: one with its bite and two with its claws.
 
 :bi:`Tail`. *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target.
 *Hit:* 15 (2d8 + 6) bludgeoning damage.
+
+.. index::
+   single: frightened; by adult brass dragon
 
 :bi:`Frightful Presence`. Each creature of the dragon's choice that is
 within 120 feet of the dragon and aware of it must succeed on a DC 16

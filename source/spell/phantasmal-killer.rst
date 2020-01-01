@@ -13,6 +13,9 @@ Phantasmal Killer
 
 **Duration:** Concentration, up to 1 minute
 
+.. index::
+   single: frightened; by phantasmal killer spell
+
 You tap into the nightmares of a creature you can see within range and
 create an illusory manifestation of its deepest fears, visible only to
 that creature. The target must make a Wisdom saving throw. On a failed

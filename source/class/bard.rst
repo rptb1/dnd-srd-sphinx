@@ -292,6 +292,10 @@ of Bardic Inspiration when you finish a short or long rest.
 Countercharm
 ~~~~~~~~~~~~
 
+.. index::
+   single: frightened; resistance from bard countercharm
+   single: charmed; resistance from bard countercharm
+
 At 6th level, you gain the ability to use musical notes or words of
 power to disrupt mind-influencing effects. As an action, you can start a
 performance that lasts until the end of your next turn. During that

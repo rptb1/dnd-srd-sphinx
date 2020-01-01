@@ -18,6 +18,10 @@ Until the spell ends, one willing creature you touch is protected
 against certain types of creatures: aberrations, celestials, elementals,
 fey, fiends, and undead.
 
+.. index::
+   single: charmed; immunity by protection from evil and good spell
+   single: frightened; immunity by protection from evil and good spell
+
 The protection grants several benefits. Creatures of those types have
 disadvantage on attack rolls against the target. The target also can't
 be :ref:`charmed`, :ref:`frightened`, or possessed by them. If the target is already

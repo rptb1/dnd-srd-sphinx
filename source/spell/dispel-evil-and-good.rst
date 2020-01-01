@@ -21,6 +21,10 @@ attack rolls against you.
 You can end the spell early by using either of the following special
 functions.
 
+.. index::
+   single: frightened; cured by dispell evil and good
+   single: charmed; cured by dispell evil and good
+
 :bi:`Break Enchantment`. As your action, you touch a creature you can
 reach that is :ref:`charmed`, :ref:`frightened`, or possessed by a celestial, an
 elemental, a fey, a fiend, or an undead. The creature you touch is no

@@ -470,6 +470,12 @@ by the *entangle* spell.
 Nature's Ward
 ^^^^^^^^^^^^^
 
+.. index::
+   single: frightened; immunity by druid nature's ward
+   single: charmed; immunity by druid nature's ward
+   single: poison; immunity by druid nature's ward
+   single: disease; immunity by druid nature's ward
+
 When you reach 10th level, you can't be :ref:`charmed` or :ref:`frightened` by
 elementals or fey, and you are immune to poison and disease.
 

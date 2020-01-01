@@ -30,6 +30,10 @@ chosen type in the following ways:
 -  The creature has disadvantage on attack rolls against targets within
    the cylinder.
 
+.. index::
+   single: frightened; immunity by magic circle
+   single: charmed; immunity by magic circle
+
 -  Targets within the cylinder can't be :ref:`charmed`, :ref:`frightened`, or
    possessed by the creature.
 

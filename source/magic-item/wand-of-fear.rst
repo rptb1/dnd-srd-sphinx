@@ -27,6 +27,9 @@ roll a d20. On a 1, the wand crumbles into ashes and is destroyed.
 charge and command another creature to flee or grovel, as with the
 *command* spell (save DC 15).
 
+.. index::
+   single: frightened; by wand of fear
+
 :bi:`Cone of Fear`. While holding the wand, you can use an action to
 expend 2 charges, causing the wand's tip to emit a 60-foot cone of amber
 light. Each creature in the cone must succeed on a DC 15 Wisdom saving

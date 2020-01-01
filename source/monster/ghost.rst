@@ -64,6 +64,9 @@ Material Plane, or vice versa. It is visible on the Material Plane while
 it is in the Border Ethereal, and vice versa, yet it can't affect or be
 affected by anything on the other plane.
 
+.. index::
+   single: frightened; by ghost horrifying visage
+
 :bi:`Horrifying Visage`. Each non-undead creature within 60 feet of the
 ghost that can see it must succeed on a DC 13 Wisdom saving throw or be
 :ref:`frightened` for 1 minute. If the save fails by 5 or more, the target also
@@ -73,6 +76,9 @@ on a success. If a target's saving throw is successful or the effect
 ends for it, the target is immune to this ghost's Horrifying Visage for
 the next 24 hours. The aging effect can be reversed with a *greater
 restoration* spell, but only within 24 hours of it occurring.
+
+.. index::
+   single: incapacitated; by ghost posession
 
 :bi:`Possession (Recharge 6)`. One humanoid that the ghost can see
 within 5 feet of it must succeed on a DC 13 Charisma saving throw or be

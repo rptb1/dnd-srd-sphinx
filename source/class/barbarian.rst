@@ -264,6 +264,9 @@ battle, heedless of your own health or well-being.
 Frenzy
 ''''''
 
+.. index::
+   single: exhaustion; by barbarian frenzy
+
 Starting when you choose this path at 3rd level, you can go into a
 frenzy when you rage. If you do so, for the duration of your rage you
 can make a single melee weapon attack as a bonus action on each of your
@@ -274,6 +277,10 @@ turns after this one. When your rage ends, you suffer one level of
 Mindless Rage
 '''''''''''''
 
+.. index::
+   single: charmed; immunity by barbarian Mindless Rage
+   single: frightened; immunity by barbarian Mindless Rage
+
 Beginning at 6th level, you can't be :ref:`charmed` or :ref:`frightened` while raging.
 If you are :ref:`charmed` or :ref:`frightened` when you enter your rage, the effect is
 suspended for the duration of the rage.
@@ -281,6 +288,9 @@ suspended for the duration of the rage.
 
 Intimidating Presence
 '''''''''''''''''''''
+
+.. index::
+   single: frightened; by barbarian intimidating presence
 
 Beginning at 10th level, you can use your action to frighten someone
 with your menacing presence. When you do so, choose one creature that

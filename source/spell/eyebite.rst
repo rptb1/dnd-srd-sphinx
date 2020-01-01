@@ -25,6 +25,9 @@ saving throw against this casting of *eyebite*.
 damage or if another creature uses its action to shake the sleeper
 awake.
 
+.. index::
+   single: frightened; by eyebite spell
+
 :bi:`Panicked`. The target is :ref:`frightened` of you. On each of its turns,
 the :ref:`frightened` creature must take the Dash action and move away from you
 by the safest and shortest available route, unless there is nowhere to

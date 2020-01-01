@@ -22,6 +22,9 @@ invest the target with an aura that either attracts or repels the
 specified creatures for the duration. Choose antipathy or sympathy as
 the aura's effect.
 
+.. index::
+   single: frightened; by antipathy spell
+
 :bi:`Antipathy`. The enchantment causes creatures of the kind you
 designated to feel an intense urge to leave the area and avoid the
 target. When such a creature can see the target or comes within 60 feet

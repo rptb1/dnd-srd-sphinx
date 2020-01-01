@@ -487,6 +487,10 @@ wings might be destroyed when you manifest them.
 Draconic Presence
 ^^^^^^^^^^^^^^^^^
 
+.. index::
+   single: charmed; by sorceror draconic presence
+   single: frightened; by sorceror draconic presence
+
 Beginning at 18th level, you can channel the dread presence of your
 dragon ancestor, causing those around you to become awestruck or
 :ref:`frightened`. As an action, you can spend 5 sorcery points to draw on this

@@ -68,6 +68,10 @@ for every 24 hours that elapse. If the curse reduces the target's hit
 point maximum to 0, the target dies, and its body turns to dust. The
 curse lasts until removed by the *remove curse* spell or other magic.
 
+.. index::
+   single: frightened; by mummy glare
+   single: paralyzed; by mummy glare
+
 :bi:`Dreadful Glare`. The mummy targets one creature it can see within
 60 feet of it. If the target can see the mummy, it must succeed on a DC
 11 Wisdom saving throw against this magic or become :ref:`frightened` until the
@@ -75,6 +79,7 @@ end of the mummy's next turn. If the target fails the saving throw by 5
 or more, it is also :ref:`paralyzed` for the same duration. A target that
 succeeds on the saving throw is immune to the Dreadful Glare of all
 mummies (but not mummy lords) for the next 24 hours.
+
 
 Mummy Lord
 ~~~~~~~~~~
@@ -152,6 +157,10 @@ for every 24 hours that elapse. If the curse reduces the target's hit
 point maximum to 0, the target dies, and its body turns to dust. The
 curse lasts until removed by the *remove curse* spell or other magic.
 
+.. index::
+   single: frightened; by mummy lord glare
+   single: paralyzed; by mummy lord glare
+
 :bi:`Dreadful Glare`. The mummy lord targets one creature it can see
 within 60 feet of it. If the target can see the mummy lord, it must
 succeed on a DC 16 Wisdom saving throw against this magic or become
@@ -173,7 +182,7 @@ legendary actions at the start of its turn.
 uses its Dreadful Glare.
 
 .. index::
-   single: blinded; by mummy dust
+   single: blinded; by mummy lord dust
 
 **Blinding Dust**. Blinding dust and sand swirls magically around the
 mummy lord. Each creature within 5 feet of the mummy lord must succeed
@@ -181,7 +190,7 @@ on a DC 16 Constitution saving throw or be :ref:`blinded` until the end of the
 creature's next turn.
 
 .. index::
-   single: stunned; by mummy blasphemy
+   single: stunned; by mummy lord blasphemy
 
 **Blasphemous Word (Costs 2 Actions)**. The mummy lord utters a
 blasphemous word. Each non-undead creature within 10 feet of the mummy

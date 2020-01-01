@@ -13,6 +13,9 @@ Heroism
 
 **Duration:** Concentration, up to 1 minute
 
+.. index::
+   single: frightened; immunity by heroism spell
+
 A willing creature you touch is imbued with bravery. Until the spell
 ends, the creature is immune to being :ref:`frightened` and gains temporary hit
 points equal to your spellcasting ability modifier at the start of each

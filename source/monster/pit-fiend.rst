@@ -46,6 +46,9 @@ nonmagical attacks that aren't silvered
 
 **Challenge** 20 (25,000 XP)
 
+.. index::
+   single: frightened; by pit fiend aura
+
 :bi:`Fear Aura`. Any creature hostile to the pit fiend that starts its
 turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving
 throw, unless the pit fiend is :ref:`incapacitated`. On a failed save, the

@@ -413,6 +413,9 @@ disadvantage.
 gain a +4 bonus to AC against all subsequent attacks made by that
 creature for the rest of the turn.
 
+.. index::
+   single: frightened; resistance from ranger defensive tactics
+
 :bi:`Steel Will`. You have advantage on saving throws against being
 :ref:`frightened`.
 

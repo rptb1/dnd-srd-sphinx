@@ -19,6 +19,8 @@ Pipes of Haunting
 
 *Wondrous item, uncommon*
 
+.. index:: frightened; by pipes of haunting
+
 You must be proficient with wind instruments to use these pipes. They
 have 3 charges. You can use an action to play them and expend 1 charge
 to create an eerie, spellbinding tune. Each creature within 30 feet of
