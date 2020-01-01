@@ -3,6 +3,8 @@
 .. index:: ! leveling, ! gaining a level
    double: level; gain
 
+.. _`Beyond 1st Level`:
+
 ================
 Beyond 1st Level
 ================
@@ -54,6 +56,8 @@ The Character Advancement table summarizes the XP you need to advance in
 levels from level 1 through level 20, and the proficiency bonus for a
 character of that level. Consult the information in your character's
 class description to see what other improvements you gain at each level.
+
+.. _Character Advancement:
 
 .. table:: Character Advancement
 

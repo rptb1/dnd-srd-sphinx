@@ -487,7 +487,7 @@ attack a target beyond the weapon's long range.
 
 :bi:`Reach`. This weapon adds 5 feet to your reach when you attack with
 it, as well as when determining your reach for opportunity attacks with
-it (see chapter 9).
+it (see :ref:`Combat`).
 
 :bi:`Special`. A weapon with the special property has unusual rules
 governing its use, explained in the weapon's description (see :ref:`Special

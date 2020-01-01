@@ -131,10 +131,11 @@ d10 Hit Dice and five d8 Hit Dice.
 Proficiency Bonus
 -----------------
 
-Your proficiency bonus is always based on your total character level, as
-shown in the Character Advancement table in chapter 1, not your level in
-a particular class. For example, if you are a fighter 3/rogue 2, you
-have the proficiency bonus of a 5th- level character, which is +3.
+Your proficiency bonus is always based on your total character level,
+as shown in the :ref:`Character Advancement` table in :ref:`Beyond 1st
+Level`, not your level in a particular class. For example, if you are
+a fighter 3/rogue 2, you have the proficiency bonus of a 5th- level
+character, which is +3.
 
 
 .. index:: multiclass; proficiencies
