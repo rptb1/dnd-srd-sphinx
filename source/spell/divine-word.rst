@@ -19,11 +19,13 @@ range. Each creature that can hear you must make a Charisma saving
 throw. On a failed save, a creature suffers an effect based on its
 current hit points:
 
+.. index::
+   single: deafened; by divine word
+
 -  50 hit points or fewer: :ref:`deafened` for 1 minute
 
 .. index::
    single: blinded; by divine word
-   single: deafened; by divine word
 
 -  40 hit points or fewer: :ref:`deafened` and :ref:`blinded` for 10 minutes
 

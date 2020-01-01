@@ -13,6 +13,9 @@ Silence
 
 **Duration:** Concentration, up to 10 minutes
 
+.. index::
+   single: deafened; by silence spell
+
 For the duration, no sound can be created within or pass through a
 20-foot radius sphere centered on a point you choose within range. Any
 creature or object entirely inside the sphere is immune to thunder

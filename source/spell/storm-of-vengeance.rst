@@ -13,6 +13,9 @@ Storm of Vengeance
 
 **Duration:** Concentration, up to 1 minute
 
+.. index::
+   single: deafened; by storm of vengeance spell
+
 A churning storm cloud forms, centered on a point you can see and
 spreading to a radius of 360 feet. Lightning flashes in the area,
 thunder booms, and strong winds roar. Each creature under the cloud (no
