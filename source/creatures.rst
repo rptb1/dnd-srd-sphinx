@@ -1,10 +1,13 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
 .. Origin: SRD p366 "Appendix MM-A: Miscellaneous Creatures"
+.. Origin: [Todo: Not in BR]
 
-=========
-Creatures
-=========
+.. _Creatures:
+
+=======================
+Miscellaneous Creatures
+=======================
 
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext

@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p60 "Backgrounds"
+.. Origin: BR p38 "Backgrounds" starting with subsection "Proficiencies"
+
 .. index::
    double: background; traits
 

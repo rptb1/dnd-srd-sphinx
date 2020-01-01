@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p261 "Monsters (A)"
+.. Origin: SRD p115 "Monster Stat Blocks"
+
+.. _Monster Descriptions:
+
 ====================
 Monster Descriptions
 ====================

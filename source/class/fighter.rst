@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p24 "Fighter"
+.. Origin: BR p26 "Fighter"
+
+.. _Fighter:
+
 =======
 Fighter
 =======

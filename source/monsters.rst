@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p254 "Monsters"
+.. Origin: BR p110 "Monsters"
+
+.. _Monsters:
+
 ========
 Monsters
 ========

@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p62 "Equipment"
+.. Origin: BR p45 "Equipment"
+
 .. _Equipment:
 
 =========

@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p58 "Alignment"
+.. Origin: BR p35 "Alignment"
+
 .. index:: ! alignment
 
 .. _Alignment:

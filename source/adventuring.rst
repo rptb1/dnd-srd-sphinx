@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p84 "Time"
+.. Origin: BR p66 "Adventuring"
+
 .. _Adventuring:
 
 ===========
@@ -21,6 +24,11 @@ Adventuring
 .. role:: bi
    :class: bolditalic
 
+
+.. Origin: SRD p84 "Time"
+.. Origin: BR p66 "Adventuring" subsection "Time"
+
+.. _Time:
 
 Time
 ====
@@ -51,6 +59,11 @@ journey.
 In combat and other fast-paced situations, the game relies on
 **rounds**, a 6-second span of time.
 
+
+.. Origin: SRD p84 "Movement"
+.. Origin: BR p66 "Adventuring" subsection "Movement"
+
+.. _Movement:
 
 Movement
 ========
@@ -237,6 +250,11 @@ You can extend your arms half your height above yourself during the
 jump. Thus, you can reach above you a distance equal to the height of
 the jump plus 1½ times your height.
 
+
+.. Origin: SRD p86 "The Environment"
+.. Origin: BR p68 "Adventuring" subsection "The Environment"
+
+.. _The Environment:
 
 The Environment
 ===============
@@ -457,6 +475,11 @@ A character can also attempt a Strength check to break an object. The GM
 sets the DC for any such check.
 
 
+.. Origin: SRD p87 "Resting"
+.. Origin: BR p70 "Adventuring" subsection "Resting"
+
+.. _Resting:
+
 Resting
 =======
 
@@ -522,6 +545,11 @@ A character can't benefit from more than one long rest in a 24-hour
 period, and a character must have at least 1 hit point at the start of
 the rest to gain its benefits.
 
+
+.. Origin: SRD p88 "Between Adventures"
+.. Origin: BR p70 "Adventuring" subsection "Between Adventures"
+
+.. _Between Adventures:
 
 Between Adventures
 ==================

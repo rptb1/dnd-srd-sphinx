@@ -1,3 +1,10 @@
+.. -*- mode: rst; coding: utf-8 -*-
+
+.. Origin: SRD p201 "Madness"
+.. Origin: [Todo: Not in BR]
+
+.. _Madness:
+
 Madness
 -------
 

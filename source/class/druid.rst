@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p19 "Druid"
+.. Origin: [Todo: Not in BR]
+
+.. _Druid:
+
 =====
 Druid
 =====

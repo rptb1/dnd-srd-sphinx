@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p114 "Spell Descriptions"
+.. Origin: BR p87 "Spell Descriptions"
+
+.. _Spell Descriptions:
+
 ==================
 Spell Descriptions
 ==================

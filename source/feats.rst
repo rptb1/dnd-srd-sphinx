@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p75 "Feats"
+.. Origin: BR p58 "Feats"
+
+.. _Feats:
+
 =====
 Feats
 =====

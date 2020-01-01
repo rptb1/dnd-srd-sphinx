@@ -1,6 +1,7 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
 .. Origin: SRD p358 "Appendix PH-A: Conditions"
+.. Origin: BR p171 "Appendix A: Conditions"
 
 .. _Conditions:
 

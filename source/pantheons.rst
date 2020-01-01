@@ -1,6 +1,7 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
 .. Origin: SRD p360 "Appendix PH-B: Fantasy-Historical Pantheons"
+.. Origin: BR p172 "Appendix B: Gods of the Multiverse"
 
 .. _Pantheons:
 

@@ -1,6 +1,11 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p56 "Multiclassing"
+.. Origin: BR p58 "Multiclassing"
+
 .. index:: ! multiclassing
+
+.. _Multiclassing:
 
 =============
 Multiclassing

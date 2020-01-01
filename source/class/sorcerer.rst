@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p42 "Sorcerer"
+.. Origin: [Todo: Not in BR]
+
+.. _Sorcerer:
+
 ========
 Sorcerer
 ========

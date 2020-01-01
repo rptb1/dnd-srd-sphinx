@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p39 "Rogue"
+.. Origin: BR p28 "Rogue"
+
 .. index:: ! rogue
    double: rogue; class
 

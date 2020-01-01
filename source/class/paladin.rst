@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p30 "Paladin"
+.. Origin: [Todo: Not in BR]
+
+.. _Paladin:
+
 =======
 Paladin
 =======

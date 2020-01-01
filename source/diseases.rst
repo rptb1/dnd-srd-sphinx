@@ -1,3 +1,10 @@
+.. -*- mode: rst; coding: utf-8 -*-
+
+.. Origin: SRD p199 "Diseases"
+.. Origin: [Todo: Not in BR]
+   
+.. _Diseases:
+
 Diseases
 --------
 

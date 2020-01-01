@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p15 "Cleric"
+.. Origin: BR p22 "Cleric"
+
+.. _Cleric:
+
 ======
 Cleric
 ======

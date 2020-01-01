@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p59 "Inspiration"
+.. Origin: BR p37 "Inspiration"
+
 .. index:: ! inspiration
 
 ===========

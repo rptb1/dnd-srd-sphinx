@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p3 "Races"
+.. Origin: BR p13 "Races"
+
+.. _Races:
+
 =====
 Races
 =====

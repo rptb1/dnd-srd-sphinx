@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p35 "Ranger"
+.. Origin: [Todo: Not in BR]
+
+.. _Ranger:
+
 ======
 Ranger
 ======

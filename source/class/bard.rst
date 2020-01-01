@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p11 "Bard"
+.. Origin: [Todo: Not in BR]
+
+.. _Bard:
+
 ====
 Bard
 ====

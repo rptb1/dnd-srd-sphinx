@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p100 "Spellcasting"
+.. Origin: BR p82 "Spellcasting"
+
 .. _Spellcasting:
 
 ============

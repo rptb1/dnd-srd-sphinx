@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p8 "Barbarian"
+.. Origin: BR p22 "Classes"
+
 =======
 Classes
 =======

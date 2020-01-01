@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p52 "Wizard"
+.. Origin: BR P31 "Wizard"
+
+.. _Wizard:
+
 ======
 Wizard
 ======

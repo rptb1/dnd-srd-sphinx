@@ -1,3 +1,10 @@
+.. -*- mode: rst; coding: utf-8 -*-
+
+.. Origin: SRD p195 "Traps"
+.. Origin: [Todo: Not in BR]
+
+.. _Traps:
+
 =====
 Traps
 =====

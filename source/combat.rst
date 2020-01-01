@@ -1,5 +1,7 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: BR p72 "Combat"
+
 .. _Combat:
 
 ======
@@ -20,6 +22,8 @@ Combat
 .. role:: bi
    :class: bolditalic
 
+
+.. Origin: SRD p90 "The Order of Combat"
 
 The Order of Combat
 ===================

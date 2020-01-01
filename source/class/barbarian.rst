@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p8 "Barbarian"
+.. Origin: [Todo: not in BR]
+
+.. _Barbarian:
+
 =========
 Barbarian
 =========

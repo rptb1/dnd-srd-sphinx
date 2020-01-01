@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p26 "Monk"
+.. Origin: [Todo: Not in BR]
+
+.. _Monk:
+
 ====
 Monk
 ====

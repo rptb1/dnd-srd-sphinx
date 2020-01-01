@@ -1,7 +1,12 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p3 "Races" subsection "Racial Traits"
+.. Origin: BR p13 "Races" subsection "Racial Traits"
+
 .. index:: ! racial traits
    double: race; traits
+
+.. _Racial Traits:
 
 =============
 Racial Traits

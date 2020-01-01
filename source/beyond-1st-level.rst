@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p56 "Beyond 1st Level"
+.. Origin: BR p12 "Beyond 1st Level"
+
 .. index:: ! leveling, ! gaining a level
    double: level; gain
 

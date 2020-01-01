@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p76 "Using Ability Scores"
+.. Origin: BR p60 "Chapter 7: Using Ability Scores"
+
 .. index:: ! abilities
 
 .. _Using Ability Scores:

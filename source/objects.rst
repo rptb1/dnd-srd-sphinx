@@ -1,3 +1,10 @@
+.. -*- mode: rst; coding: utf-8 -*-
+
+.. Origin: SRD p203 "Objects"
+.. Origin: [Todo: Not in BR]
+
+.. _Objects:
+
 Objects
 -------
 

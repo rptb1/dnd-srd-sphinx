@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p59 "Languages"
+.. Origin: BR p36 "Languages"
+
 .. index:: ! languages
 
 .. _Languages:

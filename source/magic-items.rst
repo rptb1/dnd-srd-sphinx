@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p206 "Magic Items"
+.. Origin: BR p168 "Magic Items"
+
+.. _Magic Items:
+
 ===========
 Magic Items
 ===========

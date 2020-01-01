@@ -1,12 +1,13 @@
-
 .. -*- mode: rst; coding: utf-8 -*-
 
 .. Origin: SRD p363 "Appendix PH-C: THe Planes of Existence"
+.. Origin: [Todo: Not in BR]
 
+.. _Planes:
 
-======
-Planes
-======
+=======================
+The Planes of Existence
+=======================
 
 .. https://stackoverflow.com/questions/11984652/bold-italic-in-restructuredtext
 

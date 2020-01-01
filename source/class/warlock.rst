@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p46 "Warlock"
+.. Origin: [Todo: Not in BR]
+
+.. _Warlock:
+
 =======
 Warlock
 =======

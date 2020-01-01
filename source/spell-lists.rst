@@ -1,5 +1,8 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p105 "Spell Lists"
+.. Origin: BR p86 "Chapter 11: Spells"
+
 .. _Spell Lists:
 
 ===========
