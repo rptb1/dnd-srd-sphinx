@@ -231,6 +231,10 @@ a DC 10 :ref:`Strength (Athletics) <athletics>` check to clear a low obstacle (n
 than a quarter of the jump's distance), such as a hedge or low wall.
 Otherwise, you hit it.
 
+.. index::
+   single: prone; landing from jump
+   double: jump; landing
+
 When you land in difficult terrain, you must succeed on a DC 10
 :ref:`Dexterity (Acrobatics) <acrobatics>` check to land on your feet. Otherwise, you land
 :ref:`prone`.
@@ -271,6 +275,7 @@ Falling
 -------
 
 .. index:: ! falling
+   single: prone; by fall
 
 A fall from a great height is one of the most common hazards facing an
 adventurer. At the end of a fall, a creature takes 1d6 bludgeoning
@@ -695,7 +700,7 @@ Researching
 ~~~~~~~~~~~
 
 .. index:: ! research
-   downtime: downtime; research
+   double: downtime; research
 
 The time between adventures is a great chance to perform research,
 gaining insight into mysteries that have unfurled over the course of the

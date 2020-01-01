@@ -390,6 +390,7 @@ Flying Movement
 
 .. index:: ! flying
    double: movement; flying
+   double: prone; flying creature
 
 Flying creatures enjoy many benefits of mobility, but they must also
 deal with the danger of falling. If a flying creature is knocked :ref:`prone`,
@@ -919,6 +920,7 @@ Shoving a Creature
 
 .. index:: ! shove
    double: combat; shove
+   double: prone; shove
 
 Using the Attack action, you can make a special melee attack to shove a
 creature, either to knock it :ref:`prone` or push it away from you. If you're
@@ -1390,7 +1392,7 @@ have 15 feet of movement left or if your speed is 0.
 
 .. index::
    double: falling from; mount
-   double: prone; from mount
+   single: prone; falling from mount
 
 If an effect moves your mount against its will while you're on it, you
 must succeed on a DC 10 Dexterity saving throw or fall off the mount,
@@ -1398,7 +1400,7 @@ landing :ref:`prone` in a space within 5 feet of it. If you're knocked :ref:`pro
 while mounted, you must make the same saving throw.
 
 .. index::
-   double: mount; prone
+   double: prone; mount
    double: reaction; dismount
 
 If your mount is knocked :ref:`prone`, you can use your reaction to dismount it

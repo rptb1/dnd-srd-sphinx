@@ -12,6 +12,9 @@ using thieves' tools breaks the trip wire harmlessly. A character
 without thieves' tools can attempt this check with disadvantage using
 any edged weapon or edged tool. On a failed check, the trap triggers.
 
+.. index::
+   single: prone; by falling net
+
 When the trap is triggered, the net is released, covering a 10-foot
 square area. Those in the area are trapped under the net and :ref:`restrained`,
 and those that fail a DC 10 Strength saving throw are also knocked

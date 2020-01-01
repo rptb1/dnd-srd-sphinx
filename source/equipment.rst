@@ -758,6 +758,7 @@ focus.
 
 .. index:: ! ball bearings
    double: gear; ball bearings
+   single: prone; by  ball bearings
 
 :bi:`Ball Bearings`. As an action, you can spill these tiny metal balls
 from their pouch to cover a level, square area that is 10 feet on a
