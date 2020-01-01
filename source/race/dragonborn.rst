@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p5 "Dragonborn"
+.. Origin: [Todo: Not in BR]
+
+.. _Dragonborn:
+
 ==========
 Dragonborn
 ==========

@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p3 "Dwarf"
+.. Origin: BR p14 "Dwarf"
+
+.. _Dwarf:
+
 =====
 Dwarf
 =====

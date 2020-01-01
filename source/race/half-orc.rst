@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p7 "Half-Orc"
+.. Origin: [TODO: Not in BR]
+
+.. _`Half-Orc`:
+
 ========
 Half-Orc
 ========

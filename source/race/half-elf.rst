@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p6 "Half-Elf"
+.. Origin: [Todo: Not in BR]
+
+.. _`Half-Elf`:
+
 ========
 Half-Elf
 ========

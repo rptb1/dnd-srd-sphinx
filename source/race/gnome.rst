@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p6 "Gnome"
+.. Origin: [Todo: Not in BR]
+
+.. _Gnome:
+
 =====
 Gnome
 =====

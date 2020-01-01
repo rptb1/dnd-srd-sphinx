@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p5 "Human"
+.. Origin: BR p19 "Human"
+
+.. _Human:
+
 =====
 Human
 =====

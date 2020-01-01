@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p4 "Halfling"
+.. Origin: BR p18 "Halfling"
+
+.. _Halfling:
+
 ========
 Halfling
 ========

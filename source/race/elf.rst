@@ -1,5 +1,10 @@
 .. -*- mode: rst; coding: utf-8 -*-
 
+.. Origin: SRD p4 "Elf"
+.. Origin: BR p15 "Elf"
+
+.. _Elf:
+
 ===
 Elf
 ===
