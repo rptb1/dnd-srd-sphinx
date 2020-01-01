@@ -38,7 +38,7 @@ Deva
 **Damage Resistances** radiant; bludgeoning, piercing, and slashing from
 nonmagical attacks
 
-**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`
+**Condition Immunities** :ref:`charmed`, :ref:`exhaustion <exhaustion>`, :ref:`frightened`
 
 **Senses** darkvision 120 ft., passive Perception 19
 

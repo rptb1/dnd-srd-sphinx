@@ -43,7 +43,7 @@ nonmagical attacks
 
 **Damage Immunities** necrotic, poison
 
-**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`paralyzed`,
+**Condition Immunities** :ref:`charmed`, :ref:`exhaustion <exhaustion>`, :ref:`frightened`, :ref:`paralyzed`,
 :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 10
@@ -102,7 +102,7 @@ Mummy Lord
 **Damage Immunities** necrotic, poison; bludgeoning, piercing, and
 slashing from nonmagical attacks
 
-**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`paralyzed`,
+**Condition Immunities** :ref:`charmed`, :ref:`exhaustion <exhaustion>`, :ref:`frightened`, :ref:`paralyzed`,
 :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 14

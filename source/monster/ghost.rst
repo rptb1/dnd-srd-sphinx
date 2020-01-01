@@ -36,7 +36,7 @@ piercing, and slashing from nonmagical attacks
 
 **Damage Immunities** cold, necrotic, poison
 
-**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`grappled`,
+**Condition Immunities** :ref:`charmed`, :ref:`exhaustion <exhaustion>`, :ref:`frightened`, :ref:`grappled`,
 :ref:`paralyzed`, :ref:`petrified`, :ref:`poisoned`, :ref:`prone`, :ref:`restrained`
 
 **Senses** darkvision 60 ft., passive Perception 11

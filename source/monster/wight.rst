@@ -38,7 +38,7 @@ from nonmagical attacks that aren't silvered
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, :ref:`poisoned`
+**Condition Immunities** :ref:`exhaustion <exhaustion>`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 13
 

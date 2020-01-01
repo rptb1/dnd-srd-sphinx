@@ -39,7 +39,7 @@ slashing from nonmagical attacks
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
+**Condition Immunities** :ref:`exhaustion <exhaustion>`, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
 :ref:`poisoned`, :ref:`prone`, :ref:`restrained`, :ref:`unconscious`
 
 **Senses** darkvision 60 ft., passive Perception 10
@@ -97,7 +97,7 @@ nonmagical attacks
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, :ref:`paralyzed`, :ref:`petrified`, :ref:`poisoned`,
+**Condition Immunities** :ref:`exhaustion <exhaustion>`, :ref:`paralyzed`, :ref:`petrified`, :ref:`poisoned`,
 :ref:`unconscious`
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
@@ -144,7 +144,7 @@ nonmagical attacks
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** exhaustion, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
+**Condition Immunities** :ref:`exhaustion <exhaustion>`, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
 :ref:`poisoned`, :ref:`prone`, :ref:`restrained`, :ref:`unconscious`
 
 **Senses** darkvision 60 ft., passive Perception 10
@@ -203,7 +203,7 @@ nonmagical attacks
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
+**Condition Immunities** :ref:`exhaustion <exhaustion>`, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
 :ref:`poisoned`, :ref:`prone`, :ref:`restrained`, :ref:`unconscious`
 
 **Senses** darkvision 60 ft., passive Perception 10

@@ -38,7 +38,7 @@ Medium undead, lawful evil
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, :ref:`poisoned`
+**Condition Immunities** :ref:`exhaustion <exhaustion>`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -77,7 +77,7 @@ Minotaur Skeleton
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, :ref:`poisoned`
+**Condition Immunities** :ref:`exhaustion <exhaustion>`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -122,7 +122,7 @@ Warhorse Skeleton
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, :ref:`poisoned`
+**Condition Immunities** :ref:`exhaustion <exhaustion>`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 9
 

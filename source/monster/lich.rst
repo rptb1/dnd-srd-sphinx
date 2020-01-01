@@ -40,7 +40,7 @@ Lich
 **Damage Immunities** poison; bludgeoning, piercing, and slashing from
 nonmagical attacks
 
-**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`paralyzed`,
+**Condition Immunities** :ref:`charmed`, :ref:`exhaustion <exhaustion>`, :ref:`frightened`, :ref:`paralyzed`,
 :ref:`poisoned`
 
 **Senses** truesight 120 ft., passive Perception 19

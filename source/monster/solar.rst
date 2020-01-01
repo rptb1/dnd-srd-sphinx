@@ -40,7 +40,7 @@ nonmagical attacks
 
 **Damage Immunities** necrotic, poison
 
-**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`poisoned`
+**Condition Immunities** :ref:`charmed`, :ref:`exhaustion <exhaustion>`, :ref:`frightened`, :ref:`poisoned`
 
 **Senses** truesight 120 ft., passive Perception 24
 

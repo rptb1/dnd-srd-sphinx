@@ -48,7 +48,7 @@ of mad laughter, giving the disease its common name and its morbid
 nickname: "the shrieks."
 
 Symptoms manifest 1d4 hours after infection and include fever and
-disorientation. The infected creature gains one level of exhaustion that
+disorientation. The infected creature gains one level of :ref:`exhaustion <exhaustion>` that
 can't be removed until the disease is cured.
 
 Any event that causes the infected creature great stress — including
@@ -88,15 +88,15 @@ throw or become infected.
 
 It takes 1d4 days for sewer plague's symptoms to manifest in an infected
 creature. Symptoms include fatigue and cramps. The infected creature
-suffers one level of exhaustion, and it regains only half the normal
+suffers one level of :ref:`exhaustion <exhaustion>`, and it regains only half the normal
 number of hit points from spending Hit Dice and no hit points from
 finishing a long rest.
 
 At the end of each long rest, an infected creature must make a DC 11
 Constitution saving throw. On a failed save, the character gains one
-level of exhaustion. On a successful save, the character's exhaustion
+level of :ref:`exhaustion <exhaustion>`. On a successful save, the character's :ref:`exhaustion <exhaustion>`
 level decreases by one level. If a successful saving throw reduces the
-infected creature's level of exhaustion below 1, the creature recovers
+infected creature's level of :ref:`exhaustion <exhaustion>` below 1, the creature recovers
 from the disease.
 
 Sight Rot

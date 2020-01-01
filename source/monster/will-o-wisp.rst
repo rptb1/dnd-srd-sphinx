@@ -36,7 +36,7 @@ Will-o'-Wisp
 **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning,
 piercing, and slashing from nonmagical attacks
 
-**Condition Immunities** exhaustion, :ref:`grappled`, :ref:`paralyzed`, :ref:`poisoned`,
+**Condition Immunities** :ref:`exhaustion <exhaustion>`, :ref:`grappled`, :ref:`paralyzed`, :ref:`poisoned`,
 :ref:`prone`, :ref:`restrained`, :ref:`unconscious`
 
 **Senses** darkvision 120 ft., passive Perception 12

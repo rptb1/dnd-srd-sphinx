@@ -40,7 +40,7 @@ bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Damage Immunities** necrotic, poison
 
-**Condition Immunities** exhaustion, :ref:`frightened`, :ref:`grappled`, :ref:`paralyzed`,
+**Condition Immunities** :ref:`exhaustion <exhaustion>`, :ref:`frightened`, :ref:`grappled`, :ref:`paralyzed`,
 :ref:`petrified`, :ref:`poisoned`, :ref:`prone`, :ref:`restrained`
 
 **Senses** darkvision 60 ft., passive Perception 10

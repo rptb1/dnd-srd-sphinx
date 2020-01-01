@@ -38,7 +38,7 @@ nonmagical attacks
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
+**Condition Immunities** :ref:`exhaustion <exhaustion>`, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
 :ref:`poisoned`, :ref:`prone`, :ref:`restrained`, :ref:`unconscious`
 
 **Senses** darkvision 60 ft., passive Perception 18

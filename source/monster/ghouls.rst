@@ -38,7 +38,7 @@ Ghast
 
 **Damage Immunities** poison
 
-**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`poisoned`
+**Condition Immunities** :ref:`charmed`, :ref:`exhaustion <exhaustion>`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -86,7 +86,7 @@ Ghoul
 
 **Damage Immunities** poison
 
-**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`poisoned`
+**Condition Immunities** :ref:`charmed`, :ref:`exhaustion <exhaustion>`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 10
 

@@ -37,7 +37,7 @@ Shambling Mound
 
 **Damage Immunities** lightning
 
-**Condition Immunities** :ref:`blinded`, :ref:`deafened`, exhaustion
+**Condition Immunities** :ref:`blinded`, :ref:`deafened`, :ref:`exhaustion <exhaustion>`
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive
 Perception 10

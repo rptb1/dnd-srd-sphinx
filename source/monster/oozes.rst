@@ -36,7 +36,7 @@ Black Pudding
 
 **Damage Immunities** acid, cold, lightning, slashing
 
-**Condition Immunities** :ref:`blinded`, :ref:`charmed`, :ref:`deafened`, exhaustion,
+**Condition Immunities** :ref:`blinded`, :ref:`charmed`, :ref:`deafened`, :ref:`exhaustion <exhaustion>`,
 :ref:`frightened`, :ref:`prone`
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive
@@ -99,7 +99,7 @@ Gelatinous Cube
 | 14 (+2)   | 3 (-4)    | 20 (+5)   | 1 (-5)    | 6 (-2)    | 1 (-5)    |
 +-----------+-----------+-----------+-----------+-----------+-----------+
 
-**Condition Immunities** :ref:`blinded`, :ref:`charmed`, :ref:`deafened`, exhaustion,
+**Condition Immunities** :ref:`blinded`, :ref:`charmed`, :ref:`deafened`, :ref:`exhaustion <exhaustion>`,
 :ref:`frightened`, :ref:`prone`
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive
@@ -174,7 +174,7 @@ Gray Ooze
 
 **Damage Resistances** acid, cold, fire
 
-**Condition Immunities** :ref:`blinded`, :ref:`charmed`, :ref:`deafened`, exhaustion,
+**Condition Immunities** :ref:`blinded`, :ref:`charmed`, :ref:`deafened`, :ref:`exhaustion <exhaustion>`,
 :ref:`frightened`, :ref:`prone`
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive
@@ -229,7 +229,7 @@ Ochre Jelly
 
 **Damage Immunities** lightning, slashing
 
-**Condition Immunities** :ref:`blinded`, :ref:`charmed`, :ref:`deafened`, exhaustion,
+**Condition Immunities** :ref:`blinded`, :ref:`charmed`, :ref:`deafened`, :ref:`exhaustion <exhaustion>`,
 :ref:`frightened`, :ref:`prone`
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive

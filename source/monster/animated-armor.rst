@@ -33,7 +33,7 @@ Animated Armor
 
 **Damage Immunities** poison, psychic
 
-**Condition Immunities** :ref:`blinded`, :ref:`charmed`, :ref:`deafened`, exhaustion,
+**Condition Immunities** :ref:`blinded`, :ref:`charmed`, :ref:`deafened`, :ref:`exhaustion <exhaustion>`,
 :ref:`frightened`, :ref:`paralyzed`, :ref:`petrified`, :ref:`poisoned`
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive
