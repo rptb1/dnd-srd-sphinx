@@ -197,7 +197,7 @@ ritual tag.
 Spellcasting Focus
 ^^^^^^^^^^^^^^^^^^
 
-You can use a musical instrument (see chapter 5, "Equipment") as a
+You can use a musical instrument (see :ref:`Equipment`) as a
 spellcasting focus for your bard spells.
 
 

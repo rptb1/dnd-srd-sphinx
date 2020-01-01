@@ -185,7 +185,7 @@ and you have the spell prepared.
 Spellcasting Focus
 ^^^^^^^^^^^^^^^^^^
 
-You can use a holy symbol (see chapter 5, "Equipment") as a spellcasting
+You can use a holy symbol (see :ref:`Equipment`) as a spellcasting
 focus for your cleric spells.
 
 

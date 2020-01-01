@@ -176,7 +176,7 @@ and you have the spell prepared.
 Spellcasting Focus
 ^^^^^^^^^^^^^^^^^^
 
-You can use a druidic focus (see chapter 5, "Equipment") as a
+You can use a druidic focus (see :ref:`Equipment`) as a
 spellcasting focus for your druid spells.
 
 **Sacred Plants and Wood**

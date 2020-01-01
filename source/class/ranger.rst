@@ -212,8 +212,8 @@ Spellcasting
 ~~~~~~~~~~~~
 
 By the time you reach 2nd level, you have learned to use the magical
-essence of nature to cast spells, much as a druid does. See chapter 10
-for the general rules of spellcasting and chapter 11 for the ranger
+essence of nature to cast spells, much as a druid does. See :ref:`Spellcasting`
+for the general rules of spellcasting and :ref:`Spell Lists` for the ranger
 spell list.
 
 
