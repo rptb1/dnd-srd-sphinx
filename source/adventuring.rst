@@ -108,13 +108,13 @@ makes it possible to sneak around and to search an area more carefully.
 
 :bi:`Forced March`. The Travel Pace table assumes that characters travel
 for 8 hours in day. They can push on beyond that limit, at the risk of
-exhaustion.
+:ref:`exhaustion <exhaustion>`.
 
 For each additional hour of travel beyond 8 hours, the characters cover
 the distance shown in the Hour column for their pace, and each character
 must make a Constitution saving throw at the end of the hour. The DC is
 10 + 1 for each hour past 8 hours. On a failed saving throw, a character
-suffers one level of exhaustion (see appendix A).
+suffers one level of :ref:`exhaustion <exhaustion>` (see :ref:`Conditions`).
 
 .. index::
    double: mounted; pace
@@ -379,9 +379,10 @@ Food and Water
    double: exhaustion; starvation
    double: exhaustion; food
 
-Characters who don't eat or drink suffer the effects of exhaustion (see
-appendix A). Exhaustion caused by lack of food or water can't be removed
-until the character eats and drinks the full required amount.
+Characters who don't eat or drink suffer the effects of
+:ref:`exhaustion <exhaustion>` (see :ref:`Conditions`). :ref:`Exhaustion <exhaustion>` caused by
+lack of food or water can't be removed until the character eats and
+drinks the full required amount.
 
 
 Food
@@ -410,11 +411,11 @@ Water
 A character needs one gallon of water per day, or two gallons per day if
 the weather is hot. A character who drinks only half that much water
 must succeed on a DC 15 Constitution saving throw or suffer one level of
-exhaustion at the end of the day. A character with access to even less
-water automatically suffers one level of exhaustion at the end of the
+:ref:`exhaustion <exhaustion>` at the end of the day. A character with access to even less
+water automatically suffers one level of :ref:`exhaustion <exhaustion>` at the end of the
 day.
 
-If the character already has one or more levels of exhaustion, the
+If the character already has one or more levels of :ref:`exhaustion <exhaustion>`, the
 character takes two levels in either case.
 
 
