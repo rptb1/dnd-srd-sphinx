@@ -105,6 +105,9 @@ Sight Rot
 This painful infection causes bleeding from the eyes and eventually
 blinds the victim.
 
+.. index::
+   single: blinded; by sight rot
+
 A beast or humanoid that drinks water tainted by sight rot must succeed
 on a DC 15 Constitution saving throw or become infected. One day after
 infection, the creature's vision starts to become blurry. The creature

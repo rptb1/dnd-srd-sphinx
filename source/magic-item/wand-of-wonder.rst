@@ -95,7 +95,10 @@ and is destroyed.
 |        | damage, and the total damage of the gems is divided equally among all  |
 |        | creatures in the line.                                                 |
 +--------+------------------------------------------------------------------------+
-| 91-95  | A burst of colorful shimmering light extends from you in a 30-foot     |
+| 91-95  | .. index::                                                             |
+|        |    single: blinded; by wand of wonder                                  |
+|        |                                                                        |
+|        | A burst of colorful shimmering light extends from you in a 30-foot     |
 |        | radius. You and each creature in the area that can see must succeed on |
 |        | a DC 15 Constitution saving throw or become :ref:`blinded` for 1       |
 |        | minute. A creature can repeat the saving throw at the end of each of   |

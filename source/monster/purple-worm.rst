@@ -49,6 +49,10 @@ Actions
 :bi:`Multiattack`. The worm makes two attacks: one with its bite and one
 with its stinger.
 
+.. index::
+   single: blinded; by purple worm bite
+   single: restrained; by purple worm bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target.
 *Hit:* 22 (3d8 + 9) piercing damage. If the target is a Large or smaller
 creature, it must succeed on a DC 19 Dexterity saving throw or be

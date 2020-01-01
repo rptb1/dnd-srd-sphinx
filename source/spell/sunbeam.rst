@@ -13,6 +13,9 @@ Sunbeam
 
 **Duration:** Concentration, up to 1 minute
 
+.. index::
+   single: blinded; by sunbeam spell
+
 A beam of brilliant light flashes out from your hand in a 5-foot wide,
 60-foot long line. Each creature in the line must make a Constitution
 saving throw. On a failed save, a creature takes 6d8 radiant damage and

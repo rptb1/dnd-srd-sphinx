@@ -93,12 +93,19 @@ success. If a creature's saving throw is successful or the effect ends
 for it, the creature is immune to the tarrasque's Frightful Presence for
 the next 24 hours.
 
+.. index::
+   single: blinded; by tarrasque swallow
+   single: restrained; by tarrasque swallow
+
 :bi:`Swallow`. The tarrasque makes one bite attack against a Large or
 smaller creature it is grappling. If the attack hits, the target takes
 the bite's damage, the target is swallowed, and the grapple ends. While
 swallowed, the creature is :ref:`blinded` and :ref:`restrained`, it has total cover
 against attacks and other effects outside the tarrasque, and it takes 56
 (16d6) acid damage at the start of each of the tarrasque's turns.
+
+.. index::
+   single: prone; by tarrasque swallow
 
 If the tarrasque takes 60 damage or more on a single turn from a
 creature inside it, the tarrasque must succeed on a DC 20 Constitution

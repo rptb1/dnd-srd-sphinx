@@ -61,6 +61,11 @@ DC 14), and the shambling mound uses its Engulf on it.
 :bi:`Slam`. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
 *Hit:* 13 (2d8 + 4) bludgeoning damage.
 
+.. index::
+   single: blinded; by shambling mound engulf
+   single: grappled; by shambling mound engulf
+   single: restrained; by shambling mound engulf
+
 :bi:`Engulf`. The shambling mound engulfs a Medium or smaller creature
 :ref:`grappled` by it. The engulfed target is :ref:`blinded`, :ref:`restrained`, and unable
 to breathe, and it must succeed on a DC 14 Constitution saving throw at

@@ -48,6 +48,9 @@ Dust Mephit
 
 **Challenge** 1/2 (100 XP)
 
+.. index::
+   single: blinded; by mephits death burst
+
 :bi:`Death Burst`. When the mephit dies, it explodes in a burst of dust.
 Each creature within 5 feet of it must then succeed on a DC 10
 Constitution saving throw or be :ref:`blinded` for 1 minute. A :ref:`blinded` creature
@@ -64,6 +67,9 @@ Actions
 
 :bi:`Claws.` *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 4 (1d4 + 2) slashing damage.
+
+.. index::
+   single: blinded; by mephits breath
 
 :bi:`Blinding Breath (Recharge 6)`. The mephit exhales a 15- foot cone
 of blinding dust. Each creature in that area must succeed on a DC 10

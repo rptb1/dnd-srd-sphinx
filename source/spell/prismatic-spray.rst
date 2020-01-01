@@ -33,6 +33,10 @@ a d8 to determine which color ray affects it.
 5. :bi:`Blue`. The target takes 10d6 cold damage on a failed save, or
    half as much damage on a successful one.
 
+.. index::
+   single: restrained; by prismatic spray spell
+   single: petrified; by prismatic spray spell
+
 6. :bi:`Indigo`. On a failed save, the target is :ref:`restrained`. It must
    then make a Constitution saving throw at the end of each of its
    turns. If it successfully saves three times, the spell ends. If it
@@ -40,6 +44,9 @@ a d8 to determine which color ray affects it.
    subjected to the :ref:`petrified` condition. The successes and failures
    don't need to be consecutive; keep track of both until the target
    collects three of a kind.
+
+.. index::
+   single: blinded; by prismatic spray spell
 
 7. :bi:`Violet`. On a failed save, the target is :ref:`blinded`. It must then
    make a Wisdom saving throw at the start of your next turn. A

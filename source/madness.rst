@@ -123,7 +123,11 @@ flaw from the Indefinite Madness table that lasts until cured.
   |       | or an object, and has disadvantage on attack rolls, ability checks,   |
   |       | and saving throws while more than 30 feet from it.                    |
   +-------+-----------------------------------------------------------------------+
-  | 56-65 | The character is :ref:`blinded` (25%) or :ref:deafened` (75%).        |
+  | 56-65 | .. index::                                                            |
+  |       |    single: blinded; by madness                                        |
+  |       |    single: deafened; by madness                                       |
+  |       |                                                                       |
+  |       | The character is :ref:`blinded` (25%) or :ref:`deafened` (75%).       |
   +-------+-----------------------------------------------------------------------+
   | 66-75 | The character experiences uncontrollable tremors or tics, which       |
   |       | impose disadvantage on attack rolls, ability checks, and saving       |

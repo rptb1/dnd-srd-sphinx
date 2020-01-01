@@ -322,6 +322,7 @@ sight.
 
 .. index::
    double: heavily; obscured
+   single: blinded; by environment
 
 A **heavily obscured** area — such as darkness, opaque fog, or dense
 foliage — blocks vision entirely. A creature effectively suffers from the

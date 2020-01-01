@@ -27,6 +27,9 @@ Since this spell induces a natural disease in its target, any effect
 that removes a disease or otherwise ameliorates a disease's effects
 apply to it.
 
+.. index::
+   single: blinded; by contagion spell
+
 :bi:`Blinding Sickness`. Pain grips the creature's mind, and its eyes
 turn milky white. The creature has disadvantage on Wisdom checks and
 Wisdom saving throws and is :ref:`blinded`.

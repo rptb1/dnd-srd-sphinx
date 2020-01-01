@@ -59,6 +59,11 @@ indistinguishable from a normal rug.
 Actions
 ^^^^^^^
 
+.. index::
+   single: blinded; by rug of smothering
+   single: grappled; by rug of smothering
+   single: restrained; by rug of smothering
+
 :bi:`Smother`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium
 or smaller creature. *Hit:* The creature is :ref:`grappled` (escape DC 13).
 Until this grapple ends, the target is :ref:`restrained`, :ref:`blinded`, and at risk

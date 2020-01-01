@@ -13,6 +13,9 @@ Sunburst
 
 **Duration:** Instantaneous
 
+.. index::
+   single: blinded; by sunburst spell
+
 Brilliant sunlight flashes in a 60-foot radius centered on a point you
 choose within range. Each creature in that light must make a
 Constitution saving throw. On a failed save, a creature takes 12d6

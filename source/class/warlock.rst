@@ -481,6 +481,10 @@ without expending a spell slot or material components.
 Gaze of Two Minds
 ^^^^^^^^^^^^^^^^^
 
+.. index::
+   single: blinded; during warlock Gaze of Two Minds
+   single: deafened; during warlock Gaze of Two Minds
+
 You can use your action to touch a willing humanoid and perceive through
 its senses until the end of your next turn. As long as the creature is
 on the same plane of existence as you, you can use your action on

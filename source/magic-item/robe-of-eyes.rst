@@ -34,6 +34,9 @@ The eyes on the robe can't be closed or averted. Although you can close
 or avert your own eyes, you are never considered to be doing so while
 wearing this robe.
 
+.. index::
+   single: blinded; by robe of eyes
+
 A *light* spell cast on the robe or a *daylight* spell cast within 5
 feet of the robe causes you to be :ref:`blinded` for 1 minute. At the end of
 each of your turns, you can make a Constitution saving throw (DC 11 for

@@ -13,6 +13,10 @@ Blindness/Deafness
 
 **Duration:** 1 minute
 
+.. index::
+   single: blinded; by blindness spell
+   single: deafened; by deafness spell
+
 You can blind or deafen a foe. Choose one creature that you can see
 within range to make a Constitution saving throw. If it fails, the
 target is either :ref:`blinded` or :ref:`deafened` (your choice) for the duration. At

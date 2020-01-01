@@ -172,10 +172,16 @@ legendary actions at the start of its turn.
 **Attack**. The mummy lord makes one attack with its rotting fist or
 uses its Dreadful Glare.
 
+.. index::
+   single: blinded; by mummy dust
+
 **Blinding Dust**. Blinding dust and sand swirls magically around the
 mummy lord. Each creature within 5 feet of the mummy lord must succeed
 on a DC 16 Constitution saving throw or be :ref:`blinded` until the end of the
 creature's next turn.
+
+.. index::
+   single: stunned; by mummy blasphemy
 
 **Blasphemous Word (Costs 2 Actions)**. The mummy lord utters a
 blasphemous word. Each non-undead creature within 10 feet of the mummy

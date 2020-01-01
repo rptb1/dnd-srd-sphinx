@@ -13,6 +13,11 @@ Mass Heal
 
 **Duration:** Instantaneous
 
+.. index::
+   single: blinded; cured by mass heal
+   single: deafened; cured by mass heal
+   single: disease; cured by mass heal
+
 A flood of healing energy flows from you into injured creatures around
 you. You restore up to 700 hit points, divided as you choose among any
 number of creatures that you can see within range. Creatures healed by

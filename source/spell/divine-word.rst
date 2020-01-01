@@ -21,7 +21,14 @@ current hit points:
 
 -  50 hit points or fewer: :ref:`deafened` for 1 minute
 
+.. index::
+   single: blinded; by divine word
+   single: deafened; by divine word
+
 -  40 hit points or fewer: :ref:`deafened` and :ref:`blinded` for 10 minutes
+
+.. index::
+   single: stunned; by divine word
 
 -  30 hit points or fewer: :ref:`blinded`, :ref:`deafened`, and :ref:`stunned` for 1 hour
 

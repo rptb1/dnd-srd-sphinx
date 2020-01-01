@@ -147,6 +147,7 @@ awake.
 
 .. index:: ! malice
    triple: malice; inhaled; poison
+   single: blinded; by malice poison
 
 :bi:`Malice (Inhaled)`. A creature subjected to this poison must succeed
 on a DC 15 Constitution saving throw or become :ref:`poisoned` for 1 hour. The

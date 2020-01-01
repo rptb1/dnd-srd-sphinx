@@ -62,6 +62,11 @@ Actions
 :bi:`Multiattack`. The kraken makes three tentacle attacks, each of
 which it can replace with one use of Fling.
 
+.. index::
+   single: blinded; by kraken bite
+   single: grappled; by kraken bite
+   single: restrained; by kraken bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +17 to hit, reach 5 ft., one target.
 *Hit:* 23 (3d8 + 10) piercing damage. If the target is a Large or
 smaller creature :ref:`grappled` by the kraken, that creature is swallowed, and
