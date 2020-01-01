@@ -35,7 +35,7 @@ Lemure
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** charmed, frightened, poisoned
+**Condition Immunities** :ref:`charmed`, :ref:`frightened`, :ref:`poisoned`
 
 **Senses** darkvision 120 ft., passive Perception 10
 

@@ -1,5 +1,7 @@
 .. NOTE: In the SRD this is titled "Appendix PH-A: Conditions"
 
+.. _Conditions:
+
 Conditions
 ==========
 
@@ -23,13 +25,13 @@ Conditions
 
 Conditions alter a creature's capabilities in a variety of ways and can
 arise as a result of a spell, a class feature, a monster's attack, or
-other effect. Most conditions, such as blinded, are impairments, but a
-few, such as invisible, can be advantageous.
+other effect. Most conditions, such as :ref:`blinded`, are impairments, but a
+few, such as :ref:`invisible`, can be advantageous.
 
 .. index::
    double: condition; duration
 
-A condition lasts either until it is countered (the prone condition is
+A condition lasts either until it is countered (the :ref:`prone` condition is
 countered by standing up, for example) or for a duration specified by
 the effect that imposed the condition.
 
@@ -39,7 +41,7 @@ the effect that imposed the condition.
 
 If multiple effects impose the same condition on a creature, each
 instance of the condition has its own duration, but the condition's
-effects don't get worse [except :ref:`exhaustion`]. A creature either
+effects don't get worse [except :ref:`exhaustion <exhaustion>`]. A creature either
 has a condition or doesn't.
 
 .. index::
@@ -170,7 +172,7 @@ Grappled
 -  A grappled creature's speed becomes 0, and it can't benefit from any
    bonus to its speed.
 
--  The condition ends if the grappler is incapacitated (see the
+-  The condition ends if the grappler is :ref:`incapacitated` (see the
    condition).
 
 -  The condition also ends if an effect removes the grappled creature
@@ -211,7 +213,7 @@ Paralyzed
 .. index:: ! paralyzed
    double: paralyzed; condition
 
--  A paralyzed creature is incapacitated (see the condition) and can't
+-  A paralyzed creature is :ref:`incapacitated` (see the condition) and can't
    move or speak.
 
 -  The creature automatically fails Strength and Dexterity saving
@@ -235,7 +237,7 @@ Petrified
    it is wearing or carrying, into a solid inanimate substance (usually
    stone). Its weight increases by a factor of ten, and it ceases aging.
 
--  The creature is incapacitated (see the condition), can't move or
+-  The creature is :ref:`incapacitated` (see the condition), can't move or
    speak, and is unaware of its surroundings.
 
 -  Attack rolls against the creature have advantage.
@@ -304,7 +306,7 @@ Stunned
 .. index:: ! stunned
    double: stunned; condition
 
--  A stunned creature is incapacitated (see the condition), can't move,
+-  A stunned creature is :ref:`incapacitated` (see the condition), can't move,
    and can speak only falteringly.
 
 -  The creature automatically fails Strength and Dexterity saving
@@ -321,10 +323,10 @@ Unconscious
 .. index:: ! unconscious
    double: unconscious; condition
 
--  An unconscious creature is incapacitated (see the condition), can't
+-  An unconscious creature is :ref:`incapacitated` (see the condition), can't
    move or speak, and is unaware of its surroundings
 
--  The creature drops whatever it's holding and falls prone.
+-  The creature drops whatever it's holding and falls :ref:`prone`.
 
 -  The creature automatically fails Strength and Dexterity saving
    throws.

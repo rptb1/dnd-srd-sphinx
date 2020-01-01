@@ -53,7 +53,7 @@ one to constrict.
 
 :bi:`Constrict`. *Melee Weapon Attack:* +10 to hit, reach 5 ft., one
 Large or smaller creature. *Hit:* 17 (2d10 + 6) bludgeoning damage plus
-17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if
+17 (2d10 + 6) slashing damage. The target is :ref:`grappled` (escape DC 16) if
 the behir isn't already constricting a creature, and the target is
 :ref:`restrained` until this grapple ends.
 
@@ -65,7 +65,7 @@ successful one.
 
 :bi:`Swallow`. The behir makes one bite attack against a Medium or
 smaller target it is grappling. If the attack hits, the target is also
-swallowed, and the grapple ends. While swallowed, the target is blinded
+swallowed, and the grapple ends. While swallowed, the target is :ref:`blinded`
 and :ref:`restrained`, it has total cover against attacks and other effects
 outside the behir, and it takes 21 (6d6) acid damage at the start of
 each of the behir's turns. A behir can have only one creature swallowed
@@ -73,8 +73,8 @@ at a time.
 
 If the behir takes 30 damage or more on a single turn from the swallowed
 creature, the behir must succeed on a DC 14 Constitution saving throw at
-the end of that turn or regurgitate the creature, which falls prone in a
+the end of that turn or regurgitate the creature, which falls :ref:`prone` in a
 space within 10 feet of the behir. If the behir dies, a swallowed
 creature is no longer :ref:`restrained` by it and can escape from the corpse by
-using 15 feet of movement, exiting prone.
+using 15 feet of movement, exiting :ref:`prone`.
 

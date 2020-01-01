@@ -37,7 +37,7 @@ Giant Bat
 
 **Challenge** 1/4 (50 XP)
 
-:bi:`Echolocation`. The bat can't use its blindsight while deafened.
+:bi:`Echolocation`. The bat can't use its blindsight while :ref:`deafened`.
 
 :bi:`Keen Hearing`. The bat has advantage on Wisdom (Perception) checks
 that rely on hearing.

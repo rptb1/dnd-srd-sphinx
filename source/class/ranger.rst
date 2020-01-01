@@ -345,7 +345,7 @@ against it.
 
 You are also aware of the location of any invisible creature within 30
 feet of you, provided that the creature isn't hidden from you and you
-aren't blinded or deafened.
+aren't :ref:`blinded` or :ref:`deafened`.
 
 
 Foe Slayer
@@ -409,7 +409,7 @@ gain a +4 bonus to AC against all subsequent attacks made by that
 creature for the rest of the turn.
 
 :bi:`Steel Will`. You have advantage on saving throws against being
-frightened.
+:ref:`frightened`.
 
 
 Multiattack

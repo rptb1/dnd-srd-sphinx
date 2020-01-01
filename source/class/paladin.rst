@@ -342,7 +342,7 @@ Aura of Courage
 ~~~~~~~~~~~~~~~
 
 Starting at 10th level, you and friendly creatures within 10 feet of you
-can't be frightened while you are conscious.
+can't be :ref:`frightened` while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
@@ -454,7 +454,7 @@ already magical, it becomes magical for the duration.
 
 You can end this effect on your turn as part of any other action. If you
 are no longer holding or carrying this weapon, or if you fall
-unconscious, this effect ends.
+:ref:`unconscious`, this effect ends.
 
 :bi:`Turn the Unholy`. As an action, you present your holy symbol and
 speak a prayer censuring fiends and undead, using your Channel Divinity.
@@ -474,7 +474,7 @@ Aura of Devotion
 ^^^^^^^^^^^^^^^^
 
 Starting at 7th level, you and friendly creatures within 10 feet of you
-can't be charmed while you are conscious.
+can't be :ref:`charmed` while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 

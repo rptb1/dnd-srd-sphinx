@@ -250,7 +250,7 @@ Stunning Strike
 Starting at 5th level, you can interfere with the flow of ki in an
 opponent's body. When you hit another creature with a melee weapon
 attack, you can spend 1 ki point to attempt a stunning strike. The
-target must succeed on a Constitution saving throw or be stunned until
+target must succeed on a Constitution saving throw or be :ref:`stunned` until
 the end of your next turn.
 
 
@@ -277,7 +277,7 @@ Stillness of Mind
 ~~~~~~~~~~~~~~~~~
 
 Starting at 7th level, you can use your action to end one effect on
-yourself that is causing you to be charmed or frightened.
+yourself that is causing you to be :ref:`charmed` or :ref:`frightened`.
 
 
 Purity of Body
@@ -317,7 +317,7 @@ Empty Body
 ~~~~~~~~~~
 
 Beginning at 18th level, you can use your action to spend 4 ki points to
-become invisible for 1 minute. During that time, you also have
+become :ref:`invisible` for 1 minute. During that time, you also have
 resistance to all damage but force damage.
 
 Additionally, you can spend 8 ki points to cast the *astral projection*
@@ -360,7 +360,7 @@ your enemy's ki when you harness your own. Whenever you hit a creature
 with one of the attacks granted by your Flurry of Blows, you can impose
 one of the following effects on that target:
 
--  It must succeed on a Dexterity saving throw or be knocked prone.
+-  It must succeed on a Dexterity saving throw or be knocked :ref:`prone`.
 
 -  It must make a Strength saving throw. If it fails, you can push it up
    to 15 feet away from you.

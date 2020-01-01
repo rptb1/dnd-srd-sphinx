@@ -290,7 +290,7 @@ Being Prone
 
 Combatants often find themselves lying on the ground, either because
 they are knocked down or because they throw themselves down. In the
-game, they are prone, a condition described in appendix A.
+game, they are :ref:`prone`, a condition described in appendix A.
 
 .. index:: standing up
 
@@ -303,7 +303,7 @@ enough movement left or if your speed is 0.
 
 .. index:: crawling
 
-To move while prone, you must **crawl** or use magic such as
+To move while :ref:`prone`, you must **crawl** or use magic such as
 teleportation. Every foot of movement while crawling costs 1 extra foot.
 Crawling 1 foot in difficult terrain, therefore, costs 3 feet of
 movement.
@@ -386,7 +386,7 @@ Flying Movement
    double: movement; flying
 
 Flying creatures enjoy many benefits of mobility, but they must also
-deal with the danger of falling. If a flying creature is knocked prone,
+deal with the danger of falling. If a flying creature is knocked :ref:`prone`,
 has its speed reduced to 0, or is otherwise deprived of the ability to
 move, the creature falls, unless it has the ability to hover or it is
 being held aloft by magic, such as by the *fly* spell.
@@ -548,7 +548,7 @@ Dodge
 When you take the Dodge action, you focus entirely on avoiding attacks.
 Until the start of your next turn, any attack roll made against you has
 disadvantage if you can see the attacker, and you make Dexterity saving
-throws with advantage. You lose this benefit if you are incapacitated
+throws with advantage. You lose this benefit if you are :ref:`incapacitated`
 (as explained in appendix A) or if your speed drops to 0.
 
 
@@ -792,7 +792,7 @@ Ranged Attacks in Close Combat
 Aiming a ranged attack is more difficult when a foe is next to you. When
 you make a ranged attack with a weapon, a spell, or some other means,
 you have disadvantage on the attack roll if you are within 5 feet of a
-hostile creature who can see you and who isn't incapacitated.
+hostile creature who can see you and who isn't :ref:`incapacitated`.
 
 
 Melee Attacks
@@ -879,15 +879,15 @@ seize the target by making a grapple check instead of an attack roll: a
 :ref:`Strength (Athletics) <athletics>` check contested by the target's Strength
 (Athletics) or :ref:`Dexterity (Acrobatics) <acrobatics>` check (the target chooses the
 ability to use). You succeed automatically if the target is
-incapacitated. If you succeed, you subject the target to the grappled
-condition (see appendix A). The condition specifies the things that end
+:ref:`incapacitated`. If you succeed, you subject the target to the :ref:`grappled`
+condition (see :ref:`Conditions`). The condition specifies the things that end
 it, and you can release the target whenever you like (no action
 required).
 
 .. index::
    triple: combat; escaping; grapple
 
-:bi:`Escaping a Grapple`. A grappled creature can use its action to
+:bi:`Escaping a Grapple`. A :ref:`grappled` creature can use its action to
 escape. To do so, it must succeed on a Strength (Athletics) or Dexterity
 (Acrobatics) check contested by your :ref:`Strength (Athletics) <athletics>` check.
 
@@ -895,7 +895,7 @@ escape. To do so, it must succeed on a Strength (Athletics) or Dexterity
    triple: combat; moving; grapple
 
 :bi:`Moving a Grappled Creature`. When you move, you can drag or carry
-the grappled creature with you, but your speed is halved, unless the
+the :ref:`grappled` creature with you, but your speed is halved, unless the
 creature is two or more sizes smaller than you.
 
 
@@ -915,7 +915,7 @@ Shoving a Creature
    double: combat; shove
 
 Using the Attack action, you can make a special melee attack to shove a
-creature, either to knock it prone or push it away from you. If you're
+creature, either to knock it :ref:`prone` or push it away from you. If you're
 able to make multiple attacks with the Attack action, this attack
 replaces one of them.
 
@@ -923,8 +923,8 @@ The target must be no more than one size larger than you and must be
 within your reach. Instead of making an attack roll, you make a Strength
 (Athletics) check contested by the target's Strength (Athletics) or
 :ref:`Dexterity (Acrobatics) <acrobatics>` check (the target chooses the ability to use).
-You succeed automatically if the target is incapacitated. If you
-succeed, you either knock the target prone or push it 5 feet away from
+You succeed automatically if the target is :ref:`incapacitated`. If you
+succeed, you either knock the target :ref:`prone` or push it 5 feet away from
 you.
 
 
@@ -1201,7 +1201,7 @@ Dropping to 0 Hit Points
 .. index:: ! zero hit points, ! 0 HP
 
 When you drop to 0 hit points, you either die outright or fall
-unconscious, as explained in the following sections.
+:ref:`unconscious`, as explained in the following sections.
 
 
 Instant Death
@@ -1227,7 +1227,7 @@ Falling Unconscious
    double: falling; unconscious
 
 If damage reduces you to 0 hit points and fails to kill you, you fall
-unconscious (see appendix A). This unconsciousness ends if you regain
+:ref:`unconscious` (see appendix A). This unconsciousness ends if you regain
 any hit points.
 
 
@@ -1275,12 +1275,12 @@ The best way to save a creature with 0 hit points is to heal it. If
 healing is unavailable, the creature can at least be stabilized so that
 it isn't killed by a failed death saving throw.
 
-You can use your action to administer first aid to an unconscious
+You can use your action to administer first aid to an :ref:`unconscious`
 creature and attempt to stabilize it, which requires a successful DC 10
 :ref:`Wisdom (Medicine) <medicine>` check.
 
 A **stable** creature doesn't make death saving throws, even though it
-has 0 hit points, but it does remain unconscious. The creature stops
+has 0 hit points, but it does remain :ref:`unconscious`. The creature stops
 being stable, and must start making death saving throws again, if it
 takes any damage. A stable creature that isn't healed regains 1 hit
 point after 1d4 hours.
@@ -1293,10 +1293,10 @@ Monsters and Death
    double: monster; death
 
 Most GMs have a monster die the instant it drops to 0 hit points, rather
-than having it fall unconscious and make death saving throws.
+than having it fall :ref:`unconscious` and make death saving throws.
 
 Mighty villains and special nonplayer characters are common exceptions;
-the GM might have them fall unconscious and follow the same rules as
+the GM might have them fall :ref:`unconscious` and follow the same rules as
 player characters.
 
 
@@ -1310,7 +1310,7 @@ Sometimes an attacker wants to incapacitate a foe, rather than deal a
 killing blow. When an attacker reduces a creature to 0 hit points with a
 melee attack, the attacker can knock the creature out. The attacker can
 make this choice the instant the damage is dealt. The creature falls
-unconscious and is stable.
+:ref:`unconscious` and is stable.
 
 
 Temporary Hit Points
@@ -1388,16 +1388,16 @@ have 15 feet of movement left or if your speed is 0.
 
 If an effect moves your mount against its will while you're on it, you
 must succeed on a DC 10 Dexterity saving throw or fall off the mount,
-landing prone in a space within 5 feet of it. If you're knocked prone
+landing :ref:`prone` in a space within 5 feet of it. If you're knocked :ref:`prone`
 while mounted, you must make the same saving throw.
 
 .. index::
    double: mount; prone
    double: reaction; dismount
 
-If your mount is knocked prone, you can use your reaction to dismount it
+If your mount is knocked :ref:`prone`, you can use your reaction to dismount it
 as it falls and land on your feet. Otherwise, you are dismounted and
-fall prone in a space within 5 feet it.
+fall :ref:`prone` in a space within 5 feet it.
 
 
 Controlling a Mount

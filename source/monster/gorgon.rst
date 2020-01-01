@@ -33,7 +33,7 @@ Gorgon
 
 **Skills** Perception +4
 
-**Condition Immunities** petrified
+**Condition Immunities** :ref:`petrified`
 
 **Senses** darkvision 60 ft., passive Perception 14
 
@@ -44,7 +44,7 @@ Gorgon
 :bi:`Trampling Charge`. If the gorgon moves at least 20 feet straight
 toward a creature and then hits it with a gore attack on the same turn,
 that target must succeed on a DC 16 Strength saving throw or be knocked
-prone. If the target is prone, the gorgon can make one attack with its
+:ref:`prone`. If the target is :ref:`prone`, the gorgon can make one attack with its
 hooves against it as a bonus action.
 
 
@@ -62,6 +62,6 @@ gas in a 30-foot cone. Each creature in that area must succeed on a DC
 13 Constitution saving throw. On a failed save, a target begins to turn
 to stone and is :ref:`restrained`. The :ref:`restrained` target must repeat the saving
 throw at the end of its next turn. On a success, the effect ends on the
-target. On a failure, the target is petrified until freed by the
+target. On a failure, the target is :ref:`petrified` until freed by the
 *greater restoration* spell or other magic.
 

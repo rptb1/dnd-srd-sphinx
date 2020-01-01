@@ -40,7 +40,7 @@ Drider
 **Challenge** 6 (2,300 XP)
 
 :bi:`Fey Ancestry`. The drider has advantage on saving throws against
-being charmed, and magic can't put the drider to sleep.
+being :ref:`charmed`, and magic can't put the drider to sleep.
 
 :bi:`Innate Spellcasting`. The drider's innate spellcasting ability is
 Wisdom (spell save DC 13). The drider can innately cast the following

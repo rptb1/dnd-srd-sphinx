@@ -33,8 +33,8 @@ Swarm of Poisonous Snakes
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
-**Condition Immunities** charmed, frightened, grappled, paralyzed,
-petrified, prone, :ref:`restrained`, stunned
+**Condition Immunities** :ref:`charmed`, :ref:`frightened`, :ref:`grappled`, :ref:`paralyzed`,
+:ref:`petrified`, :ref:`prone`, :ref:`restrained`, :ref:`stunned`
 
 **Senses** blindsight 10 ft., passive Perception 10
 

@@ -33,16 +33,16 @@ Grimlock
 
 **Skills** Athletics +5, Perception +3, Stealth +3
 
-**Condition Immunities** blinded
+**Condition Immunities** :ref:`blinded`
 
-**Senses** blindsight 30 ft. or 10 ft. while deafened (blind beyond this
+**Senses** blindsight 30 ft. or 10 ft. while :ref:`deafened` (blind beyond this
 radius), passive Perception 13
 
 **Languages** Undercommon
 
 **Challenge** 1/4 (50 XP)
 
-:bi:`Blind Senses`. The grimlock can't use its blindsight while deafened
+:bi:`Blind Senses`. The grimlock can't use its blindsight while :ref:`deafened`
 and unable to smell.
 
 :bi:`Keen Hearing and Smell`. The grimlock has advantage on Wisdom

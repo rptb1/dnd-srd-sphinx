@@ -35,7 +35,7 @@ charge and make a ranged weapon attack with the hammer, hurling it as if
 it had the thrown property with a normal range of 20 feet and a long
 range of 60 feet. If the attack hits, the hammer unleashes a thunderclap
 audible out to 300 feet. The target and every creature within 30 feet of
-it must succeed on a DC 17 Constitution saving throw or be stunned until
+it must succeed on a DC 17 Constitution saving throw or be :ref:`stunned` until
 the end of your next turn. The hammer regains 1d4 + 1 expended charges
 daily at dawn.
 

@@ -41,7 +41,7 @@ Androsphinx
 **Damage Immunities** psychic; bludgeoning, piercing, and slashing from
 nonmagical attacks
 
-**Condition Immunities** charmed, frightened
+**Condition Immunities** :ref:`charmed`, :ref:`frightened`
 
 **Senses** truesight 120 ft., passive Perception 20
 
@@ -90,19 +90,19 @@ different, as detailed below. Each creature within 500 feet of the
 sphinx and able to hear the roar must make a saving throw.
 
 **First Roar**. Each creature that fails a DC 18 Wisdom saving throw is
-frightened for 1 minute. A frightened creature can repeat the saving
+:ref:`frightened` for 1 minute. A :ref:`frightened` creature can repeat the saving
 throw at the end of each of its turns, ending the effect on itself on a
 success.
 
 **Second Roar**. Each creature that fails a DC 18 Wisdom saving throw is
-deafened and frightened for 1 minute. A frightened creature is paralyzed
+:ref:`deafened` and :ref:`frightened` for 1 minute. A :ref:`frightened` creature is :ref:`paralyzed`
 and can repeat the saving throw at the end of each of its turns, ending
 the effect on itself on a success.
 
 **Third Roar**. Each creature makes a DC 18 Constitution saving throw.
 On a failed save, a creature takes 44 (8d10) thunder damage and is
-knocked prone. On a successful save, the creature takes half as much
-damage and isn't knocked prone.
+knocked :ref:`prone`. On a successful save, the creature takes half as much
+damage and isn't knocked :ref:`prone`.
 
 
 Legendary Actions
@@ -146,7 +146,7 @@ nonmagical attacks
 
 **Damage Immunities** psychic
 
-**Condition Immunities** charmed, frightened
+**Condition Immunities** :ref:`charmed`, :ref:`frightened`
 
 **Senses** truesight 120 ft., passive Perception 18
 

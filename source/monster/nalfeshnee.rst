@@ -38,7 +38,7 @@ slashing from nonmagical attacks
 
 **Damage Immunities** poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** :ref:`poisoned`
 
 **Senses** truesight 120 ft., passive Perception 11
 
@@ -65,7 +65,7 @@ makes three attacks: one with its bite and two with its claws.
 :bi:`Horror Nimbus (Recharge 5-6)`. The nalfeshnee magically emits
 scintillating, multicolored light. Each creature within 15 feet of the
 nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving
-throw or be frightened for 1 minute. A creature can repeat the saving
+throw or be :ref:`frightened` for 1 minute. A creature can repeat the saving
 throw at the end of each of its turns, ending the effect on itself on a
 success. If a creature's saving throw is successful or the effect ends
 for it, the creature is immune to the nalfeshnee's Horror Nimbus for the

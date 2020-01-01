@@ -44,7 +44,7 @@ Dire Wolf
 
 :bi:`Pack Tactics`. The wolf has advantage on an attack roll against a
 creature if at least one of the wolf's allies is within 5 feet of the
-creature and the ally isn't incapacitated.
+creature and the ally isn't :ref:`incapacitated`.
 
 
 Actions
@@ -52,5 +52,5 @@ Actions
 
 :bi:`Bite`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it
-must succeed on a DC 13 Strength saving throw or be knocked prone.
+must succeed on a DC 13 Strength saving throw or be knocked :ref:`prone`.
 

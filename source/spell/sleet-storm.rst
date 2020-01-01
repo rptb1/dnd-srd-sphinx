@@ -21,7 +21,7 @@ doused.
 The ground in the area is covered with slick ice, making it difficult
 terrain. When a creature enters the spell's area for the first time on a
 turn or starts its turn there, it must make a Dexterity saving throw. On
-a failed save, it falls prone.
+a failed save, it falls :ref:`prone`.
 
 If a creature starts its turn in the spell's area and is concentrating
 on a spell, the creature must make a successful Constitution saving

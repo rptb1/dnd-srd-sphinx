@@ -38,7 +38,7 @@ slashing from nonmagical attacks
 
 **Damage Immunities** poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** :ref:`poisoned`
 
 **Senses** truesight 120 ft., passive Perception 13
 
@@ -67,7 +67,7 @@ pincers and casts one spell.
 
 :bi:`Pincer`. *Melee Weapon Attack:* +9 to hit, reach 10 ft., one
 target. *Hit:* 16 (2d10 + 5) bludgeoning damage. If the target is a
-Medium or smaller creature, it is grappled (escape DC 15). The glabrezu
+Medium or smaller creature, it is :ref:`grappled` (escape DC 15). The glabrezu
 has two pincers, each of which can grapple only one target.
 
 :bi:`Fist`. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target.

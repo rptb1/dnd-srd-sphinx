@@ -38,7 +38,7 @@ slashing from nonmagical attacks
 
 **Damage Immunities** poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** :ref:`poisoned`
 
 **Senses** darkvision 120 ft., passive Perception 11
 
@@ -50,7 +50,7 @@ slashing from nonmagical attacks
 against spells and other magical effects.
 
 :bi:`Stench`. Any creature that starts its turn within 10 feet of the
-hezrou must succeed on a DC 14 Constitution saving throw or be poisoned
+hezrou must succeed on a DC 14 Constitution saving throw or be :ref:`poisoned`
 until the start of its next turn. On a successful saving throw, the
 creature is immune to the hezrou's stench for 24 hours.
 

@@ -33,8 +33,8 @@ Swarm of Insects
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
-**Condition Immunities** charmed, frightened, grappled, paralyzed,
-petrified, prone, :ref:`restrained`, stunned
+**Condition Immunities** :ref:`charmed`, :ref:`frightened`, :ref:`grappled`, :ref:`paralyzed`,
+:ref:`petrified`, :ref:`prone`, :ref:`restrained`, :ref:`stunned`
 
 **Senses** blindsight 10 ft., passive Perception 8
 
@@ -64,8 +64,8 @@ piercing damage if the swarm has half of its hit points or fewer.
     5 feet.
 
     **Swarm of Centipedes**. A creature reduced to 0 hit points by a
-    swarm of centipedes is stable but poisoned for 1 hour, even after
-    regaining hit points, and paralyzed while poisoned in this way.
+    swarm of centipedes is stable but :ref:`poisoned` for 1 hour, even after
+    regaining hit points, and :ref:`paralyzed` while :ref:`poisoned` in this way.
 
     **Swarm of Spiders**. A swarm of spiders has the following
     additional traits.

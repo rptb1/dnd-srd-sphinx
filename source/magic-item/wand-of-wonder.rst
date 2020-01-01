@@ -41,8 +41,8 @@ and is destroyed.
 +========+========================================================================+
 | 01-05  | You cast slow. 06-10 You cast faerie fire.                             |
 +--------+------------------------------------------------------------------------+
-| 11-15  | You are stunned until the start of your next turn, believing something |
-|        | awesome just happened. 16-20 You cast gust of wind.                    |
+| 11-15  | You are :ref:`stunned` until the start of your next turn, believing    |
+|        | something awesome just happened. 16-20 You cast gust of wind.          |
 +--------+------------------------------------------------------------------------+
 | 21-25  | You cast detect thoughts on the target you chose. If you didn't target |
 |        | a creature, you instead take 1d6 psychic damage.                       |
@@ -97,9 +97,9 @@ and is destroyed.
 +--------+------------------------------------------------------------------------+
 | 91-95  | A burst of colorful shimmering light extends from you in a 30-foot     |
 |        | radius. You and each creature in the area that can see must succeed on |
-|        | a DC 15 Constitution saving throw or become blinded for 1 minute. A    |
-|        | creature can repeat the saving throw at the end of each of its turns,  |
-|        | ending the effect on itself on a success.                              |
+|        | a DC 15 Constitution saving throw or become :ref:`blinded` for 1       |
+|        | minute. A creature can repeat the saving throw at the end of each of   |
+|        | its turns, ending the effect on itself on a success.                   |
 +--------+------------------------------------------------------------------------+
 | 96-97  | The target's skin turns bright blue for 1d10 days. If you chose a      |
 |        | point in space, the creature nearest to that point is affected.        |
@@ -107,13 +107,10 @@ and is destroyed.
 | 98-100 | If you targeted a creature, it must make a DC 15 Constitution saving   |
 |        | throw. If you didn't target a creature, you become the target and must |
 |        | make the saving throw. If the saving throw fails by 5 or more, the     |
-|        | target is instantly petrified. On any other failed save, the target is |
-|        | :ref:`restrained` and begins to turn to stone. While :ref:`restrained` |
-|        | in this way,                                                           |
-|        | the target must repeat the saving throw at the end of its next turn,   |
-|        | becoming petrified on a failure or ending the effect on a success. The |
-|        | petrification lasts until the target is freed by the greater           |
-|        | restoration spell or similar magic.                                    |
-|        |                                                                        |
+|        | target is instantly :ref:`petrified`. On any other failed save, the    |
+|        | target is :ref:`restrained` and begins to turn to stone. While         |
+|        | :ref:`restrained` in this way, the target must repeat the saving throw |
+|        | at the end of its next turn, becoming :ref:`petrified` on a failure or |
+|        | ending the effect on a success. The petrification lasts until the      |
+|        | target is freed by the greater restoration spell or similar magic.     |
 +--------+------------------------------------------------------------------------+
-

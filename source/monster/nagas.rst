@@ -40,7 +40,7 @@ Guardian Naga
 
 **Damage Immunities** poison
 
-**Condition Immunities** charmed, poisoned
+**Condition Immunities** :ref:`charmed`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 14
 
@@ -104,7 +104,7 @@ Spirit Naga
 
 **Damage Immunities** poison
 
-**Condition Immunities** charmed, poisoned
+**Condition Immunities** :ref:`charmed`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 12
 

@@ -67,7 +67,7 @@ makes three attacks: one with its bite and two with its claws.
 
 :bi:`Frightful Presence`. Each creature of the dragon's choice that is
 within 120 feet of the dragon and aware of it must succeed on a DC 18
-Wisdom saving throw or become frightened for 1 minute. A creature can
+Wisdom saving throw or become :ref:`frightened` for 1 minute. A creature can
 repeat the saving throw at the end of each of its turns, ending the
 effect on itself on a success. If a creature's saving throw is
 successful or the effect ends for it, the creature is immune to the
@@ -83,7 +83,7 @@ damage on a successful one.
 
 **Sleep Breath**. The dragon exhales sleep gas in a 90-foot cone. Each
 creature in that area must succeed on a DC 21 Constitution saving throw
-or fall unconscious for 10 minutes. This effect ends for a creature if
+or fall :ref:`unconscious` for 10 minutes. This effect ends for a creature if
 the creature takes damage or someone uses an action to wake it.
 
 :bi:`Change Shape`. The dragon magically polymorphs into a humanoid or
@@ -114,7 +114,7 @@ legendary actions at the start of its turn.
 **Wing Attack (Costs 2 Actions)**. The dragon beats its wings. Each
 creature within 15 feet of the dragon must succeed on a DC 22 Dexterity
 saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked
-prone. The dragon can then fly up to half its flying speed.
+:ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
 Adult Brass Dragon
@@ -167,7 +167,7 @@ makes three attacks: one with its bite and two with its claws.
 
 :bi:`Frightful Presence`. Each creature of the dragon's choice that is
 within 120 feet of the dragon and aware of it must succeed on a DC 16
-Wisdom saving throw or become frightened for 1 minute. A creature can
+Wisdom saving throw or become :ref:`frightened` for 1 minute. A creature can
 repeat the saving throw at the end of each of its turns, ending the
 effect on itself on a success. If a creature's saving throw is
 successful or the effect ends for it, the creature is immune to the
@@ -183,7 +183,7 @@ damage on a successful one.
 
 **Sleep Breath**. The dragon exhales sleep gas in a 60-foot cone. Each
 creature in that area must succeed on a DC 18 Constitution saving throw
-or fall unconscious for 10 minutes. This effect ends for a creature if
+or fall :ref:`unconscious` for 10 minutes. This effect ends for a creature if
 the creature takes damage or someone uses an action to wake it.
 
 
@@ -202,7 +202,7 @@ legendary actions at the start of its turn.
 **Wing Attack (Costs 2 Actions)**. The dragon beats its wings. Each
 creature within 10 feet of the dragon must succeed on a DC 19 Dexterity
 saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked
-prone. The dragon can then fly up to half its flying speed.
+:ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
 Young Brass Dragon
@@ -257,7 +257,7 @@ damage on a successful one.
 
 **Sleep Breath**. The dragon exhales sleep gas in a 30-foot cone. Each
 creature in that area must succeed on a DC 14 Constitution saving throw
-or fall unconscious for 5 minutes. This effect ends for a creature if
+or fall :ref:`unconscious` for 5 minutes. This effect ends for a creature if
 the creature takes damage or someone uses an action to wake it.
 
 
@@ -307,6 +307,6 @@ damage on a successful one.
 
 **Sleep Breath**. The dragon exhales sleep gas in a 15-foot cone. Each
 creature in that area must succeed on a DC 11 Constitution saving throw
-or fall unconscious for 1 minute. This effect ends for a creature if the
+or fall :ref:`unconscious` for 1 minute. This effect ends for a creature if the
 creature takes damage or someone uses an action to wake it.
 

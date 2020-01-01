@@ -57,7 +57,7 @@ one with its claws.
 
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The
-target must succeed on a DC 11 Constitution saving throw or be poisoned
+target must succeed on a DC 11 Constitution saving throw or be :ref:`poisoned`
 for 1 minute. The creature can repeat the saving throw at the end of
 each of its turns, ending the effect on itself on a success.
 

@@ -41,7 +41,7 @@ Mule
 the purpose of determining its carrying capacity.
 
 :bi:`Sure-Footed`. The mule has advantage on Strength and Dexterity
-saving throws made against effects that would knock it prone.
+saving throws made against effects that would knock it :ref:`prone`.
 
 
 Actions

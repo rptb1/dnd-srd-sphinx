@@ -38,7 +38,7 @@ nonmagical attacks not made with silvered weapons
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** :ref:`poisoned`
 
 **Senses** darkvision 120 ft., passive Perception 11
 
@@ -69,7 +69,7 @@ target must make on a DC 11 Constitution saving throw, taking 10 (3d6)
 poison damage on a failed save, or half as much damage on a successful
 one.
 
-:bi:`Invisibility`. The imp magically turns invisible until it attacks
+:bi:`Invisibility`. The imp magically turns :ref:`invisible` until it attacks
 or until its concentration ends (as if concentrating on a spell). Any
-equipment the imp wears or carries is invisible with it.
+equipment the imp wears or carries is :ref:`invisible` with it.
 

@@ -61,7 +61,7 @@ one with its tail.
 *Hit:* 10 (2d6 + 3) piercing damage, and if the target is Large or
 smaller, the cloaker attaches to it. If the cloaker has advantage
 against the target, the cloaker attaches to the target's head, and the
-target is blinded and unable to breathe while the cloaker is attached.
+target is :ref:`blinded` and unable to breathe while the cloaker is attached.
 While attached, the cloaker can make this attack only against the target
 and has advantage on the attack roll. The cloaker can detach itself by
 spending 5 feet of its movement. A creature, including the target, can
@@ -73,7 +73,7 @@ creature. *Hit:* 7 (1d8 + 3) slashing damage.
 
 :bi:`Moan`. Each creature within 60 feet of the cloaker that can hear
 its moan and that isn't an aberration must succeed on a DC 13 Wisdom
-saving throw or become frightened until the end of the cloaker's next
+saving throw or become :ref:`frightened` until the end of the cloaker's next
 turn. If a creature's saving throw is successful, the creature is immune
 to the cloaker's moan for the next 24 hours
 

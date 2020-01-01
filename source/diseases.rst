@@ -48,9 +48,9 @@ Any event that causes the infected creature great stress — including
 entering combat, taking damage, experiencing fear, or having a
 nightmare — forces the creature to make a DC 13 Constitution saving throw.
 On a failed save, the creature takes 5 (1d10) psychic damage and becomes
-incapacitated with mad laughter for 1 minute. The creature can repeat
+:ref:`incapacitated` with mad laughter for 1 minute. The creature can repeat
 the saving throw at the end of each of its turns, ending the mad
-laughter and the incapacitated condition on a success.
+laughter and the :ref:`incapacitated` condition on a success.
 
 Any humanoid creature that starts its turn within 10 feet of an infected
 creature in the throes of mad laughter must succeed on a DC 10
@@ -103,7 +103,7 @@ on a DC 15 Constitution saving throw or become infected. One day after
 infection, the creature's vision starts to become blurry. The creature
 takes a -1 penalty to attack rolls and ability checks that rely on
 sight. At the end of each long rest after the symptoms appear, the
-penalty worsens by 1. When it reaches -5, the victim is blinded until
+penalty worsens by 1. When it reaches -5, the victim is :ref:`blinded` until
 its sight is restored by magic such as *lesser restoration* or *heal*.
 
 Sight rot can be cured using a rare flower called Eyebright, which grows

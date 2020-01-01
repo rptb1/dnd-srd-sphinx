@@ -10,7 +10,7 @@ proper key causes the needle to spring out, delivering a dose of poison.
 When the trap is triggered, the needle extends 3 inches straight out
 from the lock. A creature within range takes 1 piercing damage and 11
 (2d10) poison damage, and must succeed on a DC 15 Constitution saving
-throw or be poisoned for 1 hour.
+throw or be :ref:`poisoned` for 1 hour.
 
 A successful DC 20 :ref:`Intelligence (Investigation) <investigation>` check allows a character
 to deduce the trap's presence from alterations made to the lock to

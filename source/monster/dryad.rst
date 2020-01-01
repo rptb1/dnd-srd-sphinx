@@ -71,8 +71,8 @@ damage, or 8 (1d8 + 4) bludgeoning damage with *shillelagh*.
 
 :bi:`Fey Charm`. The dryad targets one humanoid or beast that she can
 see within 30 feet of her. If the target can see the dryad, it must
-succeed on a DC 14 Wisdom saving throw or be magically charmed. The
-charmed creature regards the dryad as a trusted friend to be heeded and
+succeed on a DC 14 Wisdom saving throw or be magically :ref:`charmed`. The
+:ref:`charmed` creature regards the dryad as a trusted friend to be heeded and
 protected. Although the target isn't under the dryad's control, it takes
 the dryad's requests or actions in the most favorable way it can.
 
@@ -84,5 +84,5 @@ bonus action. If a target's saving throw is successful, the target is
 immune to the dryad's Fey Charm for the next 24 hours.
 
 The dryad can have no more than one humanoid and up to three beasts
-charmed at a time.
+:ref:`charmed` at a time.
 

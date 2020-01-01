@@ -35,7 +35,7 @@ Mimic
 
 **Damage Immunities** acid
 
-**Condition Immunities** prone
+**Condition Immunities** :ref:`prone`
 
 **Senses** darkvision 60 ft., passive Perception 11
 
@@ -50,14 +50,14 @@ transformed. It reverts to its true form if it dies.
 
 :bi:`Adhesive (Object Form Only)`. The mimic adheres to anything that
 touches it. A Huge or smaller creature adhered to the mimic is also
-grappled by it (escape DC 13). Ability checks made to escape this
+:ref:`grappled` by it (escape DC 13). Ability checks made to escape this
 grapple have disadvantage.
 
 :bi:`False Appearance (Object Form Only)`. While the mimic remains
 motionless, it is indistinguishable from an ordinary object.
 
 :bi:`Grappler`. The mimic has advantage on attack rolls against any
-creature grappled by it.
+creature :ref:`grappled` by it.
 
 
 Actions

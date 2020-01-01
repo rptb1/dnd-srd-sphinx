@@ -35,8 +35,8 @@ Shield Guardian
 
 **Damage Immunities** poison
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed,
-poisoned
+**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`paralyzed`,
+:ref:`poisoned`
 
 **Languages** understands commands given in any language but can't speak
 

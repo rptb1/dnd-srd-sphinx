@@ -43,8 +43,8 @@ nonmagical attacks
 
 **Damage Immunities** necrotic, poison
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed,
-poisoned
+**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`paralyzed`,
+:ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -70,9 +70,9 @@ curse lasts until removed by the *remove curse* spell or other magic.
 
 :bi:`Dreadful Glare`. The mummy targets one creature it can see within
 60 feet of it. If the target can see the mummy, it must succeed on a DC
-11 Wisdom saving throw against this magic or become frightened until the
+11 Wisdom saving throw against this magic or become :ref:`frightened` until the
 end of the mummy's next turn. If the target fails the saving throw by 5
-or more, it is also paralyzed for the same duration. A target that
+or more, it is also :ref:`paralyzed` for the same duration. A target that
 succeeds on the saving throw is immune to the Dreadful Glare of all
 mummies (but not mummy lords) for the next 24 hours.
 
@@ -102,8 +102,8 @@ Mummy Lord
 **Damage Immunities** necrotic, poison; bludgeoning, piercing, and
 slashing from nonmagical attacks
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed,
-poisoned
+**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`paralyzed`,
+:ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 14
 
@@ -155,8 +155,8 @@ curse lasts until removed by the *remove curse* spell or other magic.
 :bi:`Dreadful Glare`. The mummy lord targets one creature it can see
 within 60 feet of it. If the target can see the mummy lord, it must
 succeed on a DC 16 Wisdom saving throw against this magic or become
-frightened until the end of the mummy's next turn. If the target fails
-the saving throw by 5 or more, it is also paralyzed for the same
+:ref:`frightened` until the end of the mummy's next turn. If the target fails
+the saving throw by 5 or more, it is also :ref:`paralyzed` for the same
 duration. A target that succeeds on the saving throw is immune to the
 Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
@@ -174,13 +174,13 @@ uses its Dreadful Glare.
 
 **Blinding Dust**. Blinding dust and sand swirls magically around the
 mummy lord. Each creature within 5 feet of the mummy lord must succeed
-on a DC 16 Constitution saving throw or be blinded until the end of the
+on a DC 16 Constitution saving throw or be :ref:`blinded` until the end of the
 creature's next turn.
 
 **Blasphemous Word (Costs 2 Actions)**. The mummy lord utters a
 blasphemous word. Each non-undead creature within 10 feet of the mummy
 lord that can hear the magical utterance must succeed on a DC 16
-Constitution saving throw or be stunned until the end of the mummy
+Constitution saving throw or be :ref:`stunned` until the end of the mummy
 lord's next turn.
 
 **Channel Negative Energy (Costs 2 Actions)**. The mummy lord magically
@@ -191,7 +191,7 @@ points until the end of the mummy lord's next turn.
 **Whirlwind of Sand (Costs 2 Actions)**. The mummy lord magically
 transforms into a whirlwind of sand, moves up to 60 feet, and reverts to
 its normal form. While in whirlwind form, the mummy lord is immune to
-all damage, and it can't be grappled, petrified, knocked prone,
-:ref:`restrained`, or stunned. Equipment worn or carried by the mummy lord
+all damage, and it can't be :ref:`grappled`, :ref:`petrified`, knocked :ref:`prone`,
+:ref:`restrained`, or :ref:`stunned`. Equipment worn or carried by the mummy lord
 remain in its possession.
 

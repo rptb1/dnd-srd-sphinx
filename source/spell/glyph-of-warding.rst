@@ -22,7 +22,7 @@ an area no larger than 10 feet in diameter. If the surface or object is
 moved more than 10 feet from where you cast this spell, the glyph is
 broken, and the spell ends without being triggered.
 
-The glyph is nearly invisible and requires a successful Intelligence
+The glyph is nearly :ref:`invisible` and requires a successful Intelligence
 (Investigation) check against your spell save DC to be found.
 
 You decide what triggers the glyph when you cast the spell. For glyphs

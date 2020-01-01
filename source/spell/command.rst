@@ -33,7 +33,7 @@ turn.
 :bi:`Flee`. The target spends its turn moving away from you by the
 fastest available means.
 
-:bi:`Grovel`. The target falls prone and then ends its turn.
+:bi:`Grovel`. The target falls :ref:`prone` and then ends its turn.
 
 :bi:`Halt`. The target doesn't move and takes no actions.
 

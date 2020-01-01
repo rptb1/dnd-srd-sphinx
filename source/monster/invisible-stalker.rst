@@ -38,8 +38,8 @@ nonmagical attacks
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified,
-poisoned, prone, :ref:`restrained`, unconscious
+**Condition Immunities** exhaustion, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
+:ref:`poisoned`, :ref:`prone`, :ref:`restrained`, :ref:`unconscious`
 
 **Senses** darkvision 60 ft., passive Perception 18
 
@@ -47,7 +47,7 @@ poisoned, prone, :ref:`restrained`, unconscious
 
 **Challenge** 6 (2,300 XP)
 
-:bi:`Invisibility`. The stalker is invisible.
+:bi:`Invisibility`. The stalker is :ref:`invisible`.
 
 :bi:`Faultless Tracker`. The stalker is given a quarry by its summoner.
 The stalker knows the direction and distance to its quarry as long as

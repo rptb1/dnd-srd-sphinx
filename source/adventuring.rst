@@ -220,7 +220,7 @@ Otherwise, you hit it.
 
 When you land in difficult terrain, you must succeed on a DC 10
 :ref:`Dexterity (Acrobatics) <acrobatics>` check to land on your feet. Otherwise, you land
-prone.
+:ref:`prone`.
 
 .. index::
    double: high; jump
@@ -257,7 +257,7 @@ Falling
 A fall from a great height is one of the most common hazards facing an
 adventurer. At the end of a fall, a creature takes 1d6 bludgeoning
 damage for every 10 feet it fell, to a maximum of 20d6. The creature
-lands prone, unless it avoids taking damage from the fall.
+lands :ref:`prone`, unless it avoids taking damage from the fall.
 
 
 Suffocating
@@ -302,7 +302,7 @@ sight.
 
 A **heavily obscured** area — such as darkness, opaque fog, or dense
 foliage — blocks vision entirely. A creature effectively suffers from the
-blinded condition (see appendix A) when trying to see something in that
+:ref:`blinded` condition (see appendix A) when trying to see something in that
 area.
 
 The presence or absence of light in an environment creates three
@@ -365,7 +365,7 @@ Truesight
 .. index:: ! truesight
 
 A creature with truesight can, out to a specific range, see in normal
-and magical darkness, see invisible creatures and objects, automatically
+and magical darkness, see :ref:`invisible` creatures and objects, automatically
 detect visual illusions and succeed on saving throws against them, and
 perceives the original form of a shapechanger or a creature that is
 transformed by magic. Furthermore, the creature can see into the

@@ -39,8 +39,8 @@ slashing from nonmagical attacks
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified,
-poisoned, prone, :ref:`restrained`, unconscious
+**Condition Immunities** exhaustion, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
+:ref:`poisoned`, :ref:`prone`, :ref:`restrained`, :ref:`unconscious`
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -64,14 +64,14 @@ Actions
 :bi:`Whirlwind (Recharge 4-6)`. Each creature in the elemental's space
 must make a DC 13 Strength saving throw. On a failure, a target takes 15
 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the
-elemental in a random direction and knocked prone. If a thrown target
+elemental in a random direction and knocked :ref:`prone`. If a thrown target
 strikes an object, such as a wall or floor, the target takes 3 (1d6)
 bludgeoning damage for every 10 feet it was thrown. If the target is
 thrown at another creature, that creature must succeed on a DC 13
-Dexterity saving throw or take the same damage and be knocked prone.
+Dexterity saving throw or take the same damage and be knocked :ref:`prone`.
 
 If the saving throw is successful, the target takes half the bludgeoning
-damage and isn't flung away or knocked prone.
+damage and isn't flung away or knocked :ref:`prone`.
 
 Earth Elemental
 ~~~~~~~~~~~~~~~
@@ -97,8 +97,8 @@ nonmagical attacks
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, paralyzed, petrified, poisoned,
-unconscious
+**Condition Immunities** exhaustion, :ref:`paralyzed`, :ref:`petrified`, :ref:`poisoned`,
+:ref:`unconscious`
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
 
@@ -144,8 +144,8 @@ nonmagical attacks
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified,
-poisoned, prone, :ref:`restrained`, unconscious
+**Condition Immunities** exhaustion, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
+:ref:`poisoned`, :ref:`prone`, :ref:`restrained`, :ref:`unconscious`
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -203,8 +203,8 @@ nonmagical attacks
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified,
-poisoned, prone, :ref:`restrained`, unconscious
+**Condition Immunities** exhaustion, :ref:`grappled`, :ref:`paralyzed`, :ref:`petrified`,
+:ref:`poisoned`, :ref:`prone`, :ref:`restrained`, :ref:`unconscious`
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -231,14 +231,14 @@ Actions
 :bi:`Whelm (Recharge 4-6)`. Each creature in the elemental's space must
 make a DC 15 Strength saving throw. On a failure, a target takes 13
 (2d8+4) bludgeoning damage. If it is Large or smaller, it is also
-grappled (escape DC 14). Until this grapple ends, the target is
+:ref:`grappled` (escape DC 14). Until this grapple ends, the target is
 :ref:`restrained` and unable to breathe unless it can breathe water. If the
 saving throw is successful, the target is pushed out of the elemental's
 space.
 
 The elemental can grapple one Large creature or up to two Medium or
 smaller creatures at one time. At the start of each of the elemental's
-turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage.
+turns, each target :ref:`grappled` by it takes 13 (2d8 + 4) bludgeoning damage.
 A creature within 5 feet of the elemental can pull a creature or object
 out of it by taking an action to make a DC 14 Strength and succeeding.
 

@@ -33,7 +33,7 @@ Homunculus
 
 **Damage Immunities** poison
 
-**Condition Immunities** charmed, poisoned
+**Condition Immunities** :ref:`charmed`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -51,7 +51,7 @@ Actions
 
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 1 piercing damage, and the target must succeed on a DC 10
-Constitution saving throw or be poisoned for 1 minute. If the saving
-throw fails by 5 or more, the target is instead poisoned for 5 (1d10)
-minutes and unconscious while poisoned in this way.
+Constitution saving throw or be :ref:`poisoned` for 1 minute. If the saving
+throw fails by 5 or more, the target is instead :ref:`poisoned` for 5 (1d10)
+minutes and :ref:`unconscious` while :ref:`poisoned` in this way.
 

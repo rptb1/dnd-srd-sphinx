@@ -41,7 +41,7 @@ Duergar
 
 :bi:`Duergar Resilience`. The duergar has advantage on saving throws
 against poison, spells, and illusions, as well as to resist being
-charmed or paralyzed.
+:ref:`charmed` or :ref:`paralyzed`.
 
 :bi:`Sunlight Sensitivity`. While in sunlight, the duergar has
 disadvantage on attack rolls, as well as on Wisdom (Perception) checks
@@ -68,8 +68,8 @@ or range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or
 9 (2d6 + 2) piercing damage while enlarged.
 
 :bi:`Invisibility (Recharges after a Short or Long Rest)`. The duergar
-magically turns invisible until it attacks, casts a spell, or uses its
+magically turns :ref:`invisible` until it attacks, casts a spell, or uses its
 Enlarge, or until its concentration is broken, up to 1 hour (as if
 concentrating on a spell). Any equipment the duergar wears or carries is
-invisible with it.
+:ref:`invisible` with it.
 

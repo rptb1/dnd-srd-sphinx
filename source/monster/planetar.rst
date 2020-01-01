@@ -38,7 +38,7 @@ Planetar
 **Damage Resistances** radiant; bludgeoning, piercing, and slashing from
 nonmagical attacks
 
-**Condition Immunities** charmed, exhaustion, frightened
+**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`
 
 **Senses** truesight 120 ft., passive Perception 21
 

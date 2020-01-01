@@ -53,7 +53,7 @@ Actions
 
 :bi:`Tentacles`. *Melee Weapon Attack:* +5 to hit, reach 15 ft., one
 target. *Hit:* 10 (2d6 + 3) bludgeoning damage. If the target is a
-creature, it is grappled (escape DC 16). Until this grapple ends, the
+creature, it is :ref:`grappled` (escape DC 16). Until this grapple ends, the
 target is :ref:`restrained`, and the octopus can't use its tentacles on another
 target.
 

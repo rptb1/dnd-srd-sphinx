@@ -21,8 +21,8 @@ The affected area is subject to the following effects.
 
 First, celestials, elementals, fey, fiends, and undead can't enter the
 area, nor can such creatures charm, frighten, or possess creatures
-within it. Any creature charmed, frightened, or possessed by such a
-creature is no longer charmed, frightened, or possessed upon entering
+within it. Any creature :ref:`charmed`, :ref:`frightened`, or possessed by such a
+creature is no longer :ref:`charmed`, :ref:`frightened`, or possessed upon entering
 the area. You can exclude one or more of those types of creatures from
 this effect.
 
@@ -36,7 +36,7 @@ time on a turn or starts its turn there, it can make a Charisma saving
 throw. On a success, the creature ignores the extra effect until it
 leaves the area.
 
-:bi:`Courage`. Affected creatures can't be frightened while in the area.
+:bi:`Courage`. Affected creatures can't be :ref:`frightened` while in the area.
 
 :bi:`Darkness`. Darkness fills the area. Normal light, as well as
 magical light created by spells of a lower level than the slot you used
@@ -60,7 +60,7 @@ into undead.
 :bi:`Extradimensional Interference`. Affected creatures can't move or
 travel using teleportation or by extradimensional or interplanar means.
 
-:bi:`Fear`. Affected creatures are frightened while in the area.
+:bi:`Fear`. Affected creatures are :ref:`frightened` while in the area.
 
 :bi:`Silence`. No sound can emanate from within the area, and no sound
 can reach into it.

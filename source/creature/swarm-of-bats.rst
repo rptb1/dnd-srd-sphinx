@@ -33,8 +33,8 @@ Swarm of Bats
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
-**Condition Immunities** charmed, frightened, grappled, paralyzed,
-petrified, prone, :ref:`restrained`, stunned
+**Condition Immunities** :ref:`charmed`, :ref:`frightened`, :ref:`grappled`, :ref:`paralyzed`,
+:ref:`petrified`, :ref:`prone`, :ref:`restrained`, :ref:`stunned`
 
 **Senses** blindsight 60 ft., passive Perception 11
 
@@ -42,7 +42,7 @@ petrified, prone, :ref:`restrained`, stunned
 
 **Challenge** 1/4 (50 XP)
 
-:bi:`Echolocation`. The swarm can't use its blindsight while deafened.
+:bi:`Echolocation`. The swarm can't use its blindsight while :ref:`deafened`.
 
 :bi:`Keen Hearing`. The swarm has advantage on Wisdom (Perception)
 checks that rely on hearing.

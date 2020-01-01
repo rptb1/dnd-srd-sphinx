@@ -36,8 +36,8 @@ Will-o'-Wisp
 **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning,
 piercing, and slashing from nonmagical attacks
 
-**Condition Immunities** exhaustion, grappled, paralyzed, poisoned,
-prone, :ref:`restrained`, unconscious
+**Condition Immunities** exhaustion, :ref:`grappled`, :ref:`paralyzed`, :ref:`poisoned`,
+:ref:`prone`, :ref:`restrained`, :ref:`unconscious`
 
 **Senses** darkvision 120 ft., passive Perception 12
 
@@ -70,6 +70,6 @@ Actions
 *Hit:* 9 (2d8) lightning damage.
 
 :bi:`Invisibility`. The will-o'-wisp and its light magically become
-invisible until it attacks or uses its Consume Life, or until its
+:ref:`invisible` until it attacks or uses its Consume Life, or until its
 concentration ends (as if concentrating on a spell).
 

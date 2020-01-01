@@ -77,9 +77,9 @@ Triceratops
 :bi:`Trampling Charge`. If the triceratops moves at least 20 feet
 straight toward a creature and then hits it with a gore attack on the
 same turn, that target must succeed on a DC 13 Strength saving throw or
-be knocked prone.
+be knocked :ref:`prone`.
 
-If the target is prone, the triceratops can make one stomp attack
+If the target is :ref:`prone`, the triceratops can make one stomp attack
 against it as a bonus action.
 
 
@@ -89,7 +89,7 @@ Actions
 :bi:`Gore`. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target.
 *Hit:* 24 (4d8 + 6) piercing damage.
 
-:bi:`Stomp`. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one prone
+:bi:`Stomp`. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one :ref:`prone`
 creature. *Hit:* 22 (3d10 + 6) bludgeoning damage.
 
 Tyrannosaurus Rex
@@ -127,7 +127,7 @@ target.
 
 :bi:`Bite`. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target.
 *Hit:* 33 (4d12 + 7) piercing damage. If the target is a Medium or
-smaller creature, it is grappled (escape DC 17). Until this grapple
+smaller creature, it is :ref:`grappled` (escape DC 17). Until this grapple
 ends, the target is :ref:`restrained`, and the tyrannosaurus can't bite another
 target.
 

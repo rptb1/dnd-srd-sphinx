@@ -35,7 +35,7 @@ Azer
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** :ref:`poisoned`
 
 **Senses** passive Perception 11
 

@@ -19,8 +19,8 @@ within range must make a Charisma saving throw; a creature can choose to
 fail this saving throw if it wishes. If a creature fails its saving
 throw, choose one of the following two effects.
 
-You can suppress any effect causing a target to be charmed or
-frightened. When this spell ends, any suppressed effect resumes,
+You can suppress any effect causing a target to be :ref:`charmed` or
+:ref:`frightened`. When this spell ends, any suppressed effect resumes,
 provided that its duration has not expired in the meantime.
 
 Alternatively, you can make a target indifferent about creatures of your

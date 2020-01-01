@@ -50,7 +50,7 @@ as if it were bright light, and in darkness as if it were dim light. You
 can't discern color in darkness, only shades of gray.
 
 :bi:`Fey Ancestry`. You have advantage on saving throws against being
-charmed, and magic can't put you to sleep.
+:ref:`charmed`, and magic can't put you to sleep.
 
 :bi:`Skill Versatility`. You gain proficiency in two skills of your
 choice.

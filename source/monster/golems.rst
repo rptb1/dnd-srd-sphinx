@@ -37,8 +37,8 @@ Clay Golem
 **Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and
 slashing from nonmagical attacks that aren't adamantine
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed,
-petrified, poisoned
+**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`paralyzed`,
+:ref:`petrified`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -103,8 +103,8 @@ Flesh Golem
 **Damage Immunities** lightning, poison; bludgeoning, piercing, and
 slashing from nonmagical attacks that aren't adamantine
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed,
-petrified, poisoned
+**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`paralyzed`,
+:ref:`petrified`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -172,8 +172,8 @@ Iron Golem
 **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and
 slashing from nonmagical attacks that aren't adamantine
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed,
-petrified, poisoned
+**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`paralyzed`,
+:ref:`petrified`, :ref:`poisoned`
 
 **Senses** darkvision 120 ft., passive Perception 10
 
@@ -230,8 +230,8 @@ Stone Golem
 **Damage Immunities** poison, psychic; bludgeoning, piercing, and
 slashing from nonmagical attacks that aren't adamantine
 
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed,
-petrified, poisoned
+**Condition Immunities** :ref:`charmed`, exhaustion, :ref:`frightened`, :ref:`paralyzed`,
+:ref:`petrified`, :ref:`poisoned`
 
 **Senses** darkvision 120 ft., passive Perception 10
 

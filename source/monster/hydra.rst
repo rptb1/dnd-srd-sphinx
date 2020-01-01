@@ -43,8 +43,8 @@ Hydra
 
 :bi:`Multiple Heads`. The hydra has five heads. While it has more than
 one head, the hydra has advantage on saving throws against being
-blinded, charmed, deafened, frightened, stunned, and knocked
-unconscious.
+:ref:`blinded`, :ref:`charmed`, :ref:`deafened`, :ref:`frightened`, :ref:`stunned`, and knocked
+:ref:`unconscious`.
 
 Whenever the hydra takes 25 or more damage in a single turn, one of its
 heads dies. If all its heads die, the hydra dies.

@@ -38,7 +38,7 @@ slashing from nonmagical attacks
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** :ref:`poisoned`
 
 **Senses** truesight 120 ft., passive Perception 13
 

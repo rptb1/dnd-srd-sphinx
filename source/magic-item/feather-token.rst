@@ -85,5 +85,5 @@ against a creature within 10 feet of the whip, with an attack bonus of
 As a bonus action on your turn, you can direct the whip to fly up to 20
 feet and repeat the attack against a creature within 10 feet of it. The
 whip disappears after 1 hour, when you use an action to dismiss it, or
-when you are incapacitated or die.
+when you are :ref:`incapacitated` or die.
 

@@ -43,7 +43,7 @@ can't speak them
 :bi:`Charge`. If the elk moves at least 20 feet straight toward a target
 and then hits it with a ram attack on the same turn, the target takes an
 extra 7 (2d6) damage. If the target is a creature, it must succeed on a
-DC 14 Strength saving throw or be knocked prone.
+DC 14 Strength saving throw or be knocked :ref:`prone`.
 
 
 Actions
@@ -52,7 +52,7 @@ Actions
 :bi:`Ram`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target.
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
-:bi:`Hooves`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one prone
+:bi:`Hooves`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one :ref:`prone`
 creature. *Hit:* 22 (4d8 + 4) bludgeoning damage.
 
 The majestic **giant elk** is rare to the point that its appearance is

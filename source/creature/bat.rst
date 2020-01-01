@@ -37,7 +37,7 @@ Bat
 
 **Challenge** 0 (10 XP)
 
-:bi:`Echolocation`. The bat can't use its blindsight while deafened.
+:bi:`Echolocation`. The bat can't use its blindsight while :ref:`deafened`.
 
 :bi:`Keen Hearing`. The bat has advantage on :ref:`Wisdom (Perception) <perception>` checks
 that rely on hearing.

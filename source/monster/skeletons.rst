@@ -38,7 +38,7 @@ Medium undead, lawful evil
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, poisoned
+**Condition Immunities** exhaustion, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -77,7 +77,7 @@ Minotaur Skeleton
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, poisoned
+**Condition Immunities** exhaustion, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -89,7 +89,7 @@ Minotaur Skeleton
 target and then hits it with a gore attack on the same turn, the target
 takes an extra 9 (2d8) piercing damage. If the target is a creature, it
 must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet
-away and knocked prone.
+away and knocked :ref:`prone`.
 
 
 Actions
@@ -122,7 +122,7 @@ Warhorse Skeleton
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, poisoned
+**Condition Immunities** exhaustion, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 9
 

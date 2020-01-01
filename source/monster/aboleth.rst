@@ -76,13 +76,13 @@ passed.
 
 :bi:`Enslave (3/Day)`. The aboleth targets one creature it can see
 within 30 feet of it. The target must succeed on a DC 14 Wisdom saving
-throw or be magically charmed by the aboleth until the aboleth dies or
+throw or be magically :ref:`charmed` by the aboleth until the aboleth dies or
 until it is on a different plane of existence from the target. The
-charmed target is under the aboleth's control and can't take reactions,
+:ref:`charmed` target is under the aboleth's control and can't take reactions,
 and the aboleth and the target can communicate telepathically with each
 other over any distance.
 
-Whenever the charmed target takes damage, the target can repeat the
+Whenever the :ref:`charmed` target takes damage, the target can repeat the
 saving throw. On a success, the effect ends. No more than once every 24
 hours, the target can also repeat the saving throw when it is at least 1
 mile away from the aboleth.
@@ -99,7 +99,7 @@ legendary actions at the start of its turn.
 
 **Tail Swipe**. The aboleth makes one tail attack.
 
-**Psychic Drain (Costs 2 Actions)**. One creature charmed by the aboleth
+**Psychic Drain (Costs 2 Actions)**. One creature :ref:`charmed` by the aboleth
 takes 10 (3d6) psychic damage, and the aboleth regains hit points equal
 to the damage the creature takes.
 

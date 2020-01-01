@@ -39,7 +39,7 @@ Killer Whale
 
 **Challenge** 3 (700 XP)
 
-:bi:`Echolocation`. The whale can't use its blindsight while deafened.
+:bi:`Echolocation`. The whale can't use its blindsight while :ref:`deafened`.
 
 :bi:`Hold Breath`. The whale can hold its breath for 30 minutes.
 

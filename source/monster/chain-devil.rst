@@ -38,7 +38,7 @@ nonmagical attacks that aren't silvered
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** :ref:`poisoned`
 
 **Senses** darkvision 120 ft., passive Perception 11
 
@@ -59,7 +59,7 @@ Actions
 :bi:`Multiattack`. The devil makes two attacks with its chains.
 
 :bi:`Chain`. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target.
-*Hit:* 11 (2d6 + 4) slashing damage. The target is grappled (escape DC
+*Hit:* 11 (2d6 + 4) slashing damage. The target is :ref:`grappled` (escape DC
 14) if the devil isn't already grappling a creature. Until this grapple
 ends, the target is :ref:`restrained` and takes 7 (2d6) piercing damage at the
 start of each of its turns.
@@ -75,7 +75,7 @@ devil uses Multiattack on its turn, it can use each animated chain to
 make one additional chain attack. An animated chain can grapple one
 creature of its own but can't make attacks while grappling. An animated
 chain reverts to its inanimate state if reduced to 0 hit points or if
-the devil is incapacitated or dies.
+the devil is :ref:`incapacitated` or dies.
 
 Reactions
          
@@ -84,5 +84,5 @@ Reactions
 within 30 feet of the devil, the devil can create the illusion that it
 looks like one of the creature's departed loved ones or bitter enemies.
 If the creature can see the devil, it must succeed on a DC 14 Wisdom
-saving throw or be frightened until the end of its turn.
+saving throw or be :ref:`frightened` until the end of its turn.
 

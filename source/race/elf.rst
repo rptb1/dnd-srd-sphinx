@@ -54,7 +54,7 @@ shades of gray.
 :bi:`Keen Senses`. You have proficiency in the Perception skill.
 
 :bi:`Fey Ancestry`. You have advantage on saving throws against being
-charmed, and magic can't put you to sleep.
+:ref:`charmed`, and magic can't put you to sleep.
 
 :bi:`Trance`. Elves don't need to sleep. Instead, they meditate deeply,
 remaining semiconscious, for 4 hours a day. (The Common word for such

@@ -41,12 +41,12 @@ Medusa
 
 :bi:`Petrifying Gaze`. When a creature that can see the medusa's eyes
 starts its turn within 30 feet of the medusa, the medusa can force it to
-make a DC 14 Constitution saving throw if the medusa isn't incapacitated
+make a DC 14 Constitution saving throw if the medusa isn't :ref:`incapacitated`
 and can see the creature. If the saving throw fails by 5 or more, the
-creature is instantly petrified. Otherwise, a creature that fails the
+creature is instantly :ref:`petrified`. Otherwise, a creature that fails the
 save begins to turn to stone and is :ref:`restrained`. The :ref:`restrained` creature
 must repeat the saving throw at the end of its next turn, becoming
-petrified on a failure or ending the effect on a success. The
+:ref:`petrified` on a failure or ending the effect on a success. The
 petrification lasts until the creature is freed by the *greater
 restoration* spell or other magic.
 

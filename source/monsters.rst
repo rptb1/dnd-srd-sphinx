@@ -363,7 +363,7 @@ Saving Throws
 
 The Saving Throws entry is reserved for creatures that are adept at
 resisting certain kinds of effects. For example, a creature that isn't
-easily charmed or frightened might gain a bonus on its Wisdom saving
+easily :ref:`charmed` or :ref:`frightened` might gain a bonus on its Wisdom saving
 throws. Most creatures don't have special saving throw bonuses, in which
 case this section is absent.
 
@@ -602,7 +602,7 @@ end the telepathic contact at any time. The contact is broken as soon as
 the two creatures are no longer within range of each other or if the
 telepathic monster contacts a different creature within range. A
 telepathic monster can initiate or terminate a telepathic conversation
-without using an action, but while the monster is incapacitated, it
+without using an action, but while the monster is :ref:`incapacitated`, it
 can't initiate telepathic contact, and any current contact is
 terminated.
 
@@ -817,7 +817,7 @@ information is presented after the "Miss:" notation.
     need to make an additional ability check to determine whether the
     grapple succeeds, unless the attack says otherwise.
 
-    A creature grappled by the monster can use its action to try to
+    A creature :ref:`grappled` by the monster can use its action to try to
     escape. To do so, it must succeed on a Strength (Athletics) or
     :ref:`Dexterity (Acrobatics) <acrobatics>` check against the escape DC in the monster's
     stat block. If no escape DC is given, assume the DC is 10 + the
@@ -914,7 +914,7 @@ A legendary creature can take a certain number of special actions — called
 legendary actions — outside its turn. Only one legendary action option can
 be used at a time and only at the end of another creature's turn. A
 creature regains its spent legendary actions at the start of its turn.
-It can forgo using them, and it can't use them while incapacitated or
+It can forgo using them, and it can't use them while :ref:`incapacitated` or
 otherwise unable to take actions. If surprised, it can't use them until
 after its first turn in the combat.
 
@@ -934,7 +934,7 @@ Lair Actions
 If a legendary creature has lair actions, it can use them to harness the
 ambient magic in its lair. On initiative count 20 (losing all initiative
 ties), it can use one of its lair action options. It can't do so while
-incapacitated or otherwise unable to take actions. If surprised, it
+:ref:`incapacitated` or otherwise unable to take actions. If surprised, it
 can't use one until after its first turn in the combat.
 
 

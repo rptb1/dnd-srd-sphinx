@@ -14,6 +14,6 @@ Lesser Restoration
 **Duration:** Instantaneous
 
 You touch a creature and can end either one disease or one condition
-afflicting it. The condition can be blinded, deafened, paralyzed, or
-poisoned.
+afflicting it. The condition can be :ref:`blinded`, :ref:`deafened`, :ref:`paralyzed`, or
+:ref:`poisoned`.
 

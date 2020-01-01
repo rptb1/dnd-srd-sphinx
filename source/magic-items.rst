@@ -475,8 +475,8 @@ following demands:
 
 If a sentient item attempts to take control of its wielder, the wielder
 must make a Charisma saving throw, with a DC equal to 12 + the item's
-Charisma modifier. On a failed save, the wielder is charmed by the item
-for 1d12 hours. While charmed, the wielder must try to follow the item's
+Charisma modifier. On a failed save, the wielder is :ref:`charmed` by the item
+for 1d12 hours. While :ref:`charmed`, the wielder must try to follow the item's
 commands. If the wielder takes damage, it can repeat the saving throw,
 ending the effect on a success. Whether the attempt to control its user
 succeeds or fails, the item can't use this power again until the next
@@ -521,10 +521,10 @@ it.
 While attuned to an orb, you can use an action to peer into the orb's
 depths and speak its command word. You must then make a DC 15 Charisma
 check. On a successful check, you control the orb for as long as you
-remain attuned to it. On a failed check, you become charmed by the orb
+remain attuned to it. On a failed check, you become :ref:`charmed` by the orb
 for as long as you remain attuned to it.
 
-While you are charmed by the orb, you can't voluntarily end your
+While you are :ref:`charmed` by the orb, you can't voluntarily end your
 attunement to it, and the orb casts *suggestion* on you at will (save DC
 18), urging you to work toward the evil ends it desires. The dragon
 essence within the orb might want many things: the annihilation of a

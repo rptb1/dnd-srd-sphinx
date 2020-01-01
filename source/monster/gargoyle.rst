@@ -36,7 +36,7 @@ nonmagical attacks that aren't adamantine
 
 **Damage Immunities** poison
 
-**Condition Immunities** exhaustion, petrified, poisoned
+**Condition Immunities** exhaustion, :ref:`petrified`, :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 10
 

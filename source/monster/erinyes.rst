@@ -38,7 +38,7 @@ nonmagical attacks that aren't silvered
 
 **Damage Immunities** fire, poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** :ref:`poisoned`
 
 **Senses** truesight 120 ft., passive Perception 12
 
@@ -65,7 +65,7 @@ damage if used with two hands, plus 13 (3d8) poison damage.
 :bi:`Longbow`. *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one
 target. *Hit:* 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage,
 and the target must succeed on a DC 14 Constitution saving throw or be
-poisoned. The poison lasts until it is removed by the *lesser
+:ref:`poisoned`. The poison lasts until it is removed by the *lesser
 restoration* spell or similar magic.
 
 Reactions

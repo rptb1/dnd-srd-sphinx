@@ -30,7 +30,7 @@ chosen type in the following ways:
 -  The creature has disadvantage on attack rolls against targets within
    the cylinder.
 
--  Targets within the cylinder can't be charmed, frightened, or
+-  Targets within the cylinder can't be :ref:`charmed`, :ref:`frightened`, or
    possessed by the creature.
 
 When you cast this spell, you can elect to cause its magic to operate in

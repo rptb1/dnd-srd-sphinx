@@ -33,8 +33,8 @@ Animated Armor
 
 **Damage Immunities** poison, psychic
 
-**Condition Immunities** blinded, charmed, deafened, exhaustion,
-frightened, paralyzed, petrified, poisoned
+**Condition Immunities** :ref:`blinded`, :ref:`charmed`, :ref:`deafened`, exhaustion,
+:ref:`frightened`, :ref:`paralyzed`, :ref:`petrified`, :ref:`poisoned`
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive
 Perception 6
@@ -43,12 +43,12 @@ Perception 6
 
 **Challenge** 1 (200 XP)
 
-:bi:`Antimagic Susceptibility`. The armor is incapacitated while in the
+:bi:`Antimagic Susceptibility`. The armor is :ref:`incapacitated` while in the
 area of an *antimagic field*. If targeted by *dispel magic*, the armor
 must succeed on a
 
 Constitution saving throw against the caster's spell save DC or fall
-unconscious for 1 minute.
+:ref:`unconscious` for 1 minute.
 
 :bi:`False Appearance`. While the armor remains motionless, it is
 indistinguishable from a normal suit of armor.

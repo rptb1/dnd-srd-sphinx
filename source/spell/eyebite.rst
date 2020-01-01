@@ -21,12 +21,12 @@ turns until the spell ends, you can use your action to target another
 creature but can't target a creature again if it has succeeded on a
 saving throw against this casting of *eyebite*.
 
-:bi:`Asleep`. The target falls unconscious. It wakes up if it takes any
+:bi:`Asleep`. The target falls :ref:`unconscious`. It wakes up if it takes any
 damage or if another creature uses its action to shake the sleeper
 awake.
 
-:bi:`Panicked`. The target is frightened of you. On each of its turns,
-the frightened creature must take the Dash action and move away from you
+:bi:`Panicked`. The target is :ref:`frightened` of you. On each of its turns,
+the :ref:`frightened` creature must take the Dash action and move away from you
 by the safest and shortest available route, unless there is nowhere to
 move. If the target moves to a place at least 60 feet away from you
 where it can no longer see you, this effect ends.

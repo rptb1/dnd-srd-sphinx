@@ -22,12 +22,12 @@ affected.
 A creature :ref:`restrained` by this spell must make another Constitution
 saving throw at the end of each of its turns. If it successfully saves
 against this spell three times, the spell ends. If it fails its saves
-three times, it is turned to stone and subjected to the petrified
+three times, it is turned to stone and subjected to the :ref:`petrified`
 condition for the duration. The successes and failures don't need to be
 consecutive; keep track of both until the target collects three of a
 kind.
 
-If the creature is physically broken while petrified, it suffers from
+If the creature is physically broken while :ref:`petrified`, it suffers from
 similar deformities if it reverts to its original state.
 
 If you maintain your concentration on this spell for the entire possible

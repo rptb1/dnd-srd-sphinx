@@ -214,7 +214,7 @@ half damage if it fails.
 :bi:`Sneak Attack`. Once per turn, the assassin deals an extra 14 (4d6)
 damage when it hits a target with a weapon attack and has advantage on
 the attack roll, or when the target is within 5 feet of an ally of the
-assassin that isn't incapacitated and the assassin doesn't have
+assassin that isn't :ref:`incapacitated` and the assassin doesn't have
 disadvantage on the attack roll.
 
 Actions
@@ -431,7 +431,7 @@ Cultist
 **Challenge** 1/8 (25 XP)
 
 :bi:`Dark Devotion`. The cultist has advantage on saving throws against
-being charmed or frightened.
+being :ref:`charmed` or :ref:`frightened`.
 
 Actions
        
@@ -471,7 +471,7 @@ Cult Fanatic
 **Challenge** 2 (450 XP)
 
 :bi:`Dark Devotion`. The fanatic has advantage on saving throws against
-being charmed or frightened.
+being :ref:`charmed` or :ref:`frightened`.
 
 :bi:`Spellcasting`. The fanatic is a 4th-level spellcaster. Its
 spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell
@@ -572,7 +572,7 @@ Gladiator
 **Challenge** 5 (1,800 XP)
 
 :bi:`Brave`. The gladiator has advantage on saving throws against being
-frightened.
+:ref:`frightened`.
 
 :bi:`Brute`. A melee weapon deals one extra die of its damage when the
 gladiator hits with it (included in the attack).
@@ -590,7 +590,7 @@ range 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13
 :bi:`Shield Bash`. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one
 creature. *Hit:* 9 (2d4 + 4) bludgeoning damage. If the target is a
 Medium or smaller creature, it must succeed on a DC 15 Strength saving
-throw or be knocked prone.
+throw or be knocked :ref:`prone`.
 
 Reactions
          
@@ -665,7 +665,7 @@ Knight
 **Challenge** 3 (700 XP)
 
 :bi:`Brave`. The knight has advantage on saving throws against being
-frightened.
+:ref:`frightened`.
 
 Actions
        
@@ -684,7 +684,7 @@ creature that it can see within 30 feet of it makes an attack roll or a
 saving throw. The creature can add a d4 to its roll provided it can hear
 and understand the knight. A creature can benefit from only one
 Leadership die at a time. This effect ends if the knight is
-incapacitated.
+:ref:`incapacitated`.
 
 Reactions
          
@@ -933,7 +933,7 @@ action to take the Dash, Disengage, or Hide action.
 :bi:`Sneak Attack (1/Turn)`. The spy deals an extra 7 (2d6) damage when
 it hits a target with a weapon attack and has advantage on the attack
 roll, or when the target is within 5 feet of an ally of the spy that
-isn't incapacitated and the spy doesn't have disadvantage on the attack
+isn't :ref:`incapacitated` and the spy doesn't have disadvantage on the attack
 roll.
 
 Actions
@@ -980,7 +980,7 @@ Thug
 
 :bi:`Pack Tactics`. The thug has advantage on an attack roll against a
 creature if at least one of the thug's allies is within 5 feet of the
-creature and the ally isn't incapacitated.
+creature and the ally isn't :ref:`incapacitated`.
 
 Actions
        
@@ -1021,7 +1021,7 @@ Tribal Warrior
 
 :bi:`Pack Tactics`. The warrior has advantage on an attack roll against
 a creature if at least one of the warrior's allies is within 5 feet of
-the creature and the ally isn't incapacitated.
+the creature and the ally isn't :ref:`incapacitated`.
 
 Actions
        

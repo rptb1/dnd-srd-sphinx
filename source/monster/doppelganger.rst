@@ -33,7 +33,7 @@ Doppelganger
 
 **Skills** Deception +6, Insight +3
 
-**Condition Immunities** charmed
+**Condition Immunities** :ref:`charmed`
 
 **Senses** darkvision 60 ft., passive Perception 11
 

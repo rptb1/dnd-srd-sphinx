@@ -31,7 +31,7 @@ Gibbering Mouther
 | 10 (+0)   | 8 (-1)    | 16 (+3)   | 3 (-4)    | 10 (+0)   | 6 (-2)    |
 +-----------+-----------+-----------+-----------+-----------+-----------+
 
-**Condition Immunities** prone
+**Condition Immunities** :ref:`prone`
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -45,7 +45,7 @@ that area must succeed on a DC 10 Strength saving throw or have its
 speed reduced to 0 until the start of its next turn.
 
 :bi:`Gibbering`. The mouther babbles incoherently while it can see any
-creature and isn't incapacitated. Each creature that starts its turn
+creature and isn't :ref:`incapacitated`. Each creature that starts its turn
 within 20 feet of the mouther and can hear the gibbering must succeed on
 a DC 10 Wisdom saving throw. On a failure, the creature can't take
 reactions until the start of its next turn and rolls a d8 to determine
@@ -65,12 +65,12 @@ it can, uses its Blinding Spittle.
 :bi:`Bites`. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one
 creature. *Hit:* 17 (5d6) piercing damage. If the target is Medium or
 smaller, it must succeed on a DC 10 Strength saving throw or be knocked
-prone. If the target is killed by this damage, it is absorbed into the
+:ref:`prone`. If the target is killed by this damage, it is absorbed into the
 mouther.
 
 :bi:`Blinding Spittle (Recharge 5-6)`. The mouther spits a chemical glob
 at a point it can see within 15 feet of it. The glob explodes in a
 blinding flash of light on impact. Each creature within 5 feet of the
-flash must succeed on a DC 13 Dexterity saving throw or be blinded until
+flash must succeed on a DC 13 Dexterity saving throw or be :ref:`blinded` until
 the end of the mouther's next turn.
 

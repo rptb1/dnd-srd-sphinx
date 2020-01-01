@@ -14,12 +14,12 @@ Component: V, S
 **Duration:** 7 days
 
 Your touch inflicts disease. Make a melee spell attack against a
-creature within your reach. On a hit, the target is poisoned.
+creature within your reach. On a hit, the target is :ref:`poisoned`.
 
-At the end of each of the poisoned target's turns, the target must make
+At the end of each of the :ref:`poisoned` target's turns, the target must make
 a Constitution saving throw. If the target succeeds on three of these
-saves, it is no longer poisoned, and the spell ends. If the target fails
-three of these saves, the target is no longer poisoned, but choose one
+saves, it is no longer :ref:`poisoned`, and the spell ends. If the target fails
+three of these saves, the target is no longer :ref:`poisoned`, but choose one
 of the diseases below. The target is subjected to the chosen disease for
 the spell's duration.
 
@@ -29,7 +29,7 @@ apply to it.
 
 :bi:`Blinding Sickness`. Pain grips the creature's mind, and its eyes
 turn milky white. The creature has disadvantage on Wisdom checks and
-Wisdom saving throws and is blinded.
+Wisdom saving throws and is :ref:`blinded`.
 
 :bi:`Filth Fever`. A raging fever sweeps through the creature's body.
 The creature has disadvantage on Strength checks, Strength saving
@@ -49,6 +49,6 @@ rolls that use Dexterity.
 
 :bi:`Slimy Doom`. The creature begins to bleed uncontrollably. The
 creature has disadvantage on Constitution checks and Constitution saving
-throws. In addition, whenever the creature takes damage, it is stunned
+throws. In addition, whenever the creature takes damage, it is :ref:`stunned`
 until the end of its next turn.
 

@@ -15,7 +15,7 @@ any edged weapon or edged tool. On a failed check, the trap triggers.
 When the trap is triggered, the net is released, covering a 10-foot
 square area. Those in the area are trapped under the net and :ref:`restrained`,
 and those that fail a DC 10 Strength saving throw are also knocked
-prone. A creature can use its action to make a DC 10
+:ref:`prone`. A creature can use its action to make a DC 10
 
 Strength check, freeing itself or another creature within its reach on a
 success. The net has AC 10 and 20 hit points. Dealing 5 slashing damage

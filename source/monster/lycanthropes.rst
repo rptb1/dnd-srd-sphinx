@@ -113,7 +113,7 @@ reverts to its true form if it dies.
 15 feet straight toward a target and then hits it with its tusks on the
 same turn, the target takes an extra 7 (2d6) slashing damage. If the
 target is a creature, it must succeed on a DC 13 Strength saving throw
-or be knocked prone.
+or be knocked :ref:`prone`.
 
 :bi:`Relentless (Recharges after a Short or Long Rest)`. If the wereboar
 takes 14 damage or less that would reduce it to 0 hit points, it is
@@ -230,7 +230,7 @@ reverts to its true form if it dies.
 :bi:`Pounce (Tiger or Hybrid Form Only)`. If the weretiger moves at
 least 15 feet straight toward a creature and then hits it with a claw
 attack on the same turn, that target must succeed on a DC 14 Strength
-saving throw or be knocked prone. If the target is prone, the weretiger
+saving throw or be knocked :ref:`prone`. If the target is :ref:`prone`, the weretiger
 can make one bite attack against it as a bonus action.
 
 

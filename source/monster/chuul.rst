@@ -35,7 +35,7 @@ Chuul
 
 **Damage Immunities** poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 14
 
@@ -57,13 +57,13 @@ Actions
 grappling a creature, the chuul can also use its tentacles once.
 
 :bi:`Pincer`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one
-target. *Hit:* 11 (2d6 + 4) bludgeoning damage. The target is grappled
+target. *Hit:* 11 (2d6 + 4) bludgeoning damage. The target is :ref:`grappled`
 (escape DC 14) if it is a Large or smaller creature and the chuul
-doesn't have two other creatures grappled.
+doesn't have two other creatures :ref:`grappled`.
 
-:bi:`Tentacles`. One creature grappled by the chuul must succeed on a DC
-13 Constitution saving throw or be poisoned for 1 minute. Until this
-poison ends, the target is paralyzed. The target can repeat the saving
+:bi:`Tentacles`. One creature :ref:`grappled` by the chuul must succeed on a DC
+13 Constitution saving throw or be :ref:`poisoned` for 1 minute. Until this
+poison ends, the target is :ref:`paralyzed`. The target can repeat the saving
 throw at the end of each of its turns, ending the effect on itself on a
 success.
 

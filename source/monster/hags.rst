@@ -73,11 +73,11 @@ must take an action to visually inspect the illusion and succeed on a DC
 20 :ref:`Intelligence (Investigation) <investigation>` check to discern that the hag is
 disguised.
 
-:bi:`Invisible Passage`. The hag magically turns invisible until she
+:bi:`Invisible Passage`. The hag magically turns :ref:`invisible` until she
 attacks or casts a spell, or until her concentration ends (as if
-concentrating on a spell). While invisible, she leaves no physical
+concentrating on a spell). While :ref:`invisible`, she leaves no physical
 evidence of her passage, so she can be tracked only by magic. Any
-equipment she wears or carries is invisible with her.
+equipment she wears or carries is :ref:`invisible` with her.
 
 Night Hag
 ~~~~~~~~~
@@ -101,7 +101,7 @@ Night Hag
 **Damage Resistances** cold, fire; bludgeoning, piercing, and slashing
 from nonmagical attacks not made with silvered weapons
 
-**Condition Immunities** charmed
+**Condition Immunities** :ref:`charmed`
 
 **Senses** darkvision 120 ft., passive Perception 16
 
@@ -175,7 +175,7 @@ Sea Hag
 
 :bi:`Horrific Appearance`. Any humanoid that starts its turn within 30
 feet of the hag and can see the hag's true form must make a DC 11 Wisdom
-saving throw. On a failed save, the creature is frightened for 1 minute.
+saving throw. On a failed save, the creature is :ref:`frightened` for 1 minute.
 A creature can repeat the saving throw at the end of each of its turns,
 with disadvantage if the hag is within line of sight, ending the effect
 on itself on a success. If a creature's saving throw is successful or
@@ -194,7 +194,7 @@ Actions
 :bi:`Claws.` *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.
 *Hit:* 10 (2d6 + 3) slashing damage.
 
-:bi:`Death Glare`. The hag targets one frightened creature she can see
+:bi:`Death Glare`. The hag targets one :ref:`frightened` creature she can see
 within 30 feet of her. If the target can see the hag, it must succeed on
 a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
 

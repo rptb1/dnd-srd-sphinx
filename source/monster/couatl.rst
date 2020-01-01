@@ -67,13 +67,13 @@ Actions
 
 :bi:`Bite`. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature.
 *Hit:* 8 (1d6 + 5) piercing damage, and the target must succeed on a DC
-13 Constitution saving throw or be poisoned for 24 hours. Until this
-poison ends, the target is unconscious. Another creature can use an
+13 Constitution saving throw or be :ref:`poisoned` for 24 hours. Until this
+poison ends, the target is :ref:`unconscious`. Another creature can use an
 action to shake the target awake.
 
 :bi:`Constrict`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one
 Medium or smaller creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and
-the target is grappled (escape DC 15). Until this grapple ends, the
+the target is :ref:`grappled` (escape DC 15). Until this grapple ends, the
 target is :ref:`restrained`, and the couatl can't constrict another target.
 
 :bi:`Change Shape`. The couatl magically polymorphs into a humanoid or

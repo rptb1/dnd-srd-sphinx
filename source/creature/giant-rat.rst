@@ -42,7 +42,7 @@ that rely on smell.
 
 :bi:`Pack Tactics`. The rat has advantage on an attack roll against a
 creature if at least one of the rat's allies is within 5 feet of the
-creature and the ally isn't incapacitated.
+creature and the ally isn't :ref:`incapacitated`.
 
 
 Actions

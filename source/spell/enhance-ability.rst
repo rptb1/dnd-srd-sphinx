@@ -26,7 +26,7 @@ his or her carrying capacity doubles.
 
 :bi:`Cat's Grace`. The target has advantage on Dexterity checks. It also
 doesn't take damage from falling 20 feet or less if it isn't
-incapacitated.
+:ref:`incapacitated`.
 
 :bi:`Eagle's Splendor`. The target has advantage on Charisma checks.
 

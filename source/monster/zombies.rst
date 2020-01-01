@@ -38,7 +38,7 @@ Zombie
 
 **Damage Immunities** poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -79,7 +79,7 @@ Ogre Zombie
 
 **Damage Immunities** poison
 
-**Condition Immunities** poisoned
+**Condition Immunities** :ref:`poisoned`
 
 **Senses** darkvision 60 ft., passive Perception 8
 

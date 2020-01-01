@@ -40,10 +40,10 @@ Giant Goat
 :bi:`Charge`. If the goat moves at least 20 feet straight toward a
 target and then hits it with a ram attack on the same turn, the target
 takes an extra 5 (2d4) bludgeoning damage. If the target is a creature,
-it must succeed on a DC 13 Strength saving throw or be knocked prone.
+it must succeed on a DC 13 Strength saving throw or be knocked :ref:`prone`.
 
 :bi:`Sure-Footed`. The goat has advantage on Strength and Dexterity
-saving throws made against effects that would knock it prone.
+saving throws made against effects that would knock it :ref:`prone`.
 
 
 Actions

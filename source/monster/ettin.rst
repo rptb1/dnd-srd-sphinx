@@ -40,8 +40,8 @@ Ettin
 **Challenge** 4 (1,100 XP)
 
 :bi:`Two Heads`. The ettin has advantage on Wisdom (Perception) checks
-and on saving throws against being blinded, charmed, deafened,
-frightened, stunned, and knocked unconscious.
+and on saving throws against being :ref:`blinded`, :ref:`charmed`, :ref:`deafened`,
+:ref:`frightened`, :ref:`stunned`, and knocked :ref:`unconscious`.
 
 :bi:`Wakeful`. When one of the ettin's heads is asleep, its other head
 is awake.
