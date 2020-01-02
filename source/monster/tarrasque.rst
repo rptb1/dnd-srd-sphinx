@@ -69,6 +69,10 @@ makes five attacks: one with its bite, two with its claws, one with its
 horns, and one with its tail. It can use its Swallow instead of its
 bite.
 
+.. index::
+   single: grappled; by tarrasque bite
+   single: restrained; by tarrasque bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +19 to hit, reach 10 ft., one target.
 *Hit:* 36 (4d12 + 10) piercing damage. If the target is a creature, it
 is :ref:`grappled` (escape DC 20). Until this grapple ends, the target is

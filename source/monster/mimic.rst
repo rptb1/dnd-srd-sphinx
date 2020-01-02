@@ -48,6 +48,9 @@ object or back into its true, amorphous form. Its statistics are the
 same in each form. Any equipment it is wearing or carrying isn't
 transformed. It reverts to its true form if it dies.
 
+.. index::
+   single: grappled; by mimic adhesive
+
 :bi:`Adhesive (Object Form Only)`. The mimic adheres to anything that
 touches it. A Huge or smaller creature adhered to the mimic is also
 :ref:`grappled` by it (escape DC 13). Ability checks made to escape this

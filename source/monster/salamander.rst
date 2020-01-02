@@ -62,6 +62,10 @@ range 20 ft./60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or
 13 (2d8 + 4) piercing damage if used with two hands to make a melee
 attack, plus 3 (1d6) fire damage.
 
+.. index::
+   single: grappled; by salamander tail
+   single: restrained; by salamander tail
+
 :bi:`Tail`. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target.
 *Hit:* 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the
 target is :ref:`grappled` (escape DC 14). Until this grapple ends, the target

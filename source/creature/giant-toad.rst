@@ -46,6 +46,10 @@ jump is up to 10 feet, with or without a running start.
 Actions
 ^^^^^^^
 
+.. index::
+   single: grappled; by giant toad bite
+   single: restrained; by giant toad bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the
 target is :ref:`grappled` (escape DC 13). Until this grapple ends, the target

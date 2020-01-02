@@ -48,6 +48,10 @@ Actions
 :bi:`Bite`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one
 creature. *Hit:* 11 (2d6 + 4) piercing damage.
 
+.. index::
+   single: grappled; by giant constrictor snake
+   single: restrained; by giant constrictor snake
+
 :bi:`Constrict`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one
 creature. *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is
 :ref:`grappled` (escape DC 16). Until this grapple ends, the creature is

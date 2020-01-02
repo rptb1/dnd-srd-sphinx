@@ -56,10 +56,16 @@ Actions
 :bi:`Multiattack`. The chuul makes two pincer attacks. If the chuul is
 grappling a creature, the chuul can also use its tentacles once.
 
+.. index:: grappled; by chuul pincer
+
 :bi:`Pincer`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one
 target. *Hit:* 11 (2d6 + 4) bludgeoning damage. The target is :ref:`grappled`
 (escape DC 14) if it is a Large or smaller creature and the chuul
 doesn't have two other creatures :ref:`grappled`.
+
+.. index::
+   single: poisoned; by chuul tentacles
+   single: paralyzed; by chuul tentacles
 
 :bi:`Tentacles`. One creature :ref:`grappled` by the chuul must succeed on a DC
 13 Constitution saving throw or be :ref:`poisoned` for 1 minute. Until this

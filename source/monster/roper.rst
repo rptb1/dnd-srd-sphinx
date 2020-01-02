@@ -62,6 +62,10 @@ Reel, and makes one attack with its bite.
 :bi:`Bite`. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
 *Hit:* 22 (4d8 + 4) piercing damage.
 
+.. index::
+   single: grappled; by roper tendril
+   single: restrained; by roper tendril
+
 :bi:`Tendril`. *Melee Weapon Attack:* +7 to hit, reach 50 ft., one
 creature. *Hit:* The target is :ref:`grappled` (escape DC 15). Until the
 grapple ends, the target is :ref:`restrained` and has disadvantage on Strength

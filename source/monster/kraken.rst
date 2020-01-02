@@ -88,6 +88,8 @@ target. *Hit:* 20 (3d6 + 10) bludgeoning damage, and the target is
 :ref:`restrained`. The kraken has ten tentacles, each of which can grapple one
 target.
 
+.. index:: prone; by kraken fling
+
 :bi:`Fling`. One Large or smaller object held or creature :ref:`grappled` by
 the kraken is thrown up to 60 feet in a random direction and knocked
 :ref:`prone`. If a thrown target strikes a solid surface, the target takes 3

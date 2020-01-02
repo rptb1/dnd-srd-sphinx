@@ -55,40 +55,41 @@ shown in the Apparatus of the Crab Levers table.
 
 .. table:: Apparatus of the Crab Levers
 
-  +-------+-----------------------------------+--------------------------------------+
-  | Lever | Up                                | Down                                 |
-  +=======+===================================+======================================+
-  |   1   | Legs and tail extend, allowing    | Legs and tail retract, reducing the  |
-  |       | the apparatus to walk and swim.   | apparatus's speed to 0 and making it |
-  |       |                                   | unable to benefit from bonuses to    |
-  |       |                                   | speed.                               |
-  +-------+-----------------------------------+--------------------------------------+
-  |   2   | Forward window shutter opens.     | Forward window shutter closes.       |
-  +-------+-----------------------------------+--------------------------------------+
-  |   3   | Side window shutters open (two    | Side window shutters close (two per  |
-  |       | per side).                        | side).                               |
-  +-------+-----------------------------------+--------------------------------------+
-  |   4   | Two claws extend from the front   | The claws retract.                   |
-  |       | sides of the apparatus.           |                                      |
-  +-------+-----------------------------------+--------------------------------------+
-  |   5   | Each extended claw makes the      | Each extended claw makes the         |
-  |       | following *melee weapon attack:*  | following *melee weapon attack:* +8  |
-  |       | +8 to hit, reach 5 ft., one       | to hit, reach 5 ft., one target.     |
-  |       | target. *Hit:* 7 (2d6)            | *Hit:* The target is :ref:`grappled` |
-  |       | bludgeoning damage.               | (escape DC 15).                      |
-  +-------+-----------------------------------+--------------------------------------+
-  |   6   | The apparatus walks or swims      | The apparatus walks or swims         |
-  |       | forward.                          | backward.                            |
-  +-------+-----------------------------------+--------------------------------------+
-  |   7   | The apparatus turns 90 degrees    | The apparatus turns 90 degrees       |
-  |       | left.                             | right.                               |
-  +-------+-----------------------------------+--------------------------------------+
-  |   8   | Eyelike fixtures emit bright      | The light turns off.                 |
-  |       | light in a 30-foot radius and dim |                                      |
-  |       | light for an additional 30 feet.  |                                      |
-  +-------+-----------------------------------+--------------------------------------+
-  |   9   | The apparatus sinks as much as 20 | The apparatus rises up to 20 feet in |
-  |       | feet in liquid.                   | liquid.                              |
-  +-------+-----------------------------------+--------------------------------------+
-  |  10   | The rear hatch unseals and opens. | The rear hatch closes and seals.     |
-  +-------+-----------------------------------+--------------------------------------+
+  +-------+-----------------------------------+-----------------------------------------------+
+  | Lever | Up                                | Down                                          |
+  +=======+===================================+===============================================+
+  |   1   | Legs and tail extend, allowing    | Legs and tail retract, reducing the           |
+  |       | the apparatus to walk and swim.   | apparatus's speed to 0 and making it          |
+  |       |                                   | unable to benefit from bonuses to             |
+  |       |                                   | speed.                                        |
+  +-------+-----------------------------------+-----------------------------------------------+
+  |   2   | Forward window shutter opens.     | Forward window shutter closes.                |
+  +-------+-----------------------------------+-----------------------------------------------+
+  |   3   | Side window shutters open (two    | Side window shutters close (two per           |
+  |       | per side).                        | side).                                        |
+  +-------+-----------------------------------+-----------------------------------------------+
+  |   4   | Two claws extend from the front   | The claws retract.                            |
+  |       | sides of the apparatus.           |                                               |
+  +-------+-----------------------------------+-----------------------------------------------+
+  |   5   | Each extended claw makes the      | .. index:: grappled; by apparatus of the crab |
+  |       | following *melee weapon attack:*  |                                               |
+  |       | +8 to hit, reach 5 ft., one       | Each extended claw makes the following *melee |
+  |       | target. *Hit:* 7 (2d6)            | weapon attack:* +8 to hit, reach 5 ft., one   |
+  |       | bludgeoning damage.               | target.  *Hit:* The target is :ref:`grappled` |
+  |       |                                   | (escape DC 15).                               |
+  +-------+-----------------------------------+-----------------------------------------------+
+  |   6   | The apparatus walks or swims      | The apparatus walks or swims                  |
+  |       | forward.                          | backward.                                     |
+  +-------+-----------------------------------+-----------------------------------------------+
+  |   7   | The apparatus turns 90 degrees    | The apparatus turns 90 degrees                |
+  |       | left.                             | right.                                        |
+  +-------+-----------------------------------+-----------------------------------------------+
+  |   8   | Eyelike fixtures emit bright      | The light turns off.                          |
+  |       | light in a 30-foot radius and dim |                                               |
+  |       | light for an additional 30 feet.  |                                               |
+  +-------+-----------------------------------+-----------------------------------------------+
+  |   9   | The apparatus sinks as much as 20 | The apparatus rises up to 20 feet in          |
+  |       | feet in liquid.                   | liquid.                                       |
+  +-------+-----------------------------------+-----------------------------------------------+
+  |  10   | The rear hatch unseals and opens. | The rear hatch closes and seals.              |
+  +-------+-----------------------------------+-----------------------------------------------+

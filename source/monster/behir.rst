@@ -51,6 +51,10 @@ one to constrict.
 :bi:`Bite`. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target.
 *Hit:* 22 (3d10 + 6) piercing damage.
 
+.. index::
+   single: grappled; by behir constriction
+   single: restrained; by behir constriction
+
 :bi:`Constrict`. *Melee Weapon Attack:* +10 to hit, reach 5 ft., one
 Large or smaller creature. *Hit:* 17 (2d10 + 6) bludgeoning damage plus
 17 (2d10 + 6) slashing damage. The target is :ref:`grappled` (escape DC 16) if

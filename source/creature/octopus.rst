@@ -51,6 +51,8 @@ for 30 minutes.
 Actions
 ^^^^^^^
 
+.. index:: grappled; by octopus tentacles
+
 :bi:`Tentacles`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
 target. *Hit:* 1 bludgeoning damage, and the target is :ref:`grappled` (escape
 DC 10). Until this grapple ends, the octopus can't use its tentacles on

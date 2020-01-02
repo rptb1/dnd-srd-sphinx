@@ -44,6 +44,8 @@ Actions
 :bi:`Multiattack`. The scorpion makes three attacks: two with its claws
 and one with its sting.
 
+.. index:: grappled; by giant scorpion claw
+
 :bi:`Claw`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is :ref:`grappled`
 (escape DC 12). The scorpion has two claws, each of which can grapple

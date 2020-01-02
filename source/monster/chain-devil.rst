@@ -58,6 +58,10 @@ Actions
 
 :bi:`Multiattack`. The devil makes two attacks with its chains.
 
+.. index::
+   single: grappled; by chain devil chain
+   single: restrained; by chain devil chain
+
 :bi:`Chain`. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target.
 *Hit:* 11 (2d6 + 4) slashing damage. The target is :ref:`grappled` (escape DC
 14) if the devil isn't already grappling a creature. Until this grapple

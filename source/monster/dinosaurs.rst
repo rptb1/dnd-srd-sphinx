@@ -125,6 +125,10 @@ Actions
 bite and one with its tail. It can't make both attacks against the same
 target.
 
+.. index::
+   single: grappled; by tyrannosaurus rex bite
+   single: restrained; by tyrannosaurus rex bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target.
 *Hit:* 33 (4d12 + 7) piercing damage. If the target is a Medium or
 smaller creature, it is :ref:`grappled` (escape DC 17). Until this grapple

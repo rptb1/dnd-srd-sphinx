@@ -822,6 +822,8 @@ information is presented after the "Miss:" notation.
     need to make an additional ability check to determine whether the
     grapple succeeds, unless the attack says otherwise.
 
+    .. index:: grappled; cured by action
+
     A creature :ref:`grappled` by the monster can use its action to try to
     escape. To do so, it must succeed on a Strength (Athletics) or
     :ref:`Dexterity (Acrobatics) <acrobatics>` check against the escape DC in the monster's

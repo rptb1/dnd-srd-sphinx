@@ -46,6 +46,10 @@ Actions
 :bi:`Multiattack`. The crocodile makes two attacks: one with its bite
 and one with its tail.
 
+.. index::
+   single: grappled; by giant crocodile bite
+   single: restrained; by giant crocodile bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target.
 *Hit:* 21 (3d10 + 5) piercing damage, and the target is :ref:`grappled` (escape
 DC 16). Until this grapple ends, the target is :ref:`restrained`, and the

@@ -46,6 +46,10 @@ a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
 Actions
 ^^^^^^^
 
+.. index::
+   single: grappled; by remorhaz bite
+   single: restrained; by remorhaz bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target.
 *Hit:* 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the
 target is a creature, it is :ref:`grappled` (escape DC 17). Until this grapple

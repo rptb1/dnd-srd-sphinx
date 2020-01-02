@@ -45,6 +45,8 @@ Giant Crab
 Actions
 ^^^^^^^
 
+.. index:: grappled; by giant crab
+
 :bi:`Claw`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 4 (1d6 + 1) bludgeoning damage, and the target is :ref:`grappled`
 (escape DC 11). The crab has two claws, each of which can grapple only

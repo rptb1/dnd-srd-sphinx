@@ -14,6 +14,11 @@ similar appendage)
 
 **Duration:** 1 hour
 
+.. index::
+   single: paralyzed; immunity from freedom of movement spell
+   single: restrained; immunity from freedom of movement spell
+   single: grappled; immunity from freedom of movement spell
+
 You touch a willing creature. For the duration, the target's movement is
 unaffected by difficult terrain, and spells and other magical effects
 can neither reduce the target's speed nor cause the target to be

@@ -228,6 +228,10 @@ Actions
 :bi:`Slam`. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
 *Hit:* 13 (2d8 + 4) bludgeoning damage.
 
+.. index::
+   single: grappled; by water elemental whelm
+   single: restrained; by water elemental whelm
+
 :bi:`Whelm (Recharge 4-6)`. Each creature in the elemental's space must
 make a DC 15 Strength saving throw. On a failure, a target takes 13
 (2d8+4) bludgeoning damage. If it is Large or smaller, it is also

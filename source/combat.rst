@@ -872,7 +872,7 @@ instead of making a melee attack with it.
 Grappling
 ~~~~~~~~~
 
-.. index:: ! grapple
+.. index:: ! grapple, grappled; by combat action
    double: combat; grapple
 
 When you want to grab a creature or wrestle with it, you can use the
@@ -891,7 +891,7 @@ condition (see :ref:`Conditions`). The condition specifies the things that end
 it, and you can release the target whenever you like (no action
 required).
 
-.. index::
+.. index:: grappled; cured by combat action
    triple: combat; escaping; grapple
 
 :bi:`Escaping a Grapple`. A :ref:`grappled` creature can use its action to

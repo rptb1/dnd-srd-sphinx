@@ -65,6 +65,8 @@ Actions
 and two with its fists. Alternatively, it makes two attacks with its
 pincers and casts one spell.
 
+.. index:: grappled; by glabrezu pincer
+
 :bi:`Pincer`. *Melee Weapon Attack:* +9 to hit, reach 10 ft., one
 target. *Hit:* 16 (2d10 + 5) bludgeoning damage. If the target is a
 Medium or smaller creature, it is :ref:`grappled` (escape DC 15). The glabrezu

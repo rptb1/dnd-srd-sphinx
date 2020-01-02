@@ -71,6 +71,10 @@ Actions
 poison ends, the target is :ref:`unconscious`. Another creature can use an
 action to shake the target awake.
 
+.. index::
+   single: grappled; by couatl constrict
+   single: restrained; by couatl constrict
+
 :bi:`Constrict`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one
 Medium or smaller creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and
 the target is :ref:`grappled` (escape DC 15). Until this grapple ends, the

@@ -51,6 +51,10 @@ for 1 hour.
 Actions
 ^^^^^^^
 
+.. index::
+   single: grappled; by giant octopus tentacles
+   single: restrained; by giant octopus tentacles
+
 :bi:`Tentacles`. *Melee Weapon Attack:* +5 to hit, reach 15 ft., one
 target. *Hit:* 10 (2d6 + 3) bludgeoning damage. If the target is a
 creature, it is :ref:`grappled` (escape DC 16). Until this grapple ends, the

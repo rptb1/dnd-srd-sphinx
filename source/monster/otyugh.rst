@@ -60,11 +60,18 @@ by 5 (1d10) on a failure. The disease is cured on a success. The target
 dies if the disease reduces its hit point maximum to 0. This reduction
 to the target's hit point maximum lasts until the disease is cured.
 
+.. index::
+   single: grappled; by otyugh tentacle
+   single: restrained; by otyugh tentacle
+
 :bi:`Tentacle`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one
 target. *Hit:* 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing
 damage. If the target is Medium or smaller, it is :ref:`grappled` (escape DC
 13) and :ref:`restrained` until the grapple ends. The otyugh has two tentacles,
 each of which can grapple one target.
+
+.. index::
+   single: stunned; by otyugh tentacle slam
 
 :bi:`Tentacle Slam`. The otyugh slams creatures :ref:`grappled` by it into each
 other or a solid surface. Each creature must succeed on a DC 14

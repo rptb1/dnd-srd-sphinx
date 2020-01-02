@@ -64,6 +64,10 @@ longswords and one with its tail.
 :bi:`Longsword`. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one
 target. *Hit:* 13 (2d8 + 4) slashing damage.
 
+.. index::
+   single: grappled; by marilith tail
+   single: restrained; by marilith tail
+
 :bi:`Tail`. *Melee Weapon Attack:* +9 to hit, reach 10 ft., one
 creature. *Hit:* 15 (2d10 + 4) bludgeoning damage. If the target is
 Medium or smaller, it is :ref:`grappled` (escape DC 19). Until this grapple

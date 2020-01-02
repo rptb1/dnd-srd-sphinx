@@ -54,6 +54,9 @@ equal to the lightning damage dealt.
 Actions
 ^^^^^^^
 
+.. index::
+   single: grappled; by shambler attack
+
 :bi:`Multiattack`. The shambling mound makes two slam attacks. If both
 attacks hit a Medium or smaller target, the target is :ref:`grappled` (escape
 DC 14), and the shambling mound uses its Engulf on it.

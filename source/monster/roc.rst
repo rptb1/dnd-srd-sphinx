@@ -54,6 +54,10 @@ with its talons.
 :bi:`Beak`. *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target.
 *Hit:* 27 (4d8 + 9) piercing damage.
 
+.. index::
+   single: grappled; by roc talons
+   single: restrained; by roc talons
+
 :bi:`Talons`. *Melee Weapon Attack:* +13 to hit, reach 5 ft., one
 target. *Hit:* 23 (4d6 + 9) slashing damage, and the target is :ref:`grappled`
 (escape DC 19). Until this grapple ends, the target is :ref:`restrained`, and
