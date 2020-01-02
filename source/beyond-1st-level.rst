@@ -21,7 +21,7 @@ advancement is called **gaining a level**.
 
 .. index::
    triple: level; gain; ability score increase
-   triple: level; gain; ASI
+   see: ASI; ability score increase
    triple: level; gain; proficiency bonus increase
 
 When your character gains a level, his or her class often grants
@@ -31,10 +31,10 @@ two scores by 1 each or increasing one score by 2. You can't increase an
 ability score above 20. In addition, every character's proficiency bonus
 increases at certain levels.
 
-.. index::
+.. index:: ! hit dice
    triple: level; gain; hit dice
    triple: level; gain; hit points
-   triple: level; gain; HP
+   see: HD; hit dice
 
 Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit
 Die, add your Constitution modifier to the roll, and add the total
