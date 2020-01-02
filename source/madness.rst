@@ -67,14 +67,20 @@ flaw from the Indefinite Madness table that lasts until cured.
   +--------+---------------------------------------------------------------------+
   |  d100  | Effect (lasts 1d10 minutes)                                         |
   +========+=====================================================================+
-  | 01-20  | The character retreats into his or her mind and becomes             |
+  | 01-20  | .. index:: paralyzed; by madness                                    |
+  |        |                                                                     |
+  |        | The character retreats into his or her mind and becomes             |
   |        | :ref:`paralyzed`.                                                   |
   |        | The effect ends if the character takes any damage.                  |
   +--------+---------------------------------------------------------------------+
-  | 21-30  | The character becomes :ref:`incapacitated` and spends the duration  |
+  | 21-30  | .. index:: incapacitated; by madness                                |
+  |        |                                                                     |
+  |        | The character becomes :ref:`incapacitated` and spends the duration  |
   |        | screaming, laughing, or weeping.                                    |
   +--------+---------------------------------------------------------------------+
-  | 31-40  | The character becomes :ref:`frightened` and must use his or her     |
+  | 31-40  | .. index:: frightened; by madness                                   |
+  |        |                                                                     |
+  |        | The character becomes :ref:`frightened` and must use his or her     |
   |        | action and movement each round to flee from the source of the fear. |
   +--------+---------------------------------------------------------------------+
   | 41-50  | The character begins babbling and is incapable of normal speech or  |
@@ -92,9 +98,13 @@ flaw from the Indefinite Madness table that lasts until cured.
   | 76-80  | The character experiences an overpowering urge to eat something     |
   |        | strange such as dirt, slime, or offal.                              |
   +--------+---------------------------------------------------------------------+
-  | 81-90  | The character is :ref:`stunned`.                                    |
+  | 81-90  | .. index:: stunned; by madness                                      |
+  |        |                                                                     |
+  |        | The character is :ref:`stunned`.                                    |
   +--------+---------------------------------------------------------------------+
-  | 91-100 | The character falls :ref:`unconscious`.                             |
+  | 91-100 | .. index:: unconscious; by madness                                  |
+  |        |                                                                     |
+  |        | The character falls :ref:`unconscious`.                             |
   +--------+---------------------------------------------------------------------+
 
 .. table:: Madness: Long-Term Effects
@@ -145,7 +155,9 @@ flaw from the Indefinite Madness table that lasts until cured.
   +-------+-----------------------------------------------------------------------+
   | 91-95 | The character loses the ability to speak.                             |
   +-------+-----------------------------------------------------------------------+
-  |96-100 | The character falls :ref:`unconscious`. No amount of jostling or      |
+  |96-100 | .. index:: unconscious; by madness                                    |
+  |       |                                                                       |
+  |       | The character falls :ref:`unconscious`. No amount of jostling or      |
   |       | damage can wake the character.                                        |
   +-------+-----------------------------------------------------------------------+
 

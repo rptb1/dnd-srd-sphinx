@@ -51,6 +51,8 @@ pounds. Your size is Small.
 check, or saving throw, you can reroll the die and must use the new
 roll.
 
+.. index:: frightened; resistance by halfling bravery
+
 :bi:`Brave`. You have advantage on saving throws against being
 :ref:`frightened`.
 

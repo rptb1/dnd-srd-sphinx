@@ -282,8 +282,8 @@ Stillness of Mind
 ~~~~~~~~~~~~~~~~~
 
 .. index::
-   single: charmed; ended by monk stillness of mind
-   single: frightened; ended by monk stillness of mind
+   single: charmed; cured by monk stillness of mind
+   single: frightened; cured by monk stillness of mind
 
 Starting at 7th level, you can use your action to end one effect on
 yourself that is causing you to be :ref:`charmed` or :ref:`frightened`.

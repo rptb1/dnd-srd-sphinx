@@ -293,8 +293,8 @@ Countercharm
 ~~~~~~~~~~~~
 
 .. index::
-   single: frightened; resistance from bard countercharm
-   single: charmed; resistance from bard countercharm
+   single: frightened; resistance by bard countercharm
+   single: charmed; resistance by bard countercharm
 
 At 6th level, you gain the ability to use musical notes or words of
 power to disrupt mind-influencing effects. As an action, you can start a
