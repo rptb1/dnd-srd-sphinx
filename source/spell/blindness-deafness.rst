@@ -13,8 +13,7 @@ Blindness/Deafness
 
 **Duration:** 1 minute
 
-.. index::
-   single: blinded; by blindness spell
+.. index:: blinded; by blindness spell
    single: deafened; by deafness spell
 
 You can blind or deafen a foe. Choose one creature that you can see

@@ -173,8 +173,7 @@ Sea Hag
 
 :bi:`Amphibious`. The hag can breathe air and water.
 
-.. index::
-   single: frightened; by had appearance
+.. index:: frightened; by had appearance
 
 :bi:`Horrific Appearance`. Any humanoid that starts its turn within 30
 feet of the hag and can see the hag's true form must make a DC 11 Wisdom

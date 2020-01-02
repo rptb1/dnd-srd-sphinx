@@ -59,8 +59,7 @@ indistinguishable from a normal rug.
 Actions
 ^^^^^^^
 
-.. index::
-   single: blinded; by rug of smothering
+.. index:: blinded; by rug of smothering
    single: grappled; by rug of smothering
    single: restrained; by rug of smothering
 

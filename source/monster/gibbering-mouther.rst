@@ -68,8 +68,7 @@ smaller, it must succeed on a DC 10 Strength saving throw or be knocked
 :ref:`prone`. If the target is killed by this damage, it is absorbed into the
 mouther.
 
-.. index::
-   single: blinded; by gibbering mouther spit
+.. index:: blinded; by gibbering mouther spit
 
 :bi:`Blinding Spittle (Recharge 5-6)`. The mouther spits a chemical glob
 at a point it can see within 15 feet of it. The glob explodes in a

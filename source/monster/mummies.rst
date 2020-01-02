@@ -68,8 +68,7 @@ for every 24 hours that elapse. If the curse reduces the target's hit
 point maximum to 0, the target dies, and its body turns to dust. The
 curse lasts until removed by the *remove curse* spell or other magic.
 
-.. index::
-   single: frightened; by mummy glare
+.. index:: frightened; by mummy glare
    single: paralyzed; by mummy glare
 
 :bi:`Dreadful Glare`. The mummy targets one creature it can see within
@@ -157,8 +156,7 @@ for every 24 hours that elapse. If the curse reduces the target's hit
 point maximum to 0, the target dies, and its body turns to dust. The
 curse lasts until removed by the *remove curse* spell or other magic.
 
-.. index::
-   single: frightened; by mummy lord glare
+.. index:: frightened; by mummy lord glare
    single: paralyzed; by mummy lord glare
 
 :bi:`Dreadful Glare`. The mummy lord targets one creature it can see
@@ -181,16 +179,14 @@ legendary actions at the start of its turn.
 **Attack**. The mummy lord makes one attack with its rotting fist or
 uses its Dreadful Glare.
 
-.. index::
-   single: blinded; by mummy lord dust
+.. index:: blinded; by mummy lord dust
 
 **Blinding Dust**. Blinding dust and sand swirls magically around the
 mummy lord. Each creature within 5 feet of the mummy lord must succeed
 on a DC 16 Constitution saving throw or be :ref:`blinded` until the end of the
 creature's next turn.
 
-.. index::
-   single: stunned; by mummy lord blasphemy
+.. index:: stunned; by mummy lord blasphemy
 
 **Blasphemous Word (Costs 2 Actions)**. The mummy lord utters a
 blasphemous word. Each non-undead creature within 10 feet of the mummy

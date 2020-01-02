@@ -470,8 +470,7 @@ by the *entangle* spell.
 Nature's Ward
 ^^^^^^^^^^^^^
 
-.. index::
-   single: frightened; immunity by druid nature's ward
+.. index:: frightened; immunity by druid nature's ward
    single: charmed; immunity by druid nature's ward
    single: poison; immunity by druid nature's ward
    single: disease; immunity by druid nature's ward

@@ -52,8 +52,7 @@ target is a creature, it is :ref:`grappled` (escape DC 17). Until this grapple
 ends, the target is :ref:`restrained`, and the remorhaz can't bite another
 target.
 
-.. index::
-   single: blinded; by remorhaz swallow
+.. index:: blinded; by remorhaz swallow
    single: restrained; by remorhaz swallow
 
 :bi:`Swallow`. The remorhaz makes one bite attack against a Medium or
@@ -63,8 +62,7 @@ swallowed, the creature is :ref:`blinded` and :ref:`restrained`, it has total co
 against attacks and other effects outside the remorhaz, and it takes 21
 (6d6) acid damage at the start of each of the remorhaz's turns.
 
-.. index::
-   single: prone; by remorhaz swallow
+.. index:: prone; by remorhaz swallow
 
 If the remorhaz takes 30 damage or more on a single turn from a creature
 inside it, the remorhaz must succeed on a DC 15 Constitution saving

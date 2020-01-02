@@ -1390,9 +1390,8 @@ speed. For example, if your speed is 30 feet, you must spend 15 feet of
 movement to mount a horse. Therefore, you can't mount it if you don't
 have 15 feet of movement left or if your speed is 0.
 
-.. index::
+.. index:: prone; falling from mount
    double: falling from; mount
-   single: prone; falling from mount
 
 If an effect moves your mount against its will while you're on it, you
 must succeed on a DC 10 Dexterity saving throw or fall off the mount,

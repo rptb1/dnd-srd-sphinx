@@ -28,8 +28,7 @@ effects:
    doesn't expend a charge. It lasts until you use a bonus action to
    repeat the command word or until you use another function of the gem.
 
-.. index::
-   single: blinded; by gem of brightness
+.. index:: blinded; by gem of brightness
 
 -  The second command word expends 1 charge and causes the gem to fire a
    brilliant beam of light at one creature you can see within 60 feet of

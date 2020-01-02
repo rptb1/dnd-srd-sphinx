@@ -112,8 +112,7 @@ energy. Each creature of its choice in a 10-foot radius must make a DC
 radiant damage on a failed save, or half as much damage on a successful
 one.
 
-.. index::
-   single: blinded; by solar gaze
+.. index:: blinded; by solar gaze
 
 **Blinding Gaze (Costs 3 Actions)**. The solar targets one creature it
 can see within 30 feet of it. If the target can see it, the target must

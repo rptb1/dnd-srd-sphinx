@@ -20,8 +20,7 @@ effect. Creatures in a 15-foot cone originating from you are affected in
 ascending order of their current hit points (ignoring :ref:`unconscious`
 creatures and creatures that can't see).
 
-.. index::
-   single: blinded; by color spray spell
+.. index:: blinded; by color spray spell
 
 Starting with the creature that has the lowest current hit points, each
 creature affected by this spell is :ref:`blinded` until the end of your next

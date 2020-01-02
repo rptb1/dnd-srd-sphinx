@@ -65,8 +65,7 @@ makes three attacks: one with its bite and two with its claws.
 :bi:`Tail`. *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target.
 *Hit:* 19 (2d8 + 10) bludgeoning damage.
 
-.. index::
-   single: frightened; by ancient red dragon presence
+.. index:: frightened; by ancient red dragon presence
 
 :bi:`Frightful Presence`. Each creature of the dragon's choice that is
 within 120 feet of the dragon and aware of it must succeed on a DC 21
@@ -148,8 +147,7 @@ makes three attacks: one with its bite and two with its claws.
 :bi:`Tail`. *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target.
 *Hit:* 17 (2d8 + 8) bludgeoning damage.
 
-.. index::
-   single: frightened; by adult red dragon presence
+.. index:: frightened; by adult red dragon presence
 
 :bi:`Frightful Presence`. Each creature of the dragon's choice that is
 within 120 feet of the dragon and aware of it must succeed on a DC 19

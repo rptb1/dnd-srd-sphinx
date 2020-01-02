@@ -13,8 +13,7 @@ Lesser Restoration
 
 **Duration:** Instantaneous
 
-.. index::
-   single: blinded; cured by lesser restoration
+.. index:: blinded; cured by lesser restoration
    single: deafened; cured by lesser restoration
    single: paralyzed; cured by lesser restoration
    single: poisoned; cured by lesser restoration

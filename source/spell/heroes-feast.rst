@@ -19,8 +19,7 @@ feast takes 1 hour to consume and disappears at the end of that time,
 and the beneficial effects don't set in until this hour is over. Up to
 twelve creatures can partake of the feast.
 
-.. index::
-   single: frightened; immunity by heroes feast
+.. index:: frightened; immunity by heroes feast
    single: poisoned; immunity by heroes feast
    single: disease; cured by heroes feast
    single: poisoned; cured by heroes feast

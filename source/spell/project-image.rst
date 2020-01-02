@@ -24,8 +24,7 @@ You can use your action to move this illusion up to twice your speed,
 and make it gesture, speak, and behave in whatever way you choose. It
 mimics your mannerisms perfectly.
 
-.. index::
-   single: blinded; by project image spell
+.. index:: blinded; by project image spell
    single: deafened; by project image spell
 
 You can see through its eyes and hear through its ears as if you were in

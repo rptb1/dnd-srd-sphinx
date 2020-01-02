@@ -49,8 +49,7 @@ Actions
 :bi:`Multiattack`. The worm makes two attacks: one with its bite and one
 with its stinger.
 
-.. index::
-   single: blinded; by purple worm bite
+.. index:: blinded; by purple worm bite
    single: restrained; by purple worm bite
 
 :bi:`Bite`. *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target.

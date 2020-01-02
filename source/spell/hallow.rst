@@ -19,8 +19,7 @@ power. The area can have a radius up to 60 feet, and the spell fails if
 the radius includes an area already under the effect a *hallow* spell.
 The affected area is subject to the following effects.
 
-.. index::
-   single: frightened; cured by hallow spell
+.. index:: frightened; cured by hallow spell
    single: charmed; cured by hallow spell
 
 First, celestials, elementals, fey, fiends, and undead can't enter the
@@ -40,8 +39,7 @@ time on a turn or starts its turn there, it can make a Charisma saving
 throw. On a success, the creature ignores the extra effect until it
 leaves the area.
 
-.. index::
-   single: frightened; immunity by hallow spell
+.. index:: frightened; immunity by hallow spell
 
 :bi:`Courage`. Affected creatures can't be :ref:`frightened` while in the area.
 
@@ -67,8 +65,7 @@ into undead.
 :bi:`Extradimensional Interference`. Affected creatures can't move or
 travel using teleportation or by extradimensional or interplanar means.
 
-.. index::
-   single: frightened; by hallow spell
+.. index:: frightened; by hallow spell
 
 :bi:`Fear`. Affected creatures are :ref:`frightened` while in the area.
 

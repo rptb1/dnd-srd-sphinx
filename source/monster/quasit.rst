@@ -67,8 +67,7 @@ poison damage and become :ref:`poisoned` for 1 minute. The target can repeat
 the saving throw at the end of each of its turns, ending the effect on
 itself on a success.
 
-.. index::
-   single: frightened; by quasit scare
+.. index:: frightened; by quasit scare
 
 :bi:`Scare (1/Day)`. One creature of the quasit's choice within 20 feet
 of it must succeed on a DC 10 Wisdom saving throw or be :ref:`frightened` for 1

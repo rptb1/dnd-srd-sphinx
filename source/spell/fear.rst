@@ -13,8 +13,7 @@ Fear
 
 **Duration:** Concentration, up to 1 minute
 
-.. index::
-   single: frightened; by fear spell
+.. index:: frightened; by fear spell
 
 You project a phantasmal image of a creature's worst fears. Each
 creature in a 30-foot cone must succeed on a Wisdom saving throw or drop

@@ -19,8 +19,7 @@ Mace of Disruption
 
 *Weapon (mace), rare (requires attunement)*
 
-.. index::
-   single: frightened; by mace of disruption
+.. index:: frightened; by mace of disruption
 
 When you hit a fiend or an undead with this magic weapon, that creature
 takes an extra 2d6 radiant damage. If the target has 25 hit points or

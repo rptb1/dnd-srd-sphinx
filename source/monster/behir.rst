@@ -63,8 +63,7 @@ line must make a DC 16 Dexterity saving throw, taking 66 (12d10)
 lightning damage on a failed save, or half as much damage on a
 successful one.
 
-.. index::
-   single: blinded; by behir swallow
+.. index:: blinded; by behir swallow
    single: restrained; by behir swallow
 
 :bi:`Swallow`. The behir makes one bite attack against a Medium or
@@ -75,8 +74,7 @@ outside the behir, and it takes 21 (6d6) acid damage at the start of
 each of the behir's turns. A behir can have only one creature swallowed
 at a time.
 
-.. index::
-   single: prone; by behir swallow
+.. index:: prone; by behir swallow
 
 If the behir takes 30 damage or more on a single turn from the swallowed
 creature, the behir must succeed on a DC 14 Constitution saving throw at

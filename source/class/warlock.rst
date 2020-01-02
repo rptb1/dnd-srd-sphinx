@@ -481,8 +481,7 @@ without expending a spell slot or material components.
 Gaze of Two Minds
 ^^^^^^^^^^^^^^^^^
 
-.. index::
-   single: blinded; during warlock Gaze of Two Minds
+.. index:: blinded; during warlock Gaze of Two Minds
    single: deafened; during warlock Gaze of Two Minds
 
 You can use your action to touch a willing humanoid and perceive through

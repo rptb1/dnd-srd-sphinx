@@ -62,8 +62,7 @@ makes three attacks: one with its bite and two with its claws.
 :bi:`Claw`. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target.
 *Hit:* 15 (3d6 + 5) slashing damage.
 
-.. index::
-   single: frightened; by nalfashnee horror nimbus
+.. index:: frightened; by nalfashnee horror nimbus
 
 :bi:`Horror Nimbus (Recharge 5-6)`. The nalfeshnee magically emits
 scintillating, multicolored light. Each creature within 15 feet of the

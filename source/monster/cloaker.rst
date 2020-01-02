@@ -57,8 +57,7 @@ Actions
 :bi:`Multiattack`. The cloaker makes two attacks: one with its bite and
 one with its tail.
 
-.. index::
-   single: blinded; by cloaker bite
+.. index:: blinded; by cloaker bite
 
 :bi:`Bite`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature.
 *Hit:* 10 (2d6 + 3) piercing damage, and if the target is Large or
@@ -74,8 +73,7 @@ check.
 :bi:`Tail`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one
 creature. *Hit:* 7 (1d8 + 3) slashing damage.
 
-.. index::
-   single: frightened; by cloaker moan
+.. index:: frightened; by cloaker moan
 
 :bi:`Moan`. Each creature within 60 feet of the cloaker that can hear
 its moan and that isn't an aberration must succeed on a DC 13 Wisdom
