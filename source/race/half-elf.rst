@@ -54,6 +54,9 @@ dark and dim conditions. You can see in dim light within 60 feet of you
 as if it were bright light, and in darkness as if it were dim light. You
 can't discern color in darkness, only shades of gray.
 
+.. index::
+   single: charmed; resistance by half-elf Fey Ancestry
+
 :bi:`Fey Ancestry`. You have advantage on saving throws against being
 :ref:`charmed`, and magic can't put you to sleep.
 

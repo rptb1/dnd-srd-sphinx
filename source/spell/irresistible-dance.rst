@@ -13,6 +13,9 @@ Irresistible Dance
 
 **Duration:** Concentration, up to 1 minute
 
+.. index::
+   single: charmed; by Irresistible Dance spell
+
 Choose one creature that you can see within range. The target begins a
 comic dance in place: shuffling, tapping its feet, and capering for the
 duration. Creatures that can't be :ref:`charmed` are immune to this spell.

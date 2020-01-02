@@ -19,6 +19,9 @@ Rod of Rulership
 
 *Rod, rare (requires attunement)*
 
+.. index::
+   single: charmed; by Rod of Rulership
+
 You can use an action to present the rod and command obedience from each
 creature of your choice that you can see within 120 feet of you. Each
 target must succeed on a DC 15 Wisdom saving throw or be :ref:`charmed` by you

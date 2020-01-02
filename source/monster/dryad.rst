@@ -69,6 +69,9 @@ Actions
 *shillelagh*), reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning
 damage, or 8 (1d8 + 4) bludgeoning damage with *shillelagh*.
 
+.. index::
+   single: charmed; by dryad Fey Charm
+
 :bi:`Fey Charm`. The dryad targets one humanoid or beast that she can
 see within 30 feet of her. If the target can see the dryad, it must
 succeed on a DC 14 Wisdom saving throw or be magically :ref:`charmed`. The

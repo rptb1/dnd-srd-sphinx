@@ -14,6 +14,10 @@ filled with phosphorescent material)
 
 **Duration:** Concentration, up to 1 minute
 
+.. index::
+   single: charmed; by Hypnotic Pattern spell
+   single: incapacitated; by Hypnotic Pattern spell
+
 You create a twisting pattern of colors that weaves through the air
 inside a 30-foot cube within range. The pattern appears for a moment and
 vanishes. Each creature in the area who sees the pattern must make a

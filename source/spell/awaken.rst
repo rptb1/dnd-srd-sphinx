@@ -24,6 +24,9 @@ forth, and it gains senses similar to a human's. Your GM chooses
 statistics appropriate for the awakened plant, such as the statistics
 for the awakened shrub or the awakened tree.
 
+.. index::
+   single: charmed; by Awaken spell
+
 The awakened beast or plant is :ref:`charmed` by you for 30 days or until you
 or your companions do anything harmful to it. When the :ref:`charmed` condition
 ends, the awakened creature chooses whether to remain friendly to you,

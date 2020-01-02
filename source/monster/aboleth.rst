@@ -74,6 +74,9 @@ passed.
 :bi:`Tail`. *Melee Weapon Attack:* +9 to hit, reach 10 ft. one target.
 *Hit:* 15 (3d6 + 5) bludgeoning damage.
 
+.. index::
+   single: charmed; by Aboleth Enslave
+
 :bi:`Enslave (3/Day)`. The aboleth targets one creature it can see
 within 30 feet of it. The target must succeed on a DC 14 Wisdom saving
 throw or be magically :ref:`charmed` by the aboleth until the aboleth dies or
@@ -98,6 +101,9 @@ legendary actions at the start of its turn.
 **Detect**. The aboleth makes a Wisdom (Perception) check.
 
 **Tail Swipe**. The aboleth makes one tail attack.
+
+.. index::
+   single: charmed; by Aboleth Psychic Drain
 
 **Psychic Drain (Costs 2 Actions)**. One creature :ref:`charmed` by the aboleth
 takes 10 (3d6) psychic damage, and the aboleth regains hit points equal

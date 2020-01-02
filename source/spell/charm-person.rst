@@ -13,6 +13,9 @@ Charm Person
 
 **Duration:** 1 hour
 
+.. index::
+   single: charmed; by Charm Person spell
+
 You attempt to charm a humanoid you can see within range. It must make a
 Wisdom saving throw, and does so with advantage if you or your
 companions are fighting it. If it fails the saving throw, it is :ref:`charmed`

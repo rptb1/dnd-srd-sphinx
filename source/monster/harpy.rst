@@ -50,6 +50,10 @@ one with its club.
 :bi:`Club`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
 *Hit:* 3 (1d4 + 1) bludgeoning damage.
 
+.. index::
+   single: charmed; by harpy Luring Song
+   single: incapacitated; by harpy Luring Song
+
 :bi:`Luring Song`. The harpy sings a magical melody. Every humanoid and
 giant within 300 feet of the harpy that can hear the song must succeed
 on a DC 11 Wisdom saving throw or be :ref:`charmed` until the song ends. The

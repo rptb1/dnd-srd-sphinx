@@ -13,6 +13,10 @@ Modify Memory
 
 **Duration:** Concentration, up to 1 minute
 
+.. index::
+   single: charmed; by Modify Memory spell
+   single: incapacitated; by Modify Memory spell
+
 You attempt to reshape another creature's memories. One creature that
 you can see must make a Wisdom saving throw. If you are fighting the
 creature, it has advantage on the saving throw. On a failed save, the

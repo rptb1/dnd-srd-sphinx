@@ -127,6 +127,9 @@ hit point maximum to 0. A humanoid slain in this way and then buried in
 the ground rises the following night as a vampire spawn under the
 vampire's control.
 
+.. index::
+   single: charmed; by vampire
+
 :bi:`Charm`. The vampire targets one humanoid it can see within 30 feet
 of it. If the target can see the vampire, the target must succeed on a
 DC 17 Wisdom saving throw against this magic or be :ref:`charmed` by the

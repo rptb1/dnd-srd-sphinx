@@ -13,6 +13,9 @@ Enthrall
 
 **Duration:** 1 minute
 
+.. index::
+   single: charmed; by Enthrall spell
+
 You weave a distracting string of words, causing creatures of your
 choice that you can see within range and that can hear you to make a
 Wisdom saving throw. Any creature that can't be :ref:`charmed` succeeds on this

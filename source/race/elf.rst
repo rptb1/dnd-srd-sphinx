@@ -58,6 +58,9 @@ shades of gray.
 
 :bi:`Keen Senses`. You have proficiency in the Perception skill.
 
+.. index::
+   single: charmed; resistance by elf Fey Ancestry
+
 :bi:`Fey Ancestry`. You have advantage on saving throws against being
 :ref:`charmed`, and magic can't put you to sleep.
 

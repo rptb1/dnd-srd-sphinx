@@ -478,6 +478,9 @@ following demands:
 
 -  Attempt to take control of its wielder.
 
+.. index::
+   single: charmed; by sentient magic item
+
 If a sentient item attempts to take control of its wielder, the wielder
 must make a Charisma saving throw, with a DC equal to 12 + the item's
 Charisma modifier. On a failed save, the wielder is :ref:`charmed` by the item
@@ -522,6 +525,9 @@ might find themselves enslaved to an orb.
 An orb is an etched crystal globe about 10 inches in diameter. When
 used, it grows to about 20 inches in diameter, and mist swirls inside
 it.
+
+.. index::
+   single: charmed; by Orb of Dragonkind
 
 While attuned to an orb, you can use an action to peer into the orb's
 depths and speak its command word. You must then make a DC 15 Charisma

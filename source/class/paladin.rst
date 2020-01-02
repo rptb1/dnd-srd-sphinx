@@ -481,6 +481,9 @@ action.
 Aura of Devotion
 ^^^^^^^^^^^^^^^^
 
+.. index::
+   single: charmed; immunity by paladin Aura of Devotion
+
 Starting at 7th level, you and friendly creatures within 10 feet of you
 can't be :ref:`charmed` while you are conscious.
 

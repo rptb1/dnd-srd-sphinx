@@ -13,6 +13,9 @@ Mind Blank
 
 **Duration:** 24 hours
 
+.. index::
+   single: charmed; immunity by Mind Blank spell
+
 Until the spell ends, one willing creature you touch is immune to
 psychic damage, any effect that would sense its emotions or read its
 thoughts, divination spells, and the :ref:`charmed` condition. The spell even

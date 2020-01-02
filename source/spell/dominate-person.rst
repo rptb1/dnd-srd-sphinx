@@ -13,6 +13,9 @@ Dominate Person
 
 **Duration:** Concentration, up to 1 minute
 
+.. index::
+   single: charmed; by Dominate Person spell
+
 You attempt to beguile a humanoid that you can see within range. It must
 succeed on a Wisdom saving throw or be :ref:`charmed` by you for the duration.
 If you or creatures that are friendly to you are fighting it, it has

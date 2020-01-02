@@ -60,6 +60,10 @@ Actions
 :bi:`Claw (Fiend Form Only)`. *Melee Weapon Attack:* +5 to hit, reach 5
 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 
+.. index::
+   single: charmed; by succubus
+   single: charmed; by incubus
+
 :bi:`Charm`. One humanoid the fiend can see within 30 feet of it must
 succeed on a DC 15 Wisdom saving throw or be magically :ref:`charmed` for 1
 day. The :ref:`charmed` target obeys the fiend's verbal or telepathic commands.

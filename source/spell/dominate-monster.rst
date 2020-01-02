@@ -13,6 +13,9 @@ Dominate Monster
 
 **Duration:** Concentration, up to 1 hour
 
+.. index::
+   single: charmed; by Dominate Monster spell
+
 You attempt to beguile a creature that you can see within range. It must
 succeed on a Wisdom saving throw or be :ref:`charmed` by you for the duration.
 If you or creatures that are friendly to you are fighting it, it has
