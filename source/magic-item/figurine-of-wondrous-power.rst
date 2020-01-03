@@ -88,8 +88,7 @@ differently from the others. Their properties are as follows:
 -  The *goat of travail* becomes a giant goat for up to 3 hours. Once it
    has been used, it can't be used again until 30 days have passed.
 
-.. index::
-   single: frightened; by goat of terror
+.. index:: frightened; by goat of terror
 
 -  The *goat of terror* becomes a giant goat for up to 3 hours. The goat
    can't attack, but you can remove its horns and use them as weapons.

@@ -995,7 +995,8 @@ potential to damage, or even kill, the hardiest of creatures.
 Hit Points
 ----------
 
-.. index:: ! hit points, ! HP
+.. index:: ! hit points
+   see: HP; hit points
 
 Hit points represent a combination of physical and mental durability,
 the will to live, and luck. Creatures with more hit points are more
@@ -1206,7 +1207,8 @@ A creature that has died can't regain hit points until magic such as the
 Dropping to 0 Hit Points
 ------------------------
 
-.. index:: ! zero hit points, ! 0 HP
+.. index:: ! zero hit points
+   see: 0; zero
 
 When you drop to 0 hit points, you either die outright or fall
 :ref:`unconscious`, as explained in the following sections.
@@ -1265,7 +1267,6 @@ regain 1 hit point.
 
 .. index::
    double: damage at; zero hit points
-   double: damage at; 0 HP
 
 :bi:`Damage at 0 Hit Points`. If you take any damage while you have 0
 hit points, you suffer a death saving throw failure. If the damage is
@@ -1326,7 +1327,6 @@ Temporary Hit Points
 
 .. index::
    double: temporary; hit points
-   double: temporary; HP
 
 Some spells and special abilities confer temporary hit points to a
 creature. Temporary hit points aren't actual hit points; they are a
@@ -1390,9 +1390,8 @@ speed. For example, if your speed is 30 feet, you must spend 15 feet of
 movement to mount a horse. Therefore, you can't mount it if you don't
 have 15 feet of movement left or if your speed is 0.
 
-.. index::
+.. index:: prone; falling from mount
    double: falling from; mount
-   single: prone; falling from mount
 
 If an effect moves your mount against its will while you're on it, you
 must succeed on a DC 10 Dexterity saving throw or fall off the mount,

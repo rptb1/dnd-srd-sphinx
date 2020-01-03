@@ -19,8 +19,7 @@ Horn of Blasting
 
 *Wondrous item, rare*
 
-.. index::
-   single: deafened; by horn of blasting
+.. index:: deafened; by horn of blasting
 
 You can use an action to speak the horn's command word and then blow the
 horn, which emits a thunderous blast in a 30-foot cone that is audible

@@ -88,8 +88,7 @@ target. *Hit:* 32 (4d10 + 10) piercing damage.
 *Hit:* 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it
 must succeed on a DC 20 Strength saving throw or be knocked :ref:`prone`.
 
-.. index::
-   single: frightened; by tarrasque presence
+.. index:: frightened; by tarrasque presence
 
 :bi:`Frightful Presence`. Each creature of the tarrasque's choice within
 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving
@@ -100,8 +99,7 @@ success. If a creature's saving throw is successful or the effect ends
 for it, the creature is immune to the tarrasque's Frightful Presence for
 the next 24 hours.
 
-.. index::
-   single: blinded; by tarrasque swallow
+.. index:: blinded; by tarrasque swallow
    single: restrained; by tarrasque swallow
 
 :bi:`Swallow`. The tarrasque makes one bite attack against a Large or
@@ -111,8 +109,7 @@ swallowed, the creature is :ref:`blinded` and :ref:`restrained`, it has total co
 against attacks and other effects outside the tarrasque, and it takes 56
 (16d6) acid damage at the start of each of the tarrasque's turns.
 
-.. index::
-   single: prone; by tarrasque swallow
+.. index:: prone; by tarrasque swallow
 
 If the tarrasque takes 60 damage or more on a single turn from a
 creature inside it, the tarrasque must succeed on a DC 20 Constitution

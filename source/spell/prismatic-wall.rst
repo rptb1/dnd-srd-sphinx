@@ -25,8 +25,7 @@ position the wall so that it passes through a space occupied by a
 creature, the spell fails, and your action and the spell slot are
 wasted.
 
-.. index::
-   single: blinded; by prismatic wall spell
+.. index:: blinded; by prismatic wall spell
 
 The wall sheds bright light out to a range of 100 feet and dim light for
 an additional 100 feet. You and creatures you designate at the time you
@@ -69,8 +68,7 @@ effect on it.
    half as much damage on a successful one. This layer can be destroyed
    by dealing at least 25 fire damage to it.
 
-.. index::
-   single: restrained; by prismatic wall spell
+.. index:: restrained; by prismatic wall spell
    single: petrified; by prismatic wall spell
 
 6. :bi:`Indigo`. On a failed save, the creature is :ref:`restrained`. It must
@@ -83,8 +81,7 @@ effect on it.
    be cast through the wall. The layer is destroyed by bright light shed
    by a *daylight* spell or a similar spell of equal or higher level.
 
-.. index::
-   single: blinded; by prismatic wall spell
+.. index:: blinded; by prismatic wall spell
 
 7. :bi:`Violet`. On a failed save, the creature is :ref:`blinded`. It must then
    make a Wisdom saving throw at the start of your next turn. A

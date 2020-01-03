@@ -292,8 +292,7 @@ of Bardic Inspiration when you finish a short or long rest.
 Countercharm
 ~~~~~~~~~~~~
 
-.. index::
-   single: frightened; resistance by bard countercharm
+.. index:: frightened; resistance by bard countercharm
    single: charmed; resistance by bard countercharm
 
 At 6th level, you gain the ability to use musical notes or words of

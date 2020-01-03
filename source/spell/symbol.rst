@@ -57,8 +57,7 @@ failed save, a target bickers and argues with other creatures for 1
 minute. During this time, it is incapable of meaningful communication
 and has disadvantage on attack rolls and ability checks.
 
-.. index::
-   single: frightened; by symbol spell
+.. index:: frightened; by symbol spell
 
 :bi:`Fear`. Each target must make a Wisdom saving throw and becomes
 :ref:`frightened` for 1 minute on a failed save. While :ref:`frightened`, the target
@@ -76,22 +75,19 @@ creature can't take actions, can't understand what other creatures say,
 can't read, and speaks only in gibberish. The GM controls its movement,
 which is erratic.
 
-.. index::
-   single: incapacitated; by symbol spell
+.. index:: incapacitated; by symbol spell
 
 :bi:`Pain`. Each target must make a Constitution saving throw and
 becomes :ref:`incapacitated` with excruciating pain for 1 minute on a failed
 save.
 
-.. index::
-   single: unconscious; by symbol spell
+.. index:: unconscious; by symbol spell
 
 :bi:`Sleep`. Each target must make a Wisdom saving throw and falls
 :ref:`unconscious` for 10 minutes on a failed save. A creature awakens if it
 takes damage or if someone uses an action to shake or slap it awake.
 
-.. index::
-   single: stunned; by symbol spell
+.. index:: stunned; by symbol spell
 
 :bi:`Stunning`. Each target must make a Wisdom saving throw and becomes
 :ref:`stunned` for 1 minute on a failed save.

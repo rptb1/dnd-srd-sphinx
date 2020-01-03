@@ -15,8 +15,7 @@ same check made while inspecting the ceiling notes variations in the
 stonework that reveal the trapdoor. Wedging an iron spike or other
 object under the pressure plate prevents the trap from activating.
 
-.. index::
-   single: prone; rolling sphere
+.. index:: prone; rolling sphere
 
 Activation of the sphere requires all creatures present to roll
 initiative. The sphere rolls initiative with a +8 bonus. On its turn, it

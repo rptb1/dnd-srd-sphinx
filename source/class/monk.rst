@@ -281,8 +281,7 @@ you fail.
 Stillness of Mind
 ~~~~~~~~~~~~~~~~~
 
-.. index::
-   single: charmed; cured by monk stillness of mind
+.. index:: charmed; cured by monk stillness of mind
    single: frightened; cured by monk stillness of mind
 
 Starting at 7th level, you can use your action to end one effect on

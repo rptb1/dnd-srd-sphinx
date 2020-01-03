@@ -3,8 +3,6 @@
 .. Origin: SRD p76 "Using Ability Scores"
 .. Origin: BR p60 "Chapter 7: Using Ability Scores"
 
-.. index:: ! abilities
-
 .. _Using Ability Scores:
 
 ====================
@@ -25,6 +23,8 @@ Using Ability Scores
 .. role:: bi
    :class: bolditalic
 
+
+.. index:: ! ability
 
 Six abilities provide a quick description of every creature's physical
 and mental characteristics:
@@ -462,9 +462,9 @@ detail what those abilities mean and the ways they are used in the game.
 Strength
 --------
 
-.. index:: ! strength, ! STR
+.. index:: ! strength
    double: ability; strength
-   double: ability; STR
+   see: STR; strength
 
 Strength measures bodily power, athletic training, and the extent to
 which you can exert raw physical force.
@@ -590,9 +590,9 @@ Dexterity, or Constitution.
 Dexterity
 ---------
 
-.. index:: ! dexterity, ! DEX
+.. index:: ! dexterity
    double: ability; dexterity
-   double: ability; DEX
+   see: DEX; dexterity
 
 Dexterity measures agility, reflexes, and balance.
 
@@ -743,8 +743,9 @@ combat.
 Constitution
 ------------
 
-.. index:: ! constitution, ! CON
+.. index:: ! constitution
    double: ability; constitution
+   see: CON; constitution
 
 Constitution measures health, stamina, and vital force.
 
@@ -780,7 +781,6 @@ Hit Points
 
 .. index::
    triple: ability; constitution; hit points
-   triple: ability; constitution; HP
 
 Your Constitution modifier contributes to your hit points. Typically,
 you add your Constitution modifier to each Hit Die you roll for your hit
@@ -800,9 +800,9 @@ modifier by 1, your hit point maximum is reduced by 7.
 Intelligence
 ------------
 
-.. index:: ! intelligence, ! INT
+.. index:: ! intelligence
    double: ability; intelligence
-   double: ability; INT
+   see: INT; intelligence
 
 Intelligence measures mental acuity, accuracy of recall, and the ability
 to reason.
@@ -898,8 +898,9 @@ determine the saving throw DCs of spells they cast.
 Wisdom
 ------
 
-.. index:: ! wisdom, ! WIS
+.. index:: ! wisdom
    double: ability; wisdom
+   see: WIS; wisdom
 
 Wisdom reflects how attuned you are to the world around you and
 represents perceptiveness and intuition.
@@ -990,9 +991,9 @@ which helps determine the saving throw DCs of spells they cast.
 Charisma
 --------
 
-.. index:: ! charisma, ! CHA
+.. index:: ! charisma
    double: ability; charisma
-   double: ability; CHA
+   see: CHA; charisma
 
 Charisma measures your ability to interact effectively with others. It
 includes such factors as confidence and eloquence, and it can represent

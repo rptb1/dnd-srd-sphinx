@@ -50,8 +50,7 @@ stalagmite.
 Actions
 ^^^^^^^
 
-.. index::
-   single: blinded; by darkmantle crush
+.. index:: blinded; by darkmantle crush
 
 :bi:`Crush`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
 creature. *Hit:* 6 (1d6 + 3) bludgeoning damage, and the darkmantle

@@ -13,8 +13,7 @@ Mass Heal
 
 **Duration:** Instantaneous
 
-.. index::
-   single: blinded; cured by mass heal
+.. index:: blinded; cured by mass heal
    single: deafened; cured by mass heal
    single: disease; cured by mass heal
 

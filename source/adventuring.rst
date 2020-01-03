@@ -231,8 +231,7 @@ a DC 10 :ref:`Strength (Athletics) <athletics>` check to clear a low obstacle (n
 than a quarter of the jump's distance), such as a hedge or low wall.
 Otherwise, you hit it.
 
-.. index::
-   single: prone; landing from jump
+.. index:: prone; landing from jump
    double: jump; landing
 
 When you land in difficult terrain, you must succeed on a DC 10
@@ -320,9 +319,8 @@ obscured** area, such as dim light, patchy fog, or moderate foliage,
 creatures have disadvantage on :ref:`Wisdom (Perception) <perception>` checks that rely on
 sight.
 
-.. index::
+.. index:: blinded; by environment
    double: heavily; obscured
-   single: blinded; by environment
 
 A **heavily obscured** area — such as darkness, opaque fog, or dense
 foliage — blocks vision entirely. A creature effectively suffers from the

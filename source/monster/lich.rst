@@ -109,8 +109,7 @@ at the start of its turn.
 **Paralyzing Touch (Costs 2 Actions)**. The lich uses its Paralyzing
 Touch.
 
-.. index::
-   single: frightened; by lich gaze
+.. index:: frightened; by lich gaze
 
 **Frightening Gaze (Costs 2 Actions)**. The lich fixes its gaze on one
 creature it can see within 10 feet of it. The target must succeed on a

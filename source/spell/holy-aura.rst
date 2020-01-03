@@ -15,8 +15,7 @@ or a piece of parchment from a religious text)
 
 **Duration:** Concentration, up to 1 minute
 
-.. index::
-   single: blinded; by holy aura
+.. index:: blinded; by holy aura
 
 Divine light washes out from you and coalesces in a soft radiance in a
 30-foot radius around you. Creatures of your choice in that radius when

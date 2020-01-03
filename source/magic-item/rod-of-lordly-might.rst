@@ -66,8 +66,7 @@ On a failure, the target takes an extra 4d6 necrotic damage, and you
 regain a number of hit points equal to half that necrotic damage. This
 property can't be used again until the next dawn.
 
-.. index::
-   single: paralyzed; by rod of lordly might paralyze
+.. index:: paralyzed; by rod of lordly might paralyze
 
 :bi:`Paralyze`. When you hit a creature with a melee attack using the
 rod, you can force the target to make a DC 17 Strength saving throw. On
@@ -75,8 +74,7 @@ a failure, the target is :ref:`paralyzed` for 1 minute. The target can repeat
 the saving throw at the end of each of its turns, ending the effect on a
 success. This property can't be used again until the next dawn.
 
-.. index::
-   single: frightened; by rod of lordly might terrify
+.. index:: frightened; by rod of lordly might terrify
 
 :bi:`Terrify`. While holding the rod, you can use an action to force
 each creature you can see within 30 feet of you to make a DC 17 Wisdom

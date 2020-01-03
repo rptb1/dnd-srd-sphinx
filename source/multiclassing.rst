@@ -110,9 +110,7 @@ level as a fighter or your seventh level as a cleric.
 
 .. index::
    double: multiclass; hit points
-   double: multiclass; HP
    double: multiclass; hit dice
-   double: multiclass; HD
 
 Hit Points and Hit Dice
 -----------------------

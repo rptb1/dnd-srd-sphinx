@@ -62,8 +62,7 @@ Actions
 :bi:`Multiattack`. The kraken makes three tentacle attacks, each of
 which it can replace with one use of Fling.
 
-.. index::
-   single: blinded; by kraken bite
+.. index:: blinded; by kraken bite
    single: grappled; by kraken bite
    single: restrained; by kraken bite
 

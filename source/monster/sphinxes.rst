@@ -89,16 +89,14 @@ before finishing a long rest, the roar is louder and the effect is
 different, as detailed below. Each creature within 500 feet of the
 sphinx and able to hear the roar must make a saving throw.
 
-.. index::
-   single: frightened; by sphinx roar
+.. index:: frightened; by sphinx roar
 
 **First Roar**. Each creature that fails a DC 18 Wisdom saving throw is
 :ref:`frightened` for 1 minute. A :ref:`frightened` creature can repeat the saving
 throw at the end of each of its turns, ending the effect on itself on a
 success.
 
-.. index::
-   single: deafened; by sphinx second roar
+.. index:: deafened; by sphinx second roar
    single: frightened; by sphinx second roar
    single: paralyzed; by sphinx second roar
 
@@ -107,8 +105,7 @@ success.
 and can repeat the saving throw at the end of each of its turns, ending
 the effect on itself on a success.
 
-.. index::
-   single: prone; by sphinx third roar
+.. index:: prone; by sphinx third roar
 
 **Third Roar**. Each creature makes a DC 18 Constitution saving throw.
 On a failed save, a creature takes 44 (8d10) thunder damage and is

@@ -57,8 +57,7 @@ Actions
 DC 11). Until this grapple ends, the target is :ref:`restrained`, and the frog
 can't bite another target.
 
-.. index::
-   single: blinded; by giant frog swallow
+.. index:: blinded; by giant frog swallow
    single: restrained; by giant frog swallow
 
 :bi:`Swallow`. The frog makes one bite attack against a Small or smaller
@@ -68,8 +67,7 @@ total cover against attacks and other effects outside the frog, and it
 takes 5 (2d4) acid damage at the start of each of the frog's turns. The
 frog can have only one target swallowed at a time.
 
-.. index::
-   single: prone; by giant frog swallow
+.. index:: prone; by giant frog swallow
 
 If the frog dies, a swallowed creature is no longer :ref:`restrained` by it and
 can escape from the corpse using 5 feet of movement, exiting :ref:`prone`.

@@ -13,8 +13,7 @@ Weird
 
 **Duration:** Concentration, up to one minute
 
-.. index::
-   single: frightened; by weird spell
+.. index:: frightened; by weird spell
 
 Drawing on the deepest fears of a group of creatures, you create
 illusory creatures in their minds, visible only to them. Each creature

@@ -65,8 +65,7 @@ makes three attacks: one with its bite and two with its claws.
 :bi:`Tail`. *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target.
 *Hit:* 17 (2d8 + 8) bludgeoning damage.
 
-.. index::
-   single: frightened; by ancient copper dragon
+.. index:: frightened; by ancient copper dragon
 
 :bi:`Frightful Presence`. Each creature of the dragon's choice that is
 within 120 feet of the dragon and aware of it must succeed on a DC 19
@@ -172,8 +171,7 @@ makes three attacks: one with its bite and two with its claws.
 :bi:`Tail`. *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target.
 *Hit:* 15 (2d8 + 6) bludgeoning damage.
 
-.. index::
-   single: frightened; by adult copper dragon
+.. index:: frightened; by adult copper dragon
 
 :bi:`Frightful Presence`. Each creature of the dragon's choice that is
 within 120 feet of the dragon and aware of it must succeed on a DC 16

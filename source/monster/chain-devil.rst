@@ -84,8 +84,7 @@ the devil is :ref:`incapacitated` or dies.
 Reactions
 ^^^^^^^^^
 
-.. index::
-   single: frightened; by chain devil unnerving mask
+.. index:: frightened; by chain devil unnerving mask
 
 :bi:`Unnerving Mask`. When a creature the devil can see starts its turn
 within 30 feet of the devil, the devil can create the illusion that it

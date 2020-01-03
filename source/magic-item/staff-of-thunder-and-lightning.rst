@@ -38,8 +38,7 @@ lightning to leap from the staff's tip in a line that is 5 feet wide and
 saving throw, taking 9d6 lightning damage on a failed save, or half as
 much damage on a successful one.
 
-.. index::
-   single: deafened; by Staff of Thunder and Lighting thunderclap
+.. index:: deafened; by Staff of Thunder and Lighting thunderclap
 
 :bi:`Thunderclap`. You can use an action to cause the staff to issue a
 deafening thunderclap, audible out to 600 feet. Each creature within 60

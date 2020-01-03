@@ -19,8 +19,7 @@ within range must make a Charisma saving throw; a creature can choose to
 fail this saving throw if it wishes. If a creature fails its saving
 throw, choose one of the following two effects.
 
-.. index::
-   single: frightened; suppression by calm emotions spell
+.. index:: frightened; suppression by calm emotions spell
    single: charmed; suppression by calm emotions spell
 
 You can suppress any effect causing a target to be :ref:`charmed` or

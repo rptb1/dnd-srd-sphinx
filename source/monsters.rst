@@ -241,7 +241,6 @@ Hit Points
 
 .. index::
    double: monster; hit points
-   double: monster; HP
 
 A monster usually dies or is destroyed when it drops to 0 hit points.
 For more on hit points, see :ref:`Hit Points`.
