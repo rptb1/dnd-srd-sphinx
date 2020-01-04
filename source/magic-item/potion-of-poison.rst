@@ -21,7 +21,7 @@ Potion of Poison
 
 This concoction looks, smells, and tastes like a *potion of healing* or
 other beneficial potion. However, it is actually poison masked by
-illusion magic. An *identify* spell reveals its true nature.
+illusion magic. An :ref:`identify` spell reveals its true nature.
 
 .. index:: poisoned; by Potion of Poison
 

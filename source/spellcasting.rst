@@ -256,7 +256,7 @@ the target is the point in space where the ball of fire erupts.
 
 Most spells have ranges expressed in feet. Some spells can target only a
 creature (including you) that you touch. Other spells, such as the
-*:ref:`shield`* spell, affect only you. These spells have a range of self.
+:ref:`shield` spell, affect only you. These spells have a range of self.
 
 .. index::
    triple: spell; range; area
@@ -290,7 +290,7 @@ Most spells require the chanting of mystic words. The words themselves
 aren't the source of the spell's power; rather, the particular
 combination of sounds, with specific pitch and resonance, sets the
 threads of magic in motion. Thus, a character who is gagged or in an
-area of silence, such as one created by the *silence* spell, can't cast
+area of silence, such as one created by the :ref:`silence` spell, can't cast
 a spell with a verbal component.
 
 Somatic (S)

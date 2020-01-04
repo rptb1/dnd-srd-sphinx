@@ -47,7 +47,7 @@ in acid, is dismissed, perhaps as a bad dream. The GM might deem a
 modified memory too nonsensical to affect a creature in a significant
 manner.
 
-A *remove curse* or *greater restoration* spell cast on the target
+A :ref:`remove curse` or :ref:`greater restoration` spell cast on the target
 restores the creature's true memory.
 
 :bi:`At Higher Levels`. If you cast this spell using a spell slot of 6th

@@ -30,7 +30,7 @@ spell, choose the nature of the curse from the following options:
 -  While the target is cursed, your attacks and spells deal an extra 1d8
    necrotic damage to the target.
 
-A *remove curse* spell ends this effect. At the GM's option, you may
+A :ref:`remove curse` spell ends this effect. At the GM's option, you may
 choose an alternative curse effect, but it should be no more powerful
 than those described above. The GM has final say on such a curse's
 effect.

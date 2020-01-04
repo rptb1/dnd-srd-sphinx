@@ -29,7 +29,7 @@ throw you dislike. You must use the second roll. This property can't be
 used again until the next dawn.
 
 :bi:`Wish`. The sword has 1d4 - 1 charges. While holding it, you can use
-an action to expend 1 charge and cast the *wish* spell from it. This
+an action to expend 1 charge and cast the :ref:`wish` spell from it. This
 property can't be used again until the next dawn. The sword loses this
 property if it has no charges.
 

@@ -266,7 +266,7 @@ If the result is 0 or less, you can't use the new speed during the
 current move.
 
 For example, if you have a speed of 30 and a flying speed of 60 because
-a wizard cast the *fly* spell on you, you could fly 20 feet, then walk
+a wizard cast the :ref:`fly` spell on you, you could fly 20 feet, then walk
 10 feet, and then leap into the air to fly 30 feet more.
 
 
@@ -396,7 +396,7 @@ Flying creatures enjoy many benefits of mobility, but they must also
 deal with the danger of falling. If a flying creature is knocked :ref:`prone`,
 has its speed reduced to 0, or is otherwise deprived of the ability to
 move, the creature falls, unless it has the ability to hover or it is
-being held aloft by magic, such as by the *fly* spell.
+being held aloft by magic, such as by the :ref:`fly` spell.
 
 
 Creature Size
@@ -620,7 +620,7 @@ you release with your reaction when the trigger occurs. To be readied, a
 spell must have a casting time of 1 action, and holding onto the spell's
 magic requires concentration. If your concentration is broken, the spell
 dissipates without taking effect. For example, if you are concentrating
-on the *web* spell and ready *magic missile*, your *web* spell ends, and
+on the :ref:`web` spell and ready :ref:`magic missile`, your :ref:`web` spell ends, and
 if you take damage before you release *magic missile* with your
 reaction, your concentration might be broken.
 
@@ -986,7 +986,7 @@ Damage and Healing
 
 Injury and the risk of death are constant companions of those who
 explore fantasy gaming worlds. The thrust of a sword, a well-placed
-arrow, or a blast of flame from a *fireball* spell all have the
+arrow, or a blast of flame from a :ref:`fireball` spell all have the
 potential to damage, or even kill, the hardiest of creatures.
 
 
@@ -1108,7 +1108,7 @@ missile* and *spiritual weapon*.
 .. index:: ! lightning damage
    double: lightning; damage
 
-:bi:`Lightning`. A *lightning bolt* spell and a blue dragon's breath
+:bi:`Lightning`. A :ref:`lightning bolt` spell and a blue dragon's breath
 deal lightning damage.
 
 .. index:: ! necrotic damage
@@ -1138,7 +1138,7 @@ deal psychic damage.
 .. index:: ! radiant damage
    double: radiant; damage
 
-:bi:`Radiant`. Radiant damage, dealt by a cleric's *flame strike* spell
+:bi:`Radiant`. Radiant damage, dealt by a cleric's :ref:`flame strike` spell
 or an angel's smiting weapon, sears the flesh like fire and overloads
 the spirit with power.
 
@@ -1151,7 +1151,7 @@ the spirit with power.
    double: thunder; damage
 
 :bi:`Thunder`. A concussive burst of sound, such as the effect of the
-*thunderwave* spell, deals thunder damage.
+:ref:`thunderwave` spell, deals thunder damage.
 
 
 Damage Resistance and Vulnerability
@@ -1190,7 +1190,7 @@ Healing
 
 Unless it results in death, damage isn't permanent. Even death is
 reversible through powerful magic. Rest can restore a creature's hit
-points, and magical methods such as a *cure wounds* spell or a *potion
+points, and magical methods such as a :ref:`cure wounds` spell or a *potion
 of healing* can remove damage in an instant.
 
 When a creature receives healing of any kind, hit points regained are
@@ -1201,7 +1201,7 @@ healing. If the ranger has 14 current hit points and has a hit point
 maximum of 20, the ranger regains 6 hit points from the druid, not 8.
 
 A creature that has died can't regain hit points until magic such as the
-*:ref:`revivify`* spell has restored it to life.
+:ref:`revivify` spell has restored it to life.
 
 
 Dropping to 0 Hit Points

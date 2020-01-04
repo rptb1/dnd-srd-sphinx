@@ -48,7 +48,7 @@ darkvision.
 
 :bi:`Hellish Rejuvenation`. A lemure that dies in the Nine Hells comes
 back to life with all its hit points in 1d10 days unless it is killed by
-a good-aligned creature with a *bless* spell cast on that creature or
+a good-aligned creature with a :ref:`bless` spell cast on that creature or
 its remains are sprinkled with holy water.
 
 

@@ -558,7 +558,7 @@ daily at dawn. If you control the orb, you can use an action and expend
 it: *cure wounds* (5th-level version, 3 charges), *daylight* (1 charge),
 *death ward* (2 charges), or *scrying* (3 charges).
 
-You can also use an action to cast the *detect magic* spell from the orb
+You can also use an action to cast the :ref:`detect magic` spell from the orb
 without using any charges.
 
 :bi:`Call Dragons`. While you control the orb, you can use an action to
@@ -571,5 +571,5 @@ you have used this property, it can't be used again for 1 hour.
 
 :bi:`Destroying an Orb`. An *Orb of Dragonkind* appears fragile but is
 impervious to most damage, including the attacks and breath weapons of
-dragons. A *disintegrate* spell or one good hit from a +3 magic weapon
+dragons. A :ref:`disintegrate` spell or one good hit from a +3 magic weapon
 is sufficient to destroy an orb, however.

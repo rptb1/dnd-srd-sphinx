@@ -42,7 +42,7 @@ choice:
 
 -  You undo a single recent event by forcing a reroll of any roll made
    within the last round (including your last turn). Reality reshapes
-   itself to accommodate the new result. For example, a *wish* spell
+   itself to accommodate the new result. For example, a :ref:`wish` spell
    could undo an opponent's successful save, a foe's critical hit, or a
    friend's failed save. You can force the reroll to be made with
    advantage or disadvantage, and you can choose whether to use the

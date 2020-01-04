@@ -1,3 +1,5 @@
+.. _Dust of Disappearance:
+
 Dust of Disappearance
 ~~~~~~~~~~~~~~~~~~~~~
 

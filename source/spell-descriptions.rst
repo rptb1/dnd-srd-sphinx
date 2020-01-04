@@ -18,6 +18,7 @@ Spell Descriptions
    spell/aid.rst
    spell/alarm.rst
    spell/alter-self.rst
+   spell/animal-friendship.rst
    spell/animal-messenger.rst
    spell/animal-shapes.rst
    spell/animate-dead.rst
@@ -117,6 +118,7 @@ Spell Descriptions
    spell/fear.rst
    spell/feather-fall.rst
    spell/feeblemind.rst
+   spell/find-familiar.rst
    spell/find-steed.rst
    spell/find-the-path.rst
    spell/find-traps.rst
@@ -158,6 +160,7 @@ Spell Descriptions
    spell/heal.rst
    spell/healing-word.rst
    spell/heat-metal.rst
+   spell/hellish-rebuke.rst
    spell/heroes-feast.rst
    spell/heroism.rst
    spell/hideous-laughter.rst
@@ -315,5 +318,6 @@ Spell Descriptions
    spell/wind-walk.rst
    spell/wind-wall.rst
    spell/wish.rst
+   spell/witch-bolt.rst
    spell/word-of-recall.rst
    spell/zone-of-truth.rst

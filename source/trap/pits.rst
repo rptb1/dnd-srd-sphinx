@@ -29,7 +29,7 @@ or 20 feet deep but can be deeper.
 Once the pit trap is detected, an iron spike or similar object can be
 wedged between the pit's cover and the surrounding floor in such a way
 as to prevent the cover from opening, thereby making it safe to cross.
-The cover can also be magically held shut using the *arcane lock* spell
+The cover can also be magically held shut using the :ref:`arcane lock` spell
 or similar magic.
 
 :bi:`Locking Pit`. This pit trap is identical to a hidden pit trap, with

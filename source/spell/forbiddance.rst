@@ -17,10 +17,10 @@ powdered ruby worth at least 1,000 gp)
 You create a ward against magical travel that protects up to 40,000
 square feet of floor space to a height of 30 feet above the floor. For
 the duration, creatures can't teleport into the area or use portals,
-such as those created by the *gate* spell, to enter the area. The spell
+such as those created by the :ref:`gate` spell, to enter the area. The spell
 proofs the area against planar travel, and therefore prevents creatures
 from accessing the area by way of the Astral Plane, Ethereal Plane,
-Feywild, Shadowfell, or the *plane shift* spell.
+Feywild, Shadowfell, or the :ref:`plane shift` spell.
 
 In addition, the spell damages types of creatures that you choose when
 you cast it. Choose one or more of the following: celestials,
@@ -33,8 +33,7 @@ When you cast this spell, you can designate a password. A creature that
 speaks the password as it enters the area takes no damage from the
 spell.
 
-The spell's area can't overlap with the area of another *forbiddance*
-spell. If you cast *forbiddance* every day for 30 days in the same
+The spell's area can't overlap with the area of another :ref:`forbiddance` spell. If you cast *forbiddance* every day for 30 days in the same
 location, the spell lasts until it is dispelled, and the material
 components are consumed on the last casting.
 

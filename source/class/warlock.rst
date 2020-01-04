@@ -160,7 +160,7 @@ a spell slot. You regain all expended spell slots when you finish a
 short or long rest.
 
 For example, when you are 5th level, you have two 3rd-level spell slots.
-To cast the 1st-level spell *witch bolt*, you must spend one of those
+To cast the 1st-level spell :ref:`witch bolt`, you must spend one of those
 slots, and you cast it as a 3rd-level spell.
 
 
@@ -232,7 +232,7 @@ loyal service. You gain one of the following features of your choice.
 Pact of the Chain
 ^^^^^^^^^^^^^^^^^
 
-You learn the *find familiar* spell and can cast it as a ritual. The
+You learn the :ref:`find familiar` spell and can cast it as a ritual. The
 spell doesn't count against your number of spells known.
 
 When you cast the spell, you can choose one of the normal forms for your

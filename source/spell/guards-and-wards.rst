@@ -36,13 +36,13 @@ creature other than you will believe it is going in the opposite
 direction from the one it chooses.
 
 :bi:`Doors`. All doors in the warded area are magically locked, as if
-sealed by an *arcane lock* spell. In addition, you can cover up to ten
+sealed by an :ref:`arcane lock` spell. In addition, you can cover up to ten
 doors with an illusion (equivalent to the illusory object function of
-the *minor illusion* spell) to make them appear as plain sections of
+the :ref:`minor illusion` spell) to make them appear as plain sections of
 wall.
 
 :bi:`Stairs`. Webs fill all stairs in the warded area from top to
-bottom, as the *web* spell. These strands regrow in 10 minutes if they
+bottom, as the :ref:`web` spell. These strands regrow in 10 minutes if they
 are burned or torn away while *guards and wards* lasts.
 
 :bi:`Other Spell Effect`. You can place your choice of one of the

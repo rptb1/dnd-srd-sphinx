@@ -272,7 +272,7 @@ Evasion
 
 At 7th level, your instinctive agility lets you dodge out of the way of
 certain area effects, such as a blue dragon's lightning breath or a
-*fireball* spell. When you are subjected to an effect that allows you to
+:ref:`fireball` spell. When you are subjected to an effect that allows you to
 make a Dexterity saving throw to take only half damage, you instead take
 no damage if you succeed on the saving throw, and only half damage if
 you fail.
@@ -330,8 +330,7 @@ Beginning at 18th level, you can use your action to spend 4 ki points to
 become :ref:`invisible` for 1 minute. During that time, you also have
 resistance to all damage but force damage.
 
-Additionally, you can spend 8 ki points to cast the *astral projection*
-spell, without needing material components. When you do so, you can't
+Additionally, you can spend 8 ki points to cast the :ref:`astral projection` spell, without needing material components. When you do so, you can't
 take any other creatures with you.
 
 
@@ -391,7 +390,7 @@ Tranquility
 
 Beginning at 11th level, you can enter a special meditation that
 surrounds you with an aura of peace. At the end of a long rest, you gain
-the effect of a *sanctuary* spell that lasts until the start of your
+the effect of a :ref:`sanctuary` spell that lasts until the start of your
 next long rest (the spell can end early as normal). The saving throw DC
 for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
 

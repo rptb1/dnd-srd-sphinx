@@ -32,6 +32,6 @@ against the sphere's walls and thus roll the sphere at up to half the
 creature's speed. Similarly, the globe can be picked up and moved by
 other creatures.
 
-A *disintegrate* spell targeting the globe destroys it without harming
+A :ref:`disintegrate` spell targeting the globe destroys it without harming
 anything inside it.
 

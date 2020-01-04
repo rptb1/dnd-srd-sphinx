@@ -60,5 +60,5 @@ expending spell slots, though the spell's effect is as if cast with a
 1st-level slot.
 
 Alternatively, when you light the candle for the first time, you can
-cast the *gate* spell with it. Doing so destroys the candle.
+cast the :ref:`gate` spell with it. Doing so destroys the candle.
 

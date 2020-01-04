@@ -26,7 +26,7 @@ telepathic message to a creature you are focused on. It can reply-using
 a bonus action to do so-while your focus on it continues.
 
 While focusing on a creature with *detect thoughts*, you can use an
-action to cast the *suggestion* spell (save DC 13) from the helm on that
+action to cast the :ref:`suggestion` spell (save DC 13) from the helm on that
 creature. Once used, the *suggestion* property can't be used again until
 the next dawn.
 

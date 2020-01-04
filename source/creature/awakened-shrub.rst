@@ -52,5 +52,5 @@ Actions
 *Hit:* 1 (1d4 - 1) slashing damage.
 
 An **awakened shrub** is an ordinary shrub given sentience and mobility
-by the *awaken* spell or similar magic.
+by the :ref:`awaken` spell or similar magic.
 

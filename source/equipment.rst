@@ -1976,7 +1976,7 @@ Other common hirelings include any of the wide variety of people who
 inhabit a typical town or city, when the adventurers pay them to perform
 a specific task. For example, a wizard might pay a carpenter to
 construct an elaborate chest (and its miniature replica) for use in the
-*secret chest* spell. A fighter might commission a blacksmith to forge a
+:ref:`secret chest` spell. A fighter might commission a blacksmith to forge a
 special sword. A bard might pay a tailor to make exquisite clothing for
 an upcoming performance in front of the duke.
 

@@ -734,7 +734,7 @@ can't be cast at a higher level. If a monster has a cantrip where its
 level matters and no level is given, use the monster's challenge rating.
 
 An innate spell can have special rules or restrictions. For example, a
-drow mage can innately cast the *:ref:`levitate`* spell, but the spell has a
+drow mage can innately cast the :ref:`levitate` spell, but the spell has a
 “self only” restriction, which means that the spell affects only the
 drow mage.
 
@@ -763,7 +763,7 @@ class or access to its spell list.
 
 A monster can cast a spell from its list at a higher level if it has the
 spell slot to do so. For example, a drow mage with the 3rd-level
-*:ref:`lightning bolt`* spell can cast it as a 5th-level spell by using one of
+:ref:`lightning bolt` spell can cast it as a 5th-level spell by using one of
 its 5th-level greater or lesser threat than suggested by its challenge
 rating.
 

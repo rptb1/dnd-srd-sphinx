@@ -66,5 +66,5 @@ gas in a 30-foot cone. Each creature in that area must succeed on a DC
 to stone and is :ref:`restrained`. The :ref:`restrained` target must repeat the saving
 throw at the end of its next turn. On a success, the effect ends on the
 target. On a failure, the target is :ref:`petrified` until freed by the
-*greater restoration* spell or other magic.
+:ref:`greater restoration` spell or other magic.
 

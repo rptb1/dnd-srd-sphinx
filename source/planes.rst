@@ -81,7 +81,7 @@ other planes of existence. *Plane shift* and *gate* can transport
 adventurers directly to any other plane of existence, with different
 degrees of precision. *Etherealness* allows adventurers to enter the
 Ethereal Plane and travel from there to any of the planes it
-touches — such as the Elemental Planes. And the *astral projection* spell
+touches — such as the Elemental Planes. And the :ref:`astral projection` spell
 lets adventurers project themselves into the Astral Plane and travel to
 the Outer Planes.
 
@@ -110,8 +110,8 @@ The **Ethereal Plane** is a misty, fog-bound dimension that is sometimes
 described as a great ocean. Its shores, called the Border Ethereal,
 overlap the Material Plane and the Inner Planes, so that every location
 on those planes has a corresponding location on the Ethereal Plane.
-Certain creatures can see into the Border Ethereal, and the *see
-invisibility* and *true seeing* spell grant that ability. Some magical
+Certain creatures can see into the Border Ethereal, and the :ref:`see
+invisibility` and :ref:`true seeing` spell grant that ability. Some magical
 effects also extend from the Material Plane into the Border Ethereal,
 particularly effects that use force energy such as *forcecage* and *wall
 of force*. The depths of the plane, the Deep Ethereal, are a region of
@@ -206,7 +206,7 @@ deity or other force. They may exist naturally, as a fold of existing
 reality that has been pinched off from the rest of the multiverse, or as
 a baby universe growing in power. A given demiplane can be entered
 through a single point where it touches another plane. Theoretically, a
-*plane shift* spell can also carry travelers to a demiplane, but the
+:ref:`plane shift` spell can also carry travelers to a demiplane, but the
 proper frequency required for the tuning fork is extremely hard to
-acquire. The *gate* spell is more reliable, assuming the caster knows of
+acquire. The :ref:`gate` spell is more reliable, assuming the caster knows of
 the demiplane.

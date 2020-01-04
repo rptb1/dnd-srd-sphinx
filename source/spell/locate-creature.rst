@@ -22,7 +22,7 @@ The spell can locate a specific creature known to you, or the nearest
 creature of a specific kind (such as a human or a unicorn), so long as
 you have seen such a creature up close-within 30 feet-at least once. If
 the creature you described or named is in a different form, such as
-being under the effects of a *polymorph* spell, this spell doesn't
+being under the effects of a :ref:`polymorph` spell, this spell doesn't
 locate the creature.
 
 This spell can't locate a creature if running water at least 10 feet

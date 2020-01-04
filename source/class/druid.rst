@@ -146,7 +146,7 @@ slots.
 For example, if you are a 3rd-level druid, you have four 1st-level and
 two 2nd-level spell slots. With a Wisdom of 16, your list of prepared
 spells can include six spells of 1st or 2nd level, in any combination.
-If you prepare the 1st-level spell *cure wounds*, you can cast it using
+If you prepare the 1st-level spell :ref:`cure wounds`, you can cast it using
 a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from
 your list of prepared spells.
 
@@ -464,7 +464,7 @@ have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are
 magically created or manipulated to impede movement, such those created
-by the *entangle* spell.
+by the :ref:`entangle` spell.
 
 
 Nature's Ward

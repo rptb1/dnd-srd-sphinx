@@ -44,7 +44,7 @@ disadvantage on Charisma checks and vulnerability to all damage.
 
 :bi:`Mindfire`. The creature's mind becomes feverish. The creature has
 disadvantage on Intelligence checks and Intelligence saving throws, and
-the creature behaves as if under the effects of the *confusion* spell
+the creature behaves as if under the effects of the :ref:`confusion` spell
 during combat.
 
 :bi:`Seizure`. The creature is overcome with shaking. The creature has

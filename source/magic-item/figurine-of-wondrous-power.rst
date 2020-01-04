@@ -136,5 +136,5 @@ existence.
 :bi:`Silver Raven (Uncommon)`. This silver statuette of a raven can
 become a raven for up to 12 hours. Once it has been used, it can't be
 used again until 2 days have passed. While in raven form, the figurine
-allows you to cast the *animal messenger* spell on it at will.
+allows you to cast the :ref:`animal messenger` spell on it at will.
 

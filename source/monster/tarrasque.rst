@@ -51,7 +51,7 @@ throw, it can choose to succeed instead.
 against spells and other magical effects.
 
 :bi:`Reflective Carapace`. Any time the tarrasque is targeted by a
-*magic missile* spell, a line spell, or a spell that requires a ranged
+:ref:`magic missile` spell, a line spell, or a spell that requires a ranged
 attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a
 6, the tarrasque is unaffected, and the effect is reflected back at the
 caster as though it originated from the tarrasque, turning the caster

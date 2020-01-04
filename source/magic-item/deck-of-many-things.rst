@@ -99,7 +99,7 @@ gain one level. Otherwise, this card has no effect.
 animation in an extradimensional sphere. Everything you were wearing and
 carrying stays behind in the space you occupied when you disappeared.
 You remain imprisoned until you are found and removed from the sphere.
-You can't be located by any divination magic, but a *wish* spell can
+You can't be located by any divination magic, but a :ref:`wish` spell can
 reveal the location of your prison. You draw no more cards.
 
 :bi:`Euryale`. The card's medusa-like visage curses you. You take a -2
@@ -138,12 +138,12 @@ a space you choose within 30 feet of you. The fighter is of the same
 race as you and serves you loyally until death, believing the fates have
 drawn him or her to you. You control this character.
 
-:bi:`Moon`. You are granted the ability to cast the *wish* spell 1d3
+:bi:`Moon`. You are granted the ability to cast the :ref:`wish` spell 1d3
 times.
 
 :bi:`Rogue`. A nonplayer character of the GM's choice becomes hostile
 toward you. The identity of your new enemy isn't known until the NPC or
-someone else reveals it. Nothing less than a *wish* spell or divine
+someone else reveals it. Nothing less than a :ref:`wish` spell or divine
 intervention can end the NPC's hostility toward you.
 
 :bi:`Ruin`. All forms of wealth that you carry or own, other than magic
@@ -228,7 +228,7 @@ knowledge comes with wisdom on how to apply it.
 :bi:`The Void`. This black card spells disaster. Your soul is drawn from
 your body and contained in an object in a place of the GM's choice. One
 or more powerful beings guard the place. While your soul is trapped in
-this way, your body is :ref:`incapacitated`. A *wish* spell can't restore your
+this way, your body is :ref:`incapacitated`. A :ref:`wish` spell can't restore your
 soul, but the spell reveals the location of the object that holds it.
 You draw no more cards.
 

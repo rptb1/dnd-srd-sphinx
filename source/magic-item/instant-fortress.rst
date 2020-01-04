@@ -30,7 +30,7 @@ divided into two floors, with a ladder running along one wall to connect
 them. The ladder ends at a trapdoor leading to the roof. When activated,
 the tower has a small door on the side facing you. The door opens only
 at your command, which you can speak as a bonus action. It is immune to
-the *knock* spell and similar magic, such as that of a *chime of
+the :ref:`knock` spell and similar magic, such as that of a *chime of
 opening*.
 
 Each creature in the area where the fortress appears must make a DC 15
@@ -44,7 +44,7 @@ The tower is made of adamantine, and its magic prevents it from being
 tipped over. The roof, the door, and the walls each have 100 hit points,
 
 immunity to damage from nonmagical weapons excluding siege weapons, and
-resistance to all other damage. Only a *wish* spell can repair the
+resistance to all other damage. Only a :ref:`wish` spell can repair the
 fortress (this use of the spell counts as replicating a spell of 8th
 level or lower). Each casting of *wish* causes the roof, the door, or
 one wall to regain 50 hit points.

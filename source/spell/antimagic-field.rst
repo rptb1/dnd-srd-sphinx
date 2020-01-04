@@ -55,7 +55,7 @@ suppressed as soon as it exits.
 the sphere, whether the sphere is the destination or the departure point
 for such magical travel. A portal to another location, world, or plane
 of existence, as well as an opening to an extradimensional space such as
-that created by the *rope trick* spell, temporarily closes while in the
+that created by the :ref:`rope trick` spell, temporarily closes while in the
 sphere.
 
 :bi:`Creatures and Objects`. A creature or object summoned or created by
@@ -65,5 +65,5 @@ within the sphere.
 
 :bi:`Dispel Magic`. Spells and magical effects such as *dispel magic*
 have no effect on the sphere. Likewise, the spheres created by different
-*antimagic field* spells don't nullify each other.
+:ref:`antimagic field` spells don't nullify each other.
 

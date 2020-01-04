@@ -30,12 +30,12 @@ quarterstaff.
 
 :bi:`Spells`. You can use an action to expend 1 or more of the staff's
 charges to cast one of the following spells from it, using your spell
-save DC: *animal friendship* (1 charge), *awaken* (5 charges),
-*barkskin* (2 charges), *locate animals or plants* (2 charges), *speak
-with animals* (1 charge), *speak with plants* (3 charges), or *wall of
-thorns* (6 charges).
+save DC: :ref:`animal friendship` (1 charge), :ref:`awaken` (5
+charges), :ref:`barkskin` (2 charges), :ref:`locate animals or plants`
+(2 charges), :ref:`speak with animals` (1 charge), :ref:`speak with
+plants` (3 charges), or :ref:`wall of thorns` (6 charges).
 
-You can also use an action to cast the *pass without trace* spell from
+You can also use an action to cast the :ref:`pass without trace` spell from
 the staff without using any charges.
 
 :bi:`Tree Form`. You can use an action to plant one end of the staff in
@@ -44,7 +44,7 @@ tree. The tree is 60 feet tall and has a 5-foot diameter trunk, and its
 branches at the top spread out in a 20-foot radius.
 
 The tree appears ordinary but radiates a faint aura of transmutation
-magic if targeted by *detect magic*. While touching the tree and using
+magic if targeted by :ref:`detect magic`. While touching the tree and using
 another action to speak its command word, you return the staff to its
 normal form. Any creature in the tree falls when it reverts to a staff.
 

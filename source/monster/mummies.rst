@@ -66,7 +66,7 @@ Constitution saving throw or be cursed with mummy rot. The cursed target
 can't regain hit points, and its hit point maximum decreases by 10 (3d6)
 for every 24 hours that elapse. If the curse reduces the target's hit
 point maximum to 0, the target dies, and its body turns to dust. The
-curse lasts until removed by the *remove curse* spell or other magic.
+curse lasts until removed by the :ref:`remove curse` spell or other magic.
 
 .. index:: frightened; by mummy glare
    single: paralyzed; by mummy glare
@@ -154,7 +154,7 @@ Constitution saving throw or be cursed with mummy rot. The cursed target
 can't regain hit points, and its hit point maximum decreases by 10 (3d6)
 for every 24 hours that elapse. If the curse reduces the target's hit
 point maximum to 0, the target dies, and its body turns to dust. The
-curse lasts until removed by the *remove curse* spell or other magic.
+curse lasts until removed by the :ref:`remove curse` spell or other magic.
 
 .. index:: frightened; by mummy lord glare
    single: paralyzed; by mummy lord glare

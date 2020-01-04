@@ -46,7 +46,7 @@ Chuul
 :bi:`Amphibious`. The chuul can breathe air and water.
 
 :bi:`Sense Magic`. The chuul senses magic within 120 feet of it at will.
-This trait otherwise works like the *detect magic* spell but isn't
+This trait otherwise works like the :ref:`detect magic` spell but isn't
 itself magical.
 
 

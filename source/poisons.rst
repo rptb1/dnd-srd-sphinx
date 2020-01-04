@@ -227,7 +227,7 @@ hours. The :ref:`poisoned` creature is :ref:`incapacitated`.
 :bi:`Truth Serum (Ingested)`. A creature subjected to this poison must
 succeed on a DC 11 Constitution saving throw or become :ref:`poisoned` for 1
 hour. The :ref:`poisoned` creature can't knowingly speak a lie, as if under the
-effect of a *zone of truth* spell.
+effect of a :ref:`zone of truth` spell.
 
 .. index:: ! wyvern poison
    triple: wyvern poison; injury; poison

@@ -181,7 +181,7 @@ Grappled
 
 -  The condition also ends if an effect removes the grappled creature
    from the reach of the grappler or grappling effect, such as when a
-   creature is hurled away by the *thunder-wave* spell.
+   creature is hurled away by the :ref:`thunderwave` spell.
 
 
 .. _incapacitated:

@@ -33,6 +33,6 @@ If a plant creature is in the area, you can communicate with it as if
 you shared a common language, but you gain no magical ability to
 influence it.
 
-This spell can cause the plants created by the *entangle* spell to
+This spell can cause the plants created by the :ref:`entangle` spell to
 release a :ref:`restrained` creature.
 

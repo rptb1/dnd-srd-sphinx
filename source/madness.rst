@@ -206,9 +206,9 @@ Curing Madness
 .. index::
    double: curing; madness
 
-A *:ref:`calm emotions`* spell can suppress the effects of madness,
-while a *:ref:`lesser restoration`* spell can rid a character of a
+A :ref:`calm emotions` spell can suppress the effects of madness,
+while a :ref:`lesser restoration` spell can rid a character of a
 short-term or long-term madness. Depending on the source of the
 madness, *:ref:`remove curse`* or *:ref:`dispel evil`* might also
-prove effective. A *:ref:`greater restoration`* spell or more powerful
+prove effective. A :ref:`greater restoration` spell or more powerful
 magic is required to rid a character of indefinite madness.

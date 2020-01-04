@@ -72,7 +72,7 @@ creature's name, identity, or deity but otherwise must be based on
 observable actions or qualities and not based on intangibles such as
 level, class, or hit points.
 
-A *dispel magic* spell can end the spell only if it is cast as a
+A :ref:`dispel magic` spell can end the spell only if it is cast as a
 9th-level spell, targeting either the prison or the special component
 used to create it.
 

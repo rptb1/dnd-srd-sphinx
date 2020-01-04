@@ -77,7 +77,7 @@ Actions
 must succeed on a DC 15 Constitution saving throw or have its hit point
 maximum reduced by an amount equal to the damage taken. The target dies
 if this attack reduces its hit point maximum to 0. The reduction lasts
-until removed by the *greater restoration* spell or other magic.
+until removed by the :ref:`greater restoration` spell or other magic.
 
 :bi:`Haste (Recharge 5-6)`. Until the end of its next turn, the golem
 magically gains a +2 bonus to its AC, has advantage on Dexterity saving

@@ -230,9 +230,9 @@ spells of 1st level and higher. To cast one of these spells, you must
 expend a slot of the spell's level or higher. You regain all expended
 spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell *animal friendship* and
+For example, if you know the 1st-level spell :ref:`animal friendship` and
 have a 1st-level and a 2nd-level spell slot available, you can cast
-*animal friendship* using either slot.
+:ref:`animal friendship` using either slot.
 
 
 Spells Known of 1st Level and Higher
@@ -313,7 +313,7 @@ have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are
 magically created or manipulated to impede movement, such those created
-by the *entangle* spell.
+by the :ref:`entangle` spell.
 
 
 Hide in Plain Sight
@@ -442,7 +442,7 @@ Superior Hunter's Defense
 At 15th level, you gain one of the following features of your choice.
 
 :bi:`Evasion`. When you are subjected to an effect, such as a red
-dragon's fiery breath or a *lightning bolt* spell, that allows you to
+dragon's fiery breath or a :ref:`lightning bolt` spell, that allows you to
 make a Dexterity saving throw to take only half damage, you instead take
 no damage if you succeed on the saving throw, and only half damage if
 you fail.

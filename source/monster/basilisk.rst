@@ -46,7 +46,7 @@ the creature to make a DC 12 Constitution saving throw if the basilisk
 isn't :ref:`incapacitated`. On a failed save, the creature magically begins to
 turn to stone and is :ref:`restrained`. It must repeat the saving throw at the
 end of its next turn. On a success, the effect ends. On a failure, the
-creature is :ref:`petrified` until freed by the *greater restoration* spell or
+creature is :ref:`petrified` until freed by the :ref:`greater restoration` spell or
 other magic.
 
 A creature that isn't surprised can avert its eyes to avoid the saving

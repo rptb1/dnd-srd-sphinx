@@ -60,7 +60,7 @@ effect on it.
    destroyed by dealing at least 60 force damage to it.
 
 4. :bi:`Green`. The creature takes 10d6 poison damage on a failed save,
-   or half as much damage on a successful one. A *passwall* spell, or
+   or half as much damage on a successful one. A :ref:`passwall` spell, or
    another spell of equal or greater level that can open a portal on a
    solid surface, destroys this layer.
 
@@ -79,7 +79,7 @@ effect on it.
    don't need to be consecutive; keep track of both until the creature
    collects three of a kind. While this layer is in place, spells can't
    be cast through the wall. The layer is destroyed by bright light shed
-   by a *daylight* spell or a similar spell of equal or higher level.
+   by a :ref:`daylight` spell or a similar spell of equal or higher level.
 
 .. index:: blinded; by prismatic wall spell
 
@@ -90,6 +90,6 @@ effect on it.
    no longer :ref:`blinded`. (Typically, a creature that is on a plane that
    isn't its home plane is banished home, while other creatures are
    usually cast into the Astral or Ethereal planes.) This layer is
-   destroyed by a *dispel magic* spell or a similar spell of equal or
+   destroyed by a :ref:`dispel magic` spell or a similar spell of equal or
    higher level that can end spells and magical effects.
 

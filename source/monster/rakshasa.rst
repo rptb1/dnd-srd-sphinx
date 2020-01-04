@@ -72,6 +72,6 @@ Actions
 creature. The magical curse takes effect whenever the target takes a
 short or long rest, filling the target's thoughts with horrible images
 and dreams. The cursed target gains no benefit from finishing a short or
-long rest. The curse lasts until it is lifted by a *remove curse* spell
+long rest. The curse lasts until it is lifted by a :ref:`remove curse` spell
 or similar magic.
 

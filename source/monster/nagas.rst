@@ -49,7 +49,7 @@ Guardian Naga
 **Challenge** 10 (5,900 XP)
 
 :bi:`Rejuvenation`. If it dies, the naga returns to life in 1d6 days and
-regains all its hit points. Only a *wish* spell can prevent this trait
+regains all its hit points. Only a :ref:`wish` spell can prevent this trait
 from functioning.
 
 :bi:`Spellcasting`. The naga is an 11th-level spellcaster. Its
@@ -113,7 +113,7 @@ Spirit Naga
 **Challenge** 8 (3,900 XP)
 
 :bi:`Rejuvenation`. If it dies, the naga returns to life in 1d6 days and
-regains all its hit points. Only a *wish* spell can prevent this trait
+regains all its hit points. Only a :ref:`wish` spell can prevent this trait
 from functioning.
 
 :bi:`Spellcasting`. The naga is a 10th-level spellcaster. Its

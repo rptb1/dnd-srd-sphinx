@@ -16,7 +16,7 @@ gp, which the spell consumes)
 
 You touch a point and infuse an area around it with holy (or unholy)
 power. The area can have a radius up to 60 feet, and the spell fails if
-the radius includes an area already under the effect a *hallow* spell.
+the radius includes an area already under the effect a :ref:`hallow` spell.
 The affected area is subject to the following effects.
 
 .. index:: frightened; cured by hallow spell

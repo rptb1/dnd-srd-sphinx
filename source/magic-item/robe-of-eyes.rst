@@ -38,7 +38,7 @@ wearing this robe.
 
 .. index:: blinded; by robe of eyes
 
-A *light* spell cast on the robe or a *daylight* spell cast within 5
+A :ref:`light` spell cast on the robe or a :ref:`daylight` spell cast within 5
 feet of the robe causes you to be :ref:`blinded` for 1 minute. At the end of
 each of your turns, you can make a Constitution saving throw (DC 11 for
 *light* or DC 15 for *daylight*), ending the blindness on a success.
