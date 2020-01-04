@@ -28,6 +28,8 @@ This rod has a flanged head and the following properties.
 of the following spells from it: *detect evil and good*, *detect magic*,
 *detect poison and disease*, or *see invisibility.*
 
+.. index:: invisible; counteracted by Rod of Alertness
+
 :bi:`Protective Aura`. As an action, you can plant the haft end of the
 rod in the ground, whereupon the rod's head sheds bright light in a
 60-foot radius and dim light for an additional 60 feet. While in that

@@ -14,6 +14,8 @@ and sapphire dust worth at least 5,000 gp, which the spell consumes)
 
 **Duration:** Until dispelled
 
+.. index:: invisible; by Sequester spell
+
 By means of this spell, a willing creature or an object can be hidden
 away, safe from detection for the duration. When you cast the spell and
 touch the target, it becomes :ref:`invisible` and can't be targeted by

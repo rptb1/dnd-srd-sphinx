@@ -14,6 +14,8 @@ powdered silver)
 
 **Duration:** 1 hour
 
+.. index:: invisible; counteracted by See Invisibility spell
+
 For the duration, you see :ref:`invisible` creatures and objects as if they
 were visible, and you can see into the Ethereal Plane. Ethereal
 creatures and objects appear ghostly and translucent.

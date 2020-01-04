@@ -324,6 +324,8 @@ of old age, however. In addition, you no longer need food or water.
 Empty Body
 ~~~~~~~~~~
 
+.. index:: invisible; by monk Empty Body
+
 Beginning at 18th level, you can use your action to spend 4 ki points to
 become :ref:`invisible` for 1 minute. During that time, you also have
 resistance to all damage but force damage.

@@ -19,6 +19,8 @@ is cast is also outlined in light if it fails a Dexterity saving throw.
 For the duration, objects and affected creatures shed dim light in a
 10-foot radius.
 
+.. index:: invisible; counteracted by Faerie Fire spell
+
 Any attack roll against an affected creature or object has advantage if
 the attacker can see it, and the affected creature or object can't
 benefit from being :ref:`invisible`.

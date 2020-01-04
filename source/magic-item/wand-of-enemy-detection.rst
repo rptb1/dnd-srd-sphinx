@@ -19,6 +19,8 @@ Wand of Enemy Detection
 
 *Wand, rare (requires attunement)*
 
+.. index:: invisible; counteracted by Wand of Enemy Detection
+
 This wand has 7 charges. While holding it, you can use an action and
 expend 1 charge to speak its command word. For the next minute, you know
 the direction of the nearest creature hostile to you within 60 feet, but

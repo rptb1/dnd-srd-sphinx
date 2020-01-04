@@ -75,6 +75,8 @@ minute. The target can repeat the saving throw at the end of each of its
 turns, with disadvantage if the quasit is within line of sight, ending
 the effect on itself on a success.
 
+.. index:: invisible; by quasit Invisibility
+
 :bi:`Invisibility`. The quasit magically turns :ref:`invisible` until it
 attacks or uses Scare, or until its concentration ends (as if
 concentrating on a spell). Any equipment the quasit wears or carries is

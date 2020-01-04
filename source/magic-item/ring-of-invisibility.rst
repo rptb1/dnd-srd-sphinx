@@ -19,6 +19,8 @@ Ring of Invisibility
 
 *Ring, legendary (requires attunement)*
 
+.. index:: invisible; by Ring of Invisibility
+
 While wearing this ring, you can turn :ref:`invisible` as an action. Anything
 you are wearing or carrying is :ref:`invisible` with you. You remain :ref:`invisible`
 until the ring is removed, until you attack or cast a spell, or until

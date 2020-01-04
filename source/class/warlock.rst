@@ -546,6 +546,8 @@ One with Shadows
 
 *Prerequisite: 5th level*
 
+.. index:: invisible; by warlock One with Shadows
+
 When you are in an area of dim light or darkness, you can use your
 action to become :ref:`invisible` until you move or take an action or a
 reaction.

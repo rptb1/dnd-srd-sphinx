@@ -69,6 +69,8 @@ Actions
 :bi:`Shock`. *Melee Spell Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 9 (2d8) lightning damage.
 
+.. index:: invisible; by will-o'-wisp Invisibility
+
 :bi:`Invisibility`. The will-o'-wisp and its light magically become
 :ref:`invisible` until it attacks or uses its Consume Life, or until its
 concentration ends (as if concentrating on a spell).

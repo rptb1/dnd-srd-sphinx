@@ -27,6 +27,8 @@ gain the following benefits:
 
 -  You have darkvision out to a range of 120 feet.
 
+.. index:: invisible; counteracted by Robe of Eyes
+
 -  You can see :ref:`invisible` creatures and objects, as well as see into the
    Ethereal Plane, out to a range of 120 feet.
 

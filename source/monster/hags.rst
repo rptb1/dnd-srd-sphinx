@@ -73,6 +73,8 @@ must take an action to visually inspect the illusion and succeed on a DC
 20 :ref:`Intelligence (Investigation) <investigation>` check to discern that the hag is
 disguised.
 
+.. index:: invisible; by hag Invisible Passage
+
 :bi:`Invisible Passage`. The hag magically turns :ref:`invisible` until she
 attacks or casts a spell, or until her concentration ends (as if
 concentrating on a spell). While :ref:`invisible`, she leaves no physical

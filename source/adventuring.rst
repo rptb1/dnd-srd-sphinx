@@ -385,6 +385,7 @@ Truesight
 ~~~~~~~~~
 
 .. index:: ! truesight
+   double: invisible; counteracted by truesight
 
 A creature with truesight can, out to a specific range, see in normal
 and magical darkness, see :ref:`invisible` creatures and objects, automatically

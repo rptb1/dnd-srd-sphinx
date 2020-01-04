@@ -19,6 +19,8 @@ Dust of Disappearance
 
 *Wondrous item, uncommon*
 
+.. index:: invisible; by Dust of Disappearance
+
 Found in a small packet, this powder resembles very fine sand. There is
 enough of it for one use. When you use an action to throw the dust into
 the air, you and each creature and object within 10 feet of you become

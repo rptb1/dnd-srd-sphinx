@@ -69,6 +69,8 @@ target must make on a DC 11 Constitution saving throw, taking 10 (3d6)
 poison damage on a failed save, or half as much damage on a successful
 one.
 
+.. index:: invisible; by imp Invisibility
+
 :bi:`Invisibility`. The imp magically turns :ref:`invisible` until it attacks
 or until its concentration ends (as if concentrating on a spell). Any
 equipment the imp wears or carries is :ref:`invisible` with it.

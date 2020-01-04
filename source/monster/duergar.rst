@@ -67,6 +67,8 @@ damage while enlarged.
 or range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or
 9 (2d6 + 2) piercing damage while enlarged.
 
+.. index:: invisible; by duergar Invisibility
+
 :bi:`Invisibility (Recharges after a Short or Long Rest)`. The duergar
 magically turns :ref:`invisible` until it attacks, casts a spell, or uses its
 Enlarge, or until its concentration is broken, up to 1 hour (as if

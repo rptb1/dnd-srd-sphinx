@@ -47,6 +47,8 @@ nonmagical attacks
 
 **Challenge** 6 (2,300 XP)
 
+.. index:: invisible; by stalker Invisibility
+
 :bi:`Invisibility`. The stalker is :ref:`invisible`.
 
 :bi:`Faultless Tracker`. The stalker is given a quarry by its summoner.

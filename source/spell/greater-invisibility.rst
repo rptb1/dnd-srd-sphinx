@@ -13,6 +13,8 @@ Greater Invisibility
 
 **Duration:** Concentration, up to 1 minute
 
+.. index:: invisible; by Greater Invisibility spell
+
 You or a creature you touch becomes :ref:`invisible` until the spell ends.
 Anything the target is wearing or carrying is :ref:`invisible` as long as it is
 on the target's person.

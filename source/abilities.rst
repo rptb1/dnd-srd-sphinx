@@ -710,6 +710,8 @@ combat.
   give away your position if you make noise, such as shouting a
   warning or knocking over a vase.
 
+  .. index:: hiding; when invisible, invisible; hiding during
+
   An :ref:`invisible` creature can always try to hide. Signs of its passage
   might still be noticed, and it does have to stay quiet.
 
