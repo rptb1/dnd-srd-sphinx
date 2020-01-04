@@ -311,11 +311,11 @@ Material (M)
    triple: spell; material; components
 
 Casting some spells requires particular objects, specified in
-parentheses in the component entry. A character can use a **:ref:`component
-pouch`** or a **:ref:`spellcasting focus`** (found in :ref:`Equipment`) in place of
-the components specified for a spell. But if a cost is indicated for a
-component, a character must have that specific component before he or
-she can cast the spell.
+parentheses in the component entry. A character can use a **component
+pouch** or a **spellcasting focus** (found in :ref:`Equipment`) in
+place of the components specified for a spell. But if a cost is
+indicated for a component, a character must have that specific
+component before he or she can cast the spell.
 
 If a spell states that a material component is consumed by the spell,
 the caster must provide this component for each casting of the spell.
