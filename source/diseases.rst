@@ -47,9 +47,13 @@ While in the grips of this disease, victims frequently succumb to fits
 of mad laughter, giving the disease its common name and its morbid
 nickname: "the shrieks."
 
+.. index:: exhausted; by Cackle Fever disease
+
 Symptoms manifest 1d4 hours after infection and include fever and
 disorientation. The infected creature gains one level of :ref:`exhaustion <exhaustion>` that
 can't be removed until the disease is cured.
+
+.. index:: incapacitated; by Cackle Fever disease
 
 Any event that causes the infected creature great stress — including
 entering combat, taking damage, experiencing fear, or having a

@@ -17,6 +17,8 @@ You attempt to send one creature that you can see within range to
 another plane of existence. The target must succeed on a Charisma saving
 throw or be banished.
 
+.. index:: incapacitated; by Banishment spell
+
 If the target is native to the plane of existence you're on, you banish
 the target to a harmless demiplane. While there, the target is
 :ref:`incapacitated`. The target remains there until the spell ends, at which

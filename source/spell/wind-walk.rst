@@ -13,6 +13,8 @@ Wind Walk
 
 **Duration:** 8 hours
 
+.. index:: incapacitated; by Wind Walk spell
+
 You and up to ten willing creatures you can see within range assume a
 gaseous form for the duration, appearing as wisps of cloud. While in
 this cloud form, a creature has a flying speed of 300 feet and has

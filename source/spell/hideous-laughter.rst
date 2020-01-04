@@ -14,6 +14,9 @@ air)
 
 **Duration:** Concentration, up to 1 minute
 
+.. index:: prone; by Hideous Laughter spell
+   single: incapacitated; by Hideous Laughter spell
+
 A creature of your choice that you can see within range perceives
 everything as hilariously funny and falls into fits of laughter if this
 spell affects it. The target must succeed on a Wisdom saving throw or

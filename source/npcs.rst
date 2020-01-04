@@ -591,7 +591,8 @@ attacks.
 range 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13
 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
 
-.. index:: prone; by  shield bash
+.. index::
+   single: prone; by  shield bash
 
 :bi:`Shield Bash`. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one
 creature. *Hit:* 9 (2d4 + 4) bludgeoning damage. If the target is a

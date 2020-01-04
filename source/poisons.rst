@@ -200,6 +200,7 @@ successful one.
 
 .. index:: ! torpor
    triple: torpor; ingested; poison
+   single: incapacitated; by torpor poison
 
 :bi:`Torpor (Ingested)`. A creature subjected to this poison must
 succeed on a DC 15 Constitution saving throw or become :ref:`poisoned` for 4d6

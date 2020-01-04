@@ -223,6 +223,8 @@ truthful answer to that question. Besides information, the answer helps
 you solve a puzzling problem or other dilemma. In other words, the
 knowledge comes with wisdom on how to apply it.
 
+.. index:: incapacitated; by Deck of Many Things
+
 :bi:`The Void`. This black card spells disaster. Your soul is drawn from
 your body and contained in an object in a place of the GM's choice. One
 or more powerful beings guard the place. While your soul is trapped in
