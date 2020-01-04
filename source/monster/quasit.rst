@@ -60,6 +60,8 @@ against spells and other magical effects.
 Actions
 ^^^^^^^
 
+.. index:: poisoned; by quasit claws
+
 :bi:`Claws (Bite in Beast Form)`. *Melee Weapon Attack:* +4 to hit,
 reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage, and the
 target must succeed on a DC 10 Constitution saving throw or take 5 (2d4)

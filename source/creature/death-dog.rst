@@ -49,6 +49,8 @@ Actions
 
 :bi:`Multiattack`. The dog makes two bite attacks.
 
+.. index:: poisoned; by death dog bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.
 *Hit:* 5 (1d6 + 2) piercing damage. If the target is a creature, it must
 succeed on a DC 12 Constitution saving throw against disease or become

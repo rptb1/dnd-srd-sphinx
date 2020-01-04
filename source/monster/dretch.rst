@@ -57,6 +57,8 @@ one with its claws.
 :bi:`Claws.` *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target.
 *Hit:* 5 (2d4) slashing damage.
 
+.. index:: poisoned; by dretch fetid cloud
+
 :bi:`Fetid Cloud (1/Day)`. A 10-foot radius of disgusting green gas
 extends out from the dretch. The gas spreads around corners, and its
 area is lightly obscured. It lasts for 1 minute or until a strong wind

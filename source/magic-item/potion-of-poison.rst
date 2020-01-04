@@ -23,6 +23,8 @@ This concoction looks, smells, and tastes like a *potion of healing* or
 other beneficial potion. However, it is actually poison masked by
 illusion magic. An *identify* spell reveals its true nature.
 
+.. index:: poisoned; by Potion of Poison
+
 If you drink it, you take 3d6 poison damage, and you must succeed on a
 DC 13 Constitution saving throw or be :ref:`poisoned`. At the start of each of
 your turns while you are :ref:`poisoned` in this way, you take 3d6 poison

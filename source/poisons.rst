@@ -100,6 +100,7 @@ Each type of poison has its own debilitating effects.
 
 .. index:: ! assassin's blood
    triple: assassin's blood; ingested; poison
+   single: poisoned; by Assassin's Blood poison
 
 :bi:`Assassin's Blood (Ingested)`. A creature subjected to this poison
 must make a DC 10 Constitution saving throw. On a failed save, it takes

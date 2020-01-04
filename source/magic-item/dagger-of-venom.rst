@@ -22,6 +22,8 @@ Dagger of Venom
 You gain a +1 bonus to attack and damage rolls made with this magic
 weapon.
 
+.. index:: poisoned; by Dagger of Venom
+
 You can use an action to cause thick, black poison to coat the blade.
 The poison remains for 1 minute or until an attack using this weapon
 hits a creature. That creature must succeed on a DC 15 Constitution

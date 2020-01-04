@@ -46,6 +46,9 @@ Actions
 :bi:`Longsword`. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one
 target. *Hit:* 1 slashing damage.
 
+.. index:: poisoned; by sprite shortbow
+   single: unconscious; by sprite shortbow
+
 :bi:`Shortbow`. *Ranged Weapon Attack:* +6 to hit, range 40/160 ft., one
 target. *Hit:* 1 piercing damage, and the target must succeed on a DC 10
 Constitution saving throw or become :ref:`poisoned` for 1 minute. If its saving

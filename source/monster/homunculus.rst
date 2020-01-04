@@ -49,6 +49,9 @@ master, and the two can communicate telepathically.
 Actions
 ^^^^^^^
 
+.. index:: poisoned; by homunculus bite
+   single: unconscious; by homunculus bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 1 piercing damage, and the target must succeed on a DC 10
 Constitution saving throw or be :ref:`poisoned` for 1 minute. If the saving

@@ -64,6 +64,8 @@ one with its sting.
 :bi:`Claw`. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target.
 *Hit:* 8 (1d8 + 4) slashing damage.
 
+.. index:: poisoned; by bone devil sting
+
 :bi:`Sting`. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target.
 *Hit:* 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the
 target must succeed on a DC 14 Constitution saving throw or become

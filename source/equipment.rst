@@ -964,6 +964,7 @@ turn in the area. A creature can take this damage only once per turn.
 
 .. index:: ! poison, basic
    double: gear; poison, basic
+   single: poisoned; by basic poison
 
 :bi:`Poison, Basic`. You can use the poison in this vial to coat one
 slashing or piercing weapon or up to three pieces of ammunition.

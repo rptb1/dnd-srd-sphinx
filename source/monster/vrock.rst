@@ -62,6 +62,8 @@ one with its talons.
 :bi:`Talons`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 14 (2d10 + 3) slashing damage.
 
+.. index:: poisoned; by vrock spores
+
 :bi:`Spores (Recharge 6)`. A 15-foot radius cloud of toxic spores
 extends out from the vrock. The spores spread around corners. Each
 creature in that area must succeed on a DC 14 Constitution saving throw

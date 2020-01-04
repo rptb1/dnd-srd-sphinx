@@ -13,6 +13,8 @@ Component: V, S
 
 **Duration:** 7 days
 
+.. index:: poisoned; by contagion spell
+
 Your touch inflicts disease. Make a melee spell attack against a
 creature within your reach. On a hit, the target is :ref:`poisoned`.
 

@@ -46,6 +46,8 @@ Ghast
 
 **Challenge** 2 (450 XP)
 
+.. index:: poisoned; by ghast stench
+
 :bi:`Stench`. Any creature that starts its turn within 5 feet of the
 ghast must succeed on a DC 10 Constitution saving throw or be :ref:`poisoned`
 until the start of its next turn. On a successful saving throw, the

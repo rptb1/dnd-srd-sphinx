@@ -51,6 +51,8 @@ Actions
 :bi:`Multiattack`. The otyugh makes three attacks: one with its bite and
 two with its tentacles.
 
+.. index:: poisoned; by otyugh bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 12 (2d8 + 3) piercing damage. If the target is a creature, it
 must succeed on a DC 15 Constitution saving throw against disease or

@@ -62,6 +62,8 @@ Actions
 target. *Hit:* 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing
 damage if used with two hands, plus 13 (3d8) poison damage.
 
+.. index:: poisoned; by erinyes longbow
+
 :bi:`Longbow`. *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one
 target. *Hit:* 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage,
 and the target must succeed on a DC 14 Constitution saving throw or be

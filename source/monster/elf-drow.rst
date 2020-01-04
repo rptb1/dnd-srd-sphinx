@@ -61,6 +61,9 @@ Actions
 :bi:`Shortsword`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
 target. *Hit:* 5 (1d6 + 2) piercing damage.
 
+.. index:: poisoned; by drow crossbow
+   single: unconscious; by drow crossbow
+
 :bi:`Hand Crossbow`. *Ranged Weapon Attack:* +4 to hit, range 30/120
 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, and the target must
 succeed on a DC 13 Constitution saving throw or be :ref:`poisoned` for 1 hour.

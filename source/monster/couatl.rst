@@ -65,6 +65,9 @@ location.
 Actions
 ^^^^^^^
 
+.. index:: poisoned; by couatl bite
+   single: unconscious; by couatl bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature.
 *Hit:* 8 (1d6 + 5) piercing damage, and the target must succeed on a DC
 13 Constitution saving throw or be :ref:`poisoned` for 24 hours. Until this

@@ -62,6 +62,8 @@ Actions
 :bi:`Multiattack`. The devil makes two attacks: one with its beard and
 one with its glaive.
 
+.. index:: poisoned; by bearded devil beard
+
 :bi:`Beard`. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one
 creature. *Hit:* 6 (1d8 + 2) piercing damage, and the target must
 succeed on a DC 12 Constitution saving throw or be :ref:`poisoned` for 1

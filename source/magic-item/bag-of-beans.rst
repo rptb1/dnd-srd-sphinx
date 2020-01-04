@@ -37,7 +37,9 @@ table, determine it randomly, or create an effect.
 +--------+------------------------------------------------------------------------+
 |  d100  | Effect                                                                 |
 +========+========================================================================+
-|   01   | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die.   |
+|   01   | .. index:: poisoned; by Bag of Beans                                   |
+|        |                                                                        |
+|        | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die.   |
 |        | On an odd roll, the eater must succeed on a DC 15 Constitution saving  |
 |        | throw or take 5d6 poison damage and become :ref:`poisoned` for 1       |
 |        | hour. On an even roll, the eater gains 5d6 temporary hit points for 1  |

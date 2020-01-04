@@ -75,6 +75,8 @@ Actions
 :bi:`Multiattack`. The pit fiend makes four attacks: one with its bite,
 one with its claw, one with its mace, and one with its tail.
 
+.. index:: poisoned; by pit fiend bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target.
 *Hit:* 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21
 Constitution saving throw or become :ref:`poisoned`. While :ref:`poisoned` in this

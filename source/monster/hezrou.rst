@@ -49,6 +49,8 @@ slashing from nonmagical attacks
 :bi:`Magic Resistance`. The hezrou has advantage on saving throws
 against spells and other magical effects.
 
+.. index:: poisoned; by hezrou stench
+
 :bi:`Stench`. Any creature that starts its turn within 10 feet of the
 hezrou must succeed on a DC 14 Constitution saving throw or be :ref:`poisoned`
 until the start of its next turn. On a successful saving throw, the
