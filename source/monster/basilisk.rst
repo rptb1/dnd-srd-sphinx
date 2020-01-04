@@ -37,6 +37,9 @@ Basilisk
 
 **Challenge** 3 (700 XP)
 
+.. index:: petrified; by basilisk gaze
+   single: restrained; by basilisk gaze
+
 **Petrifying Gaze**. If a creature starts its turn within 30 feet of the
 basilisk and the two of them can see each other, the basilisk can force
 the creature to make a DC 12 Constitution saving throw if the basilisk

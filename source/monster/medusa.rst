@@ -39,6 +39,9 @@ Medusa
 
 **Challenge** 6 (2,300 XP)
 
+.. index:: petrified; by medusa gaze
+   single: restrained; by medusa gaze
+
 :bi:`Petrifying Gaze`. When a creature that can see the medusa's eyes
 starts its turn within 30 feet of the medusa, the medusa can force it to
 make a DC 14 Constitution saving throw if the medusa isn't :ref:`incapacitated`

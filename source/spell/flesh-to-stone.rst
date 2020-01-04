@@ -13,11 +13,15 @@ Flesh to Stone
 
 **Duration:** Concentration, up to 1 minute
 
+.. index:: restrained; by Flesh to Stone spell
+
 You attempt to turn one creature that you can see within range into
 stone. If the target's body is made of flesh, the creature must make a
 Constitution saving throw. On a failed save, it is :ref:`restrained` as its
 flesh begins to harden. On a successful save, the creature isn't
 affected.
+
+.. index:: petrified; by Flesh to Stone spell
 
 A creature :ref:`restrained` by this spell must make another Constitution
 saving throw at the end of each of its turns. If it successfully saves

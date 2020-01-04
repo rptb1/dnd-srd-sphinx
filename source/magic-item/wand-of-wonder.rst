@@ -107,7 +107,10 @@ and is destroyed.
 | 96-97  | The target's skin turns bright blue for 1d10 days. If you chose a      |
 |        | point in space, the creature nearest to that point is affected.        |
 +--------+------------------------------------------------------------------------+
-| 98-100 | If you targeted a creature, it must make a DC 15 Constitution saving   |
+| 98-100 | .. index:: petrified; by Wand of Wonder                                |
+|        |    single: restrained; by Wand of Wonder                               |
+|        |                                                                        |
+|        | If you targeted a creature, it must make a DC 15 Constitution saving   |
 |        | throw. If you didn't target a creature, you become the target and must |
 |        | make the saving throw. If the saving throw fails by 5 or more, the     |
 |        | target is instantly :ref:`petrified`. On any other failed save, the    |
@@ -116,4 +119,5 @@ and is destroyed.
 |        | at the end of its next turn, becoming :ref:`petrified` on a failure or |
 |        | ending the effect on a success. The petrification lasts until the      |
 |        | target is freed by the greater restoration spell or similar magic.     |
+|        |                                                                        |
 +--------+------------------------------------------------------------------------+

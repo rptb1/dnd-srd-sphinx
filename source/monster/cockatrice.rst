@@ -41,6 +41,9 @@ Cockatrice
 Actions
 ^^^^^^^
 
+.. index:: petrified; by cockatrice bite
+   single: restrained; by cockatrice bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature.
 *Hit:* 3 (1d4 + 1) piercing damage, and the target must succeed on a DC
 11 Constitution saving throw against being magically :ref:`petrified`. On a

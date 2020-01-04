@@ -57,6 +57,9 @@ Actions
 :bi:`Hooves`. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target.
 *Hit:* 16 (2d10 + 5) bludgeoning damage.
 
+.. index:: petrified; by gorgon breath
+   single: restrained; by gorgon breath
+
 :bi:`Petrifying Breath (Recharge 5-6)`. The gorgon exhales petrifying
 gas in a 30-foot cone. Each creature in that area must succeed on a DC
 13 Constitution saving throw. On a failed save, a target begins to turn
