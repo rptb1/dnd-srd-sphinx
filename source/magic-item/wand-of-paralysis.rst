@@ -19,6 +19,8 @@ Wand of Paralysis
 
 *Wand, rare (requires attunement by a spellcaster)*
 
+.. index:: paralyzed; by Wand of Paralysis
+
 This wand has 7 charges. While holding it, you can use an action to
 expend 1 of its charges to cause a thin blue ray to streak from the tip
 toward a creature you can see within 60 feet of you. The target must

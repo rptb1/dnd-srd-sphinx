@@ -52,6 +52,9 @@ webbing.
 Actions
 ^^^^^^^
 
+.. index:: poisoned; by phase spider bite
+   single: paralyzed; by phase spider bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a DC 11
 Constitution saving throw, taking 18 (4d8) poison damage on a failed

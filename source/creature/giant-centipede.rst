@@ -41,6 +41,9 @@ Giant Centipede
 Actions
 ^^^^^^^
 
+.. index:: poisoned; by giant centipede bite
+   single: paralyzed; by giant centipede bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature.
 *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC
 11 Constitution saving throw or take 10 (3d6) poison damage. If the

@@ -117,6 +117,8 @@ poison damage. After three successful saves, the poison ends.
 
 .. index:: ! crawler mucus
    triple: crawler mucus; contact; poison
+   single: poisoned; by Crawler Mucus poison
+   single: paralyzed; by Crawler Mucus poison
 
 :bi:`Crawler Mucus (Contact)`. This poison must be harvested from a dead
 or :ref:`incapacitated` crawler. A creature subjected to this poison must
@@ -127,6 +129,8 @@ itself on a success.
 
 .. index:: ! drow poison
    triple: drow poison; injury; poison
+   single: poisoned; by Drow Poison
+   single: unconscious; by Drow Poison
 
 :bi:`Drow Poison (Injury)`. This poison is typically made only by the
 drow, and only in a place far removed from sunlight. A creature
@@ -138,6 +142,8 @@ action to shake it awake.
 
 .. index:: ! essence of ether
    triple: essence of ether; inhaled; poison
+   single: poisoned; by Essence of Ether poison
+   single: unconscious; by Essence of Ether poison
 
 :bi:`Essence of Ether (Inhaled)`. A creature subjected to this poison
 must succeed on a DC 15 Constitution saving throw or become :ref:`poisoned` for
@@ -147,7 +153,8 @@ awake.
 
 .. index:: ! malice
    triple: malice; inhaled; poison
-   single: blinded; by malice poison
+   single: blinded; by Malice poison
+   single: poisoned; by Malice poison
 
 :bi:`Malice (Inhaled)`. A creature subjected to this poison must succeed
 on a DC 15 Constitution saving throw or become :ref:`poisoned` for 1 hour. The
@@ -164,6 +171,8 @@ save, or half as much damage on a successful one.
 
 .. index:: ! oil of taggit
    triple: oil of taggit; contact; poison
+   single: poisoned; by Oil of Taggit poison
+   single: unconscious; by Oil of Taggit poison
 
 :bi:`Oil of Taggit (Contact)`. A creature subjected to this poison must
 succeed on a DC 13 Constitution saving throw or become :ref:`poisoned` for 24
@@ -172,6 +181,7 @@ takes damage.
 
 .. index:: ! pale tincture
    triple: pale tincture; ingested; poison
+   single: poisoned; by Pale Tincture poison
 
 :bi:`Pale Tincture (Ingested)`. A creature subjected to this poison must
 succeed on a DC 16 Constitution saving throw or take 3 (1d6) poison
@@ -183,6 +193,7 @@ creature can heal normally.
 
 .. index:: ! purple worm poison
    triple: purple worm poison; injury; poison
+   single: incapacitated; by Purple Worm poison
 
 :bi:`Purple Worm Poison (Injury)`. This poison must be harvested from a
 dead or :ref:`incapacitated` purple worm. A creature subjected to this poison
@@ -191,6 +202,7 @@ damage on a failed save, or half as much damage on a successful one.
 
 .. index:: ! serpent venom
    triple: serpent venom; injury; poison
+   single: incapacitated; by Serpent Venom poison
 
 :bi:`Serpent Venom (Injury)`. This poison must be harvested from a dead
 or :ref:`incapacitated` giant poisonous snake. A creature subjected to this
@@ -200,7 +212,8 @@ successful one.
 
 .. index:: ! torpor
    triple: torpor; ingested; poison
-   single: incapacitated; by torpor poison
+   single: incapacitated; by Torpor poison
+   single: poisoned; by Torpor poison
 
 :bi:`Torpor (Ingested)`. A creature subjected to this poison must
 succeed on a DC 15 Constitution saving throw or become :ref:`poisoned` for 4d6
@@ -208,6 +221,7 @@ hours. The :ref:`poisoned` creature is :ref:`incapacitated`.
 
 .. index:: ! truth serum
    triple: truth serum; ingested; poison
+   single: poisoned; by Truth Serum poison
 
 :bi:`Truth Serum (Ingested)`. A creature subjected to this poison must
 succeed on a DC 11 Constitution saving throw or become :ref:`poisoned` for 1
@@ -216,6 +230,7 @@ effect of a *zone of truth* spell.
 
 .. index:: ! wyvern poison
    triple: wyvern poison; injury; poison
+   single: incapacitated; by Wyvern Poison
 
 :bi:`Wyvern Poison (Injury)`. This poison must be harvested from a dead
 or :ref:`incapacitated` wyvern. A creature subjected to this poison must make a

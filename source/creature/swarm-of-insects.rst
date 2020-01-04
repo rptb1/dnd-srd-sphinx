@@ -63,6 +63,9 @@ piercing damage if the swarm has half of its hit points or fewer.
     **Swarm of Beetles**. A swarm of beetles gains a burrowing speed of
     5 feet.
 
+    .. index:: poisoned; by swarm of centipedes
+       single: paralyzed; by swarm of centipedes
+
     **Swarm of Centipedes**. A creature reduced to 0 hit points by a
     swarm of centipedes is stable but :ref:`poisoned` for 1 hour, even after
     regaining hit points, and :ref:`paralyzed` while :ref:`poisoned` in this way.

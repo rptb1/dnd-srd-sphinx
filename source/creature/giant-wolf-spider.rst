@@ -52,6 +52,9 @@ webbing.
 Actions
 ^^^^^^^
 
+.. index:: poisoned; by giant wolf spider bite
+   single: paralyzed; by giant wolf spider bite
+
 :bi:`Bite`. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature.
 *Hit:* 4 (1d6 + 1) piercing damage, and the target must make a DC 11
 Constitution saving throw, taking 7 (2d6) poison damage on a failed

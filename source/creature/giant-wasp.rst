@@ -41,6 +41,9 @@ Giant Wasp
 Actions
 ^^^^^^^
 
+.. index:: poisoned; by giant wasp sting
+   single: paralyzed; by giant wasp sting
+
 :bi:`Sting`. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one
 creature. *Hit:* 5 (1d6 + 2) piercing damage, and the target must make a
 DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a

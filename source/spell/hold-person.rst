@@ -13,6 +13,8 @@ Hold Person
 
 **Duration:** Concentration, up to 1 minute
 
+.. index:: paralyzed; by Hold Person spell
+
 Choose a humanoid that you can see within range. The target must succeed
 on a Wisdom saving throw or be :ref:`paralyzed` for the duration. At the end of
 each of its turns, the target can make another Wisdom saving throw. On a

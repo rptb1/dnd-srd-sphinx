@@ -83,6 +83,8 @@ Each creature in that area must make a DC 24 Constitution saving throw,
 taking 67 (15d8) cold damage on a failed save, or half as much damage on
 a successful one.
 
+.. index:: paralyzing; by ancient silver dragon breath
+
 **Paralyzing Breath**. The dragon exhales paralyzing gas in a 90-foot
 cone. Each creature in that area must succeed on a DC 24 Constitution
 saving throw or be :ref:`paralyzed` for 1 minute. A creature can repeat the
@@ -186,6 +188,8 @@ Each creature in that area must make a DC 20 Constitution saving throw,
 taking 58 (13d8) cold damage on a failed save, or half as much damage on
 a successful one.
 
+.. index:: paralyzing; by adult silver dragon breath
+
 **Paralyzing Breath**. The dragon exhales paralyzing gas in a 60-foot
 cone. Each creature in that area must succeed on a DC 20 Constitution
 saving throw or be :ref:`paralyzed` for 1 minute. A creature can repeat the
@@ -273,6 +277,8 @@ Each creature in that area must make a DC 17 Constitution saving throw,
 taking 54 (12d8) cold damage on a failed save, or half as much damage on
 a successful one.
 
+.. index:: paralyzing; by young silver dragon breath
+
 **Paralyzing Breath**. The dragon exhales paralyzing gas in a 30-foot
 cone. Each creature in that area must succeed on a DC 17 Constitution
 saving throw or be :ref:`paralyzed` for 1 minute. A creature can repeat the
@@ -323,6 +329,8 @@ following breath weapons.
 Each creature in that area must make a DC 13 Constitution saving throw,
 taking 18 (4d8) cold damage on a failed save, or half as much damage on
 a successful one.
+
+.. index:: paralyzing; by silver dragon wyrmling breath
 
 **Paralyzing Breath**. The dragon exhales paralyzing gas in a 15-foot
 cone. Each creature in that area must succeed on a DC 13 Constitution
