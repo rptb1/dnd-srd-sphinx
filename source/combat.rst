@@ -484,6 +484,8 @@ tells you whether that action is possible and what kind of roll you need
 to make, if any, to determine success or failure.
 
 
+.. _Attack:
+
 Attack
 ------
 
@@ -501,6 +503,8 @@ Certain features, such as the Extra Attack feature of the fighter, allow
 you to make more than one attack with this action.
 
 
+.. _Cast:
+
 Cast a Spell
 ------------
 
@@ -515,6 +519,8 @@ spell is, therefore, not necessarily an action. Most spells do have a
 casting time of 1 action, so a spellcaster often uses his or her action
 in combat to cast such a spell.
 
+
+.. _Dash:
 
 Dash
 ----

@@ -32,14 +32,17 @@ Proficiencies
 
 **Armor:** Light armor
 
-**Weapons:** Simple weapons
+**Weapons:** :ref:`Simple weapons <Weapon Proficiency>`
 
 **Tools:** None
 
 **Saving Throws:** Wisdom, Charisma
 
-**Skills:** Choose two skills from Arcana, Deception, History,
-Intimidation, Investigation, Nature, and Religion
+**Skills:** Choose two skills from :ref:`Arcana <arcana>`,
+:ref:`Deception <deception>`, :ref:`History <history>`,
+:ref:`Intimidation <intimidation>`, :ref:`Investigation
+<investigation>`, :ref:`Nature <nature>`, and :ref:`Religion
+<religion>`
 
 
 Equipment
@@ -48,19 +51,15 @@ Equipment
 You start with the following equipment, in addition to the equipment
 granted by your background:
 
--  
+- (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
 
-   (a) a light crossbow and 20 bolts or (b) any simple weapon
+- (*a*) a component pouch or (*b*) an arcane focus
 
--  
-
-   (a) a component pouch or (b) an arcane focus
-
--  
-
-   (a) a scholar's pack or (b) a dungeoneer's pack
+- (*a*) a scholar's pack or (*b*) a dungeoneer's pack
 
 -  Leather armor, any simple weapon, and two daggers
+
+.. _Warlock Table:
 
 .. table:: Warlock
 
@@ -125,32 +124,52 @@ granted by your background:
   +-------+------------+-----------------+----------+----------+---------+---------+------------+
 
 
+.. _Otherworldly Patron:
+
 Otherworldly Patron
 ~~~~~~~~~~~~~~~~~~~
 
+.. index:: ! otherworldy patron
+   triple: warlock; otherworldy; patron
+
 At 1st level, you have struck a bargain with an otherworldly being of
-your choice: the Archfey, the Fiend, or the Great Old One, each of which
+your choice: :ref:`the Archfey`, :ref:`the Fiend`, or :ref:`the Great Old One`, each of which
 is detailed at the end of the class description. Your choice grants you
 features at 1st level and again at 6th, 10th, and 14th level.
 
 
+.. _Pact Magic:
+
 Pact Magic
 ~~~~~~~~~~
+
+.. index:: ! pact magic
+   triple: warlock; pact; magic
 
 Your arcane research and the magic bestowed on you by your patron have
 given you facility with spells.
 
 
+.. _Warlock Cantrips:
+
 Cantrips
 ^^^^^^^^
 
+.. index::
+   double: warlock; cantrips
+
 You know two cantrips of your choice from the warlock spell list. You
 learn additional warlock cantrips of your choice at higher levels, as
-shown in the Cantrips Known column of the Warlock table.
+shown in the Cantrips Known column of the :ref:`Warlock table`.
 
+
+.. _Warlock Spell Slots:
 
 Spell Slots
 ^^^^^^^^^^^
+
+.. index::
+   triple: warlock; spell; slots
 
 The Warlock table shows how many spell slots you have to cast your
 warlock spells of 1st through 5th level. The table also shows what the
@@ -182,8 +201,13 @@ warlock spell list, which also must be of a level for which you have
 spell slots.
 
 
+.. _Warlock Spellcasting Ability:
+
 Spellcasting Ability
 ^^^^^^^^^^^^^^^^^^^^
+
+.. index::
+   triple: warlock; spellcasting; ability
 
 Charisma is your spellcasting ability for your warlock spells, so you
 use your Charisma whenever a spell refers to your spellcasting ability.
@@ -197,15 +221,25 @@ with one.
 modifier
 
 
+.. _Warlock Spellcasting Focus:
+
 Spellcasting Focus
 ^^^^^^^^^^^^^^^^^^
+
+.. index::
+   triple: warlock; spellcasting; focus
 
 You can use an arcane focus as a spellcasting focus for your warlock
 spells.
 
 
+.. _Eldritch Invocations:
+
 Eldritch Invocations
 ~~~~~~~~~~~~~~~~~~~~
+
+.. index:: ! eldritch invocations
+   triple: warlock; eldritch; invocations
 
 In your study of occult lore, you have unearthed eldritch invocations,
 fragments of forbidden knowledge that imbue you with an abiding magical
@@ -222,29 +256,45 @@ the invocations you know and replace it with another invocation that you
 could learn at that level.
 
 
+.. _Pact Boon:
+
 Pact Boon
 ~~~~~~~~~
+
+.. index:: ! pact boon
+   triple: warlock; pact; boon
 
 At 3rd level, your otherworldly patron bestows a gift upon you for your
 loyal service. You gain one of the following features of your choice.
 
 
+.. _Pact of the Chain:
+
 Pact of the Chain
 ^^^^^^^^^^^^^^^^^
+
+.. index::
+   triple: warlock; pact; chain
 
 You learn the :ref:`find familiar` spell and can cast it as a ritual. The
 spell doesn't count against your number of spells known.
 
-When you cast the spell, you can choose one of the normal forms for your
-familiar or one of the following special forms: imp, pseudodragon,
-quasit, or sprite.
+When you cast the spell, you can choose one of the normal forms for
+your familiar or one of the following special forms: :ref:`imp`,
+:ref:`pseudodragon`, :ref:`quasit`, or :ref:`sprite`.
 
-Additionally, when you take the Attack action, you can forgo one of your
-own attacks to allow your familiar to make one attack with its reaction.
+Additionally, when you take the :ref:`Attack` action, you can forgo
+one of your own attacks to allow your familiar to make one attack with
+its reaction.
 
+
+.. _Pact of the Blade:
 
 Pact of the Blade
 ^^^^^^^^^^^^^^^^^
+
+.. index:: ! pact of the blade
+   triple: warlock; pact; blade
 
 You can use your action to create a pact weapon in your empty hand. You
 can choose the form that this melee weapon takes each time you create
@@ -268,8 +318,13 @@ it. The weapon appears at your feet if it is in the extradimensional
 space when the bond breaks.
 
 
+.. _Pact of the Tome:
+
 Pact of the Tome
 ^^^^^^^^^^^^^^^^
+
+.. index:: ! pact of the tomb
+   triple: warlock; pact; tomb
 
 Your patron gives you a grimoire called a Book of Shadows. When you gain
 this feature, choose three cantrips from any class's spell list (the
@@ -311,8 +366,14 @@ turns to ash when you die.
     only your own burgeoning insanity allows you to understand and cast.
 
 
+.. _Warlock Ability Score Improvement:
+
 Ability Score Improvement
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. index::
+   double: warlock; ASI
+   triple: warlock; ability; improvement
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level,
 you can increase one ability score of your choice by 2, or you can
@@ -320,8 +381,13 @@ increase two ability scores of your choice by 1. As normal, you can't
 increase an ability score above 20 using this feature.
 
 
+.. _Mystic Arcanum:
+
 Mystic Arcanum
 ~~~~~~~~~~~~~~
+
+.. index:: ! mystic arcanum
+   triple: warlock; mystic; arcanum
 
 At 11th level, your patron bestows upon you a magical secret called an
 arcanum. Choose one 6th- level spell from the warlock spell list as this
@@ -336,8 +402,13 @@ spell at 15th level, and one 9th-level spell at 17th level. You regain
 all uses of your Mystic Arcanum when you finish a long rest.
 
 
+.. _Eldritch Master:
+
 Eldritch Master
 ~~~~~~~~~~~~~~~
+
+.. index:: ! eldritch master
+   triple: warlock; eldritch; master
 
 At 20th level, you can draw on your inner reserve of mystical power
 while entreating your patron to regain expended spell slots. You can
@@ -347,27 +418,37 @@ slots with this feature, you must finish a long rest before you can do
 so again.
 
 
+.. _Eldritch Invocations:
+
 Eldritch Invocations
 ~~~~~~~~~~~~~~~~~~~~
+
+.. index:: ! eldritch invocations
+   triple: warlock; eldritch; invocation
 
 If an eldritch invocation has prerequisites, you must meet them to learn
 it. You can learn the invocation at the same time that you meet its
 prerequisites. A level prerequisite refers to your level in this class.
 
 
+.. _Agonizing Blast:
+
 Agonizing Blast
 ^^^^^^^^^^^^^^^
 
-*Prerequisite: Eldritch Blast cantrip*
+.. index:: ! agonizing blast
+   triple: warlock; agonizing; blast
 
-When you cast *eldritch blast*, add your Charisma modifier to the damage
+*Prerequisite: :ref:`Eldritch Blast` cantrip*
+
+When you cast :ref:`eldritch blast`, add your Charisma modifier to the damage
 it deals on a hit.
 
 
 Armor of Shadows
 ^^^^^^^^^^^^^^^^
 
-You can cast *mage armor* on yourself at will, without expending a spell
+You can cast :ref:`mage armor` on yourself at will, without expending a spell
 slot or material components.
 
 
@@ -376,14 +457,14 @@ Ascendant Step
 
 *Prerequisite: 9th level*
 
-You can cast *levitate* on yourself at will, without expending a spell
+You can cast :ref:`levitate` on yourself at will, without expending a spell
 slot or material components.
 
 
 Beast Speech
 ^^^^^^^^^^^^
 
-You can cast *speak with animals* at will, without expending a spell
+You can cast :ref:`speak with animals` at will, without expending a spell
 slot.
 
 
@@ -398,14 +479,14 @@ Bewitching Whispers
 
 *Prerequisite: 7th level*
 
-You can cast *compulsion* once using a warlock spell slot. You can't do
+You can cast :ref:`compulsion` once using a warlock spell slot. You can't do
 so again until you finish a long rest.
 
 
 Book of Ancient Secrets
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-*Prerequisite: Pact of the Tome feature*
+*Prerequisite: :ref:`Pact of the Tome` feature*
 
 You can now inscribe magical rituals in your Book of Shadows. Choose two
 1st-level spells that have the ritual tag from any class's spell list
@@ -427,7 +508,7 @@ gp for the rare inks needed to inscribe it.
 Chains of Carceri
 ^^^^^^^^^^^^^^^^^
 
-*Prerequisite: 15th level, Pact of the Chain feature*
+*Prerequisite: 15th level, :ref:`Pact of the Chain` feature*
 
 You can cast *hold monster* at will — targeting a celestial, fiend, or
 elemental — without expending a spell slot or material components. You
@@ -460,7 +541,7 @@ You can cast *detect magic* at will, without expending a spell slot.
 Eldritch Spear
 ^^^^^^^^^^^^^^
 
-*Prerequisite: Eldritch Blast cantrip*
+*Prerequisite: :ref:`Eldritch Blast` cantrip*
 
 When you cast *eldritch blast*, its range is 300 feet.
 
@@ -496,7 +577,7 @@ creature, and you are :ref:`blinded` and :ref:`deafened` to your own surrounding
 Lifedrinker
 ^^^^^^^^^^^
 
-*Prerequisite: 12th level, Pact of the Blade feature*
+*Prerequisite: 12th level, :ref:`Pact of the Blade` feature*
 
 When you hit a creature with your pact weapon, the creature takes extra
 necrotic damage equal to your Charisma modifier (minimum 1).
@@ -565,7 +646,7 @@ or material components.
 Repelling Blast
 ^^^^^^^^^^^^^^^
 
-*Prerequisite: Eldritch Blast cantrip*
+*Prerequisite: :ref:`Eldritch Blast` cantrip*
 
 When you hit a creature with *eldritch blast*, you can push the creature
 up to 10 feet away from you in a straight line.
@@ -599,7 +680,7 @@ again until you finish a long rest.
 Thirsting Blade
 ^^^^^^^^^^^^^^^
 
-*Prerequisite: 5th level, Pact of the Blade feature*
+*Prerequisite: 5th level, :ref:`Pact of the Blade` feature*
 
 You can attack with your pact weapon twice, instead of once, whenever
 you take the Attack action on your turn.
@@ -616,7 +697,7 @@ You can cast *arcane eye* at will, without expending a spell slot.
 Voice of the Chain Master
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-*Prerequisite: Pact of the Chain feature*
+*Prerequisite: :ref:`Pact of the Chain` feature*
 
 You can communicate telepathically with your familiar and perceive
 through your familiar's senses as long as you are on the same plane of
@@ -657,6 +738,8 @@ patrons bestow their power only grudgingly, and might make a pact with
 only one warlock. Warlocks who serve the same patron might view each
 other as allies, siblings, or rivals.
 
+
+.. _The Fiend:
 
 The Fiend
 ~~~~~~~~~

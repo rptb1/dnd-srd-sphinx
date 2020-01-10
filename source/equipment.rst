@@ -400,11 +400,15 @@ within 5 feet of you, whereas a **ranged weapon** is used to attack a
 target at a distance.
 
 
+.. _Weapon Proficiency:
+
 Weapon Proficiency
 ------------------
 
 .. index:: ! weapon proficiency
    double: weapon; proficiency
+   double: weapon; simple
+   double: weapon; martial
 
 Your race, class, and feats can grant you proficiency with certain
 weapons or categories of weapons. The two categories are **simple** and
@@ -749,6 +753,7 @@ benefit to undead or constructs.
 
 .. index:: ! arcane focus
    double: gear; arcane focus
+   single: spellcasting focus
 
 :bi:`Arcane Focus`. An arcane focus is a special item — an orb, a crystal,
 a rod, a specially constructed staff, a wand-like length of wood, or
@@ -829,6 +834,8 @@ away from that point without undoing the anchor.
 .. index:: ! component pouch
    double: gear; component pouch
 
+.. _component pouch:
+
 :bi:`Component Pouch`. A component pouch is a small, watertight leather
 belt pouch that has compartments to hold all the material components and
 other special items you need to cast your spells, except for those
@@ -843,6 +850,7 @@ the crowbar's leverage can be applied.
 
 .. index:: ! druidic focus
    double: gear; druidic focus
+   single: spellcasting focus
 
 :bi:`Druidic Focus`. A druidic focus might be a sprig of mistletoe or
 holly, a wand or scepter made of yew or another special wood, a staff
@@ -862,6 +870,7 @@ without needing to make a :ref:`Wisdom (Medicine) <medicine>` check.
 
 .. index:: ! holy symbol
    double: gear; holy symbol
+   single: spellcasting focus
 
 :bi:`Holy Symbol`. A holy symbol is a representation of a god or
 pantheon. It might be an amulet depicting a symbol representing a
