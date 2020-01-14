@@ -56,6 +56,9 @@ have a magic staff or wand, as well as one or more potions and scrolls.
 Giving an NPC a potent damage-dealing magic item could alter its
 challenge rating.
 
+
+.. _acolyte:
+
 Acolyte
 -------
 
@@ -98,6 +101,9 @@ Actions
 **Acolytes** are junior members of a clergy, usually answerable to a
 priest. They perform a variety of functions in a temple and are granted
 minor spellcasting power by their deities.
+
+
+.. _archmage:
 
 Archmage
 --------
@@ -177,6 +183,9 @@ An archmage typically has one or more apprentice mages, and an
 archmage's abode has numerous magical wards and guardians to discourage
 interlopers.
 
+
+.. _assassin:
+
 Assassin
 --------
 
@@ -240,6 +249,9 @@ Trained in the use of poison, **assassins** are remorseless killers who
 work for nobles, guildmasters, sovereigns, and anyone else who can
 afford them.
 
+
+.. _bandit:
+
 Bandit
 ------
 
@@ -279,6 +291,9 @@ famine can often drive otherwise honest folk to a life of banditry.
 **Pirates** are bandits of the high seas. They might be freebooters
 interested only in treasure and murder, or they might be privateers
 sanctioned by the crown to attack and plunder an enemy nation's vessels.
+
+
+.. _bandit captain:
 
 Bandit Captain
 --------------
@@ -341,6 +356,9 @@ prisoner who appeals to the captain's vanity or ego is more likely to be
 treated fairly than a prisoner who does not or claims not to know
 anything of the captain's colorful reputation.
 
+
+.. _berserker:
+
 Berserker
 ---------
 
@@ -377,6 +395,9 @@ target. *Hit:* 9 (1d12 + 3) slashing damage.
 Hailing from uncivilized lands, unpredictable **berserkers** come
 together in war parties and seek conflict wherever they can find it.
 
+
+.. _commoner:
+
 Commoner
 --------
 
@@ -408,6 +429,9 @@ Actions
 
 **Commoners** include peasants, serfs, slaves, servants, pilgrims,
 merchants, artisans, and hermits.
+
+
+.. _cultist:
 
 Cultist
 -------
@@ -448,6 +472,9 @@ demon lords, or archdevils. Most conceal their loyalties to avoid being
 ostracized, imprisoned, or executed for their beliefs. Unlike evil
 acolytes, cultists often show signs of insanity in their beliefs and
 practices.
+
+
+.. _cult fanatic:
 
 Cult Fanatic
 ------------
@@ -499,6 +526,9 @@ range 20/60 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage.
 and dogma to influence and prey on those of weak will. Most are
 interested in personal power above all else.
 
+
+.. _druid:
+
 Druid
 -----
 
@@ -548,6 +578,9 @@ where they protect the natural world from monsters and the encroachment
 of civilization. Some are **tribal shamans** who heal the sick, pray to
 animal spirits, and provide spiritual guidance.
 
+
+.. _gladiator:
+
 Gladiator
 ---------
 
@@ -591,8 +624,7 @@ attacks.
 range 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13
 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
 
-.. index::
-   single: prone; by  shield bash
+.. index:: prone; by  shield bash
 
 :bi:`Shield Bash`. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one
 creature. *Hit:* 9 (2d4 + 4) bludgeoning damage. If the target is a
@@ -610,6 +642,9 @@ wielding a melee weapon.
 gladiators are brutal pit fighters who treat each match as a
 life-or-death struggle, while others are professional duelists who
 command huge fees but rarely fight to the death.
+
+
+.. _guard:
 
 Guard
 -----
@@ -645,6 +680,9 @@ range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5
 
 **Guards** include members of a city watch, sentries in a citadel or
 fortified town, and the bodyguards of merchants and nobles.
+
+
+.. _knight:
 
 Knight
 ------
@@ -706,6 +744,9 @@ pledge is honored. Whether undertaking a quest or patrolling a realm, a
 knight often travels with an entourage that includes squires and
 hirelings who are commoners.
 
+
+.. _mage:
+
 Mage
 ----
 
@@ -760,6 +801,9 @@ Good-aligned mages offer counsel to nobles and others in power, while
 evil mages dwell in isolated sites to perform unspeakable experiments
 without interference.
 
+
+.. _noble:
+
 Noble
 -----
 
@@ -805,6 +849,9 @@ guards, as well as servants who are commoners.
 
 The noble's statistics can also be used to represent **courtiers** who
 aren't of noble birth.
+
+
+.. _priest:
 
 Priest
 ------
@@ -864,6 +911,9 @@ hidden in the shadows of good society, overseeing depraved rites.
 A priest typically has one or more acolytes to help with religious
 ceremonies and other sacred duties.
 
+
+.. _scout:
+
 Scout
 -----
 
@@ -907,6 +957,9 @@ one target. *Hit:* 6 (1d8 + 2) piercing damage.
 **Scouts** are skilled hunters and trackers who offer their services for
 a fee. Most hunt wild game, but a few work as bounty hunters, serve as
 guides, or provide military reconnaissance.
+
+
+.. _spy:
 
 Spy
 ---
@@ -960,6 +1013,9 @@ spy is trained to secretly gather information. Loyal spies would rather
 die than divulge information that could compromise them or their
 employers.
 
+
+.. _thug:
+
 Thug
 ----
 
@@ -1003,6 +1059,9 @@ ft., one target. *Hit:* 5 (1d10) piercing damage.
 **Thugs** are ruthless enforcers skilled at intimidation and violence.
 They work for money and have few scruples.
 
+
+.. _tribal warrior:
+
 Tribal Warrior
 --------------
 
@@ -1041,6 +1100,9 @@ range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5
 fishing and hunting. Each tribe acts in accordance with the wishes of
 its chief, who is the greatest or oldest warrior of the tribe or a tribe
 member blessed by the gods.
+
+
+.. _veteran:
 
 Veteran
 -------
