@@ -17,6 +17,8 @@ Elementals
    :class: bolditalic
 
 
+.. _Air Elemental:
+
 Air Elemental
 ~~~~~~~~~~~~~
 
@@ -73,6 +75,8 @@ Dexterity saving throw or take the same damage and be knocked :ref:`prone`.
 If the saving throw is successful, the target takes half the bludgeoning
 damage and isn't flung away or knocked :ref:`prone`.
 
+.. _Earth Elemental:
+
 Earth Elemental
 ~~~~~~~~~~~~~~~
 
@@ -121,6 +125,9 @@ Actions
 
 :bi:`Slam`. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target.
 *Hit:* 14 (2d8 + 5) bludgeoning damage.
+
+
+.. _Fire Elemental:
 
 Fire Elemental
 ~~~~~~~~~~~~~~
@@ -180,6 +187,9 @@ Actions
 flammable object, it ignites. Until a creature takes an action to douse
 the fire, the target takes 5 (1d10) fire damage at the start of each of
 its turns.
+
+
+.. _Water Elemental:
 
 Water Elemental
 ~~~~~~~~~~~~~~~
