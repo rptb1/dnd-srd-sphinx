@@ -16,7 +16,13 @@ designed for documenting software, something quite similar to the SRD,
 and is well suited to extending reference documents like this one, and
 for converting them in to a large number of useful formats.
 
+A second goal is to provide an on-line version that can be referenced
+by Intersphinx_, so that people making other content in Sphinx, such
+as modules and campaigns, can references the standard spells,
+monsters, etc.
+
 .. _Sphinx: https://www.sphinx-doc.org/
+.. _Intersphinx: https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html
 
 The plan is to create a custom domain extension for Sphinx so that
 things like classes, spells, creatures, etc. are easy to create and
