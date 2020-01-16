@@ -1,3 +1,7 @@
+.. _`Succubus/Incubus`:
+.. _succubus:
+.. _incubus:
+
 Succubus/Incubus
 ----------------
 

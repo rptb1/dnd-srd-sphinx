@@ -1,3 +1,5 @@
+.. _Pegasus:
+
 Pegasus
 -------
 

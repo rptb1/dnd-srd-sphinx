@@ -1,3 +1,5 @@
+.. _Oozes:
+
 Oozes
 -----
 
@@ -16,6 +18,8 @@ Oozes
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Black Pudding`:
 
 Black Pudding
 ~~~~~~~~~~~~~
@@ -81,6 +85,8 @@ lightning or slashing damage, it splits into two new puddings if it has
 at least 10 hit points. Each new pudding has hit points equal to half
 the original pudding's, rounded down. New puddings are one size smaller
 than the original pudding.
+
+.. _`Gelatinous Cube`:
 
 Gelatinous Cube
 ~~~~~~~~~~~~~~~
@@ -153,6 +159,8 @@ An engulfed creature can try to escape by taking an action to make a DC
 12 Strength check. On a success, the creature escapes and enters a space
 of its choice within 5 feet of the cube.
 
+.. _`Gray Ooze`:
+
 Gray Ooze
 ~~~~~~~~~
 
@@ -207,6 +215,8 @@ target. *Hit:* 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage,
 and if the target is wearing nonmagical metal armor, its armor is partly
 corroded and takes a permanent and cumulative -1 penalty to the AC it
 offers. The armor is destroyed if the penalty reduces its AC to 10.
+
+.. _`Ochre Jelly`:
 
 Ochre Jelly
 ~~~~~~~~~~~

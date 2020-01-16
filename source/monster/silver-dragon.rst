@@ -1,3 +1,5 @@
+.. _Silver Dragon:
+
 Silver Dragon
 -------------
 

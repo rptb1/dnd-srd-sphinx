@@ -1,3 +1,5 @@
+.. _Blue Dragon:
+
 Blue Dragon
 -----------
 
@@ -16,6 +18,8 @@ Blue Dragon
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Ancient Blue Dragon`:
 
 Ancient Blue Dragon
 ~~~~~~~~~~~~~~~~~~~
@@ -99,6 +103,8 @@ saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked
 :ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
+.. _`Adult Blue Dragon`:
+
 Adult Blue Dragon
 ~~~~~~~~~~~~~~~~~
 
@@ -181,6 +187,8 @@ saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked
 :ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
+.. _`Young Blue Dragon`:
+
 Young Blue Dragon
 ~~~~~~~~~~~~~~~~~
 
@@ -228,6 +236,8 @@ an 60-foot line that is 5 feet wide. Each creature in that line must
 make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage
 on a failed save, or half as much damage on a successful one.
 
+
+.. _`Blue Dragon Wyrmling`:
 
 Blue Dragon Wyrmling
 ~~~~~~~~~~~~~~~~~~~~

@@ -1,3 +1,5 @@
+.. _`Will-o'-Wisp`:
+
 Will-o'-Wisp
 ------------
 

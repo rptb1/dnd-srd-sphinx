@@ -1,3 +1,5 @@
+.. _Green Dragon:
+
 Green Dragon
 ------------
 
@@ -16,6 +18,8 @@ Green Dragon
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Adult Green Dragon`:
 
 Adult Green Dragon
 ~~~~~~~~~~~~~~~~~~
@@ -104,6 +108,8 @@ saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked
 :ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
+.. _`Young Green Dragon`:
+
 Young Green Dragon
 ~~~~~~~~~~~~~~~~~~
 
@@ -155,6 +161,8 @@ a 30-foot cone. Each creature in that area must make a DC 14
 Constitution saving throw, taking 42 (12d6) poison damage on a failed
 save, or half as much damage on a successful one.
 
+
+.. _`Green Dragon Wyrmling`:
 
 Green Dragon Wyrmling
 ~~~~~~~~~~~~~~~~~~~~~

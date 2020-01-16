@@ -1,3 +1,5 @@
+.. _Copper Dragon:
+
 Copper Dragon
 -------------
 
@@ -16,6 +18,8 @@ Copper Dragon
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Ancient Copper Dragon`:
 
 Ancient Copper Dragon
 ~~~~~~~~~~~~~~~~~~~~~
@@ -123,6 +127,8 @@ saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked
 :ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
+.. _`Adult Copper Dragon`:
+
 Adult Copper Dragon
 ~~~~~~~~~~~~~~~~~~~
 
@@ -217,6 +223,8 @@ saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked
 :ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
+.. _`Young Copper Dragon`:
+
 Young Copper Dragon
 ~~~~~~~~~~~~~~~~~~~
 
@@ -276,6 +284,8 @@ both. These effects last for 1 minute. The creature can repeat the
 saving throw at the end of each of its turns, ending the effect on
 itself with a successful save.
 
+
+.. _`Copper Dragon Wyrmling`:
 
 Copper Dragon Wyrmling
 ~~~~~~~~~~~~~~~~~~~~~~

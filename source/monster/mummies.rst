@@ -1,3 +1,5 @@
+.. _Mummies:
+
 Mummies
 -------
 
@@ -16,6 +18,8 @@ Mummies
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Mummy`:
 
 Mummy
 ~~~~~
@@ -79,6 +83,8 @@ or more, it is also :ref:`paralyzed` for the same duration. A target that
 succeeds on the saving throw is immune to the Dreadful Glare of all
 mummies (but not mummy lords) for the next 24 hours.
 
+
+.. _`Mummy Lord`:
 
 Mummy Lord
 ~~~~~~~~~~

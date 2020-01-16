@@ -1,4 +1,4 @@
-.. _ghoul:
+.. _ghouls:
 
 Ghouls
 ------
@@ -18,6 +18,8 @@ Ghouls
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Ghast`:
 
 Ghast
 ~~~~~
@@ -72,6 +74,8 @@ Actions
 than an undead, it must succeed on a DC 10 Constitution saving throw or
 be :ref:`paralyzed` for 1 minute. The target can repeat the saving throw at the
 end of each of its turns, ending the effect on itself on a success.
+
+.. _`Ghoul`:
 
 Ghoul
 ~~~~~

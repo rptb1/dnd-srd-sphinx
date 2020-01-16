@@ -1,3 +1,5 @@
+.. _`Half-Dragon Template`:
+
 Half-Dragon Template
 --------------------
 

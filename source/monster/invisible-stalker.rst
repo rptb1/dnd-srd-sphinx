@@ -1,3 +1,5 @@
+.. _Invisible Stalker:
+
 Invisible Stalker
 -----------------
 

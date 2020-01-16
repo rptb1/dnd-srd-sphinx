@@ -1,3 +1,5 @@
+.. _Genies:
+
 Genies
 ------
 
@@ -16,6 +18,8 @@ Genies
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Djinni`:
 
 Djinni
 ~~~~~~
@@ -83,6 +87,8 @@ A creature can use its action to free a creature :ref:`restrained` by the
 whirlwind, including itself, by succeeding on a DC 18 Strength check. If
 the check succeeds, the creature is no longer :ref:`restrained` and moves to
 the nearest space outside the whirlwind.
+
+.. _`Efreeti`:
 
 Efreeti
 ~~~~~~~

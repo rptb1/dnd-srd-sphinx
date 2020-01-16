@@ -1,3 +1,5 @@
+.. _Tarrasque:
+
 Tarrasque
 ---------
 

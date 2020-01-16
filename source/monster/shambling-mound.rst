@@ -1,3 +1,5 @@
+.. _Shambling Mound:
+
 Shambling Mound
 ---------------
 

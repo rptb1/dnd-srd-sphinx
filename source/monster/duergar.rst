@@ -1,3 +1,5 @@
+.. _Duergar:
+
 Duergar
 -------
 

@@ -1,3 +1,5 @@
+.. _Aboleth:
+
 Aboleth
 -------
 

@@ -1,3 +1,5 @@
+.. _Shield Guardian:
+
 Shield Guardian
 ---------------
 

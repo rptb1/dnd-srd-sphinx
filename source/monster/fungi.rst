@@ -1,3 +1,5 @@
+.. _Fungi:
+
 Fungi
 -----
 
@@ -16,6 +18,8 @@ Fungi
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Shrieker`:
 
 Shrieker
 ~~~~~~~~
@@ -53,6 +57,8 @@ Reactions
 shrieker, it emits a shriek audible within 300 feet of it. The shrieker
 continues to shriek until the disturbance moves out of range and for 1d4
 of the shrieker's turns afterward.
+
+.. _`Violet Fungus`:
 
 Violet Fungus
 ~~~~~~~~~~~~~

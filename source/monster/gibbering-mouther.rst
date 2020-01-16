@@ -1,3 +1,5 @@
+.. _Gibbering Mouther:
+
 Gibbering Mouther
 -----------------
 

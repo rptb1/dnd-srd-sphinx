@@ -1,3 +1,5 @@
+.. _Animated Objects:
+
 Animated Objects
 ----------------
 

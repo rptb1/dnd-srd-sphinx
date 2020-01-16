@@ -1,3 +1,5 @@
+.. _Brass Dragon:
+
 Brass Dragon
 ------------
 
@@ -16,6 +18,8 @@ Brass Dragon
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Ancient Brass Dragon`:
 
 Ancient Brass Dragon
 ~~~~~~~~~~~~~~~~~~~~
@@ -119,6 +123,8 @@ saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked
 :ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
+.. _`Adult Brass Dragon`:
+
 Adult Brass Dragon
 ~~~~~~~~~~~~~~~~~~
 
@@ -209,6 +215,8 @@ saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked
 :ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
+.. _`Young Brass Dragon`:
+
 Young Brass Dragon
 ~~~~~~~~~~~~~~~~~~
 
@@ -264,6 +272,8 @@ creature in that area must succeed on a DC 14 Constitution saving throw
 or fall :ref:`unconscious` for 5 minutes. This effect ends for a creature if
 the creature takes damage or someone uses an action to wake it.
 
+
+.. _`Brass Dragon Wyrmling`:
 
 Brass Dragon Wyrmling
 ~~~~~~~~~~~~~~~~~~~~~

@@ -1,3 +1,5 @@
+.. _Sphinxes:
+
 Sphinxes
 --------
 
@@ -16,6 +18,8 @@ Sphinxes
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Androsphinx`:
 
 Androsphinx
 ~~~~~~~~~~~
@@ -129,6 +133,8 @@ unoccupied space it can see.
 
 **Cast a Spell (Costs 3 Actions)**. The sphinx casts a spell from its
 list of prepared spells, using a spell slot as normal.
+
+.. _`Gynosphinx`:
 
 Gynosphinx
 ~~~~~~~~~~

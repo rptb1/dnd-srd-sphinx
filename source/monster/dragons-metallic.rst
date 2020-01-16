@@ -1,3 +1,5 @@
+.. _`Dragons, Metallic`:
+
 Dragons, Metallic
 -----------------
 

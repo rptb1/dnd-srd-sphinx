@@ -1,3 +1,5 @@
+.. _Rust Monster:
+
 Rust Monster
 ------------
 

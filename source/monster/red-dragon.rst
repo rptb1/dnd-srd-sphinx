@@ -1,3 +1,5 @@
+.. _Red Dragon:
+
 Red Dragon
 ----------
 
@@ -16,6 +18,8 @@ Red Dragon
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Ancient Red Dragon`:
 
 Ancient Red Dragon
 ~~~~~~~~~~~~~~~~~~
@@ -99,6 +103,8 @@ saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked
 :ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
+.. _`Adult Red Dragon`:
+
 Adult Red Dragon
 ~~~~~~~~~~~~~~~~
 
@@ -181,6 +187,8 @@ saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked
 :ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
+.. _`Young Red Dragon`:
+
 Young Red Dragon
 ~~~~~~~~~~~~~~~~
 
@@ -228,6 +236,8 @@ cone. Each creature in that area must make a DC 17 Dexterity saving
 throw, taking 56 (16d6) fire damage on a failed save, or half as much
 damage on a successful one.
 
+
+.. _`Red Dragon Wyrmling`:
 
 Red Dragon Wyrmling
 ~~~~~~~~~~~~~~~~~~~

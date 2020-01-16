@@ -1,3 +1,5 @@
+.. _Giants:
+
 Giants
 ------
 
@@ -16,6 +18,8 @@ Giants
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Cloud Giant`:
 
 Cloud Giant
 ~~~~~~~~~~~
@@ -69,6 +73,8 @@ target. *Hit:* 21 (3d8 + 8) piercing damage.
 :bi:`Rock`. *Ranged Weapon Attack:* +12 to hit, range 60/240 ft., one
 target. *Hit:* 30 (4d10 + 8) bludgeoning damage.
 
+.. _`Fire Giant`:
+
 Fire Giant
 ~~~~~~~~~~
 
@@ -109,6 +115,8 @@ target. *Hit:* 28 (6d6 + 7) slashing damage.
 
 :bi:`Rock`. *Ranged Weapon Attack:* +11 to hit, range 60/240 ft., one
 target. *Hit:* 29 (4d10 + 7) bludgeoning damage.
+
+.. _`Frost Giant`:
 
 Frost Giant
 ~~~~~~~~~~~
@@ -151,6 +159,8 @@ target. *Hit:* 25 (3d12 + 6) slashing damage.
 :bi:`Rock`. *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one
 target. *Hit:* 28 (4d10 + 6) bludgeoning damage.
 
+.. _`Hill Giant`:
+
 Hill Giant
 ~~~~~~~~~~
 
@@ -187,6 +197,8 @@ target. *Hit:* 18 (3d8 + 5) bludgeoning damage.
 
 :bi:`Rock`. *Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one
 target. *Hit:* 21 (3d10 + 5) bludgeoning damage.
+
+.. _`Stone Giant`:
 
 Stone Giant
 ~~~~~~~~~~~
@@ -238,6 +250,8 @@ Reactions
 :bi:`Rock Catching`. If a rock or similar object is hurled at the giant,
 the giant can, with a successful DC 10 Dexterity saving throw, catch the
 missile and take no bludgeoning damage from it.
+
+.. _`Storm Giant`:
 
 Storm Giant
 ~~~~~~~~~~~

@@ -1,3 +1,5 @@
+.. _Purple Worm:
+
 Purple Worm
 -----------
 

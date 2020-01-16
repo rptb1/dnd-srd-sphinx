@@ -1,3 +1,5 @@
+.. _Mephits:
+
 Mephits
 -------
 
@@ -16,6 +18,8 @@ Mephits
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Dust Mephit`:
 
 Dust Mephit
 ~~~~~~~~~~~
@@ -75,6 +79,8 @@ Dexterity saving throw or be :ref:`blinded` for 1 minute. A creature can repeat
 the saving throw at the end of each of its turns, ending the effect on
 itself on a success.
 
+.. _`Ice Mephit`:
+
 Ice Mephit
 ~~~~~~~~~~
 
@@ -130,6 +136,8 @@ cold air. Each creature in that area must succeed on a DC 10 Dexterity
 saving throw, taking 5 (2d4) cold damage on a failed save, or half as
 much damage on a successful one.
 
+.. _`Magma Mephit`:
+
 Magma Mephit
 ~~~~~~~~~~~~
 
@@ -184,6 +192,8 @@ Actions
 fire. Each creature in that area must make a DC 11 Dexterity saving
 throw, taking 7 (2d6) fire damage on a failed save, or half as much
 damage on a successful one.
+
+.. _`Steam Mephit`:
 
 Steam Mephit
 ~~~~~~~~~~~~

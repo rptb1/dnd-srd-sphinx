@@ -1,3 +1,5 @@
+.. _Hags:
+
 Hags
 ----
 
@@ -16,6 +18,8 @@ Hags
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Green Hag`:
 
 Green Hag
 ~~~~~~~~~
@@ -80,6 +84,8 @@ attacks or casts a spell, or until her concentration ends (as if
 concentrating on a spell). While :ref:`invisible`, she leaves no physical
 evidence of her passage, so she can be tracked only by magic. Any
 equipment she wears or carries is :ref:`invisible` with her.
+
+.. _`Night Hag`:
 
 Night Hag
 ~~~~~~~~~
@@ -149,6 +155,8 @@ maximum to 0, the target dies, and if the target was evil, its soul is
 trapped in the hag's *soul bag*. The reduction to the target's hit point
 maximum lasts until removed by the :ref:`greater restoration` spell or
 similar magic.
+
+.. _`Sea Hag`:
 
 Sea Hag
 ~~~~~~~

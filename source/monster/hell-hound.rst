@@ -1,3 +1,5 @@
+.. _Hell Hound:
+
 Hell Hound
 ----------
 

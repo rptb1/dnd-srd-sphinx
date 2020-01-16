@@ -1,3 +1,5 @@
+.. _Skeletons:
+
 Skeletons
 ---------
 
@@ -16,6 +18,8 @@ Skeletons
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Skeleton`:
 
 Skeleton
 ~~~~~~~~
@@ -55,6 +59,8 @@ target. *Hit:* 5 (1d6 + 2) piercing damage.
 
 :bi:`Shortbow`. *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one
 target. *Hit:* 5 (1d6 + 2) piercing damage.
+
+.. _`Minotaur Skeleton`:
 
 Minotaur Skeleton
 ~~~~~~~~~~~~~~~~~
@@ -100,6 +106,8 @@ target. *Hit:* 17 (2d12 + 4) slashing damage.
 
 :bi:`Gore`. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target.
 *Hit:* 13 (2d8 + 4) piercing damage.
+
+.. _`Warhorse Skeleton`:
 
 Warhorse Skeleton
 ~~~~~~~~~~~~~~~~~

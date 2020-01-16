@@ -1,3 +1,7 @@
+.. _`Gnome, Deep (Svirfneblin)`:
+.. _deep gnome:
+.. _svirfneblin:
+
 Gnome, Deep (Svirfneblin)
 -------------------------
 

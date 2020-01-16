@@ -1,3 +1,5 @@
+.. _Gold Dragon:
+
 Gold Dragon
 -----------
 

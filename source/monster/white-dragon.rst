@@ -1,3 +1,5 @@
+.. _White Dragon:
+
 White Dragon
 ------------
 

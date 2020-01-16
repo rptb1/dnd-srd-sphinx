@@ -1,3 +1,5 @@
+.. _Lycanthropes:
+
 Lycanthropes
 ------------
 
@@ -16,6 +18,8 @@ Lycanthropes
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Werebear`:
 
 Werebear
 ~~~~~~~~
@@ -73,6 +77,8 @@ reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
 
 :bi:`Greataxe (Humanoid or Hybrid Form Only)`. *Melee Weapon Attack:* +7
 to hit, reach 5 ft., one target. *Hit:* 10 (1d12 + 4) slashing damage.
+
+.. _`Wereboar`:
 
 Wereboar
 ~~~~~~~~
@@ -134,6 +140,8 @@ hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage. If
 the target is a humanoid, it must succeed on a DC 12 Constitution saving
 throw or be cursed with wereboar lycanthropy.
 
+.. _`Wererat`:
+
 Wererat
 ~~~~~~~
 
@@ -189,6 +197,8 @@ throw or be cursed with wererat lycanthropy.
 :bi:`Hand Crossbow (Humanoid or Hybrid Form Only)`. *Ranged Weapon
 Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6 + 2)
 piercing damage.
+
+.. _`Weretiger`:
 
 Weretiger
 ~~~~~~~~~
@@ -255,6 +265,8 @@ to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 :bi:`Longbow (Humanoid or Hybrid Form Only)`. *Ranged Weapon Attack:* +4
 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing
 damage.
+
+.. _`Werewolf`:
 
 Werewolf
 ~~~~~~~~

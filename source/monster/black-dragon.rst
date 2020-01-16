@@ -1,3 +1,5 @@
+.. _Black Dragon:
+
 Black Dragon
 ------------
 
@@ -16,6 +18,8 @@ Black Dragon
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Ancient Black Dragon`:
 
 Ancient Black Dragon
 ~~~~~~~~~~~~~~~~~~~~
@@ -101,6 +105,8 @@ saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked
 :ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
+.. _`Adult Black Dragon`:
+
 Adult Black Dragon
 ~~~~~~~~~~~~~~~~~~
 
@@ -185,6 +191,8 @@ saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked
 :ref:`prone`. The dragon can then fly up to half its flying speed.
 
 
+.. _`Young Black Dragon`:
+
 Young Black Dragon
 ~~~~~~~~~~~~~~~~~~
 
@@ -234,6 +242,8 @@ line that is 5 feet wide. Each creature in that line must make a DC 14
 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save,
 or half as much damage on a successful one.
 
+
+.. _`Black Dragon Wyrmling`:
 
 Black Dragon Wyrmling
 ~~~~~~~~~~~~~~~~~~~~~

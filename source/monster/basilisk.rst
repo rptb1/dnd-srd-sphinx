@@ -1,3 +1,5 @@
+.. _Basilisk:
+
 Basilisk
 --------
 

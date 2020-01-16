@@ -1,3 +1,5 @@
+.. _`Dragons, Chromatic`:
+
 Dragons, Chromatic
 ------------------
 

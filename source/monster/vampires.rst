@@ -1,3 +1,5 @@
+.. _Vampires:
+
 Vampires
 --------
 
@@ -16,6 +18,8 @@ Vampires
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Vampire`:
 
 Vampire
 ~~~~~~~
@@ -167,6 +171,8 @@ opportunity attacks.
 **Unarmed Strike**. The vampire makes one unarmed strike.
 
 **Bite (Costs 2 Actions)**. The vampire makes one bite attack.
+
+.. _`Vampire Spawn`:
 
 Vampire Spawn
 ~~~~~~~~~~~~~

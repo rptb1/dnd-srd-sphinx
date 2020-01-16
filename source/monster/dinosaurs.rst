@@ -1,3 +1,5 @@
+.. _Dinosaurs:
+
 Dinosaurs
 ---------
 
@@ -16,6 +18,8 @@ Dinosaurs
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Plesiosaurus`:
 
 Plesiosaurus
 ~~~~~~~~~~~~
@@ -50,6 +54,8 @@ Actions
 
 :bi:`Bite`. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target.
 *Hit:* 14 (3d6 + 4) piercing damage.
+
+.. _`Triceratops`:
 
 Triceratops
 ~~~~~~~~~~~
@@ -91,6 +97,8 @@ Actions
 
 :bi:`Stomp`. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one :ref:`prone`
 creature. *Hit:* 22 (3d10 + 6) bludgeoning damage.
+
+.. _`Tyrannosaurus Rex`:
 
 Tyrannosaurus Rex
 ~~~~~~~~~~~~~~~~~

@@ -1,3 +1,5 @@
+.. _Golems:
+
 Golems
 ------
 
@@ -16,6 +18,8 @@ Golems
 .. role:: bi
    :class: bolditalic
 
+
+.. _`Clay Golem`:
 
 Clay Golem
 ~~~~~~~~~~
@@ -82,6 +86,8 @@ until removed by the :ref:`greater restoration` spell or other magic.
 :bi:`Haste (Recharge 5-6)`. Until the end of its next turn, the golem
 magically gains a +2 bonus to its AC, has advantage on Dexterity saving
 throws, and can use its slam attack as a bonus action.
+
+.. _`Flesh Golem`:
 
 Flesh Golem
 ~~~~~~~~~~~
@@ -152,6 +158,8 @@ Actions
 :bi:`Slam`. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.
 *Hit:* 13 (2d8 + 4) bludgeoning damage.
 
+.. _`Iron Golem`:
+
 Iron Golem
 ~~~~~~~~~~
 
@@ -209,6 +217,8 @@ target. *Hit:* 23 (3d10 + 7) slashing damage.
 15-foot cone. Each creature in that area must make a DC 19 Constitution
 saving throw, taking 45 (10d8) poison damage on a failed save, or half
 as much damage on a successful one.
+
+.. _`Stone Golem`:
 
 Stone Golem
 ~~~~~~~~~~~
